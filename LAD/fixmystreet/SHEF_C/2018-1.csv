@@ -1,0 +1,1788 @@
+period,LAD,SHEF_C,report_count,user_count,average
+2018-1,E06000001,Environmental Health,14,8,1.75
+2018-1,E06000001,Public Space,1,1,1.0
+2018-1,E06000001,Road Safety & Defects,18,10,1.8
+2018-1,E06000002,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000002,Environmental Health,1,1,1.0
+2018-1,E06000002,Other,3,3,1.0
+2018-1,E06000002,Public Space,1,1,1.0
+2018-1,E06000002,Road Safety & Defects,20,6,3.3333333333333335
+2018-1,E06000002,Vehicles,1,1,1.0
+2018-1,E06000003,Environmental Health,2,2,1.0
+2018-1,E06000003,Other,1,1,1.0
+2018-1,E06000003,Road Safety & Defects,8,8,1.0
+2018-1,E06000004,Abandoned Vehicles & Parking,4,4,1.0
+2018-1,E06000004,Environmental Disruptions,1,1,1.0
+2018-1,E06000004,Environmental Health,14,12,1.1666666666666667
+2018-1,E06000004,Other,3,3,1.0
+2018-1,E06000004,Public Space,1,1,1.0
+2018-1,E06000004,Road Safety & Defects,39,32,1.21875
+2018-1,E06000004,Vehicles,3,2,1.5
+2018-1,E06000005,Environmental Health,9,4,2.25
+2018-1,E06000005,Other,1,1,1.0
+2018-1,E06000005,Road Safety & Defects,8,2,4.0
+2018-1,E06000006,Environmental Disruptions,1,1,1.0
+2018-1,E06000006,Environmental Health,6,5,1.2
+2018-1,E06000006,Other,4,4,1.0
+2018-1,E06000006,Public Space,1,1,1.0
+2018-1,E06000006,Road Safety & Defects,11,8,1.375
+2018-1,E06000006,Vehicles,2,2,1.0
+2018-1,E06000007,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000007,Environmental Health,4,3,1.3333333333333333
+2018-1,E06000007,Other,2,2,1.0
+2018-1,E06000007,Public Space,1,1,1.0
+2018-1,E06000007,Road Safety & Defects,32,30,1.0666666666666667
+2018-1,E06000008,Environmental Disruptions,2,2,1.0
+2018-1,E06000008,Environmental Health,7,7,1.0
+2018-1,E06000008,Other,1,1,1.0
+2018-1,E06000008,Road Safety & Defects,32,24,1.3333333333333333
+2018-1,E06000008,Vehicles,1,1,1.0
+2018-1,E06000009,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000009,Environmental Disruptions,2,2,1.0
+2018-1,E06000009,Environmental Health,4,4,1.0
+2018-1,E06000009,Other,1,1,1.0
+2018-1,E06000009,Road Safety & Defects,18,15,1.2
+2018-1,E06000009,Vehicles,2,2,1.0
+2018-1,E06000010,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E06000010,Environmental Disruptions,4,3,1.3333333333333333
+2018-1,E06000010,Environmental Health,32,11,2.909090909090909
+2018-1,E06000010,Incivilities,10,2,5.0
+2018-1,E06000010,Other,80,2,40.0
+2018-1,E06000010,Road Safety & Defects,111,19,5.842105263157895
+2018-1,E06000010,Vehicles,1,1,1.0
+2018-1,E06000011,Other,1,1,1.0
+2018-1,E06000011,Road Safety & Defects,8,5,1.6
+2018-1,E06000012,,1,1,1.0
+2018-1,E06000012,Environmental Health,3,3,1.0
+2018-1,E06000012,Other,1,1,1.0
+2018-1,E06000012,Road Safety & Defects,5,4,1.25
+2018-1,E06000013,Environmental Health,7,6,1.1666666666666667
+2018-1,E06000013,Incivilities,2,1,2.0
+2018-1,E06000013,Other,18,2,9.0
+2018-1,E06000013,Road Safety & Defects,27,18,1.5
+2018-1,E06000013,Vehicles,1,1,1.0
+2018-1,E06000014,Environmental Health,1,1,1.0
+2018-1,E06000014,Public Space,1,1,1.0
+2018-1,E06000014,Road Safety & Defects,16,14,1.1428571428571428
+2018-1,E06000015,Environmental Health,7,7,1.0
+2018-1,E06000015,Incivilities,2,1,2.0
+2018-1,E06000015,Other,3,3,1.0
+2018-1,E06000015,Road Safety & Defects,21,12,1.75
+2018-1,E06000015,Vehicles,1,1,1.0
+2018-1,E06000016,Abandoned Vehicles & Parking,8,5,1.6
+2018-1,E06000016,Environmental Disruptions,1,1,1.0
+2018-1,E06000016,Environmental Health,10,7,1.4285714285714286
+2018-1,E06000016,Incivilities,3,1,3.0
+2018-1,E06000016,Road Safety & Defects,24,11,2.1818181818181817
+2018-1,E06000016,Vehicles,2,2,1.0
+2018-1,E06000017,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000017,Environmental Disruptions,1,1,1.0
+2018-1,E06000017,Environmental Health,2,1,2.0
+2018-1,E06000017,Road Safety & Defects,6,5,1.2
+2018-1,E06000017,Vehicles,2,2,1.0
+2018-1,E06000018,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E06000018,Access,1,1,1.0
+2018-1,E06000018,Environmental Health,7,4,1.75
+2018-1,E06000018,Incivilities,1,1,1.0
+2018-1,E06000018,Other,2,2,1.0
+2018-1,E06000018,Public Space,1,1,1.0
+2018-1,E06000018,Road Safety & Defects,11,11,1.0
+2018-1,E06000019,Access,2,1,2.0
+2018-1,E06000019,Environmental Health,2,1,2.0
+2018-1,E06000019,Other,1,1,1.0
+2018-1,E06000019,Road Safety & Defects,93,48,1.9375
+2018-1,E06000019,Vehicles,1,1,1.0
+2018-1,E06000020,Environmental Health,1,1,1.0
+2018-1,E06000020,Other,1,1,1.0
+2018-1,E06000020,Road Safety & Defects,23,9,2.5555555555555554
+2018-1,E06000021,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E06000021,Environmental Disruptions,1,1,1.0
+2018-1,E06000021,Environmental Health,14,9,1.5555555555555556
+2018-1,E06000021,Other,6,6,1.0
+2018-1,E06000021,Public Space,1,1,1.0
+2018-1,E06000021,Road Safety & Defects,51,33,1.5454545454545454
+2018-1,E06000021,Vehicles,3,3,1.0
+2018-1,E06000022,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000022,Environmental Disruptions,1,1,1.0
+2018-1,E06000022,Environmental Health,11,9,1.2222222222222223
+2018-1,E06000022,Other,3,3,1.0
+2018-1,E06000022,Road Safety & Defects,51,26,1.9615384615384615
+2018-1,E06000022,Vehicles,3,3,1.0
+2018-1,E06000023,Abandoned Vehicles & Parking,17,15,1.1333333333333333
+2018-1,E06000023,Access,10,9,1.1111111111111112
+2018-1,E06000023,Environmental Disruptions,19,16,1.1875
+2018-1,E06000023,Environmental Health,77,49,1.5714285714285714
+2018-1,E06000023,Incivilities,2,2,1.0
+2018-1,E06000023,Other,15,13,1.1538461538461537
+2018-1,E06000023,Public Space,1,1,1.0
+2018-1,E06000023,Road Safety & Defects,78,50,1.56
+2018-1,E06000023,Vehicles,12,10,1.2
+2018-1,E06000024,Environmental Health,17,10,1.7
+2018-1,E06000024,Other,1,1,1.0
+2018-1,E06000024,Public Space,1,1,1.0
+2018-1,E06000024,Road Safety & Defects,30,18,1.6666666666666667
+2018-1,E06000025,Abandoned Vehicles & Parking,4,4,1.0
+2018-1,E06000025,Access,1,1,1.0
+2018-1,E06000025,Environmental Disruptions,3,3,1.0
+2018-1,E06000025,Environmental Health,18,13,1.3846153846153846
+2018-1,E06000025,Incivilities,2,1,2.0
+2018-1,E06000025,Other,5,5,1.0
+2018-1,E06000025,Road Safety & Defects,79,55,1.4363636363636363
+2018-1,E06000025,Vehicles,2,2,1.0
+2018-1,E06000026,Abandoned Vehicles & Parking,4,3,1.3333333333333333
+2018-1,E06000026,Environmental Disruptions,1,1,1.0
+2018-1,E06000026,Environmental Health,6,6,1.0
+2018-1,E06000026,Other,3,3,1.0
+2018-1,E06000026,Road Safety & Defects,20,16,1.25
+2018-1,E06000026,Vehicles,4,3,1.3333333333333333
+2018-1,E06000027,Incivilities,1,1,1.0
+2018-1,E06000027,Road Safety & Defects,8,8,1.0
+2018-1,E06000028,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E06000028,Environmental Disruptions,1,1,1.0
+2018-1,E06000028,Environmental Health,3,3,1.0
+2018-1,E06000028,Other,3,3,1.0
+2018-1,E06000028,Road Safety & Defects,5,5,1.0
+2018-1,E06000029,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E06000029,Environmental Health,1,1,1.0
+2018-1,E06000029,Road Safety & Defects,2,2,1.0
+2018-1,E06000029,Vehicles,1,1,1.0
+2018-1,E06000030,Abandoned Vehicles & Parking,7,5,1.4
+2018-1,E06000030,Environmental Disruptions,4,4,1.0
+2018-1,E06000030,Environmental Health,4,4,1.0
+2018-1,E06000030,Incivilities,1,1,1.0
+2018-1,E06000030,Other,2,2,1.0
+2018-1,E06000030,Road Safety & Defects,33,27,1.2222222222222223
+2018-1,E06000031,Abandoned Vehicles & Parking,7,5,1.4
+2018-1,E06000031,Environmental Disruptions,1,1,1.0
+2018-1,E06000031,Environmental Health,23,14,1.6428571428571428
+2018-1,E06000031,Incivilities,2,1,2.0
+2018-1,E06000031,Other,3,2,1.5
+2018-1,E06000031,Public Space,4,3,1.3333333333333333
+2018-1,E06000031,Road Safety & Defects,99,27,3.6666666666666665
+2018-1,E06000031,Vehicles,9,7,1.2857142857142858
+2018-1,E06000032,Abandoned Vehicles & Parking,4,4,1.0
+2018-1,E06000032,Environmental Disruptions,3,3,1.0
+2018-1,E06000032,Environmental Health,47,22,2.1363636363636362
+2018-1,E06000032,Incivilities,3,3,1.0
+2018-1,E06000032,Other,6,6,1.0
+2018-1,E06000032,Public Space,2,2,1.0
+2018-1,E06000032,Road Safety & Defects,30,20,1.5
+2018-1,E06000032,Vehicles,9,9,1.0
+2018-1,E06000033,Abandoned Vehicles & Parking,4,3,1.3333333333333333
+2018-1,E06000033,Environmental Disruptions,1,1,1.0
+2018-1,E06000033,Environmental Health,4,3,1.3333333333333333
+2018-1,E06000033,Incivilities,2,1,2.0
+2018-1,E06000033,Other,39,11,3.5454545454545454
+2018-1,E06000034,Abandoned Vehicles & Parking,5,5,1.0
+2018-1,E06000034,Environmental Disruptions,1,1,1.0
+2018-1,E06000034,Environmental Health,2,2,1.0
+2018-1,E06000034,Public Space,1,1,1.0
+2018-1,E06000034,Road Safety & Defects,7,5,1.4
+2018-1,E06000034,Vehicles,2,2,1.0
+2018-1,E06000035,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000035,Access,1,1,1.0
+2018-1,E06000035,Environmental Disruptions,1,1,1.0
+2018-1,E06000035,Environmental Health,16,12,1.3333333333333333
+2018-1,E06000035,Other,6,6,1.0
+2018-1,E06000035,Road Safety & Defects,11,11,1.0
+2018-1,E06000035,Vehicles,2,2,1.0
+2018-1,E06000036,Abandoned Vehicles & Parking,5,3,1.6666666666666667
+2018-1,E06000036,Environmental Disruptions,1,1,1.0
+2018-1,E06000036,Environmental Health,6,4,1.5
+2018-1,E06000036,Incivilities,1,1,1.0
+2018-1,E06000036,Other,3,3,1.0
+2018-1,E06000036,Public Space,1,1,1.0
+2018-1,E06000036,Road Safety & Defects,17,12,1.4166666666666667
+2018-1,E06000036,Vehicles,1,1,1.0
+2018-1,E06000037,Access,19,14,1.3571428571428572
+2018-1,E06000037,Environmental Disruptions,2,2,1.0
+2018-1,E06000037,Environmental Health,12,12,1.0
+2018-1,E06000037,Road Safety & Defects,60,25,2.4
+2018-1,E06000038,Abandoned Vehicles & Parking,6,6,1.0
+2018-1,E06000038,Environmental Health,16,14,1.1428571428571428
+2018-1,E06000038,Incivilities,5,4,1.25
+2018-1,E06000038,Other,3,3,1.0
+2018-1,E06000038,Public Space,3,3,1.0
+2018-1,E06000038,Road Safety & Defects,71,44,1.6136363636363635
+2018-1,E06000038,Vehicles,2,2,1.0
+2018-1,E06000039,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E06000039,Environmental Disruptions,1,1,1.0
+2018-1,E06000039,Environmental Health,9,6,1.5
+2018-1,E06000039,Incivilities,1,1,1.0
+2018-1,E06000039,Road Safety & Defects,13,10,1.3
+2018-1,E06000039,Vehicles,3,2,1.5
+2018-1,E06000040,Abandoned Vehicles & Parking,8,6,1.3333333333333333
+2018-1,E06000040,Environmental Disruptions,2,2,1.0
+2018-1,E06000040,Environmental Health,3,3,1.0
+2018-1,E06000040,Other,4,4,1.0
+2018-1,E06000040,Road Safety & Defects,41,31,1.3225806451612903
+2018-1,E06000040,Vehicles,1,1,1.0
+2018-1,E06000041,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000041,Environmental Disruptions,6,6,1.0
+2018-1,E06000041,Environmental Health,16,12,1.3333333333333333
+2018-1,E06000041,Incivilities,2,2,1.0
+2018-1,E06000041,Other,4,4,1.0
+2018-1,E06000041,Public Space,3,3,1.0
+2018-1,E06000041,Road Safety & Defects,49,32,1.53125
+2018-1,E06000041,Vehicles,3,3,1.0
+2018-1,E06000042,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000042,Environmental Disruptions,1,1,1.0
+2018-1,E06000042,Road Safety & Defects,7,6,1.1666666666666667
+2018-1,E06000043,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E06000043,Environmental Health,9,7,1.2857142857142858
+2018-1,E06000043,Incivilities,1,1,1.0
+2018-1,E06000043,Other,8,5,1.6
+2018-1,E06000043,Road Safety & Defects,20,18,1.1111111111111112
+2018-1,E06000043,Vehicles,1,1,1.0
+2018-1,E06000044,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E06000044,Environmental Disruptions,1,1,1.0
+2018-1,E06000044,Environmental Health,1,1,1.0
+2018-1,E06000044,Other,1,1,1.0
+2018-1,E06000044,Public Space,1,1,1.0
+2018-1,E06000044,Road Safety & Defects,3,3,1.0
+2018-1,E06000044,Vehicles,1,1,1.0
+2018-1,E06000045,Abandoned Vehicles & Parking,15,12,1.25
+2018-1,E06000045,Access,1,1,1.0
+2018-1,E06000045,Environmental Disruptions,8,8,1.0
+2018-1,E06000045,Environmental Health,40,17,2.3529411764705883
+2018-1,E06000045,Incivilities,3,3,1.0
+2018-1,E06000045,Other,19,10,1.9
+2018-1,E06000045,Road Safety & Defects,53,38,1.394736842105263
+2018-1,E06000046,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000046,Environmental Disruptions,1,1,1.0
+2018-1,E06000046,Environmental Health,2,2,1.0
+2018-1,E06000046,Incivilities,1,1,1.0
+2018-1,E06000046,Other,1,1,1.0
+2018-1,E06000046,Road Safety & Defects,5,3,1.6666666666666667
+2018-1,E06000047,Environmental Health,6,5,1.2
+2018-1,E06000047,Other,8,4,2.0
+2018-1,E06000047,Road Safety & Defects,13,9,1.4444444444444444
+2018-1,E06000047,Vehicles,1,1,1.0
+2018-1,E06000049,Abandoned Vehicles & Parking,6,4,1.5
+2018-1,E06000049,Environmental Disruptions,10,7,1.4285714285714286
+2018-1,E06000049,Environmental Health,20,13,1.5384615384615385
+2018-1,E06000049,Other,8,8,1.0
+2018-1,E06000049,Road Safety & Defects,265,110,2.409090909090909
+2018-1,E06000049,Vehicles,1,1,1.0
+2018-1,E06000050,Abandoned Vehicles & Parking,10,4,2.5
+2018-1,E06000050,Environmental Disruptions,1,1,1.0
+2018-1,E06000050,Environmental Health,15,9,1.6666666666666667
+2018-1,E06000050,Other,6,5,1.2
+2018-1,E06000050,Public Space,1,1,1.0
+2018-1,E06000050,Road Safety & Defects,127,54,2.3518518518518516
+2018-1,E06000050,Vehicles,3,3,1.0
+2018-1,E06000051,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000051,Access,1,1,1.0
+2018-1,E06000051,Environmental Health,22,4,5.5
+2018-1,E06000051,Other,2,2,1.0
+2018-1,E06000051,Road Safety & Defects,99,65,1.523076923076923
+2018-1,E06000052,Abandoned Vehicles & Parking,7,7,1.0
+2018-1,E06000052,Environmental Disruptions,6,6,1.0
+2018-1,E06000052,Environmental Health,21,12,1.75
+2018-1,E06000052,Incivilities,3,2,1.5
+2018-1,E06000052,Other,14,10,1.4
+2018-1,E06000052,Road Safety & Defects,130,70,1.8571428571428572
+2018-1,E06000052,Vehicles,3,2,1.5
+2018-1,E06000054,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000054,Environmental Health,1,1,1.0
+2018-1,E06000054,Road Safety & Defects,13,10,1.3
+2018-1,E06000055,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E06000055,Environmental Disruptions,1,1,1.0
+2018-1,E06000055,Environmental Health,17,9,1.8888888888888888
+2018-1,E06000055,Other,4,3,1.3333333333333333
+2018-1,E06000055,Road Safety & Defects,32,18,1.7777777777777777
+2018-1,E06000055,Vehicles,3,3,1.0
+2018-1,E06000056,Environmental Disruptions,1,1,1.0
+2018-1,E06000056,Environmental Health,4,4,1.0
+2018-1,E06000056,Incivilities,1,1,1.0
+2018-1,E06000056,Road Safety & Defects,16,16,1.0
+2018-1,E06000056,Vehicles,7,7,1.0
+2018-1,E06000057,Environmental Health,7,7,1.0
+2018-1,E06000057,Other,3,3,1.0
+2018-1,E06000057,Road Safety & Defects,36,23,1.565217391304348
+2018-1,E07000004,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000004,Environmental Disruptions,2,2,1.0
+2018-1,E07000004,Environmental Health,5,5,1.0
+2018-1,E07000004,Other,3,3,1.0
+2018-1,E07000004,Road Safety & Defects,131,82,1.5975609756097562
+2018-1,E07000004,Vehicles,2,2,1.0
+2018-1,E07000005,Environmental Disruptions,1,1,1.0
+2018-1,E07000005,Environmental Health,4,4,1.0
+2018-1,E07000005,Other,3,2,1.5
+2018-1,E07000005,Road Safety & Defects,57,30,1.9
+2018-1,E07000005,Vehicles,1,1,1.0
+2018-1,E07000006,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000006,Access,2,1,2.0
+2018-1,E07000006,Environmental Disruptions,2,1,2.0
+2018-1,E07000006,Environmental Health,7,7,1.0
+2018-1,E07000006,Other,5,4,1.25
+2018-1,E07000006,Road Safety & Defects,87,56,1.5535714285714286
+2018-1,E07000006,Vehicles,1,1,1.0
+2018-1,E07000007,Abandoned Vehicles & Parking,5,5,1.0
+2018-1,E07000007,Other,3,3,1.0
+2018-1,E07000007,Road Safety & Defects,78,38,2.0526315789473686
+2018-1,E07000007,Vehicles,1,1,1.0
+2018-1,E07000008,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000008,Environmental Disruptions,1,1,1.0
+2018-1,E07000008,Environmental Health,1,1,1.0
+2018-1,E07000008,Public Space,1,1,1.0
+2018-1,E07000008,Road Safety & Defects,3,3,1.0
+2018-1,E07000008,Vehicles,3,3,1.0
+2018-1,E07000009,Environmental Health,2,1,2.0
+2018-1,E07000009,Other,1,1,1.0
+2018-1,E07000009,Road Safety & Defects,3,3,1.0
+2018-1,E07000009,Vehicles,2,2,1.0
+2018-1,E07000010,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000010,Environmental Disruptions,1,1,1.0
+2018-1,E07000010,Other,1,1,1.0
+2018-1,E07000010,Road Safety & Defects,1,1,1.0
+2018-1,E07000010,Vehicles,3,3,1.0
+2018-1,E07000011,Environmental Disruptions,2,1,2.0
+2018-1,E07000011,Environmental Health,3,2,1.5
+2018-1,E07000011,Other,4,4,1.0
+2018-1,E07000011,Road Safety & Defects,4,4,1.0
+2018-1,E07000011,Vehicles,1,1,1.0
+2018-1,E07000012,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000012,Environmental Disruptions,1,1,1.0
+2018-1,E07000012,Environmental Health,3,3,1.0
+2018-1,E07000012,Other,1,1,1.0
+2018-1,E07000012,Road Safety & Defects,2,2,1.0
+2018-1,E07000012,Vehicles,6,6,1.0
+2018-1,E07000026,Road Safety & Defects,13,10,1.3
+2018-1,E07000027,Environmental Health,1,1,1.0
+2018-1,E07000027,Incivilities,1,1,1.0
+2018-1,E07000027,Road Safety & Defects,6,5,1.2
+2018-1,E07000028,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000028,Environmental Health,5,3,1.6666666666666667
+2018-1,E07000028,Other,1,1,1.0
+2018-1,E07000028,Road Safety & Defects,24,16,1.5
+2018-1,E07000028,Vehicles,1,1,1.0
+2018-1,E07000029,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000029,Environmental Disruptions,1,1,1.0
+2018-1,E07000029,Environmental Health,7,6,1.1666666666666667
+2018-1,E07000029,Other,2,1,2.0
+2018-1,E07000029,Road Safety & Defects,40,28,1.4285714285714286
+2018-1,E07000029,Vehicles,1,1,1.0
+2018-1,E07000030,Access,1,1,1.0
+2018-1,E07000030,Environmental Disruptions,1,1,1.0
+2018-1,E07000030,Incivilities,1,1,1.0
+2018-1,E07000030,Other,1,1,1.0
+2018-1,E07000030,Road Safety & Defects,21,12,1.75
+2018-1,E07000031,Other,2,2,1.0
+2018-1,E07000031,Road Safety & Defects,26,19,1.368421052631579
+2018-1,E07000032,Environmental Health,2,1,2.0
+2018-1,E07000032,Other,1,1,1.0
+2018-1,E07000032,Public Space,2,2,1.0
+2018-1,E07000032,Road Safety & Defects,8,5,1.6
+2018-1,E07000033,,1,1,1.0
+2018-1,E07000033,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000033,Environmental Disruptions,1,1,1.0
+2018-1,E07000033,Environmental Health,10,7,1.4285714285714286
+2018-1,E07000033,Road Safety & Defects,21,10,2.1
+2018-1,E07000033,Vehicles,1,1,1.0
+2018-1,E07000034,Environmental Disruptions,2,1,2.0
+2018-1,E07000034,Environmental Health,8,3,2.6666666666666665
+2018-1,E07000034,Incivilities,1,1,1.0
+2018-1,E07000034,Road Safety & Defects,20,12,1.6666666666666667
+2018-1,E07000035,Environmental Health,5,4,1.25
+2018-1,E07000035,Road Safety & Defects,18,13,1.3846153846153846
+2018-1,E07000036,,1,1,1.0
+2018-1,E07000036,Environmental Health,11,8,1.375
+2018-1,E07000036,Other,2,2,1.0
+2018-1,E07000036,Road Safety & Defects,10,10,1.0
+2018-1,E07000037,,1,1,1.0
+2018-1,E07000037,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000037,Environmental Health,1,1,1.0
+2018-1,E07000037,Other,1,1,1.0
+2018-1,E07000037,Road Safety & Defects,36,23,1.565217391304348
+2018-1,E07000037,Vehicles,3,1,3.0
+2018-1,E07000038,Environmental Disruptions,1,1,1.0
+2018-1,E07000038,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000038,Incivilities,1,1,1.0
+2018-1,E07000038,Other,1,1,1.0
+2018-1,E07000038,Road Safety & Defects,38,21,1.8095238095238095
+2018-1,E07000039,Environmental Health,3,3,1.0
+2018-1,E07000039,Other,1,1,1.0
+2018-1,E07000039,Road Safety & Defects,27,12,2.25
+2018-1,E07000039,Vehicles,1,1,1.0
+2018-1,E07000040,Environmental Disruptions,1,1,1.0
+2018-1,E07000040,Environmental Health,2,2,1.0
+2018-1,E07000040,Other,1,1,1.0
+2018-1,E07000040,Road Safety & Defects,5,5,1.0
+2018-1,E07000041,Environmental Disruptions,1,1,1.0
+2018-1,E07000041,Environmental Health,6,4,1.5
+2018-1,E07000041,Other,1,1,1.0
+2018-1,E07000041,Road Safety & Defects,1,1,1.0
+2018-1,E07000041,Vehicles,1,1,1.0
+2018-1,E07000042,Environmental Disruptions,1,1,1.0
+2018-1,E07000042,Public Space,1,1,1.0
+2018-1,E07000042,Road Safety & Defects,2,2,1.0
+2018-1,E07000043,Environmental Health,1,1,1.0
+2018-1,E07000043,Road Safety & Defects,2,2,1.0
+2018-1,E07000044,Environmental Disruptions,1,1,1.0
+2018-1,E07000044,Environmental Health,4,4,1.0
+2018-1,E07000044,Other,2,2,1.0
+2018-1,E07000044,Road Safety & Defects,3,3,1.0
+2018-1,E07000045,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000045,Environmental Health,5,4,1.25
+2018-1,E07000045,Other,1,1,1.0
+2018-1,E07000046,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000046,Environmental Health,7,3,2.3333333333333335
+2018-1,E07000046,Other,2,2,1.0
+2018-1,E07000046,Public Space,1,1,1.0
+2018-1,E07000046,Road Safety & Defects,1,1,1.0
+2018-1,E07000046,Vehicles,1,1,1.0
+2018-1,E07000047,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000047,Environmental Disruptions,1,1,1.0
+2018-1,E07000047,Environmental Health,2,2,1.0
+2018-1,E07000047,Other,2,2,1.0
+2018-1,E07000047,Public Space,1,1,1.0
+2018-1,E07000047,Road Safety & Defects,4,2,2.0
+2018-1,E07000048,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000048,Environmental Disruptions,1,1,1.0
+2018-1,E07000048,Environmental Health,2,2,1.0
+2018-1,E07000048,Other,1,1,1.0
+2018-1,E07000048,Road Safety & Defects,3,3,1.0
+2018-1,E07000048,Vehicles,1,1,1.0
+2018-1,E07000049,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000049,Environmental Disruptions,1,1,1.0
+2018-1,E07000049,Other,1,1,1.0
+2018-1,E07000049,Road Safety & Defects,2,2,1.0
+2018-1,E07000050,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000050,Road Safety & Defects,13,11,1.1818181818181819
+2018-1,E07000051,Road Safety & Defects,1,1,1.0
+2018-1,E07000052,Road Safety & Defects,13,11,1.1818181818181819
+2018-1,E07000052,Vehicles,1,1,1.0
+2018-1,E07000053,Environmental Health,2,2,1.0
+2018-1,E07000053,Other,2,1,2.0
+2018-1,E07000053,Road Safety & Defects,2,2,1.0
+2018-1,E07000061,Environmental Health,4,4,1.0
+2018-1,E07000061,Other,1,1,1.0
+2018-1,E07000061,Road Safety & Defects,9,8,1.125
+2018-1,E07000061,Vehicles,1,1,1.0
+2018-1,E07000062,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000062,Access,2,2,1.0
+2018-1,E07000062,Environmental Disruptions,1,1,1.0
+2018-1,E07000062,Environmental Health,15,11,1.3636363636363635
+2018-1,E07000062,Road Safety & Defects,30,18,1.6666666666666667
+2018-1,E07000063,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000063,Access,2,2,1.0
+2018-1,E07000063,Environmental Disruptions,4,4,1.0
+2018-1,E07000063,Environmental Health,23,17,1.3529411764705883
+2018-1,E07000063,Incivilities,4,4,1.0
+2018-1,E07000063,Other,6,6,1.0
+2018-1,E07000063,Road Safety & Defects,45,38,1.1842105263157894
+2018-1,E07000063,Vehicles,4,3,1.3333333333333333
+2018-1,E07000064,Abandoned Vehicles & Parking,3,2,1.5
+2018-1,E07000064,Access,6,5,1.2
+2018-1,E07000064,Environmental Disruptions,9,8,1.125
+2018-1,E07000064,Environmental Health,42,35,1.2
+2018-1,E07000064,Other,14,12,1.1666666666666667
+2018-1,E07000064,Road Safety & Defects,80,69,1.1594202898550725
+2018-1,E07000064,Vehicles,3,2,1.5
+2018-1,E07000065,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000065,Access,13,6,2.1666666666666665
+2018-1,E07000065,Environmental Disruptions,9,9,1.0
+2018-1,E07000065,Environmental Health,20,18,1.1111111111111112
+2018-1,E07000065,Other,2,2,1.0
+2018-1,E07000065,Road Safety & Defects,74,59,1.2542372881355932
+2018-1,E07000066,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000066,Environmental Health,1,1,1.0
+2018-1,E07000066,Other,3,3,1.0
+2018-1,E07000066,Road Safety & Defects,44,30,1.4666666666666666
+2018-1,E07000066,Vehicles,2,2,1.0
+2018-1,E07000067,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000067,Environmental Health,1,1,1.0
+2018-1,E07000067,Other,1,1,1.0
+2018-1,E07000067,Road Safety & Defects,25,15,1.6666666666666667
+2018-1,E07000067,Vehicles,2,2,1.0
+2018-1,E07000068,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000068,Environmental Health,6,2,3.0
+2018-1,E07000068,Road Safety & Defects,16,10,1.6
+2018-1,E07000069,Environmental Health,6,2,3.0
+2018-1,E07000069,Road Safety & Defects,29,18,1.6111111111111112
+2018-1,E07000069,Vehicles,1,1,1.0
+2018-1,E07000070,Access,3,3,1.0
+2018-1,E07000070,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000070,Other,1,1,1.0
+2018-1,E07000070,Road Safety & Defects,22,18,1.2222222222222223
+2018-1,E07000070,Vehicles,1,1,1.0
+2018-1,E07000071,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000071,Environmental Disruptions,1,1,1.0
+2018-1,E07000071,Environmental Health,3,3,1.0
+2018-1,E07000071,Incivilities,1,1,1.0
+2018-1,E07000071,Other,1,1,1.0
+2018-1,E07000071,Road Safety & Defects,40,26,1.5384615384615385
+2018-1,E07000071,Vehicles,1,1,1.0
+2018-1,E07000072,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000072,Environmental Health,10,9,1.1111111111111112
+2018-1,E07000072,Other,6,6,1.0
+2018-1,E07000072,Road Safety & Defects,32,21,1.5238095238095237
+2018-1,E07000072,Vehicles,2,2,1.0
+2018-1,E07000073,Environmental Health,3,3,1.0
+2018-1,E07000073,Other,5,5,1.0
+2018-1,E07000073,Road Safety & Defects,7,5,1.4
+2018-1,E07000073,Vehicles,1,1,1.0
+2018-1,E07000074,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000074,Environmental Disruptions,2,2,1.0
+2018-1,E07000074,Environmental Health,2,1,2.0
+2018-1,E07000074,Other,1,1,1.0
+2018-1,E07000074,Road Safety & Defects,14,9,1.5555555555555556
+2018-1,E07000075,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000075,Environmental Health,2,1,2.0
+2018-1,E07000075,Other,4,4,1.0
+2018-1,E07000075,Road Safety & Defects,16,13,1.2307692307692308
+2018-1,E07000076,Access,1,1,1.0
+2018-1,E07000076,Environmental Disruptions,1,1,1.0
+2018-1,E07000076,Environmental Health,3,3,1.0
+2018-1,E07000076,Other,2,2,1.0
+2018-1,E07000076,Road Safety & Defects,20,17,1.1764705882352942
+2018-1,E07000077,Environmental Disruptions,1,1,1.0
+2018-1,E07000077,Environmental Health,2,2,1.0
+2018-1,E07000077,Other,3,3,1.0
+2018-1,E07000077,Road Safety & Defects,11,11,1.0
+2018-1,E07000078,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000078,Environmental Disruptions,4,4,1.0
+2018-1,E07000078,Environmental Health,12,6,2.0
+2018-1,E07000078,Other,2,2,1.0
+2018-1,E07000078,Road Safety & Defects,51,36,1.4166666666666667
+2018-1,E07000078,Vehicles,2,2,1.0
+2018-1,E07000079,Environmental Disruptions,3,3,1.0
+2018-1,E07000079,Environmental Health,7,4,1.75
+2018-1,E07000079,Other,4,4,1.0
+2018-1,E07000079,Road Safety & Defects,73,45,1.6222222222222222
+2018-1,E07000080,Environmental Health,3,3,1.0
+2018-1,E07000080,Other,2,2,1.0
+2018-1,E07000080,Road Safety & Defects,34,26,1.3076923076923077
+2018-1,E07000081,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000081,Environmental Health,3,2,1.5
+2018-1,E07000081,Other,1,1,1.0
+2018-1,E07000081,Road Safety & Defects,22,12,1.8333333333333333
+2018-1,E07000082,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000082,Access,1,1,1.0
+2018-1,E07000082,Environmental Disruptions,6,4,1.5
+2018-1,E07000082,Environmental Health,2,2,1.0
+2018-1,E07000082,Other,5,5,1.0
+2018-1,E07000082,Road Safety & Defects,45,25,1.8
+2018-1,E07000083,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000083,Environmental Disruptions,5,3,1.6666666666666667
+2018-1,E07000083,Environmental Health,9,4,2.25
+2018-1,E07000083,Other,4,4,1.0
+2018-1,E07000083,Road Safety & Defects,43,27,1.5925925925925926
+2018-1,E07000083,Vehicles,1,1,1.0
+2018-1,E07000084,Access,3,2,1.5
+2018-1,E07000084,Environmental Disruptions,1,1,1.0
+2018-1,E07000084,Environmental Health,15,7,2.142857142857143
+2018-1,E07000084,Other,3,3,1.0
+2018-1,E07000084,Road Safety & Defects,37,27,1.3703703703703705
+2018-1,E07000084,Vehicles,1,1,1.0
+2018-1,E07000085,Environmental Health,7,7,1.0
+2018-1,E07000085,Other,6,2,3.0
+2018-1,E07000085,Road Safety & Defects,31,21,1.4761904761904763
+2018-1,E07000085,Vehicles,1,1,1.0
+2018-1,E07000086,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000086,Environmental Disruptions,1,1,1.0
+2018-1,E07000086,Environmental Health,6,5,1.2
+2018-1,E07000086,Other,2,2,1.0
+2018-1,E07000086,Road Safety & Defects,48,26,1.8461538461538463
+2018-1,E07000086,Vehicles,4,4,1.0
+2018-1,E07000087,Environmental Health,4,2,2.0
+2018-1,E07000087,Incivilities,1,1,1.0
+2018-1,E07000087,Other,4,2,2.0
+2018-1,E07000087,Road Safety & Defects,7,6,1.1666666666666667
+2018-1,E07000088,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000088,Environmental Disruptions,1,1,1.0
+2018-1,E07000088,Environmental Health,3,3,1.0
+2018-1,E07000088,Other,1,1,1.0
+2018-1,E07000088,Road Safety & Defects,4,2,2.0
+2018-1,E07000089,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000089,Access,3,3,1.0
+2018-1,E07000089,Environmental Disruptions,1,1,1.0
+2018-1,E07000089,Environmental Health,26,21,1.2380952380952381
+2018-1,E07000089,Incivilities,3,2,1.5
+2018-1,E07000089,Other,11,11,1.0
+2018-1,E07000089,Road Safety & Defects,54,43,1.255813953488372
+2018-1,E07000089,Vehicles,2,2,1.0
+2018-1,E07000090,Abandoned Vehicles & Parking,4,3,1.3333333333333333
+2018-1,E07000090,Environmental Health,5,3,1.6666666666666667
+2018-1,E07000090,Road Safety & Defects,13,11,1.1818181818181819
+2018-1,E07000090,Vehicles,1,1,1.0
+2018-1,E07000091,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000091,Environmental Health,2,2,1.0
+2018-1,E07000091,Other,1,1,1.0
+2018-1,E07000091,Road Safety & Defects,37,26,1.4230769230769231
+2018-1,E07000091,Vehicles,1,1,1.0
+2018-1,E07000092,Environmental Disruptions,1,1,1.0
+2018-1,E07000092,Environmental Health,2,2,1.0
+2018-1,E07000092,Incivilities,1,1,1.0
+2018-1,E07000092,Other,1,1,1.0
+2018-1,E07000092,Road Safety & Defects,21,11,1.9090909090909092
+2018-1,E07000093,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000093,Environmental Disruptions,1,1,1.0
+2018-1,E07000093,Environmental Health,4,4,1.0
+2018-1,E07000093,Other,1,1,1.0
+2018-1,E07000093,Road Safety & Defects,29,19,1.5263157894736843
+2018-1,E07000093,Vehicles,1,1,1.0
+2018-1,E07000094,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000094,Environmental Health,8,7,1.1428571428571428
+2018-1,E07000094,Other,2,2,1.0
+2018-1,E07000094,Road Safety & Defects,22,20,1.1
+2018-1,E07000094,Vehicles,2,2,1.0
+2018-1,E07000095,Environmental Disruptions,1,1,1.0
+2018-1,E07000095,Environmental Health,2,2,1.0
+2018-1,E07000095,Other,3,3,1.0
+2018-1,E07000095,Road Safety & Defects,18,13,1.3846153846153846
+2018-1,E07000095,Vehicles,1,1,1.0
+2018-1,E07000096,Abandoned Vehicles & Parking,10,8,1.25
+2018-1,E07000096,Access,2,2,1.0
+2018-1,E07000096,Environmental Disruptions,5,4,1.25
+2018-1,E07000096,Environmental Health,14,10,1.4
+2018-1,E07000096,Incivilities,1,1,1.0
+2018-1,E07000096,Other,6,6,1.0
+2018-1,E07000096,Road Safety & Defects,144,88,1.6363636363636365
+2018-1,E07000096,Vehicles,11,11,1.0
+2018-1,E07000098,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000098,Environmental Disruptions,3,3,1.0
+2018-1,E07000098,Environmental Health,10,9,1.1111111111111112
+2018-1,E07000098,Road Safety & Defects,45,37,1.2162162162162162
+2018-1,E07000098,Vehicles,3,3,1.0
+2018-1,E07000099,Abandoned Vehicles & Parking,3,2,1.5
+2018-1,E07000099,Access,1,1,1.0
+2018-1,E07000099,Environmental Disruptions,1,1,1.0
+2018-1,E07000099,Environmental Health,14,13,1.0769230769230769
+2018-1,E07000099,Incivilities,2,2,1.0
+2018-1,E07000099,Other,5,5,1.0
+2018-1,E07000099,Road Safety & Defects,54,42,1.2857142857142858
+2018-1,E07000099,Vehicles,4,4,1.0
+2018-1,E07000102,Environmental Disruptions,1,1,1.0
+2018-1,E07000102,Environmental Health,16,11,1.4545454545454546
+2018-1,E07000102,Other,2,2,1.0
+2018-1,E07000102,Public Space,2,2,1.0
+2018-1,E07000102,Road Safety & Defects,49,40,1.225
+2018-1,E07000102,Vehicles,3,3,1.0
+2018-1,E07000103,Abandoned Vehicles & Parking,6,4,1.5
+2018-1,E07000103,Environmental Disruptions,3,3,1.0
+2018-1,E07000103,Environmental Health,6,3,2.0
+2018-1,E07000103,Incivilities,1,1,1.0
+2018-1,E07000103,Road Safety & Defects,24,18,1.3333333333333333
+2018-1,E07000103,Vehicles,5,4,1.25
+2018-1,E07000105,Environmental Health,7,6,1.1666666666666667
+2018-1,E07000105,Other,4,4,1.0
+2018-1,E07000105,Road Safety & Defects,34,22,1.5454545454545454
+2018-1,E07000105,Vehicles,2,2,1.0
+2018-1,E07000106,Environmental Health,8,5,1.6
+2018-1,E07000106,Incivilities,1,1,1.0
+2018-1,E07000106,Other,3,2,1.5
+2018-1,E07000106,Public Space,1,1,1.0
+2018-1,E07000106,Road Safety & Defects,26,19,1.368421052631579
+2018-1,E07000107,Road Safety & Defects,20,13,1.5384615384615385
+2018-1,E07000108,Environmental Health,1,1,1.0
+2018-1,E07000108,Road Safety & Defects,20,13,1.5384615384615385
+2018-1,E07000109,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000109,Environmental Health,4,4,1.0
+2018-1,E07000109,Other,1,1,1.0
+2018-1,E07000109,Road Safety & Defects,9,6,1.5
+2018-1,E07000110,Road Safety & Defects,21,13,1.6153846153846154
+2018-1,E07000111,Environmental Health,22,13,1.6923076923076923
+2018-1,E07000111,Incivilities,1,1,1.0
+2018-1,E07000111,Other,3,3,1.0
+2018-1,E07000111,Road Safety & Defects,36,24,1.5
+2018-1,E07000111,Vehicles,3,2,1.5
+2018-1,E07000112,Environmental Disruptions,1,1,1.0
+2018-1,E07000112,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000112,Other,4,3,1.3333333333333333
+2018-1,E07000112,Road Safety & Defects,21,18,1.1666666666666667
+2018-1,E07000112,Vehicles,1,1,1.0
+2018-1,E07000113,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000113,Environmental Disruptions,1,1,1.0
+2018-1,E07000113,Environmental Health,2,2,1.0
+2018-1,E07000113,Other,2,2,1.0
+2018-1,E07000113,Public Space,1,1,1.0
+2018-1,E07000113,Road Safety & Defects,21,16,1.3125
+2018-1,E07000113,Vehicles,1,1,1.0
+2018-1,E07000114,Abandoned Vehicles & Parking,5,3,1.6666666666666667
+2018-1,E07000114,Environmental Health,65,28,2.3214285714285716
+2018-1,E07000114,Other,5,5,1.0
+2018-1,E07000114,Public Space,1,1,1.0
+2018-1,E07000114,Road Safety & Defects,54,20,2.7
+2018-1,E07000114,Vehicles,3,3,1.0
+2018-1,E07000115,Environmental Health,6,4,1.5
+2018-1,E07000115,Road Safety & Defects,28,18,1.5555555555555556
+2018-1,E07000115,Vehicles,2,2,1.0
+2018-1,E07000116,Access,1,1,1.0
+2018-1,E07000116,Environmental Health,9,8,1.125
+2018-1,E07000116,Other,1,1,1.0
+2018-1,E07000116,Road Safety & Defects,45,24,1.875
+2018-1,E07000116,Vehicles,1,1,1.0
+2018-1,E07000117,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000117,Environmental Health,3,3,1.0
+2018-1,E07000117,Other,1,1,1.0
+2018-1,E07000117,Public Space,1,1,1.0
+2018-1,E07000117,Road Safety & Defects,34,16,2.125
+2018-1,E07000118,Abandoned Vehicles & Parking,7,7,1.0
+2018-1,E07000118,Environmental Disruptions,3,3,1.0
+2018-1,E07000118,Environmental Health,2,1,2.0
+2018-1,E07000118,Incivilities,3,1,3.0
+2018-1,E07000118,Other,3,3,1.0
+2018-1,E07000118,Road Safety & Defects,49,26,1.8846153846153846
+2018-1,E07000119,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000119,Environmental Health,2,2,1.0
+2018-1,E07000119,Other,2,2,1.0
+2018-1,E07000119,Road Safety & Defects,73,47,1.553191489361702
+2018-1,E07000120,Abandoned Vehicles & Parking,3,2,1.5
+2018-1,E07000120,Environmental Health,3,3,1.0
+2018-1,E07000120,Incivilities,1,1,1.0
+2018-1,E07000120,Road Safety & Defects,36,25,1.44
+2018-1,E07000120,Vehicles,1,1,1.0
+2018-1,E07000121,Environmental Health,24,16,1.5
+2018-1,E07000121,Other,5,4,1.25
+2018-1,E07000121,Road Safety & Defects,70,47,1.4893617021276595
+2018-1,E07000122,Environmental Health,2,2,1.0
+2018-1,E07000122,Road Safety & Defects,37,15,2.466666666666667
+2018-1,E07000122,Vehicles,1,1,1.0
+2018-1,E07000123,Abandoned Vehicles & Parking,5,3,1.6666666666666667
+2018-1,E07000123,Environmental Disruptions,3,2,1.5
+2018-1,E07000123,Environmental Health,7,4,1.75
+2018-1,E07000123,Other,4,4,1.0
+2018-1,E07000123,Public Space,1,1,1.0
+2018-1,E07000123,Road Safety & Defects,65,39,1.6666666666666667
+2018-1,E07000124,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000124,Other,1,1,1.0
+2018-1,E07000124,Road Safety & Defects,89,30,2.966666666666667
+2018-1,E07000125,Abandoned Vehicles & Parking,2,1,2.0
+2018-1,E07000125,Environmental Disruptions,3,3,1.0
+2018-1,E07000125,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000125,Other,1,1,1.0
+2018-1,E07000125,Road Safety & Defects,36,32,1.125
+2018-1,E07000126,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000126,Environmental Disruptions,1,1,1.0
+2018-1,E07000126,Environmental Health,7,5,1.4
+2018-1,E07000126,Incivilities,2,2,1.0
+2018-1,E07000126,Other,3,3,1.0
+2018-1,E07000126,Road Safety & Defects,67,36,1.8611111111111112
+2018-1,E07000127,Environmental Disruptions,1,1,1.0
+2018-1,E07000127,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000127,Other,2,2,1.0
+2018-1,E07000127,Road Safety & Defects,33,19,1.736842105263158
+2018-1,E07000128,Environmental Disruptions,2,1,2.0
+2018-1,E07000128,Environmental Health,3,3,1.0
+2018-1,E07000128,Other,4,4,1.0
+2018-1,E07000128,Road Safety & Defects,66,43,1.5348837209302326
+2018-1,E07000129,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000129,Environmental Health,2,2,1.0
+2018-1,E07000129,Road Safety & Defects,13,8,1.625
+2018-1,E07000130,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E07000130,Environmental Disruptions,1,1,1.0
+2018-1,E07000130,Environmental Health,2,2,1.0
+2018-1,E07000130,Other,3,3,1.0
+2018-1,E07000130,Public Space,1,1,1.0
+2018-1,E07000130,Road Safety & Defects,16,11,1.4545454545454546
+2018-1,E07000131,Environmental Disruptions,3,2,1.5
+2018-1,E07000131,Environmental Health,16,8,2.0
+2018-1,E07000131,Other,4,3,1.3333333333333333
+2018-1,E07000131,Road Safety & Defects,27,20,1.35
+2018-1,E07000132,Environmental Health,4,2,2.0
+2018-1,E07000132,Road Safety & Defects,15,10,1.5
+2018-1,E07000133,Environmental Health,3,2,1.5
+2018-1,E07000133,Road Safety & Defects,6,3,2.0
+2018-1,E07000134,Environmental Disruptions,1,1,1.0
+2018-1,E07000134,Environmental Health,7,6,1.1666666666666667
+2018-1,E07000134,Other,3,3,1.0
+2018-1,E07000134,Public Space,1,1,1.0
+2018-1,E07000134,Road Safety & Defects,13,12,1.0833333333333333
+2018-1,E07000135,Environmental Health,2,2,1.0
+2018-1,E07000135,Road Safety & Defects,5,4,1.25
+2018-1,E07000136,Road Safety & Defects,8,6,1.3333333333333333
+2018-1,E07000137,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000137,Environmental Health,5,5,1.0
+2018-1,E07000137,Other,1,1,1.0
+2018-1,E07000137,Road Safety & Defects,38,31,1.2258064516129032
+2018-1,E07000137,Vehicles,1,1,1.0
+2018-1,E07000138,Environmental Disruptions,1,1,1.0
+2018-1,E07000138,Environmental Health,7,2,3.5
+2018-1,E07000138,Other,3,2,1.5
+2018-1,E07000138,Public Space,1,1,1.0
+2018-1,E07000138,Road Safety & Defects,13,11,1.1818181818181819
+2018-1,E07000139,Environmental Health,2,2,1.0
+2018-1,E07000139,Other,3,3,1.0
+2018-1,E07000139,Road Safety & Defects,96,58,1.6551724137931034
+2018-1,E07000140,Environmental Health,3,2,1.5
+2018-1,E07000140,Other,1,1,1.0
+2018-1,E07000140,Public Space,1,1,1.0
+2018-1,E07000140,Road Safety & Defects,18,15,1.2
+2018-1,E07000141,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000141,Environmental Disruptions,1,1,1.0
+2018-1,E07000141,Environmental Health,2,2,1.0
+2018-1,E07000141,Other,2,2,1.0
+2018-1,E07000141,Road Safety & Defects,67,39,1.7179487179487178
+2018-1,E07000142,Environmental Disruptions,1,1,1.0
+2018-1,E07000142,Environmental Health,1,1,1.0
+2018-1,E07000142,Road Safety & Defects,33,25,1.32
+2018-1,E07000143,,1,1,1.0
+2018-1,E07000143,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000143,Environmental Disruptions,1,1,1.0
+2018-1,E07000143,Environmental Health,7,6,1.1666666666666667
+2018-1,E07000143,Other,7,6,1.1666666666666667
+2018-1,E07000143,Road Safety & Defects,53,40,1.325
+2018-1,E07000144,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000144,Access,1,1,1.0
+2018-1,E07000144,Environmental Disruptions,4,3,1.3333333333333333
+2018-1,E07000144,Environmental Health,2,1,2.0
+2018-1,E07000144,Other,2,2,1.0
+2018-1,E07000144,Road Safety & Defects,30,18,1.6666666666666667
+2018-1,E07000145,Other,2,2,1.0
+2018-1,E07000145,Public Space,1,1,1.0
+2018-1,E07000145,Road Safety & Defects,15,13,1.1538461538461537
+2018-1,E07000145,Vehicles,2,2,1.0
+2018-1,E07000146,Access,3,3,1.0
+2018-1,E07000146,Incivilities,1,1,1.0
+2018-1,E07000146,Other,7,7,1.0
+2018-1,E07000146,Road Safety & Defects,55,38,1.4473684210526316
+2018-1,E07000147,,70,1,70.0
+2018-1,E07000147,Environmental Health,1,1,1.0
+2018-1,E07000147,Road Safety & Defects,24,14,1.7142857142857142
+2018-1,E07000147,Vehicles,1,1,1.0
+2018-1,E07000148,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000148,Environmental Disruptions,1,1,1.0
+2018-1,E07000148,Environmental Health,15,9,1.6666666666666667
+2018-1,E07000148,Incivilities,1,1,1.0
+2018-1,E07000148,Road Safety & Defects,31,17,1.8235294117647058
+2018-1,E07000148,Vehicles,1,1,1.0
+2018-1,E07000149,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000149,Access,1,1,1.0
+2018-1,E07000149,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000149,Other,3,3,1.0
+2018-1,E07000149,Road Safety & Defects,42,26,1.6153846153846154
+2018-1,E07000149,Vehicles,1,1,1.0
+2018-1,E07000150,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000150,Environmental Health,5,1,5.0
+2018-1,E07000150,Road Safety & Defects,2,2,1.0
+2018-1,E07000151,Environmental Disruptions,1,1,1.0
+2018-1,E07000151,Environmental Health,6,5,1.2
+2018-1,E07000151,Road Safety & Defects,6,4,1.5
+2018-1,E07000153,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000153,Environmental Disruptions,1,1,1.0
+2018-1,E07000153,Environmental Health,5,4,1.25
+2018-1,E07000153,Other,2,2,1.0
+2018-1,E07000153,Road Safety & Defects,1,1,1.0
+2018-1,E07000154,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000154,Environmental Disruptions,3,3,1.0
+2018-1,E07000154,Environmental Health,19,12,1.5833333333333333
+2018-1,E07000154,Public Space,1,1,1.0
+2018-1,E07000154,Road Safety & Defects,5,4,1.25
+2018-1,E07000154,Vehicles,4,4,1.0
+2018-1,E07000155,Environmental Disruptions,1,1,1.0
+2018-1,E07000155,Environmental Health,8,3,2.6666666666666665
+2018-1,E07000155,Other,1,1,1.0
+2018-1,E07000155,Road Safety & Defects,10,6,1.6666666666666667
+2018-1,E07000156,Other,1,1,1.0
+2018-1,E07000156,Road Safety & Defects,2,2,1.0
+2018-1,E07000163,Environmental Health,3,1,3.0
+2018-1,E07000163,Road Safety & Defects,3,3,1.0
+2018-1,E07000164,Environmental Health,5,5,1.0
+2018-1,E07000164,Other,2,2,1.0
+2018-1,E07000164,Road Safety & Defects,5,3,1.6666666666666667
+2018-1,E07000165,Road Safety & Defects,29,27,1.0740740740740742
+2018-1,E07000165,Vehicles,1,1,1.0
+2018-1,E07000166,Environmental Health,1,1,1.0
+2018-1,E07000166,Road Safety & Defects,2,2,1.0
+2018-1,E07000167,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000167,Environmental Health,1,1,1.0
+2018-1,E07000167,Road Safety & Defects,15,9,1.6666666666666667
+2018-1,E07000167,Vehicles,1,1,1.0
+2018-1,E07000168,Road Safety & Defects,1,1,1.0
+2018-1,E07000169,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000169,Environmental Health,8,4,2.0
+2018-1,E07000169,Road Safety & Defects,7,7,1.0
+2018-1,E07000170,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000170,Environmental Health,1,1,1.0
+2018-1,E07000170,Road Safety & Defects,29,14,2.0714285714285716
+2018-1,E07000171,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000171,Environmental Health,5,3,1.6666666666666667
+2018-1,E07000171,Other,1,1,1.0
+2018-1,E07000171,Road Safety & Defects,17,9,1.8888888888888888
+2018-1,E07000172,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000172,Environmental Health,2,1,2.0
+2018-1,E07000172,Other,1,1,1.0
+2018-1,E07000172,Road Safety & Defects,8,8,1.0
+2018-1,E07000173,Environmental Disruptions,1,1,1.0
+2018-1,E07000173,Environmental Health,3,2,1.5
+2018-1,E07000173,Incivilities,1,1,1.0
+2018-1,E07000173,Other,6,5,1.2
+2018-1,E07000173,Road Safety & Defects,8,6,1.3333333333333333
+2018-1,E07000174,Environmental Disruptions,1,1,1.0
+2018-1,E07000174,Environmental Health,1,1,1.0
+2018-1,E07000174,Other,1,1,1.0
+2018-1,E07000174,Road Safety & Defects,14,9,1.5555555555555556
+2018-1,E07000175,Environmental Disruptions,1,1,1.0
+2018-1,E07000175,Environmental Health,3,2,1.5
+2018-1,E07000175,Other,1,1,1.0
+2018-1,E07000175,Public Space,1,1,1.0
+2018-1,E07000175,Road Safety & Defects,24,9,2.6666666666666665
+2018-1,E07000175,Vehicles,1,1,1.0
+2018-1,E07000176,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000176,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000176,Road Safety & Defects,22,13,1.6923076923076923
+2018-1,E07000177,,1,1,1.0
+2018-1,E07000177,Environmental Disruptions,24,22,1.0909090909090908
+2018-1,E07000177,Environmental Health,53,40,1.325
+2018-1,E07000177,Incivilities,2,2,1.0
+2018-1,E07000177,Other,12,11,1.0909090909090908
+2018-1,E07000177,Public Space,2,2,1.0
+2018-1,E07000177,Road Safety & Defects,439,198,2.217171717171717
+2018-1,E07000177,Vehicles,10,9,1.1111111111111112
+2018-1,E07000178,Environmental Disruptions,2,2,1.0
+2018-1,E07000178,Environmental Health,32,23,1.391304347826087
+2018-1,E07000178,Other,6,6,1.0
+2018-1,E07000178,Public Space,1,1,1.0
+2018-1,E07000178,Road Safety & Defects,90,59,1.5254237288135593
+2018-1,E07000178,Vehicles,3,3,1.0
+2018-1,E07000179,,2,2,1.0
+2018-1,E07000179,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000179,Environmental Disruptions,29,25,1.16
+2018-1,E07000179,Environmental Health,73,60,1.2166666666666666
+2018-1,E07000179,Incivilities,1,1,1.0
+2018-1,E07000179,Other,9,9,1.0
+2018-1,E07000179,Public Space,1,1,1.0
+2018-1,E07000179,Road Safety & Defects,327,210,1.5571428571428572
+2018-1,E07000179,Vehicles,5,5,1.0
+2018-1,E07000180,,4,4,1.0
+2018-1,E07000180,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000180,Environmental Disruptions,21,16,1.3125
+2018-1,E07000180,Environmental Health,50,35,1.4285714285714286
+2018-1,E07000180,Other,11,9,1.2222222222222223
+2018-1,E07000180,Road Safety & Defects,295,176,1.6761363636363635
+2018-1,E07000180,Vehicles,6,5,1.2
+2018-1,E07000181,,3,2,1.5
+2018-1,E07000181,Abandoned Vehicles & Parking,4,3,1.3333333333333333
+2018-1,E07000181,Environmental Disruptions,4,4,1.0
+2018-1,E07000181,Environmental Health,43,35,1.2285714285714286
+2018-1,E07000181,Other,8,6,1.3333333333333333
+2018-1,E07000181,Road Safety & Defects,414,216,1.9166666666666667
+2018-1,E07000181,Vehicles,6,6,1.0
+2018-1,E07000187,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000187,Environmental Disruptions,1,1,1.0
+2018-1,E07000187,Environmental Health,15,11,1.3636363636363635
+2018-1,E07000187,Incivilities,1,1,1.0
+2018-1,E07000187,Other,7,5,1.4
+2018-1,E07000187,Road Safety & Defects,55,32,1.71875
+2018-1,E07000187,Vehicles,1,1,1.0
+2018-1,E07000188,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000188,Environmental Health,5,4,1.25
+2018-1,E07000188,Incivilities,1,1,1.0
+2018-1,E07000188,Other,1,1,1.0
+2018-1,E07000188,Road Safety & Defects,25,17,1.4705882352941178
+2018-1,E07000188,Vehicles,1,1,1.0
+2018-1,E07000189,Access,1,1,1.0
+2018-1,E07000189,Environmental Health,11,8,1.375
+2018-1,E07000189,Other,4,4,1.0
+2018-1,E07000189,Road Safety & Defects,38,32,1.1875
+2018-1,E07000190,Environmental Disruptions,1,1,1.0
+2018-1,E07000190,Environmental Health,2,2,1.0
+2018-1,E07000190,Other,2,2,1.0
+2018-1,E07000190,Road Safety & Defects,13,9,1.4444444444444444
+2018-1,E07000190,Vehicles,2,2,1.0
+2018-1,E07000191,Road Safety & Defects,4,3,1.3333333333333333
+2018-1,E07000192,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000192,Environmental Health,5,3,1.6666666666666667
+2018-1,E07000192,Road Safety & Defects,3,3,1.0
+2018-1,E07000193,Environmental Health,1,1,1.0
+2018-1,E07000193,Road Safety & Defects,6,4,1.5
+2018-1,E07000194,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000194,Environmental Disruptions,2,2,1.0
+2018-1,E07000194,Environmental Health,7,7,1.0
+2018-1,E07000194,Road Safety & Defects,3,3,1.0
+2018-1,E07000195,Environmental Health,8,6,1.3333333333333333
+2018-1,E07000195,Incivilities,1,1,1.0
+2018-1,E07000196,Environmental Health,9,8,1.125
+2018-1,E07000196,Public Space,1,1,1.0
+2018-1,E07000196,Road Safety & Defects,4,4,1.0
+2018-1,E07000197,Environmental Health,3,1,3.0
+2018-1,E07000197,Road Safety & Defects,1,1,1.0
+2018-1,E07000198,Road Safety & Defects,9,4,2.25
+2018-1,E07000199,Environmental Health,1,1,1.0
+2018-1,E07000199,Road Safety & Defects,3,3,1.0
+2018-1,E07000200,Other,2,2,1.0
+2018-1,E07000200,Road Safety & Defects,35,15,2.3333333333333335
+2018-1,E07000201,Environmental Disruptions,2,2,1.0
+2018-1,E07000201,Environmental Health,2,1,2.0
+2018-1,E07000201,Other,6,3,2.0
+2018-1,E07000201,Road Safety & Defects,31,22,1.4090909090909092
+2018-1,E07000201,Vehicles,2,2,1.0
+2018-1,E07000202,Abandoned Vehicles & Parking,3,2,1.5
+2018-1,E07000202,Environmental Disruptions,2,2,1.0
+2018-1,E07000202,Environmental Health,8,3,2.6666666666666665
+2018-1,E07000202,Other,2,1,2.0
+2018-1,E07000202,Public Space,2,1,2.0
+2018-1,E07000202,Road Safety & Defects,35,13,2.6923076923076925
+2018-1,E07000202,Vehicles,1,1,1.0
+2018-1,E07000203,Environmental Disruptions,1,1,1.0
+2018-1,E07000203,Environmental Health,2,2,1.0
+2018-1,E07000203,Other,3,1,3.0
+2018-1,E07000203,Road Safety & Defects,35,30,1.1666666666666667
+2018-1,E07000204,Environmental Disruptions,1,1,1.0
+2018-1,E07000204,Other,2,2,1.0
+2018-1,E07000204,Road Safety & Defects,45,37,1.2162162162162162
+2018-1,E07000205,,5,3,1.6666666666666667
+2018-1,E07000205,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000205,Environmental Disruptions,2,2,1.0
+2018-1,E07000205,Environmental Health,2,2,1.0
+2018-1,E07000205,Other,2,2,1.0
+2018-1,E07000205,Public Space,1,1,1.0
+2018-1,E07000205,Road Safety & Defects,25,20,1.25
+2018-1,E07000205,Vehicles,1,1,1.0
+2018-1,E07000206,,1,1,1.0
+2018-1,E07000206,Abandoned Vehicles & Parking,4,4,1.0
+2018-1,E07000206,Environmental Health,1,1,1.0
+2018-1,E07000206,Other,2,2,1.0
+2018-1,E07000206,Road Safety & Defects,9,7,1.2857142857142858
+2018-1,E07000206,Vehicles,1,1,1.0
+2018-1,E07000207,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000207,Environmental Health,6,4,1.5
+2018-1,E07000207,Incivilities,1,1,1.0
+2018-1,E07000207,Other,5,5,1.0
+2018-1,E07000207,Road Safety & Defects,23,18,1.2777777777777777
+2018-1,E07000207,Vehicles,2,2,1.0
+2018-1,E07000208,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000208,Environmental Health,5,5,1.0
+2018-1,E07000208,Other,4,2,2.0
+2018-1,E07000208,Road Safety & Defects,8,7,1.1428571428571428
+2018-1,E07000208,Vehicles,1,1,1.0
+2018-1,E07000209,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000209,Environmental Health,1,1,1.0
+2018-1,E07000209,Other,4,4,1.0
+2018-1,E07000209,Road Safety & Defects,70,29,2.413793103448276
+2018-1,E07000209,Vehicles,3,3,1.0
+2018-1,E07000210,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000210,Other,1,1,1.0
+2018-1,E07000210,Public Space,1,1,1.0
+2018-1,E07000210,Road Safety & Defects,31,22,1.4090909090909092
+2018-1,E07000211,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000211,Access,2,2,1.0
+2018-1,E07000211,Environmental Disruptions,1,1,1.0
+2018-1,E07000211,Environmental Health,1,1,1.0
+2018-1,E07000211,Other,3,3,1.0
+2018-1,E07000211,Road Safety & Defects,30,20,1.5
+2018-1,E07000211,Vehicles,1,1,1.0
+2018-1,E07000212,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000212,Access,4,3,1.3333333333333333
+2018-1,E07000212,Environmental Disruptions,1,1,1.0
+2018-1,E07000212,Environmental Health,14,11,1.2727272727272727
+2018-1,E07000212,Other,3,2,1.5
+2018-1,E07000212,Road Safety & Defects,23,15,1.5333333333333334
+2018-1,E07000212,Vehicles,1,1,1.0
+2018-1,E07000213,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000213,Environmental Disruptions,1,1,1.0
+2018-1,E07000213,Environmental Health,4,4,1.0
+2018-1,E07000213,Incivilities,2,2,1.0
+2018-1,E07000213,Other,3,3,1.0
+2018-1,E07000213,Road Safety & Defects,15,10,1.5
+2018-1,E07000213,Vehicles,1,1,1.0
+2018-1,E07000214,Abandoned Vehicles & Parking,5,5,1.0
+2018-1,E07000214,Environmental Health,3,3,1.0
+2018-1,E07000214,Incivilities,1,1,1.0
+2018-1,E07000214,Public Space,1,1,1.0
+2018-1,E07000214,Road Safety & Defects,30,16,1.875
+2018-1,E07000215,Environmental Health,6,5,1.2
+2018-1,E07000215,Incivilities,1,1,1.0
+2018-1,E07000215,Other,4,4,1.0
+2018-1,E07000215,Road Safety & Defects,39,29,1.3448275862068966
+2018-1,E07000215,Vehicles,2,2,1.0
+2018-1,E07000216,Access,2,1,2.0
+2018-1,E07000216,Environmental Disruptions,5,4,1.25
+2018-1,E07000216,Environmental Health,2,2,1.0
+2018-1,E07000216,Incivilities,1,1,1.0
+2018-1,E07000216,Other,1,1,1.0
+2018-1,E07000216,Road Safety & Defects,39,22,1.7727272727272727
+2018-1,E07000217,Abandoned Vehicles & Parking,4,2,2.0
+2018-1,E07000217,Environmental Disruptions,1,1,1.0
+2018-1,E07000217,Environmental Health,1,1,1.0
+2018-1,E07000217,Other,1,1,1.0
+2018-1,E07000217,Road Safety & Defects,24,20,1.2
+2018-1,E07000218,Access,4,4,1.0
+2018-1,E07000218,Environmental Disruptions,1,1,1.0
+2018-1,E07000218,Environmental Health,10,9,1.1111111111111112
+2018-1,E07000218,Incivilities,1,1,1.0
+2018-1,E07000218,Other,3,3,1.0
+2018-1,E07000218,Road Safety & Defects,28,23,1.2173913043478262
+2018-1,E07000219,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000219,Access,4,4,1.0
+2018-1,E07000219,Environmental Disruptions,2,2,1.0
+2018-1,E07000219,Environmental Health,13,12,1.0833333333333333
+2018-1,E07000219,Incivilities,1,1,1.0
+2018-1,E07000219,Other,4,4,1.0
+2018-1,E07000219,Public Space,1,1,1.0
+2018-1,E07000219,Road Safety & Defects,22,11,2.0
+2018-1,E07000220,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000220,Access,6,6,1.0
+2018-1,E07000220,Environmental Disruptions,3,2,1.5
+2018-1,E07000220,Environmental Health,18,14,1.2857142857142858
+2018-1,E07000220,Incivilities,1,1,1.0
+2018-1,E07000220,Other,2,2,1.0
+2018-1,E07000220,Public Space,1,1,1.0
+2018-1,E07000220,Road Safety & Defects,36,25,1.44
+2018-1,E07000220,Vehicles,1,1,1.0
+2018-1,E07000221,Access,7,7,1.0
+2018-1,E07000221,Environmental Disruptions,2,2,1.0
+2018-1,E07000221,Environmental Health,16,13,1.2307692307692308
+2018-1,E07000221,Other,6,4,1.5
+2018-1,E07000221,Road Safety & Defects,28,22,1.2727272727272727
+2018-1,E07000222,Abandoned Vehicles & Parking,4,4,1.0
+2018-1,E07000222,Access,3,3,1.0
+2018-1,E07000222,Environmental Disruptions,4,4,1.0
+2018-1,E07000222,Environmental Health,7,7,1.0
+2018-1,E07000222,Other,6,4,1.5
+2018-1,E07000222,Road Safety & Defects,30,23,1.3043478260869565
+2018-1,E07000222,Vehicles,1,1,1.0
+2018-1,E07000223,Environmental Health,1,1,1.0
+2018-1,E07000223,Incivilities,1,1,1.0
+2018-1,E07000223,Other,1,1,1.0
+2018-1,E07000223,Road Safety & Defects,13,9,1.4444444444444444
+2018-1,E07000223,Vehicles,2,2,1.0
+2018-1,E07000224,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000224,Environmental Disruptions,2,1,2.0
+2018-1,E07000224,Environmental Health,2,2,1.0
+2018-1,E07000224,Other,1,1,1.0
+2018-1,E07000224,Road Safety & Defects,12,11,1.0909090909090908
+2018-1,E07000224,Vehicles,3,3,1.0
+2018-1,E07000225,Environmental Disruptions,1,1,1.0
+2018-1,E07000225,Environmental Health,2,2,1.0
+2018-1,E07000225,Road Safety & Defects,38,30,1.2666666666666666
+2018-1,E07000225,Vehicles,2,2,1.0
+2018-1,E07000226,Other,1,1,1.0
+2018-1,E07000226,Road Safety & Defects,11,9,1.2222222222222223
+2018-1,E07000227,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000227,Environmental Health,4,3,1.3333333333333333
+2018-1,E07000227,Other,1,1,1.0
+2018-1,E07000227,Road Safety & Defects,30,21,1.4285714285714286
+2018-1,E07000227,Vehicles,1,1,1.0
+2018-1,E07000228,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000228,Environmental Disruptions,1,1,1.0
+2018-1,E07000228,Environmental Health,2,1,2.0
+2018-1,E07000228,Other,1,1,1.0
+2018-1,E07000228,Road Safety & Defects,39,29,1.3448275862068966
+2018-1,E07000228,Vehicles,1,1,1.0
+2018-1,E07000229,Abandoned Vehicles & Parking,5,4,1.25
+2018-1,E07000229,Environmental Disruptions,1,1,1.0
+2018-1,E07000229,Environmental Health,1,1,1.0
+2018-1,E07000229,Road Safety & Defects,12,10,1.2
+2018-1,E07000234,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000234,Environmental Health,7,4,1.75
+2018-1,E07000234,Road Safety & Defects,3,3,1.0
+2018-1,E07000235,Environmental Health,1,1,1.0
+2018-1,E07000235,Public Space,1,1,1.0
+2018-1,E07000236,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000236,Environmental Disruptions,1,1,1.0
+2018-1,E07000236,Environmental Health,3,3,1.0
+2018-1,E07000236,Public Space,1,1,1.0
+2018-1,E07000236,Road Safety & Defects,1,1,1.0
+2018-1,E07000237,Environmental Health,1,1,1.0
+2018-1,E07000237,Other,1,1,1.0
+2018-1,E07000237,Road Safety & Defects,1,1,1.0
+2018-1,E07000238,Environmental Health,2,2,1.0
+2018-1,E07000238,Other,2,2,1.0
+2018-1,E07000238,Road Safety & Defects,2,2,1.0
+2018-1,E07000238,Vehicles,1,1,1.0
+2018-1,E07000239,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000239,Road Safety & Defects,1,1,1.0
+2018-1,E07000240,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E07000240,Access,3,2,1.5
+2018-1,E07000240,Environmental Disruptions,2,2,1.0
+2018-1,E07000240,Environmental Health,19,13,1.4615384615384615
+2018-1,E07000240,Incivilities,1,1,1.0
+2018-1,E07000240,Other,4,4,1.0
+2018-1,E07000240,Road Safety & Defects,65,45,1.4444444444444444
+2018-1,E07000240,Vehicles,10,10,1.0
+2018-1,E07000241,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E07000241,Environmental Health,12,10,1.2
+2018-1,E07000241,Other,4,4,1.0
+2018-1,E07000241,Road Safety & Defects,41,29,1.4137931034482758
+2018-1,E07000241,Vehicles,4,4,1.0
+2018-1,E07000242,,2,2,1.0
+2018-1,E07000242,Access,3,3,1.0
+2018-1,E07000242,Environmental Disruptions,1,1,1.0
+2018-1,E07000242,Environmental Health,10,10,1.0
+2018-1,E07000242,Incivilities,1,1,1.0
+2018-1,E07000242,Other,4,4,1.0
+2018-1,E07000242,Road Safety & Defects,49,31,1.5806451612903225
+2018-1,E07000242,Vehicles,13,12,1.0833333333333333
+2018-1,E07000243,Environmental Disruptions,3,3,1.0
+2018-1,E07000243,Environmental Health,69,44,1.5681818181818181
+2018-1,E07000243,Incivilities,5,5,1.0
+2018-1,E07000243,Other,21,19,1.105263157894737
+2018-1,E07000243,Road Safety & Defects,48,35,1.3714285714285714
+2018-1,E07000243,Vehicles,10,10,1.0
+2018-1,E08000001,Environmental Disruptions,2,2,1.0
+2018-1,E08000001,Environmental Health,20,12,1.6666666666666667
+2018-1,E08000001,Incivilities,1,1,1.0
+2018-1,E08000001,Other,5,5,1.0
+2018-1,E08000001,Road Safety & Defects,49,35,1.4
+2018-1,E08000001,Vehicles,1,1,1.0
+2018-1,E08000002,Abandoned Vehicles & Parking,2,1,2.0
+2018-1,E08000002,Environmental Disruptions,1,1,1.0
+2018-1,E08000002,Environmental Health,6,5,1.2
+2018-1,E08000002,Incivilities,4,2,2.0
+2018-1,E08000002,Other,1,1,1.0
+2018-1,E08000002,Public Space,2,2,1.0
+2018-1,E08000002,Road Safety & Defects,93,41,2.268292682926829
+2018-1,E08000002,Vehicles,1,1,1.0
+2018-1,E08000003,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000003,Environmental Disruptions,2,2,1.0
+2018-1,E08000003,Environmental Health,73,43,1.697674418604651
+2018-1,E08000003,Incivilities,9,4,2.25
+2018-1,E08000003,Other,12,11,1.0909090909090908
+2018-1,E08000003,Public Space,6,3,2.0
+2018-1,E08000003,Road Safety & Defects,112,74,1.5135135135135136
+2018-1,E08000003,Vehicles,1,1,1.0
+2018-1,E08000004,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000004,Environmental Health,13,9,1.4444444444444444
+2018-1,E08000004,Incivilities,1,1,1.0
+2018-1,E08000004,Road Safety & Defects,32,23,1.391304347826087
+2018-1,E08000004,Vehicles,2,2,1.0
+2018-1,E08000005,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000005,Environmental Health,4,4,1.0
+2018-1,E08000005,Other,1,1,1.0
+2018-1,E08000005,Road Safety & Defects,24,18,1.3333333333333333
+2018-1,E08000005,Vehicles,2,2,1.0
+2018-1,E08000006,Other,4,4,1.0
+2018-1,E08000007,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000007,Environmental Health,6,6,1.0
+2018-1,E08000007,Other,1,1,1.0
+2018-1,E08000007,Road Safety & Defects,24,23,1.0434782608695652
+2018-1,E08000007,Vehicles,1,1,1.0
+2018-1,E08000008,Environmental Health,10,9,1.1111111111111112
+2018-1,E08000008,Other,4,4,1.0
+2018-1,E08000008,Road Safety & Defects,56,32,1.75
+2018-1,E08000008,Vehicles,1,1,1.0
+2018-1,E08000009,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000009,Environmental Health,46,27,1.7037037037037037
+2018-1,E08000009,Incivilities,5,2,2.5
+2018-1,E08000009,Other,3,3,1.0
+2018-1,E08000009,Public Space,2,2,1.0
+2018-1,E08000009,Road Safety & Defects,92,68,1.3529411764705883
+2018-1,E08000009,Vehicles,2,2,1.0
+2018-1,E08000010,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000010,Environmental Disruptions,1,1,1.0
+2018-1,E08000010,Environmental Health,2,2,1.0
+2018-1,E08000010,Road Safety & Defects,27,22,1.2272727272727273
+2018-1,E08000011,Environmental Health,7,5,1.4
+2018-1,E08000011,Other,2,2,1.0
+2018-1,E08000011,Public Space,1,1,1.0
+2018-1,E08000011,Road Safety & Defects,12,10,1.2
+2018-1,E08000011,Vehicles,1,1,1.0
+2018-1,E08000012,Abandoned Vehicles & Parking,7,3,2.3333333333333335
+2018-1,E08000012,Environmental Health,23,12,1.9166666666666667
+2018-1,E08000012,Incivilities,2,2,1.0
+2018-1,E08000012,Other,4,4,1.0
+2018-1,E08000012,Public Space,1,1,1.0
+2018-1,E08000012,Road Safety & Defects,62,34,1.8235294117647058
+2018-1,E08000013,Environmental Health,2,2,1.0
+2018-1,E08000013,Other,2,2,1.0
+2018-1,E08000013,Road Safety & Defects,19,14,1.3571428571428572
+2018-1,E08000014,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E08000014,Environmental Disruptions,3,3,1.0
+2018-1,E08000014,Environmental Health,2,2,1.0
+2018-1,E08000014,Other,1,1,1.0
+2018-1,E08000014,Road Safety & Defects,22,21,1.0476190476190477
+2018-1,E08000014,Vehicles,1,1,1.0
+2018-1,E08000015,Environmental Disruptions,2,2,1.0
+2018-1,E08000015,Environmental Health,11,10,1.1
+2018-1,E08000015,Other,3,3,1.0
+2018-1,E08000015,Road Safety & Defects,30,24,1.25
+2018-1,E08000015,Vehicles,2,2,1.0
+2018-1,E08000016,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E08000016,Environmental Disruptions,2,2,1.0
+2018-1,E08000016,Environmental Health,22,15,1.4666666666666666
+2018-1,E08000016,Other,9,9,1.0
+2018-1,E08000016,Road Safety & Defects,64,34,1.8823529411764706
+2018-1,E08000016,Vehicles,3,3,1.0
+2018-1,E08000017,Environmental Health,26,7,3.7142857142857144
+2018-1,E08000017,Other,1,1,1.0
+2018-1,E08000017,Road Safety & Defects,17,13,1.3076923076923077
+2018-1,E08000018,Environmental Health,24,14,1.7142857142857142
+2018-1,E08000018,Incivilities,1,1,1.0
+2018-1,E08000018,Other,1,1,1.0
+2018-1,E08000018,Road Safety & Defects,39,24,1.625
+2018-1,E08000018,Vehicles,2,2,1.0
+2018-1,E08000019,Abandoned Vehicles & Parking,7,7,1.0
+2018-1,E08000019,Environmental Disruptions,5,4,1.25
+2018-1,E08000019,Environmental Health,116,70,1.6571428571428573
+2018-1,E08000019,Incivilities,7,7,1.0
+2018-1,E08000019,Other,24,23,1.0434782608695652
+2018-1,E08000019,Public Space,2,2,1.0
+2018-1,E08000019,Road Safety & Defects,125,71,1.7605633802816902
+2018-1,E08000019,Vehicles,8,7,1.1428571428571428
+2018-1,E08000021,Environmental Disruptions,1,1,1.0
+2018-1,E08000021,Environmental Health,17,14,1.2142857142857142
+2018-1,E08000021,Incivilities,2,2,1.0
+2018-1,E08000021,Other,4,4,1.0
+2018-1,E08000021,Public Space,1,1,1.0
+2018-1,E08000021,Road Safety & Defects,13,11,1.1818181818181819
+2018-1,E08000022,Environmental Health,7,6,1.1666666666666667
+2018-1,E08000022,Incivilities,2,2,1.0
+2018-1,E08000022,Other,1,1,1.0
+2018-1,E08000022,Road Safety & Defects,8,7,1.1428571428571428
+2018-1,E08000023,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000023,Environmental Health,2,2,1.0
+2018-1,E08000023,Road Safety & Defects,8,6,1.3333333333333333
+2018-1,E08000024,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E08000024,Environmental Disruptions,1,1,1.0
+2018-1,E08000024,Environmental Health,26,17,1.5294117647058822
+2018-1,E08000024,Other,2,2,1.0
+2018-1,E08000024,Public Space,3,2,1.5
+2018-1,E08000024,Road Safety & Defects,6,6,1.0
+2018-1,E08000025,Abandoned Vehicles & Parking,21,19,1.105263157894737
+2018-1,E08000025,Environmental Disruptions,4,4,1.0
+2018-1,E08000025,Environmental Health,141,69,2.0434782608695654
+2018-1,E08000025,Incivilities,17,6,2.8333333333333335
+2018-1,E08000025,Other,20,14,1.4285714285714286
+2018-1,E08000025,Public Space,2,2,1.0
+2018-1,E08000025,Road Safety & Defects,140,72,1.9444444444444444
+2018-1,E08000025,Vehicles,21,18,1.1666666666666667
+2018-1,E08000026,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E08000026,Environmental Disruptions,7,6,1.1666666666666667
+2018-1,E08000026,Environmental Health,16,11,1.4545454545454546
+2018-1,E08000026,Other,2,2,1.0
+2018-1,E08000026,Road Safety & Defects,24,19,1.263157894736842
+2018-1,E08000026,Vehicles,2,2,1.0
+2018-1,E08000027,Abandoned Vehicles & Parking,3,2,1.5
+2018-1,E08000027,Environmental Disruptions,1,1,1.0
+2018-1,E08000027,Environmental Health,9,7,1.2857142857142858
+2018-1,E08000027,Other,3,3,1.0
+2018-1,E08000027,Road Safety & Defects,19,17,1.1176470588235294
+2018-1,E08000027,Vehicles,3,2,1.5
+2018-1,E08000028,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E08000028,Environmental Health,2,2,1.0
+2018-1,E08000028,Other,1,1,1.0
+2018-1,E08000028,Road Safety & Defects,8,4,2.0
+2018-1,E08000028,Vehicles,1,1,1.0
+2018-1,E08000029,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E08000029,Environmental Disruptions,2,2,1.0
+2018-1,E08000029,Environmental Health,9,9,1.0
+2018-1,E08000029,Other,4,4,1.0
+2018-1,E08000029,Public Space,1,1,1.0
+2018-1,E08000029,Road Safety & Defects,32,27,1.1851851851851851
+2018-1,E08000030,Abandoned Vehicles & Parking,11,10,1.1
+2018-1,E08000030,Environmental Disruptions,1,1,1.0
+2018-1,E08000030,Environmental Health,13,12,1.0833333333333333
+2018-1,E08000030,Public Space,1,1,1.0
+2018-1,E08000030,Road Safety & Defects,20,15,1.3333333333333333
+2018-1,E08000031,Environmental Health,9,3,3.0
+2018-1,E08000031,Other,3,3,1.0
+2018-1,E08000031,Road Safety & Defects,20,10,2.0
+2018-1,E08000031,Vehicles,1,1,1.0
+2018-1,E08000032,Abandoned Vehicles & Parking,7,5,1.4
+2018-1,E08000032,Environmental Disruptions,1,1,1.0
+2018-1,E08000032,Environmental Health,17,7,2.4285714285714284
+2018-1,E08000032,Incivilities,1,1,1.0
+2018-1,E08000032,Other,4,3,1.3333333333333333
+2018-1,E08000032,Public Space,1,1,1.0
+2018-1,E08000032,Road Safety & Defects,52,43,1.2093023255813953
+2018-1,E08000032,Vehicles,3,2,1.5
+2018-1,E08000033,Environmental Health,1,1,1.0
+2018-1,E08000033,Other,3,2,1.5
+2018-1,E08000033,Road Safety & Defects,15,11,1.3636363636363635
+2018-1,E08000034,Environmental Health,4,4,1.0
+2018-1,E08000034,Other,2,1,2.0
+2018-1,E08000034,Road Safety & Defects,15,11,1.3636363636363635
+2018-1,E08000034,Vehicles,1,1,1.0
+2018-1,E08000035,Abandoned Vehicles & Parking,13,12,1.0833333333333333
+2018-1,E08000035,Environmental Disruptions,4,4,1.0
+2018-1,E08000035,Environmental Health,19,17,1.1176470588235294
+2018-1,E08000035,Incivilities,2,2,1.0
+2018-1,E08000035,Other,8,7,1.1428571428571428
+2018-1,E08000035,Public Space,1,1,1.0
+2018-1,E08000035,Road Safety & Defects,14,14,1.0
+2018-1,E08000035,Vehicles,6,6,1.0
+2018-1,E08000036,Abandoned Vehicles & Parking,5,5,1.0
+2018-1,E08000036,Environmental Disruptions,1,1,1.0
+2018-1,E08000036,Environmental Health,7,5,1.4
+2018-1,E08000036,Other,3,1,3.0
+2018-1,E08000036,Public Space,1,1,1.0
+2018-1,E08000036,Road Safety & Defects,25,23,1.0869565217391304
+2018-1,E08000037,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,E08000037,Environmental Health,5,5,1.0
+2018-1,E08000037,Other,1,1,1.0
+2018-1,E08000037,Road Safety & Defects,9,9,1.0
+2018-1,E09000001,Environmental Health,1,1,1.0
+2018-1,E09000001,Incivilities,2,2,1.0
+2018-1,E09000001,Road Safety & Defects,8,7,1.1428571428571428
+2018-1,E09000002,Environmental Health,9,7,1.2857142857142858
+2018-1,E09000002,Public Space,2,2,1.0
+2018-1,E09000002,Road Safety & Defects,10,8,1.25
+2018-1,E09000002,Vehicles,3,3,1.0
+2018-1,E09000003,Environmental Disruptions,6,5,1.2
+2018-1,E09000003,Environmental Health,125,71,1.7605633802816902
+2018-1,E09000003,Incivilities,4,4,1.0
+2018-1,E09000003,Road Safety & Defects,159,99,1.606060606060606
+2018-1,E09000003,Vehicles,15,14,1.0714285714285714
+2018-1,E09000004,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000004,Environmental Disruptions,2,2,1.0
+2018-1,E09000004,Environmental Health,13,13,1.0
+2018-1,E09000004,Incivilities,6,4,1.5
+2018-1,E09000004,Other,1,1,1.0
+2018-1,E09000004,Road Safety & Defects,43,17,2.5294117647058822
+2018-1,E09000004,Vehicles,5,3,1.6666666666666667
+2018-1,E09000005,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000005,Environmental Health,14,10,1.4
+2018-1,E09000005,Incivilities,1,1,1.0
+2018-1,E09000005,Other,10,4,2.5
+2018-1,E09000005,Road Safety & Defects,31,18,1.7222222222222223
+2018-1,E09000005,Vehicles,1,1,1.0
+2018-1,E09000006,Access,27,24,1.125
+2018-1,E09000006,Environmental Disruptions,51,41,1.2439024390243902
+2018-1,E09000006,Environmental Health,344,190,1.8105263157894738
+2018-1,E09000006,Incivilities,51,17,3.0
+2018-1,E09000006,Other,1,1,1.0
+2018-1,E09000006,Road Safety & Defects,263,125,2.104
+2018-1,E09000006,Vehicles,28,26,1.0769230769230769
+2018-1,E09000007,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E09000007,Environmental Health,12,7,1.7142857142857142
+2018-1,E09000007,Incivilities,4,2,2.0
+2018-1,E09000007,Other,5,5,1.0
+2018-1,E09000007,Public Space,1,1,1.0
+2018-1,E09000007,Road Safety & Defects,26,13,2.0
+2018-1,E09000007,Vehicles,1,1,1.0
+2018-1,E09000008,Abandoned Vehicles & Parking,10,5,2.0
+2018-1,E09000008,Environmental Disruptions,4,4,1.0
+2018-1,E09000008,Environmental Health,46,27,1.7037037037037037
+2018-1,E09000008,Incivilities,5,2,2.5
+2018-1,E09000008,Other,1,1,1.0
+2018-1,E09000008,Public Space,1,1,1.0
+2018-1,E09000008,Road Safety & Defects,45,33,1.3636363636363635
+2018-1,E09000008,Vehicles,9,8,1.125
+2018-1,E09000009,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000009,Environmental Disruptions,1,1,1.0
+2018-1,E09000009,Environmental Health,9,8,1.125
+2018-1,E09000009,Incivilities,1,1,1.0
+2018-1,E09000009,Other,1,1,1.0
+2018-1,E09000009,Road Safety & Defects,14,13,1.0769230769230769
+2018-1,E09000009,Vehicles,2,2,1.0
+2018-1,E09000010,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000010,Environmental Health,44,16,2.75
+2018-1,E09000010,Incivilities,1,1,1.0
+2018-1,E09000010,Other,11,7,1.5714285714285714
+2018-1,E09000010,Public Space,1,1,1.0
+2018-1,E09000010,Road Safety & Defects,26,20,1.3
+2018-1,E09000010,Vehicles,7,7,1.0
+2018-1,E09000011,Abandoned Vehicles & Parking,5,5,1.0
+2018-1,E09000011,Environmental Disruptions,3,3,1.0
+2018-1,E09000011,Environmental Health,77,60,1.2833333333333334
+2018-1,E09000011,Incivilities,5,5,1.0
+2018-1,E09000011,Other,11,11,1.0
+2018-1,E09000011,Road Safety & Defects,47,42,1.119047619047619
+2018-1,E09000011,Vehicles,3,3,1.0
+2018-1,E09000012,Environmental Health,6,4,1.5
+2018-1,E09000012,Other,2,2,1.0
+2018-1,E09000012,Road Safety & Defects,21,16,1.3125
+2018-1,E09000012,Vehicles,4,4,1.0
+2018-1,E09000013,Environmental Health,6,5,1.2
+2018-1,E09000013,Road Safety & Defects,8,8,1.0
+2018-1,E09000013,Vehicles,1,1,1.0
+2018-1,E09000014,Environmental Disruptions,1,1,1.0
+2018-1,E09000014,Environmental Health,31,12,2.5833333333333335
+2018-1,E09000014,Incivilities,1,1,1.0
+2018-1,E09000014,Other,1,1,1.0
+2018-1,E09000014,Road Safety & Defects,29,21,1.380952380952381
+2018-1,E09000014,Vehicles,4,3,1.3333333333333333
+2018-1,E09000015,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000015,Environmental Disruptions,1,1,1.0
+2018-1,E09000015,Environmental Health,15,11,1.3636363636363635
+2018-1,E09000015,Incivilities,2,2,1.0
+2018-1,E09000015,Other,6,3,2.0
+2018-1,E09000015,Road Safety & Defects,21,15,1.4
+2018-1,E09000015,Vehicles,3,3,1.0
+2018-1,E09000016,Environmental Disruptions,1,1,1.0
+2018-1,E09000016,Road Safety & Defects,1,1,1.0
+2018-1,E09000017,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000017,Environmental Health,8,6,1.3333333333333333
+2018-1,E09000017,Other,3,3,1.0
+2018-1,E09000017,Public Space,2,2,1.0
+2018-1,E09000017,Road Safety & Defects,36,26,1.3846153846153846
+2018-1,E09000017,Vehicles,5,5,1.0
+2018-1,E09000018,Abandoned Vehicles & Parking,8,7,1.1428571428571428
+2018-1,E09000018,Environmental Disruptions,2,2,1.0
+2018-1,E09000018,Environmental Health,93,35,2.657142857142857
+2018-1,E09000018,Incivilities,4,4,1.0
+2018-1,E09000018,Other,3,3,1.0
+2018-1,E09000018,Road Safety & Defects,32,20,1.6
+2018-1,E09000018,Vehicles,4,4,1.0
+2018-1,E09000019,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000019,Environmental Health,1,1,1.0
+2018-1,E09000019,Incivilities,1,1,1.0
+2018-1,E09000019,Other,1,1,1.0
+2018-1,E09000019,Road Safety & Defects,17,13,1.3076923076923077
+2018-1,E09000019,Vehicles,6,2,3.0
+2018-1,E09000020,Environmental Health,1,1,1.0
+2018-1,E09000020,Other,1,1,1.0
+2018-1,E09000020,Road Safety & Defects,3,3,1.0
+2018-1,E09000021,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000021,Environmental Disruptions,1,1,1.0
+2018-1,E09000021,Environmental Health,19,11,1.7272727272727273
+2018-1,E09000021,Incivilities,2,2,1.0
+2018-1,E09000021,Other,5,5,1.0
+2018-1,E09000021,Public Space,2,2,1.0
+2018-1,E09000021,Road Safety & Defects,35,17,2.0588235294117645
+2018-1,E09000021,Vehicles,2,2,1.0
+2018-1,E09000022,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,E09000022,Environmental Disruptions,5,4,1.25
+2018-1,E09000022,Environmental Health,33,14,2.357142857142857
+2018-1,E09000022,Incivilities,2,2,1.0
+2018-1,E09000022,Other,12,9,1.3333333333333333
+2018-1,E09000022,Road Safety & Defects,39,27,1.4444444444444444
+2018-1,E09000022,Vehicles,11,10,1.1
+2018-1,E09000023,Abandoned Vehicles & Parking,13,9,1.4444444444444444
+2018-1,E09000023,Access,1,1,1.0
+2018-1,E09000023,Environmental Disruptions,14,13,1.0769230769230769
+2018-1,E09000023,Environmental Health,839,349,2.4040114613180514
+2018-1,E09000023,Incivilities,54,31,1.7419354838709677
+2018-1,E09000023,Other,13,9,1.4444444444444444
+2018-1,E09000023,Public Space,20,13,1.5384615384615385
+2018-1,E09000023,Road Safety & Defects,122,86,1.4186046511627908
+2018-1,E09000023,Vehicles,48,37,1.2972972972972974
+2018-1,E09000024,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000024,Road Safety & Defects,2,2,1.0
+2018-1,E09000025,Environmental Disruptions,5,2,2.5
+2018-1,E09000025,Public Space,6,4,1.5
+2018-1,E09000025,Road Safety & Defects,2,2,1.0
+2018-1,E09000026,Environmental Disruptions,2,2,1.0
+2018-1,E09000026,Other,1,1,1.0
+2018-1,E09000027,Environmental Health,7,6,1.1666666666666667
+2018-1,E09000027,Other,3,3,1.0
+2018-1,E09000027,Road Safety & Defects,27,17,1.588235294117647
+2018-1,E09000027,Vehicles,3,3,1.0
+2018-1,E09000028,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000028,Environmental Health,9,7,1.2857142857142858
+2018-1,E09000028,Incivilities,4,1,4.0
+2018-1,E09000028,Other,6,6,1.0
+2018-1,E09000028,Road Safety & Defects,33,26,1.2692307692307692
+2018-1,E09000028,Vehicles,3,3,1.0
+2018-1,E09000029,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000029,Environmental Health,20,11,1.8181818181818181
+2018-1,E09000029,Incivilities,10,3,3.3333333333333335
+2018-1,E09000029,Other,1,1,1.0
+2018-1,E09000029,Road Safety & Defects,21,7,3.0
+2018-1,E09000029,Vehicles,2,2,1.0
+2018-1,E09000030,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000030,Environmental Health,17,12,1.4166666666666667
+2018-1,E09000030,Other,1,1,1.0
+2018-1,E09000030,Road Safety & Defects,15,10,1.5
+2018-1,E09000030,Vehicles,2,1,2.0
+2018-1,E09000031,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000031,Environmental Disruptions,4,3,1.3333333333333333
+2018-1,E09000031,Environmental Health,18,13,1.3846153846153846
+2018-1,E09000031,Other,4,4,1.0
+2018-1,E09000031,Road Safety & Defects,18,13,1.3846153846153846
+2018-1,E09000031,Vehicles,4,4,1.0
+2018-1,E09000032,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,E09000032,Environmental Health,15,9,1.6666666666666667
+2018-1,E09000032,Incivilities,1,1,1.0
+2018-1,E09000032,Other,9,7,1.2857142857142858
+2018-1,E09000032,Public Space,1,1,1.0
+2018-1,E09000032,Road Safety & Defects,23,18,1.2777777777777777
+2018-1,E09000032,Vehicles,1,1,1.0
+2018-1,E09000033,Environmental Health,2,2,1.0
+2018-1,E09000033,Other,1,1,1.0
+2018-1,E09000033,Road Safety & Defects,19,14,1.3571428571428572
+2018-1,E09000033,Vehicles,1,1,1.0
+2018-1,S12000006,Environmental Disruptions,4,1,4.0
+2018-1,S12000006,Environmental Health,2,2,1.0
+2018-1,S12000006,Other,5,3,1.6666666666666667
+2018-1,S12000006,Road Safety & Defects,49,20,2.45
+2018-1,S12000008,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,S12000008,Environmental Health,2,2,1.0
+2018-1,S12000008,Other,5,5,1.0
+2018-1,S12000008,Road Safety & Defects,105,48,2.1875
+2018-1,S12000008,Vehicles,1,1,1.0
+2018-1,S12000010,Environmental Health,7,2,3.5
+2018-1,S12000010,Public Space,1,1,1.0
+2018-1,S12000010,Road Safety & Defects,6,6,1.0
+2018-1,S12000010,Vehicles,1,1,1.0
+2018-1,S12000011,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000011,Environmental Health,1,1,1.0
+2018-1,S12000011,Road Safety & Defects,47,21,2.238095238095238
+2018-1,S12000014,Road Safety & Defects,2,2,1.0
+2018-1,S12000015,Environmental Disruptions,2,2,1.0
+2018-1,S12000015,Environmental Health,36,3,12.0
+2018-1,S12000015,Road Safety & Defects,46,26,1.7692307692307692
+2018-1,S12000017,Road Safety & Defects,63,41,1.5365853658536586
+2018-1,S12000018,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000018,Environmental Disruptions,1,1,1.0
+2018-1,S12000018,Road Safety & Defects,6,6,1.0
+2018-1,S12000019,Environmental Health,1,1,1.0
+2018-1,S12000019,Road Safety & Defects,6,6,1.0
+2018-1,S12000020,Road Safety & Defects,3,3,1.0
+2018-1,S12000021,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000021,Access,1,1,1.0
+2018-1,S12000021,Environmental Health,4,4,1.0
+2018-1,S12000021,Other,1,1,1.0
+2018-1,S12000021,Road Safety & Defects,62,29,2.1379310344827585
+2018-1,S12000024,Public Space,1,1,1.0
+2018-1,S12000024,Road Safety & Defects,18,13,1.3846153846153846
+2018-1,S12000026,Environmental Health,1,1,1.0
+2018-1,S12000026,Other,1,1,1.0
+2018-1,S12000026,Road Safety & Defects,18,11,1.6363636363636365
+2018-1,S12000028,Environmental Health,6,2,3.0
+2018-1,S12000028,Road Safety & Defects,41,17,2.411764705882353
+2018-1,S12000029,Other,1,1,1.0
+2018-1,S12000030,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000030,Environmental Health,3,2,1.5
+2018-1,S12000030,Road Safety & Defects,24,17,1.411764705882353
+2018-1,S12000033,Environmental Disruptions,1,1,1.0
+2018-1,S12000033,Incivilities,1,1,1.0
+2018-1,S12000033,Road Safety & Defects,76,27,2.814814814814815
+2018-1,S12000034,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000034,Environmental Disruptions,1,1,1.0
+2018-1,S12000034,Environmental Health,6,6,1.0
+2018-1,S12000034,Other,1,1,1.0
+2018-1,S12000034,Public Space,1,1,1.0
+2018-1,S12000034,Road Safety & Defects,68,46,1.4782608695652173
+2018-1,S12000035,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000035,Environmental Health,1,1,1.0
+2018-1,S12000035,Other,1,1,1.0
+2018-1,S12000035,Road Safety & Defects,56,24,2.3333333333333335
+2018-1,S12000036,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,S12000036,Environmental Disruptions,4,3,1.3333333333333333
+2018-1,S12000036,Environmental Health,84,37,2.27027027027027
+2018-1,S12000036,Other,17,9,1.8888888888888888
+2018-1,S12000036,Public Space,1,1,1.0
+2018-1,S12000036,Road Safety & Defects,175,77,2.272727272727273
+2018-1,S12000036,Vehicles,2,2,1.0
+2018-1,S12000038,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000038,Environmental Disruptions,4,4,1.0
+2018-1,S12000038,Environmental Health,11,9,1.2222222222222223
+2018-1,S12000038,Other,4,4,1.0
+2018-1,S12000038,Public Space,1,1,1.0
+2018-1,S12000038,Road Safety & Defects,437,195,2.241025641025641
+2018-1,S12000038,Vehicles,6,6,1.0
+2018-1,S12000039,Environmental Health,2,2,1.0
+2018-1,S12000039,Road Safety & Defects,16,10,1.6
+2018-1,S12000040,Environmental Health,5,5,1.0
+2018-1,S12000040,Other,2,2,1.0
+2018-1,S12000040,Road Safety & Defects,23,18,1.2777777777777777
+2018-1,S12000040,Vehicles,1,1,1.0
+2018-1,S12000041,Environmental Health,42,22,1.9090909090909092
+2018-1,S12000041,Other,6,2,3.0
+2018-1,S12000041,Road Safety & Defects,24,19,1.263157894736842
+2018-1,S12000041,Vehicles,1,1,1.0
+2018-1,S12000042,Abandoned Vehicles & Parking,4,4,1.0
+2018-1,S12000042,Environmental Disruptions,2,1,2.0
+2018-1,S12000042,Other,1,1,1.0
+2018-1,S12000042,Road Safety & Defects,31,16,1.9375
+2018-1,S12000042,Vehicles,1,1,1.0
+2018-1,S12000044,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,S12000044,Environmental Health,6,6,1.0
+2018-1,S12000044,Other,1,1,1.0
+2018-1,S12000044,Road Safety & Defects,31,20,1.55
+2018-1,S12000045,Road Safety & Defects,23,16,1.4375
+2018-1,S12000046,Abandoned Vehicles & Parking,7,7,1.0
+2018-1,S12000046,Environmental Disruptions,1,1,1.0
+2018-1,S12000046,Environmental Health,28,20,1.4
+2018-1,S12000046,Incivilities,1,1,1.0
+2018-1,S12000046,Other,11,10,1.1
+2018-1,S12000046,Public Space,8,5,1.6
+2018-1,S12000046,Road Safety & Defects,166,117,1.4188034188034189
+2018-1,S12000046,Vehicles,3,3,1.0
+2018-1,W06000001,Environmental Health,1,1,1.0
+2018-1,W06000001,Road Safety & Defects,5,5,1.0
+2018-1,W06000002,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,W06000002,Environmental Health,2,1,2.0
+2018-1,W06000002,Other,2,2,1.0
+2018-1,W06000002,Road Safety & Defects,3,3,1.0
+2018-1,W06000003,Abandoned Vehicles & Parking,2,1,2.0
+2018-1,W06000003,Environmental Disruptions,2,1,2.0
+2018-1,W06000003,Environmental Health,6,5,1.2
+2018-1,W06000003,Other,2,2,1.0
+2018-1,W06000003,Road Safety & Defects,15,13,1.1538461538461537
+2018-1,W06000003,Vehicles,1,1,1.0
+2018-1,W06000004,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,W06000004,Environmental Health,1,1,1.0
+2018-1,W06000004,Road Safety & Defects,20,8,2.5
+2018-1,W06000004,Vehicles,1,1,1.0
+2018-1,W06000005,Abandoned Vehicles & Parking,4,3,1.3333333333333333
+2018-1,W06000005,Access,1,1,1.0
+2018-1,W06000005,Environmental Disruptions,1,1,1.0
+2018-1,W06000005,Environmental Health,14,4,3.5
+2018-1,W06000005,Other,3,2,1.5
+2018-1,W06000005,Road Safety & Defects,30,14,2.142857142857143
+2018-1,W06000006,Other,1,1,1.0
+2018-1,W06000006,Road Safety & Defects,29,24,1.2083333333333333
+2018-1,W06000008,Environmental Disruptions,1,1,1.0
+2018-1,W06000008,Environmental Health,4,4,1.0
+2018-1,W06000008,Incivilities,1,1,1.0
+2018-1,W06000008,Other,2,2,1.0
+2018-1,W06000008,Road Safety & Defects,16,10,1.6
+2018-1,W06000008,Vehicles,2,2,1.0
+2018-1,W06000009,Environmental Disruptions,1,1,1.0
+2018-1,W06000009,Environmental Health,2,2,1.0
+2018-1,W06000009,Other,1,1,1.0
+2018-1,W06000009,Road Safety & Defects,15,10,1.5
+2018-1,W06000009,Vehicles,1,1,1.0
+2018-1,W06000010,Environmental Disruptions,1,1,1.0
+2018-1,W06000010,Environmental Health,5,5,1.0
+2018-1,W06000010,Road Safety & Defects,15,10,1.5
+2018-1,W06000011,Abandoned Vehicles & Parking,5,3,1.6666666666666667
+2018-1,W06000011,Environmental Health,3,3,1.0
+2018-1,W06000011,Other,2,2,1.0
+2018-1,W06000011,Road Safety & Defects,7,7,1.0
+2018-1,W06000011,Vehicles,2,2,1.0
+2018-1,W06000012,Abandoned Vehicles & Parking,2,2,1.0
+2018-1,W06000012,Environmental Disruptions,1,1,1.0
+2018-1,W06000012,Environmental Health,1,1,1.0
+2018-1,W06000012,Road Safety & Defects,3,3,1.0
+2018-1,W06000013,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,W06000013,Environmental Disruptions,1,1,1.0
+2018-1,W06000013,Environmental Health,28,18,1.5555555555555556
+2018-1,W06000013,Other,1,1,1.0
+2018-1,W06000013,Road Safety & Defects,48,37,1.2972972972972974
+2018-1,W06000013,Vehicles,2,2,1.0
+2018-1,W06000014,Environmental Disruptions,1,1,1.0
+2018-1,W06000014,Environmental Health,5,4,1.25
+2018-1,W06000014,Road Safety & Defects,15,9,1.6666666666666667
+2018-1,W06000014,Vehicles,1,1,1.0
+2018-1,W06000015,Abandoned Vehicles & Parking,6,5,1.2
+2018-1,W06000015,Environmental Disruptions,2,2,1.0
+2018-1,W06000015,Environmental Health,37,29,1.2758620689655173
+2018-1,W06000015,Incivilities,5,4,1.25
+2018-1,W06000015,Other,3,2,1.5
+2018-1,W06000015,Public Space,5,3,1.6666666666666667
+2018-1,W06000015,Road Safety & Defects,124,76,1.631578947368421
+2018-1,W06000016,Abandoned Vehicles & Parking,3,2,1.5
+2018-1,W06000016,Environmental Health,2,1,2.0
+2018-1,W06000016,Other,1,1,1.0
+2018-1,W06000016,Road Safety & Defects,6,5,1.2
+2018-1,W06000018,Environmental Disruptions,2,1,2.0
+2018-1,W06000018,Environmental Health,5,5,1.0
+2018-1,W06000018,Other,1,1,1.0
+2018-1,W06000018,Road Safety & Defects,8,6,1.3333333333333333
+2018-1,W06000018,Vehicles,2,2,1.0
+2018-1,W06000019,Other,2,1,2.0
+2018-1,W06000019,Road Safety & Defects,5,4,1.25
+2018-1,W06000020,Environmental Health,1,1,1.0
+2018-1,W06000020,Road Safety & Defects,3,3,1.0
+2018-1,W06000021,Environmental Disruptions,1,1,1.0
+2018-1,W06000021,Environmental Health,3,3,1.0
+2018-1,W06000021,Other,3,3,1.0
+2018-1,W06000021,Public Space,1,1,1.0
+2018-1,W06000021,Road Safety & Defects,22,13,1.6923076923076923
+2018-1,W06000022,Abandoned Vehicles & Parking,3,3,1.0
+2018-1,W06000022,Environmental Health,15,9,1.6666666666666667
+2018-1,W06000022,Incivilities,2,2,1.0
+2018-1,W06000022,Other,4,2,2.0
+2018-1,W06000022,Public Space,2,2,1.0
+2018-1,W06000022,Road Safety & Defects,11,8,1.375
+2018-1,W06000022,Vehicles,1,1,1.0
+2018-1,W06000023,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,W06000023,Environmental Disruptions,3,3,1.0
+2018-1,W06000023,Environmental Health,2,2,1.0
+2018-1,W06000023,Other,4,2,2.0
+2018-1,W06000023,Road Safety & Defects,12,8,1.5
+2018-1,W06000024,Environmental Health,3,3,1.0
+2018-1,W06000024,Road Safety & Defects,22,15,1.4666666666666666
+2018-1,,Abandoned Vehicles & Parking,1,1,1.0
+2018-1,,Environmental Disruptions,2,2,1.0
+2018-1,,Environmental Health,11,9,1.2222222222222223
+2018-1,,Incivilities,1,1,1.0
+2018-1,,Other,6,5,1.2
+2018-1,,Road Safety & Defects,65,62,1.0483870967741935
+2018-1,,Vehicles,4,4,1.0

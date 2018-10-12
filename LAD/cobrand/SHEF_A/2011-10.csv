@@ -1,0 +1,30 @@
+period,LAD,SHEF_A,report_count,user_count,average
+2011-10,E06000045,Dog Fouling,2,2,1.0
+2011-10,E06000045,Fly-tipping,10,8,1.25
+2011-10,E06000045,Flyposting,1,1,1.0
+2011-10,E06000045,Graffiti,3,3,1.0
+2011-10,E06000045,Grass/Weed Control,1,1,1.0
+2011-10,E06000045,Highway Condition,13,13,1.0
+2011-10,E06000045,Litter/Litter Bin,8,8,1.0
+2011-10,E06000045,Other,7,7,1.0
+2011-10,E06000045,Overgrown Vegetation,18,11,1.6363636363636365
+2011-10,E06000045,Pavement /Footway Defects,15,11,1.3636363636363635
+2011-10,E06000045,Potholes,10,10,1.0
+2011-10,E06000045,Street Cleaning,4,4,1.0
+2011-10,E06000045,Street Name Plates,2,2,1.0
+2011-10,E06000045,Street Signs,2,2,1.0
+2011-10,E09000003,Blocked Drains,2,2,1.0
+2011-10,E09000003,Dangerous Building/Structure,1,1,1.0
+2011-10,E09000003,Dumped Rubbish,11,9,1.2222222222222223
+2011-10,E09000003,Fallen/Dangerous Trees,4,4,1.0
+2011-10,E09000003,Flyposting,1,1,1.0
+2011-10,E09000003,Gritting,1,1,1.0
+2011-10,E09000003,Parking,3,3,1.0
+2011-10,E09000003,Road/Pavement Defects,70,56,1.25
+2011-10,E09000003,Street Cleaning,4,4,1.0
+2011-10,E09000003,Street Furniture,3,3,1.0
+2011-10,E09000003,Street Lights,21,20,1.05
+2011-10,E09000003,Street Signs,9,8,1.125
+2011-10,E09000003,Traffic Lights,1,1,1.0
+2011-10,,Highway Condition,1,1,1.0
+2011-10,,Litter/Litter Bin,1,1,1.0

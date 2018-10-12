@@ -1,0 +1,15 @@
+period,LAD,SHEF_C,report_count,user_count,average
+2010-7,E08000035,Environmental Health,1,1,1.0
+2010-7,E09000003,Abandoned Vehicles & Parking,2,2,1.0
+2010-7,E09000003,Environmental Disruptions,9,7,1.2857142857142858
+2010-7,E09000003,Environmental Health,6,6,1.0
+2010-7,E09000003,Other,11,10,1.1
+2010-7,E09000003,Road Safety & Defects,80,74,1.0810810810810811
+2010-7,S12000036,Incivilities,2,1,2.0
+2010-7,S12000036,Other,1,1,1.0
+2010-7,S12000036,Road Safety & Defects,1,1,1.0
+2010-7,W06000015,Abandoned Vehicles & Parking,3,3,1.0
+2010-7,W06000015,Environmental Health,4,4,1.0
+2010-7,W06000015,Other,1,1,1.0
+2010-7,W06000015,Public Space,1,1,1.0
+2010-7,W06000015,Road Safety & Defects,3,2,1.5

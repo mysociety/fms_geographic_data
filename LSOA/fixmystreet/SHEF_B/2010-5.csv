@@ -1,0 +1,3357 @@
+period,LSOA,SHEF_B,report_count,user_count,average
+2010-5,E01000005,Road Surface Defects,1,1,1.0
+2010-5,E01000006,Road Surface Defects,1,1,1.0
+2010-5,E01000012,Road Surface Defects,1,1,1.0
+2010-5,E01000044,Street Lights,1,1,1.0
+2010-5,E01000060,Open Spaces/Parks,1,1,1.0
+2010-5,E01000100,Road Surface Defects,1,1,1.0
+2010-5,E01000115,Other,2,1,2.0
+2010-5,E01000115,Road Surface Defects,1,1,1.0
+2010-5,E01000119,Rubbish,1,1,1.0
+2010-5,E01000123,Rubbish,1,1,1.0
+2010-5,E01000126,Rubbish,1,1,1.0
+2010-5,E01000129,Highways Enquiries,1,1,1.0
+2010-5,E01000137,Other,1,1,1.0
+2010-5,E01000161,Rubbish,1,1,1.0
+2010-5,E01000169,Road Surface Defects,1,1,1.0
+2010-5,E01000175,Road Surface Defects,1,1,1.0
+2010-5,E01000188,Other,2,2,1.0
+2010-5,E01000190,Road Surface Defects,1,1,1.0
+2010-5,E01000199,Other,1,1,1.0
+2010-5,E01000232,Other,1,1,1.0
+2010-5,E01000233,Other,1,1,1.0
+2010-5,E01000235,Open Spaces/Parks,1,1,1.0
+2010-5,E01000242,Road Surface Defects,1,1,1.0
+2010-5,E01000243,Road Surface Defects,2,1,2.0
+2010-5,E01000247,Other,1,1,1.0
+2010-5,E01000249,Other,1,1,1.0
+2010-5,E01000250,Street Lights,1,1,1.0
+2010-5,E01000253,Road Surface Defects,1,1,1.0
+2010-5,E01000261,Pavement /Footway Defects,1,1,1.0
+2010-5,E01000277,Road Surface Defects,1,1,1.0
+2010-5,E01000281,Highways Enquiries,1,1,1.0
+2010-5,E01000302,Highways Enquiries,1,1,1.0
+2010-5,E01000318,Street Lights,1,1,1.0
+2010-5,E01000335,Other,1,1,1.0
+2010-5,E01000381,Other,1,1,1.0
+2010-5,E01000416,Other,1,1,1.0
+2010-5,E01000416,Rubbish,1,1,1.0
+2010-5,E01000442,Other,1,1,1.0
+2010-5,E01000451,Rubbish,1,1,1.0
+2010-5,E01000451,Street Lights,1,1,1.0
+2010-5,E01000480,Road Surface Defects,1,1,1.0
+2010-5,E01000507,Incivilities,1,1,1.0
+2010-5,E01000508,Rubbish,1,1,1.0
+2010-5,E01000533,Rubbish,1,1,1.0
+2010-5,E01000548,Street Lights,1,1,1.0
+2010-5,E01000553,Rubbish,2,2,1.0
+2010-5,E01000585,Incivilities,1,1,1.0
+2010-5,E01000585,Road Surface Defects,1,1,1.0
+2010-5,E01000592,Road Surface Defects,1,1,1.0
+2010-5,E01000645,Pavement /Footway Defects,1,1,1.0
+2010-5,E01000649,Parking,2,2,1.0
+2010-5,E01000664,Road Surface Defects,1,1,1.0
+2010-5,E01000670,Road Surface Defects,1,1,1.0
+2010-5,E01000673,Pavement /Footway Defects,1,1,1.0
+2010-5,E01000676,Road Surface Defects,1,1,1.0
+2010-5,E01000680,Road Surface Defects,1,1,1.0
+2010-5,E01000708,Road Surface Defects,1,1,1.0
+2010-5,E01000730,Other,1,1,1.0
+2010-5,E01000741,Other,1,1,1.0
+2010-5,E01000749,Highways Enquiries,1,1,1.0
+2010-5,E01000759,Other,1,1,1.0
+2010-5,E01000761,Rubbish,1,1,1.0
+2010-5,E01000764,Other,1,1,1.0
+2010-5,E01000764,Rubbish,1,1,1.0
+2010-5,E01000765,Road Surface Defects,1,1,1.0
+2010-5,E01000768,Road Surface Defects,1,1,1.0
+2010-5,E01000771,Road Surface Defects,1,1,1.0
+2010-5,E01000802,Abandoned Vehicles,1,1,1.0
+2010-5,E01000851,Road Safety,1,1,1.0
+2010-5,E01000890,Other,1,1,1.0
+2010-5,E01000896,Road Surface Defects,1,1,1.0
+2010-5,E01000911,Dog Fouling,1,1,1.0
+2010-5,E01000916,Drainage,1,1,1.0
+2010-5,E01000918,Street Lights,1,1,1.0
+2010-5,E01000919,Highways Enquiries,1,1,1.0
+2010-5,E01000920,Street Lights,1,1,1.0
+2010-5,E01000931,Rubbish,1,1,1.0
+2010-5,E01000943,Pavement /Footway Defects,1,1,1.0
+2010-5,E01000943,Right of Way,1,1,1.0
+2010-5,E01000957,Rubbish,2,1,2.0
+2010-5,E01001030,Road Surface Defects,1,1,1.0
+2010-5,E01001047,Rubbish,1,1,1.0
+2010-5,E01001086,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01001086,Rubbish,1,1,1.0
+2010-5,E01001101,Road Surface Defects,1,1,1.0
+2010-5,E01001111,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01001152,Rubbish,1,1,1.0
+2010-5,E01001153,Rubbish,2,1,2.0
+2010-5,E01001159,Other,1,1,1.0
+2010-5,E01001166,Road Surface Defects,1,1,1.0
+2010-5,E01001169,Other,1,1,1.0
+2010-5,E01001177,Road Surface Defects,1,1,1.0
+2010-5,E01001177,Rubbish,1,1,1.0
+2010-5,E01001178,Road Surface Defects,1,1,1.0
+2010-5,E01001193,Rubbish,1,1,1.0
+2010-5,E01001221,Rubbish,2,2,1.0
+2010-5,E01001234,Incivilities,1,1,1.0
+2010-5,E01001248,Pavement /Footway Defects,1,1,1.0
+2010-5,E01001271,Other,1,1,1.0
+2010-5,E01001301,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01001302,Street Lights,1,1,1.0
+2010-5,E01001376,Road Surface Defects,1,1,1.0
+2010-5,E01001381,Road Surface Defects,2,1,2.0
+2010-5,E01001381,Rubbish,1,1,1.0
+2010-5,E01001385,Other,1,1,1.0
+2010-5,E01001409,Rubbish,1,1,1.0
+2010-5,E01001445,Highways Enquiries,1,1,1.0
+2010-5,E01001445,Parking,1,1,1.0
+2010-5,E01001559,Highways Enquiries,1,1,1.0
+2010-5,E01001581,Road Safety,1,1,1.0
+2010-5,E01001673,Dog Fouling,1,1,1.0
+2010-5,E01001741,Highways Enquiries,1,1,1.0
+2010-5,E01001761,Rubbish,1,1,1.0
+2010-5,E01001764,Highways Enquiries,1,1,1.0
+2010-5,E01001804,Other,1,1,1.0
+2010-5,E01001806,Other,2,2,1.0
+2010-5,E01001824,Abandoned Vehicles,1,1,1.0
+2010-5,E01001840,Abandoned Vehicles,1,1,1.0
+2010-5,E01001871,Incivilities,1,1,1.0
+2010-5,E01001903,Parking,1,1,1.0
+2010-5,E01001943,Rubbish,1,1,1.0
+2010-5,E01001963,Pavement /Footway Defects,1,1,1.0
+2010-5,E01001964,Road Surface Defects,2,1,2.0
+2010-5,E01001966,Other,2,1,2.0
+2010-5,E01001966,Pavement /Footway Defects,3,1,3.0
+2010-5,E01001966,Road Surface Defects,5,1,5.0
+2010-5,E01001966,Rubbish,1,1,1.0
+2010-5,E01001967,Road Surface Defects,2,1,2.0
+2010-5,E01001974,Rubbish,1,1,1.0
+2010-5,E01001983,Road Surface Defects,1,1,1.0
+2010-5,E01001984,Pavement /Footway Defects,1,1,1.0
+2010-5,E01001988,Other,1,1,1.0
+2010-5,E01001989,Pavement /Footway Defects,1,1,1.0
+2010-5,E01001989,Road Surface Defects,1,1,1.0
+2010-5,E01001997,Pavement /Footway Defects,1,1,1.0
+2010-5,E01001997,Road Surface Defects,2,1,2.0
+2010-5,E01002002,Incivilities,1,1,1.0
+2010-5,E01002002,Rubbish,1,1,1.0
+2010-5,E01002007,Road Surface Defects,1,1,1.0
+2010-5,E01002008,Rubbish,1,1,1.0
+2010-5,E01002009,Road Surface Defects,1,1,1.0
+2010-5,E01002011,Road Surface Defects,1,1,1.0
+2010-5,E01002022,Road Surface Defects,5,1,5.0
+2010-5,E01002023,Road Surface Defects,1,1,1.0
+2010-5,E01002027,Road Surface Defects,1,1,1.0
+2010-5,E01002029,Road Surface Defects,1,1,1.0
+2010-5,E01002032,Street Furniture,1,1,1.0
+2010-5,E01002037,Highways Enquiries,2,1,2.0
+2010-5,E01002037,Street Lights,1,1,1.0
+2010-5,E01002043,Rubbish,5,1,5.0
+2010-5,E01002044,Other,1,1,1.0
+2010-5,E01002047,Highways Enquiries,1,1,1.0
+2010-5,E01002058,Rubbish,1,1,1.0
+2010-5,E01002064,Rubbish,1,1,1.0
+2010-5,E01002067,Road Safety,1,1,1.0
+2010-5,E01002075,Rubbish,1,1,1.0
+2010-5,E01002077,Other,1,1,1.0
+2010-5,E01002077,Pavement /Footway Defects,1,1,1.0
+2010-5,E01002077,Rubbish,1,1,1.0
+2010-5,E01002081,Rubbish,2,1,2.0
+2010-5,E01002109,Road Surface Defects,1,1,1.0
+2010-5,E01002112,Highways Enquiries,1,1,1.0
+2010-5,E01002112,Rubbish,1,1,1.0
+2010-5,E01002123,Road Surface Defects,1,1,1.0
+2010-5,E01002132,Parking,1,1,1.0
+2010-5,E01002188,Abandoned Vehicles,1,1,1.0
+2010-5,E01002206,Rubbish,1,1,1.0
+2010-5,E01002238,Highways Enquiries,1,1,1.0
+2010-5,E01002256,Highways Enquiries,1,1,1.0
+2010-5,E01002337,Road Surface Defects,1,1,1.0
+2010-5,E01002373,Pavement /Footway Defects,1,1,1.0
+2010-5,E01002431,Pavement /Footway Defects,1,1,1.0
+2010-5,E01002459,Highways Enquiries,1,1,1.0
+2010-5,E01002481,Road Surface Defects,1,1,1.0
+2010-5,E01002490,Rubbish,2,1,2.0
+2010-5,E01002508,Highways Enquiries,1,1,1.0
+2010-5,E01002508,Parking,1,1,1.0
+2010-5,E01002515,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01002546,Other,1,1,1.0
+2010-5,E01002569,Open Spaces/Parks,1,1,1.0
+2010-5,E01002570,Incivilities,1,1,1.0
+2010-5,E01002646,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01002669,Other,1,1,1.0
+2010-5,E01002677,Rubbish,3,2,1.5
+2010-5,E01002678,Highways Enquiries,1,1,1.0
+2010-5,E01002679,Pavement /Footway Defects,1,1,1.0
+2010-5,E01002679,Rubbish,1,1,1.0
+2010-5,E01002680,Road Safety,1,1,1.0
+2010-5,E01002686,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01002690,Road Surface Defects,1,1,1.0
+2010-5,E01002711,Rubbish,2,1,2.0
+2010-5,E01002715,Road Surface Defects,1,1,1.0
+2010-5,E01002733,Pavement /Footway Defects,1,1,1.0
+2010-5,E01002738,Open Spaces/Parks,1,1,1.0
+2010-5,E01002740,Public Toilets,1,1,1.0
+2010-5,E01002745,Other,1,1,1.0
+2010-5,E01002752,Rubbish,1,1,1.0
+2010-5,E01002764,Road Surface Defects,1,1,1.0
+2010-5,E01002765,Pavement /Footway Defects,1,1,1.0
+2010-5,E01002765,Road Surface Defects,1,1,1.0
+2010-5,E01002766,Road Surface Defects,2,1,2.0
+2010-5,E01002770,Road Surface Defects,1,1,1.0
+2010-5,E01002771,Road Surface Defects,1,1,1.0
+2010-5,E01002782,Road Surface Defects,1,1,1.0
+2010-5,E01002785,Road Surface Defects,1,1,1.0
+2010-5,E01002793,Road Surface Defects,1,1,1.0
+2010-5,E01002795,Highways Enquiries,1,1,1.0
+2010-5,E01002795,Road Surface Defects,1,1,1.0
+2010-5,E01002797,Road Surface Defects,1,1,1.0
+2010-5,E01002818,Road Safety,1,1,1.0
+2010-5,E01002835,Other,1,1,1.0
+2010-5,E01002837,Rubbish,1,1,1.0
+2010-5,E01002898,Other,1,1,1.0
+2010-5,E01002913,Dog Fouling,1,1,1.0
+2010-5,E01002918,Road Surface Defects,1,1,1.0
+2010-5,E01002931,Street Lights,1,1,1.0
+2010-5,E01002956,Road Surface Defects,1,1,1.0
+2010-5,E01002961,Highways Enquiries,1,1,1.0
+2010-5,E01002961,Road Surface Defects,1,1,1.0
+2010-5,E01002963,Other,1,1,1.0
+2010-5,E01002963,Road Surface Defects,1,1,1.0
+2010-5,E01002969,Other,1,1,1.0
+2010-5,E01002970,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01003008,Rubbish,1,1,1.0
+2010-5,E01003026,Abandoned Vehicles,1,1,1.0
+2010-5,E01003029,Other,1,1,1.0
+2010-5,E01003037,Bus Stops Damage,1,1,1.0
+2010-5,E01003037,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003039,Other,1,1,1.0
+2010-5,E01003043,Other,1,1,1.0
+2010-5,E01003052,Open Spaces/Parks,1,1,1.0
+2010-5,E01003052,Other,1,1,1.0
+2010-5,E01003052,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003068,Street Lights,1,1,1.0
+2010-5,E01003106,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01003119,Highways Enquiries,1,1,1.0
+2010-5,E01003120,Incivilities,1,1,1.0
+2010-5,E01003120,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003120,Road Safety,1,1,1.0
+2010-5,E01003125,Incivilities,1,1,1.0
+2010-5,E01003136,Other,1,1,1.0
+2010-5,E01003151,Street Lights,1,1,1.0
+2010-5,E01003169,Road Surface Defects,1,1,1.0
+2010-5,E01003177,Abandoned Vehicles,1,1,1.0
+2010-5,E01003178,Road Surface Defects,1,1,1.0
+2010-5,E01003179,Rubbish,1,1,1.0
+2010-5,E01003190,Abandoned Vehicles,1,1,1.0
+2010-5,E01003191,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003194,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003194,Rubbish,2,2,1.0
+2010-5,E01003198,Other,1,1,1.0
+2010-5,E01003202,Road Safety,1,1,1.0
+2010-5,E01003205,Road Safety,1,1,1.0
+2010-5,E01003206,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003214,Road Surface Defects,1,1,1.0
+2010-5,E01003259,Highways Enquiries,1,1,1.0
+2010-5,E01003278,Road Safety,1,1,1.0
+2010-5,E01003286,Road Surface Defects,1,1,1.0
+2010-5,E01003290,Parking,1,1,1.0
+2010-5,E01003324,Highways Enquiries,1,1,1.0
+2010-5,E01003325,Street Lights,1,1,1.0
+2010-5,E01003326,Highways Enquiries,1,1,1.0
+2010-5,E01003327,Other,1,1,1.0
+2010-5,E01003327,Rubbish,1,1,1.0
+2010-5,E01003328,Highways Enquiries,1,1,1.0
+2010-5,E01003328,Rubbish,1,1,1.0
+2010-5,E01003335,Rubbish,2,1,2.0
+2010-5,E01003336,Rubbish,1,1,1.0
+2010-5,E01003351,Street Lights,1,1,1.0
+2010-5,E01003355,Highways Enquiries,1,1,1.0
+2010-5,E01003356,Incivilities,7,1,7.0
+2010-5,E01003356,Parking,1,1,1.0
+2010-5,E01003356,Rubbish,2,2,1.0
+2010-5,E01003383,Incivilities,2,1,2.0
+2010-5,E01003385,Incivilities,1,1,1.0
+2010-5,E01003400,Incivilities,1,1,1.0
+2010-5,E01003400,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01003403,Other,1,1,1.0
+2010-5,E01003411,Rubbish,1,1,1.0
+2010-5,E01003419,Rubbish,1,1,1.0
+2010-5,E01003424,Incivilities,1,1,1.0
+2010-5,E01003428,Incivilities,5,1,5.0
+2010-5,E01003497,Road Surface Defects,1,1,1.0
+2010-5,E01003520,Other,1,1,1.0
+2010-5,E01003520,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003531,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003543,Pavement /Footway Defects,2,1,2.0
+2010-5,E01003604,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01003605,Street Lights,1,1,1.0
+2010-5,E01003607,Highways Enquiries,1,1,1.0
+2010-5,E01003638,Other,1,1,1.0
+2010-5,E01003666,Abandoned Vehicles,1,1,1.0
+2010-5,E01003666,Rubbish,1,1,1.0
+2010-5,E01003685,Rubbish,1,1,1.0
+2010-5,E01003723,Highways Enquiries,1,1,1.0
+2010-5,E01003790,Other,1,1,1.0
+2010-5,E01003811,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003829,Abandoned Vehicles,1,1,1.0
+2010-5,E01003830,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01003845,Road Surface Defects,1,1,1.0
+2010-5,E01003852,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003853,Other,1,1,1.0
+2010-5,E01003855,Road Surface Defects,1,1,1.0
+2010-5,E01003855,Rubbish,1,1,1.0
+2010-5,E01003860,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003868,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003896,Pavement /Footway Defects,2,1,2.0
+2010-5,E01003908,Road Surface Defects,1,1,1.0
+2010-5,E01003914,Road Surface Defects,1,1,1.0
+2010-5,E01003936,Pavement /Footway Defects,1,1,1.0
+2010-5,E01003948,Highways Enquiries,1,1,1.0
+2010-5,E01004002,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01004040,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01004046,Highways Enquiries,1,1,1.0
+2010-5,E01004049,Road Surface Defects,1,1,1.0
+2010-5,E01004065,Road Surface Defects,1,1,1.0
+2010-5,E01004069,Road Surface Defects,1,1,1.0
+2010-5,E01004070,Road Surface Defects,1,1,1.0
+2010-5,E01004075,Road Safety,1,1,1.0
+2010-5,E01004082,Rubbish,1,1,1.0
+2010-5,E01004086,Road Safety,1,1,1.0
+2010-5,E01004147,Other,1,1,1.0
+2010-5,E01004215,Other,1,1,1.0
+2010-5,E01004276,Other,1,1,1.0
+2010-5,E01004306,Rubbish,1,1,1.0
+2010-5,E01004317,Other,1,1,1.0
+2010-5,E01004370,Rubbish,1,1,1.0
+2010-5,E01004377,Rubbish,1,1,1.0
+2010-5,E01004385,Road Surface Defects,1,1,1.0
+2010-5,E01004388,Road Surface Defects,1,1,1.0
+2010-5,E01004409,Road Surface Defects,1,1,1.0
+2010-5,E01004409,Rubbish,1,1,1.0
+2010-5,E01004425,Highways Enquiries,1,1,1.0
+2010-5,E01004425,Rubbish,1,1,1.0
+2010-5,E01004444,Other,1,1,1.0
+2010-5,E01004446,Other,1,1,1.0
+2010-5,E01004466,Rubbish,1,1,1.0
+2010-5,E01004474,Pavement /Footway Defects,1,1,1.0
+2010-5,E01004474,Road Surface Defects,1,1,1.0
+2010-5,E01004477,Road Surface Defects,1,1,1.0
+2010-5,E01004484,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01004494,Other,1,1,1.0
+2010-5,E01004496,Parking,1,1,1.0
+2010-5,E01004496,Rubbish,1,1,1.0
+2010-5,E01004540,Road Surface Defects,1,1,1.0
+2010-5,E01004551,Incivilities,1,1,1.0
+2010-5,E01004551,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01004552,Incivilities,1,1,1.0
+2010-5,E01004582,Pavement /Footway Defects,1,1,1.0
+2010-5,E01004583,Pavement /Footway Defects,1,1,1.0
+2010-5,E01004623,Road Surface Defects,1,1,1.0
+2010-5,E01004642,Road Surface Defects,1,1,1.0
+2010-5,E01004659,Road Surface Defects,1,1,1.0
+2010-5,E01004678,Open Spaces/Parks,1,1,1.0
+2010-5,E01004688,Road Surface Defects,1,1,1.0
+2010-5,E01004689,Highways Enquiries,1,1,1.0
+2010-5,E01004689,Other,2,1,2.0
+2010-5,E01004691,Highways Enquiries,1,1,1.0
+2010-5,E01004691,Road Surface Defects,1,1,1.0
+2010-5,E01004736,Road Surface Defects,1,1,1.0
+2010-5,E01004736,Street Lights,1,1,1.0
+2010-5,E01004737,Other,1,1,1.0
+2010-5,E01004738,Other,1,1,1.0
+2010-5,E01004742,Pavement /Footway Defects,1,1,1.0
+2010-5,E01004745,Incivilities,1,1,1.0
+2010-5,E01004761,Street Lights,1,1,1.0
+2010-5,E01004763,Other,1,1,1.0
+2010-5,E01004765,Incivilities,1,1,1.0
+2010-5,E01004772,Road Surface Defects,1,1,1.0
+2010-5,E01004778,Dog Fouling,1,1,1.0
+2010-5,E01004780,Road Surface Defects,1,1,1.0
+2010-5,E01004782,Other,1,1,1.0
+2010-5,E01004782,Rubbish,2,2,1.0
+2010-5,E01004793,Other,1,1,1.0
+2010-5,E01004838,Road Surface Defects,1,1,1.0
+2010-5,E01004880,Road Surface Defects,1,1,1.0
+2010-5,E01004882,Road Safety,1,1,1.0
+2010-5,E01004897,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01004974,Road Surface Defects,1,1,1.0
+2010-5,E01004986,Road Surface Defects,1,1,1.0
+2010-5,E01004989,Highways Enquiries,1,1,1.0
+2010-5,E01005005,Road Surface Defects,1,1,1.0
+2010-5,E01005012,Road Surface Defects,1,1,1.0
+2010-5,E01005035,Pavement /Footway Defects,1,1,1.0
+2010-5,E01005047,Road Surface Defects,1,1,1.0
+2010-5,E01005078,Incivilities,2,1,2.0
+2010-5,E01005092,Abandoned Vehicles,1,1,1.0
+2010-5,E01005142,Road Safety,1,1,1.0
+2010-5,E01005142,Road Surface Defects,1,1,1.0
+2010-5,E01005145,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01005149,Road Surface Defects,1,1,1.0
+2010-5,E01005167,Road Surface Defects,1,1,1.0
+2010-5,E01005170,Incivilities,2,1,2.0
+2010-5,E01005171,Incivilities,1,1,1.0
+2010-5,E01005173,Incivilities,2,1,2.0
+2010-5,E01005173,Road Surface Defects,2,1,2.0
+2010-5,E01005193,Rubbish,1,1,1.0
+2010-5,E01005196,Rubbish,1,1,1.0
+2010-5,E01005253,Road Surface Defects,1,1,1.0
+2010-5,E01005261,Parking,1,1,1.0
+2010-5,E01005263,Incivilities,1,1,1.0
+2010-5,E01005268,Incivilities,1,1,1.0
+2010-5,E01005274,Road Surface Defects,1,1,1.0
+2010-5,E01005302,Highways Enquiries,1,1,1.0
+2010-5,E01005316,Road Surface Defects,1,1,1.0
+2010-5,E01005319,Other,1,1,1.0
+2010-5,E01005346,Road Surface Defects,1,1,1.0
+2010-5,E01005361,Road Surface Defects,1,1,1.0
+2010-5,E01005383,Road Surface Defects,1,1,1.0
+2010-5,E01005387,Pavement /Footway Defects,1,1,1.0
+2010-5,E01005395,Other,1,1,1.0
+2010-5,E01005410,Road Surface Defects,1,1,1.0
+2010-5,E01005411,Road Surface Defects,1,1,1.0
+2010-5,E01005414,Rubbish,1,1,1.0
+2010-5,E01005428,Road Surface Defects,2,2,1.0
+2010-5,E01005432,Other,1,1,1.0
+2010-5,E01005435,Road Surface Defects,1,1,1.0
+2010-5,E01005441,Road Surface Defects,1,1,1.0
+2010-5,E01005447,Road Surface Defects,1,1,1.0
+2010-5,E01005451,Abandoned Vehicles,1,1,1.0
+2010-5,E01005459,Road Surface Defects,1,1,1.0
+2010-5,E01005477,Road Surface Defects,1,1,1.0
+2010-5,E01005487,Dog Fouling,1,1,1.0
+2010-5,E01005499,Road Surface Defects,1,1,1.0
+2010-5,E01005527,Street Lights,1,1,1.0
+2010-5,E01005533,Road Safety,1,1,1.0
+2010-5,E01005541,Parking,1,1,1.0
+2010-5,E01005543,Road Surface Defects,1,1,1.0
+2010-5,E01005554,Other,1,1,1.0
+2010-5,E01005595,Rubbish,1,1,1.0
+2010-5,E01005600,Road Surface Defects,1,1,1.0
+2010-5,E01005613,Road Surface Defects,1,1,1.0
+2010-5,E01005616,Road Surface Defects,1,1,1.0
+2010-5,E01005622,Highways Enquiries,1,1,1.0
+2010-5,E01005622,Road Surface Defects,1,1,1.0
+2010-5,E01005623,Road Surface Defects,1,1,1.0
+2010-5,E01005628,Other,1,1,1.0
+2010-5,E01005628,Road Surface Defects,1,1,1.0
+2010-5,E01005629,Highways Enquiries,1,1,1.0
+2010-5,E01005632,Road Surface Defects,1,1,1.0
+2010-5,E01005667,Street Lights,1,1,1.0
+2010-5,E01005688,Pavement /Footway Defects,1,1,1.0
+2010-5,E01005696,Road Surface Defects,1,1,1.0
+2010-5,E01005698,Road Surface Defects,1,1,1.0
+2010-5,E01005718,Other,1,1,1.0
+2010-5,E01005726,Road Surface Defects,1,1,1.0
+2010-5,E01005741,Road Surface Defects,1,1,1.0
+2010-5,E01005742,Road Surface Defects,1,1,1.0
+2010-5,E01005751,Highways Enquiries,1,1,1.0
+2010-5,E01005792,Road Surface Defects,1,1,1.0
+2010-5,E01005794,Pavement /Footway Defects,1,1,1.0
+2010-5,E01005807,Road Surface Defects,2,1,2.0
+2010-5,E01005812,Road Safety,1,1,1.0
+2010-5,E01005812,Road Surface Defects,1,1,1.0
+2010-5,E01005815,Road Surface Defects,1,1,1.0
+2010-5,E01005817,Other,1,1,1.0
+2010-5,E01005820,Road Surface Defects,2,1,2.0
+2010-5,E01005836,Road Safety,1,1,1.0
+2010-5,E01005838,Pavement /Footway Defects,1,1,1.0
+2010-5,E01005838,Road Surface Defects,8,1,8.0
+2010-5,E01005840,Road Surface Defects,7,1,7.0
+2010-5,E01005852,Rubbish,1,1,1.0
+2010-5,E01005855,Other,1,1,1.0
+2010-5,E01005898,Street Lights,1,1,1.0
+2010-5,E01005900,Road Surface Defects,1,1,1.0
+2010-5,E01005912,Road Surface Defects,1,1,1.0
+2010-5,E01005926,Road Surface Defects,2,1,2.0
+2010-5,E01005999,Other,1,1,1.0
+2010-5,E01006007,Rubbish,1,1,1.0
+2010-5,E01006041,Other,1,1,1.0
+2010-5,E01006044,Abandoned Vehicles,1,1,1.0
+2010-5,E01006049,Road Safety,1,1,1.0
+2010-5,E01006054,Incivilities,1,1,1.0
+2010-5,E01006055,Pavement /Footway Defects,1,1,1.0
+2010-5,E01006075,Open Spaces/Parks,1,1,1.0
+2010-5,E01006082,Pavement /Footway Defects,1,1,1.0
+2010-5,E01006098,Other,1,1,1.0
+2010-5,E01006110,Pavement /Footway Defects,1,1,1.0
+2010-5,E01006165,Other,1,1,1.0
+2010-5,E01006201,Other,1,1,1.0
+2010-5,E01006206,Pavement /Footway Defects,1,1,1.0
+2010-5,E01006207,Rubbish,1,1,1.0
+2010-5,E01006209,Highways Enquiries,2,2,1.0
+2010-5,E01006221,Other,1,1,1.0
+2010-5,E01006233,Highways Enquiries,1,1,1.0
+2010-5,E01006236,Highways Enquiries,1,1,1.0
+2010-5,E01006277,Rubbish,1,1,1.0
+2010-5,E01006309,Other,3,2,1.5
+2010-5,E01006310,Rubbish,1,1,1.0
+2010-5,E01006322,Road Surface Defects,1,1,1.0
+2010-5,E01006394,Other,1,1,1.0
+2010-5,E01006420,Other,1,1,1.0
+2010-5,E01006420,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01006420,Pavement /Footway Defects,1,1,1.0
+2010-5,E01006464,Other,1,1,1.0
+2010-5,E01006471,Road Surface Defects,1,1,1.0
+2010-5,E01006473,Open Spaces/Parks,1,1,1.0
+2010-5,E01006497,Street Furniture,1,1,1.0
+2010-5,E01006529,Road Surface Defects,1,1,1.0
+2010-5,E01006533,Other,1,1,1.0
+2010-5,E01006538,Other,1,1,1.0
+2010-5,E01006557,Road Safety,1,1,1.0
+2010-5,E01006565,Rubbish,1,1,1.0
+2010-5,E01006568,Other,1,1,1.0
+2010-5,E01006593,Rubbish,1,1,1.0
+2010-5,E01006597,Highways Enquiries,1,1,1.0
+2010-5,E01006605,Dog Fouling,1,1,1.0
+2010-5,E01006728,Road Surface Defects,1,1,1.0
+2010-5,E01006751,Parking,1,1,1.0
+2010-5,E01006763,Incivilities,1,1,1.0
+2010-5,E01006845,Road Surface Defects,1,1,1.0
+2010-5,E01006858,Pavement /Footway Defects,1,1,1.0
+2010-5,E01006858,Road Safety,1,1,1.0
+2010-5,E01006962,Road Surface Defects,1,1,1.0
+2010-5,E01007113,Road Surface Defects,2,1,2.0
+2010-5,E01007121,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007172,Street Lights,1,1,1.0
+2010-5,E01007218,Rubbish,1,1,1.0
+2010-5,E01007219,Other,1,1,1.0
+2010-5,E01007242,Road Surface Defects,1,1,1.0
+2010-5,E01007268,Road Surface Defects,1,1,1.0
+2010-5,E01007269,Abandoned Vehicles,1,1,1.0
+2010-5,E01007271,Other,1,1,1.0
+2010-5,E01007272,Other,1,1,1.0
+2010-5,E01007283,Other,1,1,1.0
+2010-5,E01007319,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007329,Rubbish,1,1,1.0
+2010-5,E01007333,Other,1,1,1.0
+2010-5,E01007354,Road Surface Defects,1,1,1.0
+2010-5,E01007355,Dog Fouling,1,1,1.0
+2010-5,E01007359,Road Safety,1,1,1.0
+2010-5,E01007362,Rubbish,1,1,1.0
+2010-5,E01007370,Dog Fouling,1,1,1.0
+2010-5,E01007393,Road Surface Defects,1,1,1.0
+2010-5,E01007410,Dog Fouling,1,1,1.0
+2010-5,E01007416,Road Surface Defects,1,1,1.0
+2010-5,E01007418,Road Surface Defects,1,1,1.0
+2010-5,E01007419,Rubbish,1,1,1.0
+2010-5,E01007429,Street Lights,1,1,1.0
+2010-5,E01007430,Rubbish,1,1,1.0
+2010-5,E01007453,Other,1,1,1.0
+2010-5,E01007459,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007467,Road Surface Defects,1,1,1.0
+2010-5,E01007522,Street Lights,1,1,1.0
+2010-5,E01007530,Street Lights,1,1,1.0
+2010-5,E01007534,Highways Enquiries,1,1,1.0
+2010-5,E01007594,Road Surface Defects,1,1,1.0
+2010-5,E01007611,Street Furniture,1,1,1.0
+2010-5,E01007613,Other,1,1,1.0
+2010-5,E01007632,Road Safety,2,1,2.0
+2010-5,E01007633,Open Spaces/Parks,1,1,1.0
+2010-5,E01007633,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007669,Road Surface Defects,1,1,1.0
+2010-5,E01007672,Dog Fouling,1,1,1.0
+2010-5,E01007673,Dog Fouling,1,1,1.0
+2010-5,E01007673,Highways Enquiries,1,1,1.0
+2010-5,E01007692,Road Surface Defects,1,1,1.0
+2010-5,E01007696,Open Spaces/Parks,1,1,1.0
+2010-5,E01007707,Road Surface Defects,1,1,1.0
+2010-5,E01007718,Rubbish,2,1,2.0
+2010-5,E01007730,Road Surface Defects,1,1,1.0
+2010-5,E01007733,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007745,Other,1,1,1.0
+2010-5,E01007756,Road Surface Defects,1,1,1.0
+2010-5,E01007800,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007800,Rubbish,1,1,1.0
+2010-5,E01007812,Road Surface Defects,1,1,1.0
+2010-5,E01007819,Street Lights,1,1,1.0
+2010-5,E01007832,Highways Enquiries,1,1,1.0
+2010-5,E01007842,Open Spaces/Parks,1,1,1.0
+2010-5,E01007842,Other,2,1,2.0
+2010-5,E01007842,Rubbish,2,1,2.0
+2010-5,E01007843,Highways Enquiries,1,1,1.0
+2010-5,E01007851,Street Lights,1,1,1.0
+2010-5,E01007858,Highways Enquiries,1,1,1.0
+2010-5,E01007873,Road Surface Defects,2,1,2.0
+2010-5,E01007888,Street Lights,1,1,1.0
+2010-5,E01007910,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007917,Street Furniture,1,1,1.0
+2010-5,E01007925,Other,1,1,1.0
+2010-5,E01007933,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01007934,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007934,Street Lights,1,1,1.0
+2010-5,E01007951,Incivilities,1,1,1.0
+2010-5,E01007955,Road Surface Defects,1,1,1.0
+2010-5,E01007956,Rubbish,1,1,1.0
+2010-5,E01007963,Street Lights,1,1,1.0
+2010-5,E01007969,Rubbish,1,1,1.0
+2010-5,E01007982,Pavement /Footway Defects,1,1,1.0
+2010-5,E01007988,Dog Fouling,1,1,1.0
+2010-5,E01008017,Incivilities,1,1,1.0
+2010-5,E01008025,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01008062,Rubbish,1,1,1.0
+2010-5,E01008065,Road Surface Defects,1,1,1.0
+2010-5,E01008065,Street Lights,1,1,1.0
+2010-5,E01008072,Incivilities,1,1,1.0
+2010-5,E01008088,Other,1,1,1.0
+2010-5,E01008091,Pavement /Footway Defects,1,1,1.0
+2010-5,E01008091,Road Safety,1,1,1.0
+2010-5,E01008093,Road Safety,1,1,1.0
+2010-5,E01008101,Street Lights,1,1,1.0
+2010-5,E01008112,Pavement /Footway Defects,1,1,1.0
+2010-5,E01008128,Road Safety,1,1,1.0
+2010-5,E01008128,Rubbish,1,1,1.0
+2010-5,E01008143,Rubbish,1,1,1.0
+2010-5,E01008161,Road Surface Defects,1,1,1.0
+2010-5,E01008166,Road Safety,1,1,1.0
+2010-5,E01008308,Road Safety,1,1,1.0
+2010-5,E01008315,Incivilities,1,1,1.0
+2010-5,E01008340,Pavement /Footway Defects,1,1,1.0
+2010-5,E01008370,Highways Enquiries,1,1,1.0
+2010-5,E01008376,Incivilities,1,1,1.0
+2010-5,E01008406,Other,1,1,1.0
+2010-5,E01008406,Pavement /Footway Defects,1,1,1.0
+2010-5,E01008409,Road Safety,1,1,1.0
+2010-5,E01008411,Highways Enquiries,1,1,1.0
+2010-5,E01008419,Pavement /Footway Defects,1,1,1.0
+2010-5,E01008439,Road Safety,1,1,1.0
+2010-5,E01008458,Road Surface Defects,1,1,1.0
+2010-5,E01008461,Highways Enquiries,1,1,1.0
+2010-5,E01008467,Other,1,1,1.0
+2010-5,E01008468,Highways Enquiries,1,1,1.0
+2010-5,E01008469,Road Surface Defects,1,1,1.0
+2010-5,E01008477,Road Surface Defects,1,1,1.0
+2010-5,E01008508,Rubbish,1,1,1.0
+2010-5,E01008524,Public Toilets,1,1,1.0
+2010-5,E01008525,Road Surface Defects,1,1,1.0
+2010-5,E01008533,Road Surface Defects,1,1,1.0
+2010-5,E01008537,Incivilities,1,1,1.0
+2010-5,E01008537,Other,1,1,1.0
+2010-5,E01008541,Highways Enquiries,1,1,1.0
+2010-5,E01008560,Other,1,1,1.0
+2010-5,E01008561,Highways Enquiries,1,1,1.0
+2010-5,E01008561,Rubbish,1,1,1.0
+2010-5,E01008620,Road Surface Defects,1,1,1.0
+2010-5,E01008652,Incivilities,1,1,1.0
+2010-5,E01008652,Rubbish,1,1,1.0
+2010-5,E01008660,Rubbish,1,1,1.0
+2010-5,E01008711,Road Surface Defects,1,1,1.0
+2010-5,E01008748,Road Safety,1,1,1.0
+2010-5,E01008748,Rubbish,1,1,1.0
+2010-5,E01008754,Road Surface Defects,1,1,1.0
+2010-5,E01008782,Road Surface Defects,1,1,1.0
+2010-5,E01008867,Abandoned Vehicles,1,1,1.0
+2010-5,E01008874,Street Lights,1,1,1.0
+2010-5,E01008882,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01008883,Highways Enquiries,1,1,1.0
+2010-5,E01008884,Rubbish,1,1,1.0
+2010-5,E01008890,Rubbish,2,2,1.0
+2010-5,E01008895,Street Lights,1,1,1.0
+2010-5,E01008921,Rubbish,1,1,1.0
+2010-5,E01008923,Road Surface Defects,1,1,1.0
+2010-5,E01008940,Open Spaces/Parks,1,1,1.0
+2010-5,E01008940,Rubbish,2,2,1.0
+2010-5,E01008958,Open Spaces/Parks,1,1,1.0
+2010-5,E01008958,Road Surface Defects,1,1,1.0
+2010-5,E01008974,Highways Enquiries,1,1,1.0
+2010-5,E01008994,Other,1,1,1.0
+2010-5,E01008994,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009009,Abandoned Vehicles,1,1,1.0
+2010-5,E01009017,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009069,Abandoned Vehicles,1,1,1.0
+2010-5,E01009118,Highways Enquiries,1,1,1.0
+2010-5,E01009119,Parking,1,1,1.0
+2010-5,E01009127,Incivilities,1,1,1.0
+2010-5,E01009128,Incivilities,1,1,1.0
+2010-5,E01009135,Highways Enquiries,1,1,1.0
+2010-5,E01009140,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009157,Parking,1,1,1.0
+2010-5,E01009158,Abandoned Vehicles,1,1,1.0
+2010-5,E01009158,Incivilities,2,1,2.0
+2010-5,E01009158,Rubbish,3,1,3.0
+2010-5,E01009159,Other,1,1,1.0
+2010-5,E01009159,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009160,Other,1,1,1.0
+2010-5,E01009163,Road Surface Defects,1,1,1.0
+2010-5,E01009164,Parking,1,1,1.0
+2010-5,E01009167,Other,1,1,1.0
+2010-5,E01009195,Other,1,1,1.0
+2010-5,E01009208,Road Surface Defects,1,1,1.0
+2010-5,E01009210,Road Surface Defects,1,1,1.0
+2010-5,E01009218,Road Surface Defects,1,1,1.0
+2010-5,E01009220,Incivilities,1,1,1.0
+2010-5,E01009222,Highways Enquiries,1,1,1.0
+2010-5,E01009223,Incivilities,1,1,1.0
+2010-5,E01009246,Road Surface Defects,1,1,1.0
+2010-5,E01009254,Rubbish,1,1,1.0
+2010-5,E01009261,Street Lights,1,1,1.0
+2010-5,E01009283,Other,1,1,1.0
+2010-5,E01009303,Dog Fouling,1,1,1.0
+2010-5,E01009315,Road Surface Defects,1,1,1.0
+2010-5,E01009327,Other,1,1,1.0
+2010-5,E01009335,Rubbish,1,1,1.0
+2010-5,E01009338,Rubbish,1,1,1.0
+2010-5,E01009358,Rubbish,1,1,1.0
+2010-5,E01009368,Rubbish,1,1,1.0
+2010-5,E01009389,Road Surface Defects,1,1,1.0
+2010-5,E01009396,Road Surface Defects,2,1,2.0
+2010-5,E01009407,Dog Fouling,1,1,1.0
+2010-5,E01009408,Parking,1,1,1.0
+2010-5,E01009410,Rubbish,1,1,1.0
+2010-5,E01009413,Abandoned Vehicles,2,1,2.0
+2010-5,E01009440,Road Surface Defects,1,1,1.0
+2010-5,E01009449,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009464,Incivilities,1,1,1.0
+2010-5,E01009488,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009492,Rubbish,1,1,1.0
+2010-5,E01009492,Street Lights,1,1,1.0
+2010-5,E01009493,Other,1,1,1.0
+2010-5,E01009493,Street Lights,1,1,1.0
+2010-5,E01009501,Pavement /Footway Defects,1,1,1.0
+2010-5,E01009527,Rubbish,1,1,1.0
+2010-5,E01009538,Parking,1,1,1.0
+2010-5,E01009538,Road Surface Defects,1,1,1.0
+2010-5,E01009558,Rubbish,1,1,1.0
+2010-5,E01009571,Rubbish,1,1,1.0
+2010-5,E01009587,Rubbish,1,1,1.0
+2010-5,E01009590,Rubbish,1,1,1.0
+2010-5,E01009604,Other,1,1,1.0
+2010-5,E01009620,Road Surface Defects,1,1,1.0
+2010-5,E01009625,Incivilities,1,1,1.0
+2010-5,E01009648,Other,1,1,1.0
+2010-5,E01009686,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01009686,Rubbish,1,1,1.0
+2010-5,E01009733,Road Surface Defects,1,1,1.0
+2010-5,E01009757,Road Safety,1,1,1.0
+2010-5,E01009759,Road Safety,1,1,1.0
+2010-5,E01009769,Highways Enquiries,1,1,1.0
+2010-5,E01009770,Road Safety,1,1,1.0
+2010-5,E01009771,Highways Enquiries,1,1,1.0
+2010-5,E01009795,Dog Fouling,1,1,1.0
+2010-5,E01009807,Other,1,1,1.0
+2010-5,E01009807,Road Surface Defects,1,1,1.0
+2010-5,E01009820,Highways Enquiries,1,1,1.0
+2010-5,E01009844,Other,1,1,1.0
+2010-5,E01009848,Other,1,1,1.0
+2010-5,E01009856,Parking,1,1,1.0
+2010-5,E01009895,Road Safety,1,1,1.0
+2010-5,E01009908,Road Surface Defects,1,1,1.0
+2010-5,E01009921,Other,1,1,1.0
+2010-5,E01009936,Parking,1,1,1.0
+2010-5,E01009953,Rubbish,1,1,1.0
+2010-5,E01009963,Other,1,1,1.0
+2010-5,E01009978,Highways Enquiries,1,1,1.0
+2010-5,E01009983,Dog Fouling,1,1,1.0
+2010-5,E01009995,Abandoned Vehicles,1,1,1.0
+2010-5,E01009999,Other,1,1,1.0
+2010-5,E01010004,Other,1,1,1.0
+2010-5,E01010016,Rubbish,1,1,1.0
+2010-5,E01010019,Highways Enquiries,1,1,1.0
+2010-5,E01010019,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010023,Parking,1,1,1.0
+2010-5,E01010026,Other,1,1,1.0
+2010-5,E01010030,Road Safety,1,1,1.0
+2010-5,E01010039,Highways Enquiries,1,1,1.0
+2010-5,E01010044,Incivilities,1,1,1.0
+2010-5,E01010070,Highways Enquiries,1,1,1.0
+2010-5,E01010085,Road Surface Defects,1,1,1.0
+2010-5,E01010092,Road Surface Defects,1,1,1.0
+2010-5,E01010095,Other,1,1,1.0
+2010-5,E01010095,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010095,Road Safety,1,1,1.0
+2010-5,E01010104,Rubbish,1,1,1.0
+2010-5,E01010109,Rubbish,1,1,1.0
+2010-5,E01010207,Street Lights,1,1,1.0
+2010-5,E01010236,Other,1,1,1.0
+2010-5,E01010241,Road Safety,1,1,1.0
+2010-5,E01010255,Drainage,1,1,1.0
+2010-5,E01010264,Rubbish,1,1,1.0
+2010-5,E01010268,Rubbish,1,1,1.0
+2010-5,E01010270,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010284,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010287,Road Surface Defects,2,2,1.0
+2010-5,E01010290,Other,1,1,1.0
+2010-5,E01010309,Highways Enquiries,1,1,1.0
+2010-5,E01010316,Other,1,1,1.0
+2010-5,E01010316,Pavement /Footway Defects,2,1,2.0
+2010-5,E01010316,Rubbish,1,1,1.0
+2010-5,E01010332,Highways Enquiries,1,1,1.0
+2010-5,E01010342,Highways Enquiries,1,1,1.0
+2010-5,E01010342,Other,1,1,1.0
+2010-5,E01010342,Rubbish,1,1,1.0
+2010-5,E01010348,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010351,Incivilities,1,1,1.0
+2010-5,E01010355,Street Lights,1,1,1.0
+2010-5,E01010359,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010363,Road Safety,1,1,1.0
+2010-5,E01010363,Street Lights,1,1,1.0
+2010-5,E01010368,Highways Enquiries,1,1,1.0
+2010-5,E01010369,Road Surface Defects,1,1,1.0
+2010-5,E01010371,Rubbish,1,1,1.0
+2010-5,E01010372,Highways Enquiries,1,1,1.0
+2010-5,E01010402,Rubbish,1,1,1.0
+2010-5,E01010403,Parking,1,1,1.0
+2010-5,E01010406,Rubbish,1,1,1.0
+2010-5,E01010412,Incivilities,1,1,1.0
+2010-5,E01010414,Street Furniture,1,1,1.0
+2010-5,E01010415,Highways Enquiries,3,1,3.0
+2010-5,E01010415,Incivilities,1,1,1.0
+2010-5,E01010415,Rubbish,1,1,1.0
+2010-5,E01010418,Highways Enquiries,1,1,1.0
+2010-5,E01010422,Rubbish,1,1,1.0
+2010-5,E01010427,Incivilities,1,1,1.0
+2010-5,E01010428,Highways Enquiries,1,1,1.0
+2010-5,E01010428,Rubbish,4,1,4.0
+2010-5,E01010428,Street Lights,1,1,1.0
+2010-5,E01010430,Incivilities,1,1,1.0
+2010-5,E01010430,Rubbish,2,1,2.0
+2010-5,E01010430,Street Lights,1,1,1.0
+2010-5,E01010433,Rubbish,3,1,3.0
+2010-5,E01010442,Rubbish,1,1,1.0
+2010-5,E01010443,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01010451,Other,1,1,1.0
+2010-5,E01010451,Rubbish,1,1,1.0
+2010-5,E01010453,Rubbish,1,1,1.0
+2010-5,E01010458,Parking,1,1,1.0
+2010-5,E01010464,Other,1,1,1.0
+2010-5,E01010464,Rubbish,1,1,1.0
+2010-5,E01010471,Incivilities,1,1,1.0
+2010-5,E01010476,Rubbish,1,1,1.0
+2010-5,E01010478,Road Safety,1,1,1.0
+2010-5,E01010502,Road Safety,1,1,1.0
+2010-5,E01010504,Rubbish,1,1,1.0
+2010-5,E01010506,Incivilities,1,1,1.0
+2010-5,E01010506,Road Safety,1,1,1.0
+2010-5,E01010508,Other,1,1,1.0
+2010-5,E01010508,Road Safety,1,1,1.0
+2010-5,E01010508,Street Lights,1,1,1.0
+2010-5,E01010510,Incivilities,2,1,2.0
+2010-5,E01010512,Incivilities,1,1,1.0
+2010-5,E01010521,Incivilities,2,1,2.0
+2010-5,E01010523,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010532,Other,1,1,1.0
+2010-5,E01010535,Road Safety,1,1,1.0
+2010-5,E01010536,Street Lights,1,1,1.0
+2010-5,E01010537,Pavement /Footway Defects,2,1,2.0
+2010-5,E01010537,Road Surface Defects,1,1,1.0
+2010-5,E01010537,Rubbish,1,1,1.0
+2010-5,E01010537,Street Lights,1,1,1.0
+2010-5,E01010538,Rubbish,1,1,1.0
+2010-5,E01010555,Open Spaces/Parks,1,1,1.0
+2010-5,E01010558,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010562,Other,2,1,2.0
+2010-5,E01010569,Rubbish,1,1,1.0
+2010-5,E01010570,Road Safety,1,1,1.0
+2010-5,E01010578,Rubbish,1,1,1.0
+2010-5,E01010585,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010585,Road Surface Defects,1,1,1.0
+2010-5,E01010590,Road Surface Defects,1,1,1.0
+2010-5,E01010594,Highways Enquiries,4,1,4.0
+2010-5,E01010595,Dog Fouling,3,1,3.0
+2010-5,E01010595,Highways Enquiries,9,2,4.5
+2010-5,E01010595,Pavement /Footway Defects,1,1,1.0
+2010-5,E01010595,Road Surface Defects,1,1,1.0
+2010-5,E01010595,Rubbish,2,1,2.0
+2010-5,E01010612,Rubbish,1,1,1.0
+2010-5,E01010637,Road Surface Defects,1,1,1.0
+2010-5,E01010700,Other,1,1,1.0
+2010-5,E01010704,Highways Enquiries,1,1,1.0
+2010-5,E01010710,Rubbish,1,1,1.0
+2010-5,E01010713,Road Surface Defects,1,1,1.0
+2010-5,E01010723,Other,1,1,1.0
+2010-5,E01010728,Rubbish,1,1,1.0
+2010-5,E01010738,Rubbish,1,1,1.0
+2010-5,E01010752,Other,1,1,1.0
+2010-5,E01010753,Highways Enquiries,1,1,1.0
+2010-5,E01010754,Highways Enquiries,1,1,1.0
+2010-5,E01010754,Parking,1,1,1.0
+2010-5,E01010759,Parking,1,1,1.0
+2010-5,E01010794,Other,1,1,1.0
+2010-5,E01010795,Highways Enquiries,2,1,2.0
+2010-5,E01010821,Highways Enquiries,1,1,1.0
+2010-5,E01010834,Highways Enquiries,1,1,1.0
+2010-5,E01010851,Parking,1,1,1.0
+2010-5,E01010854,Open Spaces/Parks,1,1,1.0
+2010-5,E01010855,Highways Enquiries,1,1,1.0
+2010-5,E01010861,Incivilities,1,1,1.0
+2010-5,E01010861,Other,1,1,1.0
+2010-5,E01010875,Open Spaces/Parks,1,1,1.0
+2010-5,E01010879,Road Surface Defects,1,1,1.0
+2010-5,E01010922,Rubbish,1,1,1.0
+2010-5,E01010938,Highways Enquiries,1,1,1.0
+2010-5,E01010947,Road Safety,1,1,1.0
+2010-5,E01010949,Open Spaces/Parks,1,1,1.0
+2010-5,E01010972,Road Surface Defects,1,1,1.0
+2010-5,E01010976,Rubbish,1,1,1.0
+2010-5,E01010984,Highways Enquiries,1,1,1.0
+2010-5,E01011047,Highways Enquiries,1,1,1.0
+2010-5,E01011075,Road Safety,1,1,1.0
+2010-5,E01011087,Road Surface Defects,2,1,2.0
+2010-5,E01011089,Dog Fouling,1,1,1.0
+2010-5,E01011099,Street Lights,1,1,1.0
+2010-5,E01011110,Road Surface Defects,4,1,4.0
+2010-5,E01011114,Street Lights,1,1,1.0
+2010-5,E01011147,Incivilities,1,1,1.0
+2010-5,E01011149,Incivilities,3,1,3.0
+2010-5,E01011164,Street Lights,1,1,1.0
+2010-5,E01011191,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01011198,Road Surface Defects,1,1,1.0
+2010-5,E01011265,Pavement /Footway Defects,1,1,1.0
+2010-5,E01011270,Road Surface Defects,1,1,1.0
+2010-5,E01011280,Open Spaces/Parks,1,1,1.0
+2010-5,E01011282,Road Surface Defects,1,1,1.0
+2010-5,E01011295,Street Furniture,1,1,1.0
+2010-5,E01011302,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01011311,Road Surface Defects,2,1,2.0
+2010-5,E01011314,Highways Enquiries,1,1,1.0
+2010-5,E01011343,Highways Enquiries,1,1,1.0
+2010-5,E01011377,Street Lights,1,1,1.0
+2010-5,E01011381,Road Surface Defects,1,1,1.0
+2010-5,E01011388,Road Surface Defects,1,1,1.0
+2010-5,E01011434,Pavement /Footway Defects,1,1,1.0
+2010-5,E01011452,Road Surface Defects,4,1,4.0
+2010-5,E01011453,Road Surface Defects,1,1,1.0
+2010-5,E01011479,Road Surface Defects,1,1,1.0
+2010-5,E01011480,Road Surface Defects,1,1,1.0
+2010-5,E01011489,Rubbish,1,1,1.0
+2010-5,E01011553,Rubbish,1,1,1.0
+2010-5,E01011554,Road Surface Defects,4,1,4.0
+2010-5,E01011574,Highways Enquiries,1,1,1.0
+2010-5,E01011593,Highways Enquiries,1,1,1.0
+2010-5,E01011600,Rubbish,1,1,1.0
+2010-5,E01011637,Rubbish,1,1,1.0
+2010-5,E01011661,Incivilities,1,1,1.0
+2010-5,E01011670,Highways Enquiries,1,1,1.0
+2010-5,E01011670,Road Surface Defects,1,1,1.0
+2010-5,E01011673,Road Safety,1,1,1.0
+2010-5,E01011673,Road Surface Defects,1,1,1.0
+2010-5,E01011733,Other,1,1,1.0
+2010-5,E01011786,Rubbish,1,1,1.0
+2010-5,E01011819,Dog Fouling,1,1,1.0
+2010-5,E01011833,Road Surface Defects,1,1,1.0
+2010-5,E01011913,Incivilities,1,1,1.0
+2010-5,E01011915,Other,1,1,1.0
+2010-5,E01011915,Rubbish,1,1,1.0
+2010-5,E01011959,Other,1,1,1.0
+2010-5,E01011973,Street Lights,1,1,1.0
+2010-5,E01011991,Street Lights,1,1,1.0
+2010-5,E01012041,Parking,1,1,1.0
+2010-5,E01012063,Road Surface Defects,1,1,1.0
+2010-5,E01012064,Road Surface Defects,2,1,2.0
+2010-5,E01012092,Street Lights,1,1,1.0
+2010-5,E01012093,Rubbish,1,1,1.0
+2010-5,E01012200,Open Spaces/Parks,1,1,1.0
+2010-5,E01012299,Open Spaces/Parks,1,1,1.0
+2010-5,E01012349,Dog Fouling,1,1,1.0
+2010-5,E01012408,Pavement /Footway Defects,1,1,1.0
+2010-5,E01012417,Rubbish,1,1,1.0
+2010-5,E01012430,Parking,1,1,1.0
+2010-5,E01012430,Road Surface Defects,1,1,1.0
+2010-5,E01012431,Road Surface Defects,1,1,1.0
+2010-5,E01012435,Open Spaces/Parks,1,1,1.0
+2010-5,E01012435,Road Safety,1,1,1.0
+2010-5,E01012441,Road Surface Defects,1,1,1.0
+2010-5,E01012533,Other,1,1,1.0
+2010-5,E01012533,Rubbish,1,1,1.0
+2010-5,E01012581,Highways Enquiries,1,1,1.0
+2010-5,E01012581,Road Surface Defects,1,1,1.0
+2010-5,E01012583,Highways Enquiries,1,1,1.0
+2010-5,E01012585,Rubbish,1,1,1.0
+2010-5,E01012586,Rubbish,1,1,1.0
+2010-5,E01012587,Rubbish,1,1,1.0
+2010-5,E01012590,Pavement /Footway Defects,1,1,1.0
+2010-5,E01012592,Parking,1,1,1.0
+2010-5,E01012616,Road Surface Defects,1,1,1.0
+2010-5,E01012624,Incivilities,1,1,1.0
+2010-5,E01012624,Rubbish,1,1,1.0
+2010-5,E01012628,Road Surface Defects,1,1,1.0
+2010-5,E01012633,Highways Enquiries,1,1,1.0
+2010-5,E01012638,Open Spaces/Parks,1,1,1.0
+2010-5,E01012648,Rubbish,1,1,1.0
+2010-5,E01012658,Parking,1,1,1.0
+2010-5,E01012658,Rubbish,1,1,1.0
+2010-5,E01012671,Road Safety,1,1,1.0
+2010-5,E01012674,Highways Enquiries,1,1,1.0
+2010-5,E01012679,Rubbish,1,1,1.0
+2010-5,E01012679,Street Lights,1,1,1.0
+2010-5,E01012680,Rubbish,1,1,1.0
+2010-5,E01012690,Other,1,1,1.0
+2010-5,E01012708,Rubbish,1,1,1.0
+2010-5,E01012708,Street Furniture,1,1,1.0
+2010-5,E01012711,Road Surface Defects,2,1,2.0
+2010-5,E01012712,Road Surface Defects,1,1,1.0
+2010-5,E01012722,Road Surface Defects,1,1,1.0
+2010-5,E01012739,Road Safety,1,1,1.0
+2010-5,E01012868,Road Surface Defects,1,1,1.0
+2010-5,E01012889,Highways Enquiries,1,1,1.0
+2010-5,E01012991,Highways Enquiries,1,1,1.0
+2010-5,E01013007,Open Spaces/Parks,1,1,1.0
+2010-5,E01013016,Incivilities,1,1,1.0
+2010-5,E01013019,Road Surface Defects,1,1,1.0
+2010-5,E01013073,Road Surface Defects,1,1,1.0
+2010-5,E01013096,Pavement /Footway Defects,1,1,1.0
+2010-5,E01013097,Highways Enquiries,1,1,1.0
+2010-5,E01013106,Open Spaces/Parks,1,1,1.0
+2010-5,E01013115,Other,1,1,1.0
+2010-5,E01013123,Road Surface Defects,1,1,1.0
+2010-5,E01013130,Highways Enquiries,1,1,1.0
+2010-5,E01013172,Other,1,1,1.0
+2010-5,E01013174,Road Surface Defects,1,1,1.0
+2010-5,E01013201,Street Lights,1,1,1.0
+2010-5,E01013226,Street Lights,1,1,1.0
+2010-5,E01013251,Highways Enquiries,1,1,1.0
+2010-5,E01013252,Highways Enquiries,1,1,1.0
+2010-5,E01013342,Road Surface Defects,1,1,1.0
+2010-5,E01013455,Road Safety,1,1,1.0
+2010-5,E01013470,Road Surface Defects,1,1,1.0
+2010-5,E01013471,Other,1,1,1.0
+2010-5,E01013476,Other,1,1,1.0
+2010-5,E01013486,Rubbish,1,1,1.0
+2010-5,E01013491,Street Lights,1,1,1.0
+2010-5,E01013519,Street Lights,1,1,1.0
+2010-5,E01013525,Highways Enquiries,1,1,1.0
+2010-5,E01013546,Street Furniture,1,1,1.0
+2010-5,E01013551,Other,1,1,1.0
+2010-5,E01013605,Highways Enquiries,1,1,1.0
+2010-5,E01013615,Road Surface Defects,1,1,1.0
+2010-5,E01013616,Street Lights,1,1,1.0
+2010-5,E01013631,Road Surface Defects,2,2,1.0
+2010-5,E01013634,Road Surface Defects,1,1,1.0
+2010-5,E01013658,Parking,1,1,1.0
+2010-5,E01013661,Road Surface Defects,1,1,1.0
+2010-5,E01013678,Road Surface Defects,1,1,1.0
+2010-5,E01013681,Rubbish,1,1,1.0
+2010-5,E01013686,Road Surface Defects,2,2,1.0
+2010-5,E01013697,Road Surface Defects,1,1,1.0
+2010-5,E01013706,Other,1,1,1.0
+2010-5,E01013736,Road Surface Defects,1,1,1.0
+2010-5,E01013741,Road Safety,1,1,1.0
+2010-5,E01013746,Road Surface Defects,1,1,1.0
+2010-5,E01013762,Road Surface Defects,1,1,1.0
+2010-5,E01013779,Other,1,1,1.0
+2010-5,E01013783,Other,1,1,1.0
+2010-5,E01013783,Road Surface Defects,1,1,1.0
+2010-5,E01013788,Street Lights,1,1,1.0
+2010-5,E01013791,Road Surface Defects,1,1,1.0
+2010-5,E01013793,Road Surface Defects,1,1,1.0
+2010-5,E01013879,Street Furniture,1,1,1.0
+2010-5,E01013880,Road Surface Defects,1,1,1.0
+2010-5,E01013914,Street Lights,1,1,1.0
+2010-5,E01013919,Pavement /Footway Defects,1,1,1.0
+2010-5,E01013924,Rubbish,1,1,1.0
+2010-5,E01013930,Rubbish,1,1,1.0
+2010-5,E01013930,Street Lights,1,1,1.0
+2010-5,E01013935,Road Surface Defects,1,1,1.0
+2010-5,E01013987,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01013993,Road Surface Defects,1,1,1.0
+2010-5,E01014024,Rubbish,1,1,1.0
+2010-5,E01014031,Road Surface Defects,1,1,1.0
+2010-5,E01014044,Open Spaces/Parks,1,1,1.0
+2010-5,E01014054,Road Surface Defects,1,1,1.0
+2010-5,E01014060,Other,1,1,1.0
+2010-5,E01014066,Other,1,1,1.0
+2010-5,E01014124,Street Lights,1,1,1.0
+2010-5,E01014148,Pavement /Footway Defects,1,1,1.0
+2010-5,E01014148,Road Surface Defects,1,1,1.0
+2010-5,E01014153,Pavement /Footway Defects,1,1,1.0
+2010-5,E01014242,Road Surface Defects,1,1,1.0
+2010-5,E01014243,Pavement /Footway Defects,1,1,1.0
+2010-5,E01014246,Road Surface Defects,1,1,1.0
+2010-5,E01014302,Other,1,1,1.0
+2010-5,E01014302,Rubbish,1,1,1.0
+2010-5,E01014306,Rubbish,1,1,1.0
+2010-5,E01014322,Highways Enquiries,1,1,1.0
+2010-5,E01014327,Other,2,1,2.0
+2010-5,E01014331,Road Surface Defects,1,1,1.0
+2010-5,E01014332,Road Surface Defects,1,1,1.0
+2010-5,E01014334,Road Surface Defects,1,1,1.0
+2010-5,E01014336,Road Surface Defects,1,1,1.0
+2010-5,E01014337,Pavement /Footway Defects,1,1,1.0
+2010-5,E01014355,Other,2,1,2.0
+2010-5,E01014360,Open Spaces/Parks,1,1,1.0
+2010-5,E01014361,Highways Enquiries,1,1,1.0
+2010-5,E01014367,Parking,1,1,1.0
+2010-5,E01014370,Bus Stops Damage,1,1,1.0
+2010-5,E01014370,Public Toilets,1,1,1.0
+2010-5,E01014377,Other,1,1,1.0
+2010-5,E01014379,Road Safety,2,1,2.0
+2010-5,E01014385,Road Safety,1,1,1.0
+2010-5,E01014385,Road Surface Defects,1,1,1.0
+2010-5,E01014386,Highways Enquiries,1,1,1.0
+2010-5,E01014400,Road Surface Defects,1,1,1.0
+2010-5,E01014405,Road Surface Defects,1,1,1.0
+2010-5,E01014410,Road Surface Defects,1,1,1.0
+2010-5,E01014427,Parking,1,1,1.0
+2010-5,E01014447,Road Surface Defects,1,1,1.0
+2010-5,E01014453,Road Safety,1,1,1.0
+2010-5,E01014453,Road Surface Defects,1,1,1.0
+2010-5,E01014454,Road Surface Defects,1,1,1.0
+2010-5,E01014479,Road Surface Defects,1,1,1.0
+2010-5,E01014481,Other,1,1,1.0
+2010-5,E01014486,Road Surface Defects,1,1,1.0
+2010-5,E01014539,Incivilities,1,1,1.0
+2010-5,E01014544,Highways Enquiries,1,1,1.0
+2010-5,E01014545,Highways Enquiries,1,1,1.0
+2010-5,E01014545,Rubbish,1,1,1.0
+2010-5,E01014545,Street Lights,1,1,1.0
+2010-5,E01014548,Highways Enquiries,1,1,1.0
+2010-5,E01014558,Highways Enquiries,1,1,1.0
+2010-5,E01014565,Other,1,1,1.0
+2010-5,E01014590,Open Spaces/Parks,1,1,1.0
+2010-5,E01014590,Rubbish,1,1,1.0
+2010-5,E01014598,Parking,1,1,1.0
+2010-5,E01014605,Road Surface Defects,1,1,1.0
+2010-5,E01014613,Highways Enquiries,1,1,1.0
+2010-5,E01014613,Road Surface Defects,1,1,1.0
+2010-5,E01014632,Rubbish,1,1,1.0
+2010-5,E01014636,Highways Enquiries,1,1,1.0
+2010-5,E01014668,Road Safety,1,1,1.0
+2010-5,E01014668,Street Lights,1,1,1.0
+2010-5,E01014670,Rubbish,1,1,1.0
+2010-5,E01014681,Rubbish,1,1,1.0
+2010-5,E01014685,Other,1,1,1.0
+2010-5,E01014712,Parking,1,1,1.0
+2010-5,E01014733,Road Surface Defects,1,1,1.0
+2010-5,E01014738,Other,1,1,1.0
+2010-5,E01014739,Rubbish,1,1,1.0
+2010-5,E01014741,Rubbish,1,1,1.0
+2010-5,E01014746,Highways Enquiries,1,1,1.0
+2010-5,E01014748,Road Surface Defects,1,1,1.0
+2010-5,E01014759,Road Surface Defects,1,1,1.0
+2010-5,E01014765,Road Surface Defects,1,1,1.0
+2010-5,E01014767,Road Surface Defects,1,1,1.0
+2010-5,E01014792,Road Surface Defects,1,1,1.0
+2010-5,E01014811,Road Surface Defects,1,1,1.0
+2010-5,E01014843,Road Surface Defects,1,1,1.0
+2010-5,E01014891,Highways Enquiries,2,2,1.0
+2010-5,E01014891,Road Surface Defects,1,1,1.0
+2010-5,E01014898,Road Surface Defects,1,1,1.0
+2010-5,E01014912,Street Lights,1,1,1.0
+2010-5,E01014920,Road Surface Defects,1,1,1.0
+2010-5,E01014921,Road Surface Defects,1,1,1.0
+2010-5,E01014929,Road Surface Defects,1,1,1.0
+2010-5,E01014996,Road Surface Defects,1,1,1.0
+2010-5,E01014999,Road Surface Defects,1,1,1.0
+2010-5,E01015001,Road Surface Defects,1,1,1.0
+2010-5,E01015053,Pavement /Footway Defects,1,1,1.0
+2010-5,E01015054,Pavement /Footway Defects,1,1,1.0
+2010-5,E01015054,Rubbish,1,1,1.0
+2010-5,E01015075,Incivilities,1,1,1.0
+2010-5,E01015075,Road Surface Defects,1,1,1.0
+2010-5,E01015088,Incivilities,1,1,1.0
+2010-5,E01015100,Road Surface Defects,1,1,1.0
+2010-5,E01015102,Road Safety,1,1,1.0
+2010-5,E01015127,Other,1,1,1.0
+2010-5,E01015129,Parking,1,1,1.0
+2010-5,E01015132,Rubbish,1,1,1.0
+2010-5,E01015133,Road Surface Defects,1,1,1.0
+2010-5,E01015145,Abandoned Vehicles,1,1,1.0
+2010-5,E01015146,Other,1,1,1.0
+2010-5,E01015157,Open Spaces/Parks,1,1,1.0
+2010-5,E01015180,Road Surface Defects,2,1,2.0
+2010-5,E01015194,Highways Enquiries,1,1,1.0
+2010-5,E01015221,Road Surface Defects,1,1,1.0
+2010-5,E01015240,Rubbish,1,1,1.0
+2010-5,E01015250,Dog Fouling,1,1,1.0
+2010-5,E01015269,Rubbish,1,1,1.0
+2010-5,E01015281,Street Furniture,1,1,1.0
+2010-5,E01015282,Rubbish,1,1,1.0
+2010-5,E01015283,Street Lights,2,2,1.0
+2010-5,E01015285,Road Safety,1,1,1.0
+2010-5,E01015287,Incivilities,1,1,1.0
+2010-5,E01015289,Parking,1,1,1.0
+2010-5,E01015291,Street Lights,1,1,1.0
+2010-5,E01015316,Street Lights,2,2,1.0
+2010-5,E01015319,Bus Stops Damage,1,1,1.0
+2010-5,E01015329,Rubbish,1,1,1.0
+2010-5,E01015338,Abandoned Vehicles,1,1,1.0
+2010-5,E01015351,Street Lights,1,1,1.0
+2010-5,E01015352,Rubbish,1,1,1.0
+2010-5,E01015352,Street Lights,2,1,2.0
+2010-5,E01015361,Parking,1,1,1.0
+2010-5,E01015365,Other,1,1,1.0
+2010-5,E01015371,Rubbish,1,1,1.0
+2010-5,E01015412,Other,1,1,1.0
+2010-5,E01015465,Other,1,1,1.0
+2010-5,E01015478,Road Surface Defects,1,1,1.0
+2010-5,E01015489,Other,1,1,1.0
+2010-5,E01015492,Rubbish,1,1,1.0
+2010-5,E01015540,Street Lights,1,1,1.0
+2010-5,E01015580,Road Surface Defects,1,1,1.0
+2010-5,E01015585,Road Surface Defects,1,1,1.0
+2010-5,E01015599,Other,1,1,1.0
+2010-5,E01015599,Parking,1,1,1.0
+2010-5,E01015599,Rubbish,1,1,1.0
+2010-5,E01015599,Street Lights,3,1,3.0
+2010-5,E01015600,Road Surface Defects,1,1,1.0
+2010-5,E01015602,Incivilities,1,1,1.0
+2010-5,E01015605,Incivilities,1,1,1.0
+2010-5,E01015605,Other,1,1,1.0
+2010-5,E01015611,Incivilities,1,1,1.0
+2010-5,E01015611,Street Lights,4,1,4.0
+2010-5,E01015612,Street Lights,2,1,2.0
+2010-5,E01015615,Incivilities,3,1,3.0
+2010-5,E01015616,Road Safety,1,1,1.0
+2010-5,E01015616,Street Furniture,1,1,1.0
+2010-5,E01015616,Street Lights,3,2,1.5
+2010-5,E01015617,Highways Enquiries,1,1,1.0
+2010-5,E01015622,Other,1,1,1.0
+2010-5,E01015632,Pavement /Footway Defects,1,1,1.0
+2010-5,E01015637,Street Lights,1,1,1.0
+2010-5,E01015638,Incivilities,1,1,1.0
+2010-5,E01015639,Incivilities,1,1,1.0
+2010-5,E01015639,Road Safety,1,1,1.0
+2010-5,E01015639,Street Lights,1,1,1.0
+2010-5,E01015640,Rubbish,1,1,1.0
+2010-5,E01015640,Street Lights,2,1,2.0
+2010-5,E01015641,Street Lights,3,1,3.0
+2010-5,E01015643,Road Safety,1,1,1.0
+2010-5,E01015647,Street Lights,3,1,3.0
+2010-5,E01015653,Incivilities,1,1,1.0
+2010-5,E01015661,Street Furniture,1,1,1.0
+2010-5,E01015669,Other,1,1,1.0
+2010-5,E01015689,Pavement /Footway Defects,1,1,1.0
+2010-5,E01015689,Road Surface Defects,1,1,1.0
+2010-5,E01015703,Abandoned Vehicles,1,1,1.0
+2010-5,E01015703,Rubbish,1,1,1.0
+2010-5,E01015714,Road Surface Defects,1,1,1.0
+2010-5,E01015723,Other,1,1,1.0
+2010-5,E01015723,Street Furniture,1,1,1.0
+2010-5,E01015727,Road Safety,1,1,1.0
+2010-5,E01015731,Other,1,1,1.0
+2010-5,E01015792,Rubbish,1,1,1.0
+2010-5,E01015820,Other,1,1,1.0
+2010-5,E01015832,Other,1,1,1.0
+2010-5,E01015852,Other,1,1,1.0
+2010-5,E01015884,Other,1,1,1.0
+2010-5,E01015901,Other,1,1,1.0
+2010-5,E01015938,Street Lights,1,1,1.0
+2010-5,E01015969,Street Lights,1,1,1.0
+2010-5,E01015974,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01016012,Highways Enquiries,1,1,1.0
+2010-5,E01016057,Parking,1,1,1.0
+2010-5,E01016063,Abandoned Vehicles,1,1,1.0
+2010-5,E01016140,Abandoned Vehicles,1,1,1.0
+2010-5,E01016155,Other,1,1,1.0
+2010-5,E01016177,Parking,1,1,1.0
+2010-5,E01016184,Other,2,1,2.0
+2010-5,E01016255,Rubbish,1,1,1.0
+2010-5,E01016260,Other,1,1,1.0
+2010-5,E01016260,Street Lights,1,1,1.0
+2010-5,E01016273,Road Surface Defects,2,1,2.0
+2010-5,E01016281,Road Surface Defects,1,1,1.0
+2010-5,E01016302,Road Surface Defects,1,1,1.0
+2010-5,E01016311,Road Surface Defects,1,1,1.0
+2010-5,E01016330,Street Lights,1,1,1.0
+2010-5,E01016331,Road Safety,1,1,1.0
+2010-5,E01016349,Street Lights,1,1,1.0
+2010-5,E01016355,Pavement /Footway Defects,1,1,1.0
+2010-5,E01016355,Street Lights,1,1,1.0
+2010-5,E01016356,Other,1,1,1.0
+2010-5,E01016360,Rubbish,1,1,1.0
+2010-5,E01016362,Road Safety,1,1,1.0
+2010-5,E01016366,Pavement /Footway Defects,1,1,1.0
+2010-5,E01016377,Road Safety,1,1,1.0
+2010-5,E01016379,Highways Enquiries,1,1,1.0
+2010-5,E01016392,Abandoned Vehicles,1,1,1.0
+2010-5,E01016393,Highways Enquiries,1,1,1.0
+2010-5,E01016395,Road Safety,1,1,1.0
+2010-5,E01016403,Other,1,1,1.0
+2010-5,E01016407,Road Surface Defects,1,1,1.0
+2010-5,E01016407,Street Lights,1,1,1.0
+2010-5,E01016410,Road Safety,1,1,1.0
+2010-5,E01016412,Highways Enquiries,2,2,1.0
+2010-5,E01016414,Incivilities,5,2,2.5
+2010-5,E01016415,Incivilities,1,1,1.0
+2010-5,E01016422,Road Safety,1,1,1.0
+2010-5,E01016434,Other,1,1,1.0
+2010-5,E01016438,Road Surface Defects,1,1,1.0
+2010-5,E01016442,Road Safety,1,1,1.0
+2010-5,E01016442,Road Surface Defects,1,1,1.0
+2010-5,E01016453,Rubbish,1,1,1.0
+2010-5,E01016492,Road Surface Defects,1,1,1.0
+2010-5,E01016497,Rubbish,1,1,1.0
+2010-5,E01016515,Open Spaces/Parks,1,1,1.0
+2010-5,E01016583,Other,1,1,1.0
+2010-5,E01016613,Highways Enquiries,1,1,1.0
+2010-5,E01016613,Pavement /Footway Defects,1,1,1.0
+2010-5,E01016613,Road Safety,1,1,1.0
+2010-5,E01016625,Incivilities,1,1,1.0
+2010-5,E01016628,Pavement /Footway Defects,1,1,1.0
+2010-5,E01016637,Other,1,1,1.0
+2010-5,E01016641,Highways Enquiries,1,1,1.0
+2010-5,E01016641,Road Surface Defects,1,1,1.0
+2010-5,E01016647,Road Surface Defects,1,1,1.0
+2010-5,E01016656,Other,1,1,1.0
+2010-5,E01016661,Road Surface Defects,1,1,1.0
+2010-5,E01016662,Pavement /Footway Defects,1,1,1.0
+2010-5,E01016676,Road Surface Defects,1,1,1.0
+2010-5,E01016679,Incivilities,1,1,1.0
+2010-5,E01016680,Incivilities,1,1,1.0
+2010-5,E01016685,Road Surface Defects,1,1,1.0
+2010-5,E01016686,Incivilities,1,1,1.0
+2010-5,E01016688,Other,1,1,1.0
+2010-5,E01016692,Road Surface Defects,1,1,1.0
+2010-5,E01016696,Road Surface Defects,1,1,1.0
+2010-5,E01016703,Road Surface Defects,1,1,1.0
+2010-5,E01016704,Road Safety,1,1,1.0
+2010-5,E01016710,Parking,1,1,1.0
+2010-5,E01016711,Road Surface Defects,1,1,1.0
+2010-5,E01016723,Road Safety,1,1,1.0
+2010-5,E01016724,Pavement /Footway Defects,1,1,1.0
+2010-5,E01016740,Road Surface Defects,1,1,1.0
+2010-5,E01016778,Other,1,1,1.0
+2010-5,E01016811,Road Surface Defects,1,1,1.0
+2010-5,E01016820,Road Surface Defects,1,1,1.0
+2010-5,E01016823,Other,1,1,1.0
+2010-5,E01016850,Other,1,1,1.0
+2010-5,E01016866,Street Lights,2,2,1.0
+2010-5,E01016881,Other,1,1,1.0
+2010-5,E01016890,Parking,1,1,1.0
+2010-5,E01016898,Other,1,1,1.0
+2010-5,E01016903,Street Lights,1,1,1.0
+2010-5,E01016928,Incivilities,1,1,1.0
+2010-5,E01016936,Other,2,1,2.0
+2010-5,E01016954,Road Surface Defects,1,1,1.0
+2010-5,E01016954,Rubbish,1,1,1.0
+2010-5,E01016968,Road Surface Defects,1,1,1.0
+2010-5,E01016974,Other,1,1,1.0
+2010-5,E01016974,Parking,1,1,1.0
+2010-5,E01017007,Street Lights,1,1,1.0
+2010-5,E01017010,Rubbish,1,1,1.0
+2010-5,E01017011,Abandoned Vehicles,1,1,1.0
+2010-5,E01017011,Road Surface Defects,1,1,1.0
+2010-5,E01017013,Parking,1,1,1.0
+2010-5,E01017026,Parking,1,1,1.0
+2010-5,E01017031,Road Safety,1,1,1.0
+2010-5,E01017031,Road Surface Defects,1,1,1.0
+2010-5,E01017038,Other,1,1,1.0
+2010-5,E01017039,Road Surface Defects,1,1,1.0
+2010-5,E01017046,Other,1,1,1.0
+2010-5,E01017048,Parking,1,1,1.0
+2010-5,E01017060,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017070,Dog Fouling,1,1,1.0
+2010-5,E01017070,Other,1,1,1.0
+2010-5,E01017073,Rubbish,2,2,1.0
+2010-5,E01017076,Road Surface Defects,1,1,1.0
+2010-5,E01017077,Road Surface Defects,1,1,1.0
+2010-5,E01017079,Other,1,1,1.0
+2010-5,E01017084,Highways Enquiries,1,1,1.0
+2010-5,E01017122,Other,1,1,1.0
+2010-5,E01017123,Incivilities,1,1,1.0
+2010-5,E01017184,Street Lights,1,1,1.0
+2010-5,E01017198,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017222,Other,1,1,1.0
+2010-5,E01017222,Street Lights,1,1,1.0
+2010-5,E01017226,Road Surface Defects,1,1,1.0
+2010-5,E01017238,Road Surface Defects,1,1,1.0
+2010-5,E01017242,Street Lights,1,1,1.0
+2010-5,E01017250,Rubbish,1,1,1.0
+2010-5,E01017253,Street Furniture,1,1,1.0
+2010-5,E01017283,Road Surface Defects,1,1,1.0
+2010-5,E01017284,Highways Enquiries,1,1,1.0
+2010-5,E01017284,Other,1,1,1.0
+2010-5,E01017288,Pavement /Footway Defects,2,1,2.0
+2010-5,E01017290,Road Surface Defects,3,1,3.0
+2010-5,E01017291,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01017297,Road Surface Defects,1,1,1.0
+2010-5,E01017323,Road Surface Defects,1,1,1.0
+2010-5,E01017353,Other,1,1,1.0
+2010-5,E01017353,Road Surface Defects,1,1,1.0
+2010-5,E01017359,Rubbish,1,1,1.0
+2010-5,E01017403,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01017404,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01017412,Rubbish,1,1,1.0
+2010-5,E01017436,Open Spaces/Parks,1,1,1.0
+2010-5,E01017450,Rubbish,1,1,1.0
+2010-5,E01017455,Abandoned Vehicles,1,1,1.0
+2010-5,E01017456,Road Safety,1,1,1.0
+2010-5,E01017456,Road Surface Defects,1,1,1.0
+2010-5,E01017462,Abandoned Vehicles,1,1,1.0
+2010-5,E01017469,Road Surface Defects,1,1,1.0
+2010-5,E01017475,Dog Fouling,1,1,1.0
+2010-5,E01017475,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01017475,Road Safety,1,1,1.0
+2010-5,E01017475,Road Surface Defects,1,1,1.0
+2010-5,E01017475,Street Lights,1,1,1.0
+2010-5,E01017481,Road Surface Defects,1,1,1.0
+2010-5,E01017482,Street Lights,1,1,1.0
+2010-5,E01017493,Abandoned Vehicles,1,1,1.0
+2010-5,E01017497,Rubbish,1,1,1.0
+2010-5,E01017536,Street Lights,1,1,1.0
+2010-5,E01017539,Other,1,1,1.0
+2010-5,E01017540,Rubbish,1,1,1.0
+2010-5,E01017547,Road Surface Defects,1,1,1.0
+2010-5,E01017551,Rubbish,1,1,1.0
+2010-5,E01017555,Incivilities,1,1,1.0
+2010-5,E01017564,Road Surface Defects,1,1,1.0
+2010-5,E01017567,Other,1,1,1.0
+2010-5,E01017568,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017570,Road Safety,1,1,1.0
+2010-5,E01017578,Road Safety,1,1,1.0
+2010-5,E01017579,Other,1,1,1.0
+2010-5,E01017580,Street Lights,2,1,2.0
+2010-5,E01017581,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017584,Highways Enquiries,1,1,1.0
+2010-5,E01017592,Road Surface Defects,3,3,1.0
+2010-5,E01017593,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017600,Street Lights,1,1,1.0
+2010-5,E01017603,Street Lights,1,1,1.0
+2010-5,E01017609,Incivilities,1,1,1.0
+2010-5,E01017618,Other,1,1,1.0
+2010-5,E01017619,Rubbish,1,1,1.0
+2010-5,E01017620,Highways Enquiries,2,2,1.0
+2010-5,E01017620,Road Surface Defects,2,1,2.0
+2010-5,E01017623,Road Surface Defects,1,1,1.0
+2010-5,E01017636,Road Surface Defects,1,1,1.0
+2010-5,E01017640,Highways Enquiries,1,1,1.0
+2010-5,E01017641,Incivilities,2,1,2.0
+2010-5,E01017651,Road Surface Defects,2,1,2.0
+2010-5,E01017653,Street Lights,1,1,1.0
+2010-5,E01017665,Incivilities,1,1,1.0
+2010-5,E01017692,Street Lights,1,1,1.0
+2010-5,E01017711,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01017714,Street Furniture,1,1,1.0
+2010-5,E01017736,Other,1,1,1.0
+2010-5,E01017738,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017745,Rubbish,1,1,1.0
+2010-5,E01017750,Highways Enquiries,1,1,1.0
+2010-5,E01017750,Road Surface Defects,1,1,1.0
+2010-5,E01017750,Rubbish,1,1,1.0
+2010-5,E01017759,Road Surface Defects,1,1,1.0
+2010-5,E01017764,Road Surface Defects,1,1,1.0
+2010-5,E01017771,Road Surface Defects,2,1,2.0
+2010-5,E01017775,Road Surface Defects,1,1,1.0
+2010-5,E01017776,Road Surface Defects,1,1,1.0
+2010-5,E01017777,Road Surface Defects,1,1,1.0
+2010-5,E01017793,Road Surface Defects,1,1,1.0
+2010-5,E01017795,Road Surface Defects,2,1,2.0
+2010-5,E01017795,Rubbish,1,1,1.0
+2010-5,E01017799,Street Lights,1,1,1.0
+2010-5,E01017800,Other,1,1,1.0
+2010-5,E01017804,Road Surface Defects,1,1,1.0
+2010-5,E01017804,Street Lights,1,1,1.0
+2010-5,E01017807,Open Spaces/Parks,1,1,1.0
+2010-5,E01017808,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017808,Road Safety,1,1,1.0
+2010-5,E01017809,Rubbish,1,1,1.0
+2010-5,E01017820,Road Surface Defects,2,1,2.0
+2010-5,E01017821,Road Surface Defects,1,1,1.0
+2010-5,E01017826,Highways Enquiries,1,1,1.0
+2010-5,E01017833,Highways Enquiries,1,1,1.0
+2010-5,E01017833,Road Surface Defects,1,1,1.0
+2010-5,E01017846,Road Surface Defects,1,1,1.0
+2010-5,E01017849,Road Surface Defects,1,1,1.0
+2010-5,E01017863,Road Surface Defects,1,1,1.0
+2010-5,E01017873,Road Surface Defects,1,1,1.0
+2010-5,E01017891,Highways Enquiries,1,1,1.0
+2010-5,E01017892,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017893,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017894,Other,1,1,1.0
+2010-5,E01017909,Pavement /Footway Defects,2,1,2.0
+2010-5,E01017921,Road Surface Defects,1,1,1.0
+2010-5,E01017921,Rubbish,1,1,1.0
+2010-5,E01017925,Street Lights,1,1,1.0
+2010-5,E01017928,Road Surface Defects,1,1,1.0
+2010-5,E01017936,Road Surface Defects,1,1,1.0
+2010-5,E01017943,Other,1,1,1.0
+2010-5,E01017943,Road Surface Defects,1,1,1.0
+2010-5,E01017951,Road Surface Defects,1,1,1.0
+2010-5,E01017956,Pavement /Footway Defects,1,1,1.0
+2010-5,E01017971,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01017983,Pavement /Footway Defects,2,2,1.0
+2010-5,E01017983,Road Safety,1,1,1.0
+2010-5,E01017983,Road Surface Defects,1,1,1.0
+2010-5,E01017993,Street Lights,1,1,1.0
+2010-5,E01017997,Road Safety,1,1,1.0
+2010-5,E01017998,Incivilities,1,1,1.0
+2010-5,E01017998,Rubbish,1,1,1.0
+2010-5,E01017999,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018000,Incivilities,1,1,1.0
+2010-5,E01018000,Open Spaces/Parks,1,1,1.0
+2010-5,E01018000,Road Surface Defects,1,1,1.0
+2010-5,E01018029,Street Furniture,1,1,1.0
+2010-5,E01018063,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01018063,Road Surface Defects,1,1,1.0
+2010-5,E01018063,Street Lights,1,1,1.0
+2010-5,E01018066,Road Surface Defects,1,1,1.0
+2010-5,E01018067,Road Surface Defects,2,1,2.0
+2010-5,E01018068,Road Surface Defects,1,1,1.0
+2010-5,E01018068,Rubbish,1,1,1.0
+2010-5,E01018070,Road Surface Defects,1,1,1.0
+2010-5,E01018073,Other,1,1,1.0
+2010-5,E01018073,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018073,Road Safety,1,1,1.0
+2010-5,E01018073,Road Surface Defects,2,2,1.0
+2010-5,E01018073,Street Lights,2,1,2.0
+2010-5,E01018078,Other,1,1,1.0
+2010-5,E01018081,Road Surface Defects,1,1,1.0
+2010-5,E01018081,Street Lights,1,1,1.0
+2010-5,E01018090,Other,1,1,1.0
+2010-5,E01018092,Road Surface Defects,1,1,1.0
+2010-5,E01018093,Open Spaces/Parks,1,1,1.0
+2010-5,E01018093,Parking,1,1,1.0
+2010-5,E01018093,Road Surface Defects,6,2,3.0
+2010-5,E01018093,Street Lights,1,1,1.0
+2010-5,E01018096,Road Safety,1,1,1.0
+2010-5,E01018096,Rubbish,1,1,1.0
+2010-5,E01018096,Street Lights,1,1,1.0
+2010-5,E01018107,Highways Enquiries,1,1,1.0
+2010-5,E01018107,Street Lights,2,1,2.0
+2010-5,E01018109,Other,1,1,1.0
+2010-5,E01018109,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018109,Street Furniture,1,1,1.0
+2010-5,E01018109,Street Lights,3,1,3.0
+2010-5,E01018117,Other,1,1,1.0
+2010-5,E01018126,Incivilities,1,1,1.0
+2010-5,E01018134,Other,1,1,1.0
+2010-5,E01018136,Road Surface Defects,1,1,1.0
+2010-5,E01018146,Other,1,1,1.0
+2010-5,E01018170,Abandoned Vehicles,1,1,1.0
+2010-5,E01018170,Other,1,1,1.0
+2010-5,E01018191,Road Surface Defects,2,2,1.0
+2010-5,E01018203,Street Lights,1,1,1.0
+2010-5,E01018204,Road Surface Defects,3,2,1.5
+2010-5,E01018213,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018220,Highways Enquiries,1,1,1.0
+2010-5,E01018220,Parking,1,1,1.0
+2010-5,E01018220,Road Surface Defects,1,1,1.0
+2010-5,E01018221,Road Surface Defects,1,1,1.0
+2010-5,E01018221,Street Lights,1,1,1.0
+2010-5,E01018223,Road Surface Defects,3,3,1.0
+2010-5,E01018231,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018233,Road Surface Defects,1,1,1.0
+2010-5,E01018241,Road Surface Defects,3,3,1.0
+2010-5,E01018247,Road Surface Defects,1,1,1.0
+2010-5,E01018256,Road Surface Defects,1,1,1.0
+2010-5,E01018259,Road Surface Defects,1,1,1.0
+2010-5,E01018267,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018267,Road Surface Defects,1,1,1.0
+2010-5,E01018269,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018272,Road Surface Defects,2,2,1.0
+2010-5,E01018273,Road Safety,1,1,1.0
+2010-5,E01018273,Road Surface Defects,1,1,1.0
+2010-5,E01018277,Bus Stops Damage,1,1,1.0
+2010-5,E01018277,Parking,2,2,1.0
+2010-5,E01018277,Road Surface Defects,2,2,1.0
+2010-5,E01018288,Other,1,1,1.0
+2010-5,E01018289,Other,1,1,1.0
+2010-5,E01018291,Road Surface Defects,2,1,2.0
+2010-5,E01018293,Rubbish,1,1,1.0
+2010-5,E01018297,Highways Enquiries,2,1,2.0
+2010-5,E01018297,Incivilities,1,1,1.0
+2010-5,E01018297,Pavement /Footway Defects,2,1,2.0
+2010-5,E01018297,Road Surface Defects,1,1,1.0
+2010-5,E01018299,Street Lights,1,1,1.0
+2010-5,E01018302,Rubbish,1,1,1.0
+2010-5,E01018356,Road Surface Defects,1,1,1.0
+2010-5,E01018359,Incivilities,1,1,1.0
+2010-5,E01018374,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01018376,Highways Enquiries,1,1,1.0
+2010-5,E01018383,Road Surface Defects,1,1,1.0
+2010-5,E01018384,Street Lights,1,1,1.0
+2010-5,E01018389,Road Surface Defects,1,1,1.0
+2010-5,E01018433,Street Lights,1,1,1.0
+2010-5,E01018434,Road Surface Defects,1,1,1.0
+2010-5,E01018448,Incivilities,1,1,1.0
+2010-5,E01018448,Rubbish,1,1,1.0
+2010-5,E01018465,Highways Enquiries,1,1,1.0
+2010-5,E01018475,Open Spaces/Parks,1,1,1.0
+2010-5,E01018497,Road Surface Defects,1,1,1.0
+2010-5,E01018510,Other,1,1,1.0
+2010-5,E01018535,Road Surface Defects,1,1,1.0
+2010-5,E01018586,Rubbish,1,1,1.0
+2010-5,E01018591,Road Surface Defects,2,1,2.0
+2010-5,E01018612,Street Lights,1,1,1.0
+2010-5,E01018628,Rubbish,1,1,1.0
+2010-5,E01018628,Street Furniture,1,1,1.0
+2010-5,E01018629,Incivilities,1,1,1.0
+2010-5,E01018629,Road Surface Defects,1,1,1.0
+2010-5,E01018630,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01018631,Dog Fouling,1,1,1.0
+2010-5,E01018631,Pavement /Footway Defects,1,1,1.0
+2010-5,E01018641,Road Surface Defects,1,1,1.0
+2010-5,E01018653,Road Surface Defects,1,1,1.0
+2010-5,E01018664,Road Surface Defects,2,1,2.0
+2010-5,E01018670,Road Surface Defects,2,1,2.0
+2010-5,E01018676,Road Surface Defects,1,1,1.0
+2010-5,E01018677,Road Surface Defects,1,1,1.0
+2010-5,E01018680,Rubbish,1,1,1.0
+2010-5,E01018691,Road Surface Defects,1,1,1.0
+2010-5,E01018694,Road Surface Defects,1,1,1.0
+2010-5,E01018717,Road Surface Defects,1,1,1.0
+2010-5,E01018718,Road Safety,1,1,1.0
+2010-5,E01018718,Road Surface Defects,1,1,1.0
+2010-5,E01018751,Highways Enquiries,1,1,1.0
+2010-5,E01018765,Road Surface Defects,1,1,1.0
+2010-5,E01018771,Road Safety,1,1,1.0
+2010-5,E01018778,Highways Enquiries,1,1,1.0
+2010-5,E01018804,Other,1,1,1.0
+2010-5,E01018807,Parking,1,1,1.0
+2010-5,E01018827,Road Surface Defects,1,1,1.0
+2010-5,E01018835,Other,1,1,1.0
+2010-5,E01018866,Highways Enquiries,1,1,1.0
+2010-5,E01018867,Rubbish,1,1,1.0
+2010-5,E01018868,Rubbish,2,2,1.0
+2010-5,E01018871,Dog Fouling,1,1,1.0
+2010-5,E01018873,Parking,1,1,1.0
+2010-5,E01018876,Highways Enquiries,1,1,1.0
+2010-5,E01018878,Rubbish,1,1,1.0
+2010-5,E01018882,Road Surface Defects,1,1,1.0
+2010-5,E01018884,Road Safety,1,1,1.0
+2010-5,E01018886,Road Surface Defects,1,1,1.0
+2010-5,E01018887,Parking,1,1,1.0
+2010-5,E01018931,Other,1,1,1.0
+2010-5,E01018933,Street Lights,1,1,1.0
+2010-5,E01018951,Highways Enquiries,1,1,1.0
+2010-5,E01018951,Other,2,1,2.0
+2010-5,E01018969,Highways Enquiries,2,1,2.0
+2010-5,E01018971,Other,1,1,1.0
+2010-5,E01019002,Rubbish,1,1,1.0
+2010-5,E01019019,Other,1,1,1.0
+2010-5,E01019019,Pavement /Footway Defects,1,1,1.0
+2010-5,E01019028,Pavement /Footway Defects,1,1,1.0
+2010-5,E01019039,Road Safety,1,1,1.0
+2010-5,E01019050,Road Surface Defects,1,1,1.0
+2010-5,E01019059,Parking,1,1,1.0
+2010-5,E01019075,Other,1,1,1.0
+2010-5,E01019082,Road Surface Defects,1,1,1.0
+2010-5,E01019100,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01019103,Abandoned Vehicles,1,1,1.0
+2010-5,E01019105,Highways Enquiries,1,1,1.0
+2010-5,E01019130,Road Surface Defects,1,1,1.0
+2010-5,E01019178,Highways Enquiries,1,1,1.0
+2010-5,E01019256,Rubbish,1,1,1.0
+2010-5,E01019264,Highways Enquiries,1,1,1.0
+2010-5,E01019300,Road Surface Defects,1,1,1.0
+2010-5,E01019352,Road Surface Defects,1,1,1.0
+2010-5,E01019411,Road Surface Defects,1,1,1.0
+2010-5,E01019426,Road Surface Defects,1,1,1.0
+2010-5,E01019477,Rubbish,1,1,1.0
+2010-5,E01019489,Parking,1,1,1.0
+2010-5,E01019614,Road Surface Defects,1,1,1.0
+2010-5,E01019635,Highways Enquiries,1,1,1.0
+2010-5,E01019636,Open Spaces/Parks,1,1,1.0
+2010-5,E01019656,Other,2,1,2.0
+2010-5,E01019663,Street Lights,1,1,1.0
+2010-5,E01019682,Road Surface Defects,1,1,1.0
+2010-5,E01019701,Other,1,1,1.0
+2010-5,E01019707,Open Spaces/Parks,1,1,1.0
+2010-5,E01019725,Highways Enquiries,1,1,1.0
+2010-5,E01019735,Highways Enquiries,1,1,1.0
+2010-5,E01019771,Rubbish,1,1,1.0
+2010-5,E01019772,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01019816,Open Spaces/Parks,1,1,1.0
+2010-5,E01019904,Other,1,1,1.0
+2010-5,E01019909,Pavement /Footway Defects,1,1,1.0
+2010-5,E01019931,Road Surface Defects,2,1,2.0
+2010-5,E01019969,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01019971,Rubbish,1,1,1.0
+2010-5,E01019972,Rubbish,1,1,1.0
+2010-5,E01019985,Street Lights,1,1,1.0
+2010-5,E01019999,Road Surface Defects,1,1,1.0
+2010-5,E01020001,Other,1,1,1.0
+2010-5,E01020002,Road Surface Defects,1,1,1.0
+2010-5,E01020017,Road Safety,1,1,1.0
+2010-5,E01020032,Highways Enquiries,1,1,1.0
+2010-5,E01020051,Road Surface Defects,1,1,1.0
+2010-5,E01020060,Road Surface Defects,1,1,1.0
+2010-5,E01020061,Road Surface Defects,1,1,1.0
+2010-5,E01020066,Incivilities,1,1,1.0
+2010-5,E01020074,Road Surface Defects,1,1,1.0
+2010-5,E01020083,Road Surface Defects,2,1,2.0
+2010-5,E01020085,Street Lights,1,1,1.0
+2010-5,E01020102,Rubbish,1,1,1.0
+2010-5,E01020111,Other,1,1,1.0
+2010-5,E01020111,Parking,1,1,1.0
+2010-5,E01020112,Rubbish,1,1,1.0
+2010-5,E01020113,Dog Fouling,2,2,1.0
+2010-5,E01020113,Rubbish,2,1,2.0
+2010-5,E01020114,Abandoned Vehicles,1,1,1.0
+2010-5,E01020114,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020115,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020118,Dog Fouling,1,1,1.0
+2010-5,E01020128,Highways Enquiries,1,1,1.0
+2010-5,E01020132,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020139,Road Surface Defects,1,1,1.0
+2010-5,E01020152,Road Surface Defects,1,1,1.0
+2010-5,E01020194,Road Surface Defects,1,1,1.0
+2010-5,E01020201,Highways Enquiries,1,1,1.0
+2010-5,E01020207,Street Lights,1,1,1.0
+2010-5,E01020218,Other,2,1,2.0
+2010-5,E01020220,Road Surface Defects,1,1,1.0
+2010-5,E01020224,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020233,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020237,Road Surface Defects,1,1,1.0
+2010-5,E01020241,Road Safety,1,1,1.0
+2010-5,E01020259,Rubbish,1,1,1.0
+2010-5,E01020263,Highways Enquiries,1,1,1.0
+2010-5,E01020280,Road Safety,1,1,1.0
+2010-5,E01020282,Incivilities,1,1,1.0
+2010-5,E01020288,Road Surface Defects,1,1,1.0
+2010-5,E01020299,Other,1,1,1.0
+2010-5,E01020299,Street Furniture,1,1,1.0
+2010-5,E01020305,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020308,Road Surface Defects,1,1,1.0
+2010-5,E01020310,Dog Fouling,2,1,2.0
+2010-5,E01020310,Incivilities,3,1,3.0
+2010-5,E01020310,Open Spaces/Parks,1,1,1.0
+2010-5,E01020310,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020310,Road Surface Defects,1,1,1.0
+2010-5,E01020310,Rubbish,4,1,4.0
+2010-5,E01020318,Road Surface Defects,1,1,1.0
+2010-5,E01020320,Road Safety,1,1,1.0
+2010-5,E01020327,Street Lights,1,1,1.0
+2010-5,E01020339,Highways Enquiries,1,1,1.0
+2010-5,E01020344,Open Spaces/Parks,1,1,1.0
+2010-5,E01020367,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020367,Rubbish,2,2,1.0
+2010-5,E01020368,Other,1,1,1.0
+2010-5,E01020410,Road Safety,1,1,1.0
+2010-5,E01020430,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020442,Road Surface Defects,1,1,1.0
+2010-5,E01020442,Street Furniture,1,1,1.0
+2010-5,E01020487,Street Lights,1,1,1.0
+2010-5,E01020495,Other,1,1,1.0
+2010-5,E01020517,Highways Enquiries,3,1,3.0
+2010-5,E01020517,Road Safety,1,1,1.0
+2010-5,E01020528,Parking,1,1,1.0
+2010-5,E01020539,Other,1,1,1.0
+2010-5,E01020543,Other,1,1,1.0
+2010-5,E01020553,Road Surface Defects,1,1,1.0
+2010-5,E01020573,Road Surface Defects,1,1,1.0
+2010-5,E01020606,Bus Stops Damage,1,1,1.0
+2010-5,E01020617,Parking,1,1,1.0
+2010-5,E01020627,Dog Fouling,1,1,1.0
+2010-5,E01020643,Road Surface Defects,2,1,2.0
+2010-5,E01020647,Highways Enquiries,1,1,1.0
+2010-5,E01020672,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01020674,Road Safety,1,1,1.0
+2010-5,E01020675,Open Spaces/Parks,1,1,1.0
+2010-5,E01020684,Road Safety,1,1,1.0
+2010-5,E01020685,Other,1,1,1.0
+2010-5,E01020789,Other,1,1,1.0
+2010-5,E01020796,Dog Fouling,1,1,1.0
+2010-5,E01020796,Rubbish,1,1,1.0
+2010-5,E01020802,Highways Enquiries,1,1,1.0
+2010-5,E01020802,Pavement /Footway Defects,1,1,1.0
+2010-5,E01020813,Road Surface Defects,1,1,1.0
+2010-5,E01020944,Other,1,1,1.0
+2010-5,E01020945,Road Surface Defects,1,1,1.0
+2010-5,E01020947,Road Safety,1,1,1.0
+2010-5,E01020980,Other,1,1,1.0
+2010-5,E01020988,Other,1,1,1.0
+2010-5,E01021019,Abandoned Vehicles,1,1,1.0
+2010-5,E01021032,Rubbish,1,1,1.0
+2010-5,E01021064,Highways Enquiries,1,1,1.0
+2010-5,E01021064,Parking,2,1,2.0
+2010-5,E01021066,Parking,2,1,2.0
+2010-5,E01021069,Road Surface Defects,1,1,1.0
+2010-5,E01021071,Parking,1,1,1.0
+2010-5,E01021090,Road Surface Defects,1,1,1.0
+2010-5,E01021111,Pavement /Footway Defects,1,1,1.0
+2010-5,E01021112,Rubbish,1,1,1.0
+2010-5,E01021160,Other,1,1,1.0
+2010-5,E01021177,Road Surface Defects,1,1,1.0
+2010-5,E01021185,Street Lights,1,1,1.0
+2010-5,E01021203,Road Surface Defects,2,2,1.0
+2010-5,E01021237,Road Surface Defects,1,1,1.0
+2010-5,E01021241,Pavement /Footway Defects,1,1,1.0
+2010-5,E01021243,Open Spaces/Parks,1,1,1.0
+2010-5,E01021253,Road Surface Defects,1,1,1.0
+2010-5,E01021257,Street Furniture,1,1,1.0
+2010-5,E01021269,Road Safety,1,1,1.0
+2010-5,E01021273,Road Surface Defects,1,1,1.0
+2010-5,E01021279,Road Safety,1,1,1.0
+2010-5,E01021319,Other,1,1,1.0
+2010-5,E01021325,Dog Fouling,1,1,1.0
+2010-5,E01021403,Highways Enquiries,1,1,1.0
+2010-5,E01021434,Other,1,1,1.0
+2010-5,E01021450,Other,1,1,1.0
+2010-5,E01021458,Rubbish,1,1,1.0
+2010-5,E01021468,Road Surface Defects,1,1,1.0
+2010-5,E01021530,Highways Enquiries,1,1,1.0
+2010-5,E01021533,Road Surface Defects,1,1,1.0
+2010-5,E01021535,Highways Enquiries,1,1,1.0
+2010-5,E01021540,Road Surface Defects,1,1,1.0
+2010-5,E01021541,Road Surface Defects,1,1,1.0
+2010-5,E01021568,Road Surface Defects,1,1,1.0
+2010-5,E01021575,Road Surface Defects,1,1,1.0
+2010-5,E01021598,Road Surface Defects,1,1,1.0
+2010-5,E01021600,Rubbish,1,1,1.0
+2010-5,E01021612,Other,1,1,1.0
+2010-5,E01021655,Rubbish,1,1,1.0
+2010-5,E01021656,Road Surface Defects,1,1,1.0
+2010-5,E01021671,Parking,1,1,1.0
+2010-5,E01021694,Road Surface Defects,1,1,1.0
+2010-5,E01021706,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01021707,Other,1,1,1.0
+2010-5,E01021709,Road Surface Defects,1,1,1.0
+2010-5,E01021732,Parking,1,1,1.0
+2010-5,E01021732,Pavement /Footway Defects,1,1,1.0
+2010-5,E01021738,Other,2,1,2.0
+2010-5,E01021797,Road Surface Defects,1,1,1.0
+2010-5,E01021881,Road Surface Defects,1,1,1.0
+2010-5,E01021890,Other,1,1,1.0
+2010-5,E01021918,Road Surface Defects,1,1,1.0
+2010-5,E01021919,Pavement /Footway Defects,1,1,1.0
+2010-5,E01021920,Incivilities,1,1,1.0
+2010-5,E01021952,Pavement /Footway Defects,1,1,1.0
+2010-5,E01021952,Road Surface Defects,1,1,1.0
+2010-5,E01021954,Pavement /Footway Defects,1,1,1.0
+2010-5,E01021956,Road Surface Defects,1,1,1.0
+2010-5,E01021963,Public Toilets,1,1,1.0
+2010-5,E01021968,Road Surface Defects,1,1,1.0
+2010-5,E01022013,Road Surface Defects,1,1,1.0
+2010-5,E01022015,Road Surface Defects,1,1,1.0
+2010-5,E01022060,Road Surface Defects,1,1,1.0
+2010-5,E01022064,Road Surface Defects,1,1,1.0
+2010-5,E01022083,Pavement /Footway Defects,1,1,1.0
+2010-5,E01022094,Other,1,1,1.0
+2010-5,E01022097,Road Surface Defects,2,1,2.0
+2010-5,E01022102,Incivilities,1,1,1.0
+2010-5,E01022102,Road Surface Defects,1,1,1.0
+2010-5,E01022105,Rubbish,1,1,1.0
+2010-5,E01022106,Road Surface Defects,1,1,1.0
+2010-5,E01022123,Road Surface Defects,1,1,1.0
+2010-5,E01022127,Parking,1,1,1.0
+2010-5,E01022127,Road Surface Defects,4,1,4.0
+2010-5,E01022128,Rubbish,1,1,1.0
+2010-5,E01022131,Other,1,1,1.0
+2010-5,E01022134,Incivilities,1,1,1.0
+2010-5,E01022135,Road Surface Defects,1,1,1.0
+2010-5,E01022135,Street Lights,1,1,1.0
+2010-5,E01022136,Road Surface Defects,1,1,1.0
+2010-5,E01022158,Street Lights,1,1,1.0
+2010-5,E01022167,Street Lights,1,1,1.0
+2010-5,E01022169,Road Surface Defects,1,1,1.0
+2010-5,E01022171,Road Surface Defects,1,1,1.0
+2010-5,E01022191,Road Surface Defects,1,1,1.0
+2010-5,E01022192,Street Lights,1,1,1.0
+2010-5,E01022205,Road Surface Defects,1,1,1.0
+2010-5,E01022210,Road Surface Defects,1,1,1.0
+2010-5,E01022214,Street Lights,1,1,1.0
+2010-5,E01022215,Road Surface Defects,1,1,1.0
+2010-5,E01022217,Road Surface Defects,1,1,1.0
+2010-5,E01022227,Road Surface Defects,2,1,2.0
+2010-5,E01022233,Road Surface Defects,1,1,1.0
+2010-5,E01022245,Open Spaces/Parks,1,1,1.0
+2010-5,E01022263,Road Surface Defects,1,1,1.0
+2010-5,E01022288,Rubbish,1,1,1.0
+2010-5,E01022288,Street Lights,1,1,1.0
+2010-5,E01022289,Rubbish,1,1,1.0
+2010-5,E01022299,Road Surface Defects,1,1,1.0
+2010-5,E01022313,Other,1,1,1.0
+2010-5,E01022335,Street Lights,1,1,1.0
+2010-5,E01022341,Highways Enquiries,1,1,1.0
+2010-5,E01022390,Street Lights,1,1,1.0
+2010-5,E01022426,Highways Enquiries,1,1,1.0
+2010-5,E01022436,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01022448,Road Surface Defects,1,1,1.0
+2010-5,E01022454,Road Surface Defects,1,1,1.0
+2010-5,E01022462,Other,1,1,1.0
+2010-5,E01022468,Highways Enquiries,1,1,1.0
+2010-5,E01022470,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01022475,Other,1,1,1.0
+2010-5,E01022476,Incivilities,1,1,1.0
+2010-5,E01022477,Abandoned Vehicles,1,1,1.0
+2010-5,E01022477,Incivilities,7,1,7.0
+2010-5,E01022479,Rubbish,1,1,1.0
+2010-5,E01022481,Incivilities,3,1,3.0
+2010-5,E01022482,Incivilities,1,1,1.0
+2010-5,E01022493,Pavement /Footway Defects,1,1,1.0
+2010-5,E01022503,Incivilities,1,1,1.0
+2010-5,E01022505,Incivilities,2,1,2.0
+2010-5,E01022510,Incivilities,7,1,7.0
+2010-5,E01022511,Incivilities,3,1,3.0
+2010-5,E01022531,Highways Enquiries,1,1,1.0
+2010-5,E01022536,Road Surface Defects,1,1,1.0
+2010-5,E01022550,Incivilities,1,1,1.0
+2010-5,E01022550,Pavement /Footway Defects,1,1,1.0
+2010-5,E01022552,Rubbish,1,1,1.0
+2010-5,E01022562,Highways Enquiries,1,1,1.0
+2010-5,E01022568,Highways Enquiries,1,1,1.0
+2010-5,E01022573,Highways Enquiries,1,1,1.0
+2010-5,E01022581,Road Surface Defects,1,1,1.0
+2010-5,E01022591,Road Surface Defects,1,1,1.0
+2010-5,E01022604,Road Surface Defects,1,1,1.0
+2010-5,E01022636,Highways Enquiries,1,1,1.0
+2010-5,E01022639,Abandoned Vehicles,1,1,1.0
+2010-5,E01022644,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01022661,Parking,1,1,1.0
+2010-5,E01022671,Road Surface Defects,1,1,1.0
+2010-5,E01022673,Parking,1,1,1.0
+2010-5,E01022680,Road Safety,1,1,1.0
+2010-5,E01022682,Road Surface Defects,1,1,1.0
+2010-5,E01022704,Abandoned Vehicles,2,1,2.0
+2010-5,E01022705,Road Surface Defects,2,2,1.0
+2010-5,E01022728,Road Surface Defects,1,1,1.0
+2010-5,E01022752,Abandoned Vehicles,1,1,1.0
+2010-5,E01022798,Other,1,1,1.0
+2010-5,E01022824,Abandoned Vehicles,1,1,1.0
+2010-5,E01022859,Highways Enquiries,1,1,1.0
+2010-5,E01022863,Road Surface Defects,1,1,1.0
+2010-5,E01022895,Abandoned Vehicles,1,1,1.0
+2010-5,E01022895,Pavement /Footway Defects,1,1,1.0
+2010-5,E01022909,Pavement /Footway Defects,2,2,1.0
+2010-5,E01022953,Road Surface Defects,1,1,1.0
+2010-5,E01022980,Highways Enquiries,1,1,1.0
+2010-5,E01022984,Road Surface Defects,1,1,1.0
+2010-5,E01022987,Road Surface Defects,1,1,1.0
+2010-5,E01022990,Road Surface Defects,1,1,1.0
+2010-5,E01023000,Highways Enquiries,1,1,1.0
+2010-5,E01023007,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01023013,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01023026,Road Surface Defects,1,1,1.0
+2010-5,E01023042,Pavement /Footway Defects,2,1,2.0
+2010-5,E01023051,Highways Enquiries,2,2,1.0
+2010-5,E01023051,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01023073,Road Surface Defects,1,1,1.0
+2010-5,E01023073,Street Lights,1,1,1.0
+2010-5,E01023085,Highways Enquiries,1,1,1.0
+2010-5,E01023158,Rubbish,1,1,1.0
+2010-5,E01023162,Road Surface Defects,1,1,1.0
+2010-5,E01023172,Highways Enquiries,1,1,1.0
+2010-5,E01023174,Road Surface Defects,1,1,1.0
+2010-5,E01023221,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023226,Other,2,1,2.0
+2010-5,E01023226,Road Surface Defects,1,1,1.0
+2010-5,E01023229,Other,1,1,1.0
+2010-5,E01023229,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023229,Rubbish,1,1,1.0
+2010-5,E01023236,Road Surface Defects,2,2,1.0
+2010-5,E01023239,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023242,Incivilities,1,1,1.0
+2010-5,E01023242,Rubbish,1,1,1.0
+2010-5,E01023244,Road Surface Defects,1,1,1.0
+2010-5,E01023258,Other,1,1,1.0
+2010-5,E01023265,Incivilities,1,1,1.0
+2010-5,E01023269,Road Safety,1,1,1.0
+2010-5,E01023279,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023287,Road Surface Defects,1,1,1.0
+2010-5,E01023338,Road Safety,1,1,1.0
+2010-5,E01023367,Rubbish,1,1,1.0
+2010-5,E01023382,Incivilities,2,1,2.0
+2010-5,E01023407,Road Surface Defects,1,1,1.0
+2010-5,E01023425,Open Spaces/Parks,1,1,1.0
+2010-5,E01023427,Road Surface Defects,1,1,1.0
+2010-5,E01023438,Abandoned Vehicles,1,1,1.0
+2010-5,E01023440,Road Surface Defects,1,1,1.0
+2010-5,E01023443,Road Surface Defects,1,1,1.0
+2010-5,E01023452,Road Surface Defects,1,1,1.0
+2010-5,E01023455,Road Surface Defects,1,1,1.0
+2010-5,E01023477,Abandoned Vehicles,1,1,1.0
+2010-5,E01023477,Road Surface Defects,1,1,1.0
+2010-5,E01023481,Road Surface Defects,1,1,1.0
+2010-5,E01023490,Road Surface Defects,1,1,1.0
+2010-5,E01023519,Highways Enquiries,1,1,1.0
+2010-5,E01023523,Pavement /Footway Defects,2,1,2.0
+2010-5,E01023525,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023545,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01023545,Road Surface Defects,1,1,1.0
+2010-5,E01023546,Rubbish,1,1,1.0
+2010-5,E01023549,Rubbish,2,1,2.0
+2010-5,E01023564,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023582,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023583,Road Surface Defects,1,1,1.0
+2010-5,E01023601,Bus Stops Damage,1,1,1.0
+2010-5,E01023632,Road Surface Defects,1,1,1.0
+2010-5,E01023640,Other,1,1,1.0
+2010-5,E01023644,Road Surface Defects,2,1,2.0
+2010-5,E01023645,Road Surface Defects,3,1,3.0
+2010-5,E01023647,Road Surface Defects,1,1,1.0
+2010-5,E01023660,Highways Enquiries,1,1,1.0
+2010-5,E01023688,Parking,1,1,1.0
+2010-5,E01023688,Road Surface Defects,1,1,1.0
+2010-5,E01023689,Parking,1,1,1.0
+2010-5,E01023690,Other,1,1,1.0
+2010-5,E01023699,Road Surface Defects,1,1,1.0
+2010-5,E01023713,Road Safety,2,1,2.0
+2010-5,E01023719,Parking,2,1,2.0
+2010-5,E01023721,Parking,1,1,1.0
+2010-5,E01023722,Road Surface Defects,3,1,3.0
+2010-5,E01023722,Rubbish,1,1,1.0
+2010-5,E01023744,Road Surface Defects,1,1,1.0
+2010-5,E01023751,Parking,1,1,1.0
+2010-5,E01023768,Street Lights,1,1,1.0
+2010-5,E01023775,Highways Enquiries,1,1,1.0
+2010-5,E01023775,Road Safety,1,1,1.0
+2010-5,E01023779,Highways Enquiries,1,1,1.0
+2010-5,E01023805,Other,1,1,1.0
+2010-5,E01023805,Rubbish,1,1,1.0
+2010-5,E01023809,Road Safety,1,1,1.0
+2010-5,E01023810,Highways Enquiries,1,1,1.0
+2010-5,E01023825,Road Surface Defects,1,1,1.0
+2010-5,E01023831,Incivilities,1,1,1.0
+2010-5,E01023849,Incivilities,1,1,1.0
+2010-5,E01023854,Highways Enquiries,1,1,1.0
+2010-5,E01023854,Road Surface Defects,2,2,1.0
+2010-5,E01023860,Street Furniture,1,1,1.0
+2010-5,E01023860,Street Lights,1,1,1.0
+2010-5,E01023867,Street Lights,1,1,1.0
+2010-5,E01023912,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023921,Road Safety,1,1,1.0
+2010-5,E01023924,Street Lights,1,1,1.0
+2010-5,E01023926,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023933,Road Surface Defects,1,1,1.0
+2010-5,E01023946,Street Lights,1,1,1.0
+2010-5,E01023950,Highways Enquiries,1,1,1.0
+2010-5,E01023952,Street Furniture,1,1,1.0
+2010-5,E01023958,Other,1,1,1.0
+2010-5,E01023964,Pavement /Footway Defects,1,1,1.0
+2010-5,E01023988,Dog Fouling,1,1,1.0
+2010-5,E01023988,Other,1,1,1.0
+2010-5,E01023997,Road Surface Defects,1,1,1.0
+2010-5,E01024005,Road Safety,1,1,1.0
+2010-5,E01024023,Rubbish,1,1,1.0
+2010-5,E01024027,Pavement /Footway Defects,1,1,1.0
+2010-5,E01024032,Road Surface Defects,1,1,1.0
+2010-5,E01024045,Road Surface Defects,1,1,1.0
+2010-5,E01024056,Road Surface Defects,1,1,1.0
+2010-5,E01024066,Highways Enquiries,1,1,1.0
+2010-5,E01024070,Road Surface Defects,2,1,2.0
+2010-5,E01024092,Rubbish,1,1,1.0
+2010-5,E01024096,Street Lights,1,1,1.0
+2010-5,E01024100,Pavement /Footway Defects,1,1,1.0
+2010-5,E01024118,Road Surface Defects,2,1,2.0
+2010-5,E01024128,Road Surface Defects,2,1,2.0
+2010-5,E01024128,Street Lights,1,1,1.0
+2010-5,E01024148,Road Surface Defects,1,1,1.0
+2010-5,E01024164,Road Surface Defects,1,1,1.0
+2010-5,E01024182,Road Surface Defects,1,1,1.0
+2010-5,E01024254,Road Surface Defects,1,1,1.0
+2010-5,E01024284,Rubbish,1,1,1.0
+2010-5,E01024293,Rubbish,1,1,1.0
+2010-5,E01024301,Road Surface Defects,1,1,1.0
+2010-5,E01024309,Rubbish,1,1,1.0
+2010-5,E01024310,Road Surface Defects,1,1,1.0
+2010-5,E01024312,Road Surface Defects,1,1,1.0
+2010-5,E01024362,Road Surface Defects,1,1,1.0
+2010-5,E01024369,Road Surface Defects,1,1,1.0
+2010-5,E01024373,Incivilities,1,1,1.0
+2010-5,E01024376,Road Surface Defects,1,1,1.0
+2010-5,E01024385,Abandoned Vehicles,1,1,1.0
+2010-5,E01024385,Street Lights,1,1,1.0
+2010-5,E01024387,Road Surface Defects,6,2,3.0
+2010-5,E01024392,Street Lights,1,1,1.0
+2010-5,E01024395,Road Surface Defects,1,1,1.0
+2010-5,E01024405,Other,1,1,1.0
+2010-5,E01024416,Road Surface Defects,1,1,1.0
+2010-5,E01024435,Road Surface Defects,1,1,1.0
+2010-5,E01024437,Road Surface Defects,1,1,1.0
+2010-5,E01024452,Road Surface Defects,1,1,1.0
+2010-5,E01024467,Road Surface Defects,1,1,1.0
+2010-5,E01024469,Incivilities,1,1,1.0
+2010-5,E01024473,Rubbish,1,1,1.0
+2010-5,E01024480,Street Lights,1,1,1.0
+2010-5,E01024482,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01024483,Highways Enquiries,1,1,1.0
+2010-5,E01024484,Road Surface Defects,1,1,1.0
+2010-5,E01024511,Road Surface Defects,1,1,1.0
+2010-5,E01024531,Road Surface Defects,1,1,1.0
+2010-5,E01024538,Road Surface Defects,1,1,1.0
+2010-5,E01024544,Road Surface Defects,1,1,1.0
+2010-5,E01024548,Road Surface Defects,2,1,2.0
+2010-5,E01024632,Road Surface Defects,1,1,1.0
+2010-5,E01024638,Parking,1,1,1.0
+2010-5,E01024645,Abandoned Vehicles,1,1,1.0
+2010-5,E01024646,Pavement /Footway Defects,1,1,1.0
+2010-5,E01024646,Street Lights,1,1,1.0
+2010-5,E01024648,Road Surface Defects,1,1,1.0
+2010-5,E01024649,Street Lights,1,1,1.0
+2010-5,E01024659,Road Surface Defects,1,1,1.0
+2010-5,E01024667,Other,1,1,1.0
+2010-5,E01024667,Pavement /Footway Defects,1,1,1.0
+2010-5,E01024670,Other,1,1,1.0
+2010-5,E01024684,Rubbish,1,1,1.0
+2010-5,E01024685,Parking,1,1,1.0
+2010-5,E01024685,Road Surface Defects,1,1,1.0
+2010-5,E01024688,Other,1,1,1.0
+2010-5,E01024693,Other,1,1,1.0
+2010-5,E01024696,Rubbish,1,1,1.0
+2010-5,E01024707,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01024709,Other,1,1,1.0
+2010-5,E01024758,Street Furniture,1,1,1.0
+2010-5,E01024781,Highways Enquiries,2,1,2.0
+2010-5,E01024781,Road Safety,1,1,1.0
+2010-5,E01024782,Other,1,1,1.0
+2010-5,E01024800,Street Lights,1,1,1.0
+2010-5,E01024822,Road Surface Defects,1,1,1.0
+2010-5,E01024836,Highways Enquiries,1,1,1.0
+2010-5,E01024836,Road Surface Defects,1,1,1.0
+2010-5,E01024836,Street Lights,1,1,1.0
+2010-5,E01024841,Road Surface Defects,1,1,1.0
+2010-5,E01024851,Road Surface Defects,1,1,1.0
+2010-5,E01024855,Rubbish,1,1,1.0
+2010-5,E01024907,Rubbish,1,1,1.0
+2010-5,E01024935,Pavement /Footway Defects,1,1,1.0
+2010-5,E01024955,Street Lights,1,1,1.0
+2010-5,E01024961,Rubbish,1,1,1.0
+2010-5,E01024983,Road Surface Defects,1,1,1.0
+2010-5,E01025014,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01025061,Highways Enquiries,1,1,1.0
+2010-5,E01025098,Road Surface Defects,1,1,1.0
+2010-5,E01025110,Parking,1,1,1.0
+2010-5,E01025110,Road Safety,1,1,1.0
+2010-5,E01025112,Abandoned Vehicles,1,1,1.0
+2010-5,E01025112,Highways Enquiries,1,1,1.0
+2010-5,E01025112,Incivilities,1,1,1.0
+2010-5,E01025113,Road Surface Defects,1,1,1.0
+2010-5,E01025116,Road Surface Defects,2,1,2.0
+2010-5,E01025133,Highways Enquiries,1,1,1.0
+2010-5,E01025140,Road Surface Defects,3,1,3.0
+2010-5,E01025146,Rubbish,1,1,1.0
+2010-5,E01025151,Road Surface Defects,1,1,1.0
+2010-5,E01025179,Parking,1,1,1.0
+2010-5,E01025200,Open Spaces/Parks,2,2,1.0
+2010-5,E01025201,Rubbish,1,1,1.0
+2010-5,E01025240,Rubbish,1,1,1.0
+2010-5,E01025250,Rubbish,1,1,1.0
+2010-5,E01025294,Rubbish,1,1,1.0
+2010-5,E01025317,Highways Enquiries,1,1,1.0
+2010-5,E01025349,Pavement /Footway Defects,1,1,1.0
+2010-5,E01025353,Highways Enquiries,1,1,1.0
+2010-5,E01025355,Open Spaces/Parks,1,1,1.0
+2010-5,E01025359,Road Surface Defects,1,1,1.0
+2010-5,E01025374,Road Surface Defects,1,1,1.0
+2010-5,E01025385,Rubbish,1,1,1.0
+2010-5,E01025411,Parking,1,1,1.0
+2010-5,E01025440,Road Surface Defects,1,1,1.0
+2010-5,E01025450,Road Surface Defects,1,1,1.0
+2010-5,E01025462,Road Surface Defects,1,1,1.0
+2010-5,E01025479,Rubbish,1,1,1.0
+2010-5,E01025483,Other,1,1,1.0
+2010-5,E01025503,Rubbish,1,1,1.0
+2010-5,E01025527,Abandoned Vehicles,1,1,1.0
+2010-5,E01025528,Street Lights,1,1,1.0
+2010-5,E01025530,Rubbish,1,1,1.0
+2010-5,E01025535,Road Surface Defects,1,1,1.0
+2010-5,E01025595,Road Surface Defects,1,1,1.0
+2010-5,E01025598,Road Surface Defects,1,1,1.0
+2010-5,E01025648,Highways Enquiries,1,1,1.0
+2010-5,E01025654,Road Surface Defects,1,1,1.0
+2010-5,E01025665,Highways Enquiries,1,1,1.0
+2010-5,E01025665,Road Surface Defects,1,1,1.0
+2010-5,E01025674,Pavement /Footway Defects,1,1,1.0
+2010-5,E01025693,Pavement /Footway Defects,1,1,1.0
+2010-5,E01025713,Road Safety,1,1,1.0
+2010-5,E01025745,Road Surface Defects,1,1,1.0
+2010-5,E01025753,Incivilities,1,1,1.0
+2010-5,E01025763,Incivilities,1,1,1.0
+2010-5,E01025808,Street Furniture,1,1,1.0
+2010-5,E01025812,Road Surface Defects,1,1,1.0
+2010-5,E01025838,Dog Fouling,1,1,1.0
+2010-5,E01025917,Incivilities,1,1,1.0
+2010-5,E01025926,Pavement /Footway Defects,1,1,1.0
+2010-5,E01025927,Other,1,1,1.0
+2010-5,E01025974,Street Furniture,1,1,1.0
+2010-5,E01025977,Road Surface Defects,1,1,1.0
+2010-5,E01026046,Dog Fouling,1,1,1.0
+2010-5,E01026069,Street Lights,1,1,1.0
+2010-5,E01026075,Road Surface Defects,1,1,1.0
+2010-5,E01026125,Road Surface Defects,1,1,1.0
+2010-5,E01026171,Other,1,1,1.0
+2010-5,E01026190,Open Spaces/Parks,1,1,1.0
+2010-5,E01026191,Road Surface Defects,1,1,1.0
+2010-5,E01026195,Rubbish,1,1,1.0
+2010-5,E01026210,Road Surface Defects,1,1,1.0
+2010-5,E01026226,Incivilities,1,1,1.0
+2010-5,E01026228,Open Spaces/Parks,1,1,1.0
+2010-5,E01026321,Road Surface Defects,1,1,1.0
+2010-5,E01026332,Highways Enquiries,1,1,1.0
+2010-5,E01026332,Rubbish,1,1,1.0
+2010-5,E01026339,Road Surface Defects,1,1,1.0
+2010-5,E01026346,Road Surface Defects,2,1,2.0
+2010-5,E01026347,Road Surface Defects,1,1,1.0
+2010-5,E01026350,Pavement /Footway Defects,1,1,1.0
+2010-5,E01026351,Road Surface Defects,2,1,2.0
+2010-5,E01026358,Parking,1,1,1.0
+2010-5,E01026359,Street Lights,1,1,1.0
+2010-5,E01026361,Street Lights,1,1,1.0
+2010-5,E01026369,Road Surface Defects,1,1,1.0
+2010-5,E01026380,Other,1,1,1.0
+2010-5,E01026384,Incivilities,1,1,1.0
+2010-5,E01026387,Road Surface Defects,1,1,1.0
+2010-5,E01026402,Road Surface Defects,1,1,1.0
+2010-5,E01026416,Road Surface Defects,1,1,1.0
+2010-5,E01026423,Pavement /Footway Defects,1,1,1.0
+2010-5,E01026423,Street Lights,1,1,1.0
+2010-5,E01026426,Road Safety,1,1,1.0
+2010-5,E01026427,Road Safety,1,1,1.0
+2010-5,E01026452,Road Safety,2,1,2.0
+2010-5,E01026455,Road Safety,1,1,1.0
+2010-5,E01026468,Parking,1,1,1.0
+2010-5,E01026469,Road Surface Defects,1,1,1.0
+2010-5,E01026487,Other,1,1,1.0
+2010-5,E01026488,Pavement /Footway Defects,1,1,1.0
+2010-5,E01026493,Other,1,1,1.0
+2010-5,E01026526,Street Lights,1,1,1.0
+2010-5,E01026537,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01026584,Street Lights,1,1,1.0
+2010-5,E01026595,Other,1,1,1.0
+2010-5,E01026611,Pavement /Footway Defects,1,1,1.0
+2010-5,E01026626,Street Lights,1,1,1.0
+2010-5,E01026640,Other,1,1,1.0
+2010-5,E01026641,Other,2,1,2.0
+2010-5,E01026641,Rubbish,2,1,2.0
+2010-5,E01026665,Public Toilets,2,1,2.0
+2010-5,E01026665,Rubbish,19,1,19.0
+2010-5,E01026671,Highways Enquiries,1,1,1.0
+2010-5,E01026727,Road Surface Defects,1,1,1.0
+2010-5,E01026741,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01026751,Rubbish,2,2,1.0
+2010-5,E01026756,Rubbish,1,1,1.0
+2010-5,E01026770,Highways Enquiries,1,1,1.0
+2010-5,E01026772,Other,1,1,1.0
+2010-5,E01026782,Road Surface Defects,1,1,1.0
+2010-5,E01026810,Other,1,1,1.0
+2010-5,E01026810,Rubbish,3,2,1.5
+2010-5,E01026811,Road Surface Defects,1,1,1.0
+2010-5,E01026817,Highways Enquiries,1,1,1.0
+2010-5,E01026823,Road Surface Defects,1,1,1.0
+2010-5,E01026826,Dog Fouling,1,1,1.0
+2010-5,E01026828,Highways Enquiries,1,1,1.0
+2010-5,E01026834,Highways Enquiries,1,1,1.0
+2010-5,E01026837,Rubbish,1,1,1.0
+2010-5,E01026853,Incivilities,1,1,1.0
+2010-5,E01026853,Parking,1,1,1.0
+2010-5,E01026855,Highways Enquiries,1,1,1.0
+2010-5,E01026855,Road Surface Defects,1,1,1.0
+2010-5,E01026870,Road Surface Defects,1,1,1.0
+2010-5,E01026876,Road Surface Defects,1,1,1.0
+2010-5,E01026881,Road Surface Defects,1,1,1.0
+2010-5,E01026881,Rubbish,1,1,1.0
+2010-5,E01026881,Street Lights,1,1,1.0
+2010-5,E01026908,Rubbish,1,1,1.0
+2010-5,E01026921,Open Spaces/Parks,1,1,1.0
+2010-5,E01026990,Road Surface Defects,1,1,1.0
+2010-5,E01026993,Road Surface Defects,1,1,1.0
+2010-5,E01026993,Street Lights,1,1,1.0
+2010-5,E01026997,Road Surface Defects,1,1,1.0
+2010-5,E01027016,Road Surface Defects,1,1,1.0
+2010-5,E01027018,Road Surface Defects,1,1,1.0
+2010-5,E01027054,Road Safety,1,1,1.0
+2010-5,E01027061,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01027068,Pavement /Footway Defects,1,1,1.0
+2010-5,E01027077,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01027086,Parking,1,1,1.0
+2010-5,E01027091,Rubbish,1,1,1.0
+2010-5,E01027101,Other,1,1,1.0
+2010-5,E01027140,Road Surface Defects,1,1,1.0
+2010-5,E01027146,Other,1,1,1.0
+2010-5,E01027146,Road Surface Defects,1,1,1.0
+2010-5,E01027152,Rubbish,1,1,1.0
+2010-5,E01027153,Incivilities,1,1,1.0
+2010-5,E01027154,Highways Enquiries,1,1,1.0
+2010-5,E01027154,Rubbish,1,1,1.0
+2010-5,E01027162,Abandoned Vehicles,1,1,1.0
+2010-5,E01027162,Road Surface Defects,1,1,1.0
+2010-5,E01027185,Other,1,1,1.0
+2010-5,E01027211,Incivilities,1,1,1.0
+2010-5,E01027268,Other,1,1,1.0
+2010-5,E01027271,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01027286,Road Surface Defects,3,1,3.0
+2010-5,E01027290,Highways Enquiries,1,1,1.0
+2010-5,E01027346,Road Surface Defects,1,1,1.0
+2010-5,E01027356,Road Surface Defects,1,1,1.0
+2010-5,E01027370,Highways Enquiries,1,1,1.0
+2010-5,E01027370,Road Surface Defects,1,1,1.0
+2010-5,E01027378,Pavement /Footway Defects,1,1,1.0
+2010-5,E01027378,Road Safety,1,1,1.0
+2010-5,E01027383,Pavement /Footway Defects,1,1,1.0
+2010-5,E01027388,Street Lights,1,1,1.0
+2010-5,E01027404,Road Surface Defects,1,1,1.0
+2010-5,E01027410,Abandoned Vehicles,1,1,1.0
+2010-5,E01027420,Open Spaces/Parks,1,1,1.0
+2010-5,E01027425,Open Spaces/Parks,1,1,1.0
+2010-5,E01027427,Rubbish,1,1,1.0
+2010-5,E01027438,Street Lights,1,1,1.0
+2010-5,E01027444,Parking,1,1,1.0
+2010-5,E01027444,Rubbish,1,1,1.0
+2010-5,E01027450,Highways Enquiries,1,1,1.0
+2010-5,E01027465,Other,1,1,1.0
+2010-5,E01027491,Road Surface Defects,1,1,1.0
+2010-5,E01027507,Road Surface Defects,2,1,2.0
+2010-5,E01027508,Street Lights,1,1,1.0
+2010-5,E01027509,Road Surface Defects,1,1,1.0
+2010-5,E01027521,Road Surface Defects,1,1,1.0
+2010-5,E01027570,Other,1,1,1.0
+2010-5,E01027574,Pavement /Footway Defects,1,1,1.0
+2010-5,E01027578,Other,1,1,1.0
+2010-5,E01027604,Road Surface Defects,1,1,1.0
+2010-5,E01027606,Road Surface Defects,1,1,1.0
+2010-5,E01027650,Parking,1,1,1.0
+2010-5,E01027658,Street Lights,1,1,1.0
+2010-5,E01027678,Rubbish,1,1,1.0
+2010-5,E01027725,Rubbish,1,1,1.0
+2010-5,E01027744,Road Surface Defects,1,1,1.0
+2010-5,E01027759,Road Surface Defects,1,1,1.0
+2010-5,E01027778,Highways Enquiries,1,1,1.0
+2010-5,E01027790,Road Surface Defects,1,1,1.0
+2010-5,E01027797,Road Surface Defects,1,1,1.0
+2010-5,E01027798,Pavement /Footway Defects,1,1,1.0
+2010-5,E01027803,Highways Enquiries,1,1,1.0
+2010-5,E01027853,Road Surface Defects,1,1,1.0
+2010-5,E01027854,Road Safety,1,1,1.0
+2010-5,E01027855,Parking,1,1,1.0
+2010-5,E01027860,Rubbish,1,1,1.0
+2010-5,E01027889,Highways Enquiries,1,1,1.0
+2010-5,E01027931,Other,1,1,1.0
+2010-5,E01027931,Street Furniture,1,1,1.0
+2010-5,E01027965,Highways Enquiries,1,1,1.0
+2010-5,E01027968,Road Surface Defects,1,1,1.0
+2010-5,E01028004,Rubbish,4,1,4.0
+2010-5,E01028006,Rubbish,1,1,1.0
+2010-5,E01028020,Highways Enquiries,1,1,1.0
+2010-5,E01028054,Highways Enquiries,2,1,2.0
+2010-5,E01028054,Rubbish,1,1,1.0
+2010-5,E01028058,Incivilities,1,1,1.0
+2010-5,E01028059,Open Spaces/Parks,1,1,1.0
+2010-5,E01028080,Road Surface Defects,1,1,1.0
+2010-5,E01028088,Road Safety,1,1,1.0
+2010-5,E01028094,Road Surface Defects,1,1,1.0
+2010-5,E01028107,Highways Enquiries,1,1,1.0
+2010-5,E01028116,Pavement /Footway Defects,1,1,1.0
+2010-5,E01028118,Pavement /Footway Defects,1,1,1.0
+2010-5,E01028119,Road Surface Defects,1,1,1.0
+2010-5,E01028142,Street Furniture,1,1,1.0
+2010-5,E01028149,Pavement /Footway Defects,1,1,1.0
+2010-5,E01028152,Other,1,1,1.0
+2010-5,E01028152,Road Surface Defects,1,1,1.0
+2010-5,E01028157,Rubbish,1,1,1.0
+2010-5,E01028167,Other,1,1,1.0
+2010-5,E01028171,Other,1,1,1.0
+2010-5,E01028177,Incivilities,1,1,1.0
+2010-5,E01028209,Other,1,1,1.0
+2010-5,E01028214,Incivilities,1,1,1.0
+2010-5,E01028220,Highways Enquiries,1,1,1.0
+2010-5,E01028227,Highways Enquiries,1,1,1.0
+2010-5,E01028271,Other,1,1,1.0
+2010-5,E01028273,Other,1,1,1.0
+2010-5,E01028274,Rubbish,1,1,1.0
+2010-5,E01028308,Road Surface Defects,1,1,1.0
+2010-5,E01028346,Highways Enquiries,1,1,1.0
+2010-5,E01028368,Parking,1,1,1.0
+2010-5,E01028393,Highways Enquiries,1,1,1.0
+2010-5,E01028424,Road Surface Defects,1,1,1.0
+2010-5,E01028428,Road Surface Defects,1,1,1.0
+2010-5,E01028430,Road Surface Defects,1,1,1.0
+2010-5,E01028435,Road Surface Defects,1,1,1.0
+2010-5,E01028440,Other,1,1,1.0
+2010-5,E01028440,Parking,1,1,1.0
+2010-5,E01028440,Street Furniture,1,1,1.0
+2010-5,E01028455,Street Lights,1,1,1.0
+2010-5,E01028472,Road Surface Defects,1,1,1.0
+2010-5,E01028504,Road Surface Defects,1,1,1.0
+2010-5,E01028521,Road Safety,1,1,1.0
+2010-5,E01028544,Pavement /Footway Defects,1,1,1.0
+2010-5,E01028545,Highways Enquiries,1,1,1.0
+2010-5,E01028545,Incivilities,1,1,1.0
+2010-5,E01028546,Road Surface Defects,1,1,1.0
+2010-5,E01028549,Road Surface Defects,1,1,1.0
+2010-5,E01028550,Abandoned Vehicles,1,1,1.0
+2010-5,E01028615,Road Surface Defects,1,1,1.0
+2010-5,E01028617,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01028621,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01028623,Road Surface Defects,1,1,1.0
+2010-5,E01028633,Pavement /Footway Defects,1,1,1.0
+2010-5,E01028642,Road Surface Defects,1,1,1.0
+2010-5,E01028657,Highways Enquiries,1,1,1.0
+2010-5,E01028657,Road Surface Defects,1,1,1.0
+2010-5,E01028675,Road Surface Defects,1,1,1.0
+2010-5,E01028677,Road Surface Defects,1,1,1.0
+2010-5,E01028683,Road Surface Defects,1,1,1.0
+2010-5,E01028684,Road Surface Defects,1,1,1.0
+2010-5,E01028699,Highways Enquiries,1,1,1.0
+2010-5,E01028699,Street Lights,1,1,1.0
+2010-5,E01028704,Road Surface Defects,1,1,1.0
+2010-5,E01028708,Road Surface Defects,1,1,1.0
+2010-5,E01028712,Road Surface Defects,1,1,1.0
+2010-5,E01028717,Road Surface Defects,2,1,2.0
+2010-5,E01028718,Road Surface Defects,1,1,1.0
+2010-5,E01028737,Road Surface Defects,2,1,2.0
+2010-5,E01028740,Road Surface Defects,1,1,1.0
+2010-5,E01028741,Rubbish,1,1,1.0
+2010-5,E01028745,Road Surface Defects,1,1,1.0
+2010-5,E01028746,Road Surface Defects,1,1,1.0
+2010-5,E01028755,Road Surface Defects,1,1,1.0
+2010-5,E01028756,Highways Enquiries,1,1,1.0
+2010-5,E01028759,Street Furniture,1,1,1.0
+2010-5,E01028772,Abandoned Vehicles,1,1,1.0
+2010-5,E01028793,Road Surface Defects,1,1,1.0
+2010-5,E01028815,Road Surface Defects,1,1,1.0
+2010-5,E01028850,Highways Enquiries,1,1,1.0
+2010-5,E01028856,Other,1,1,1.0
+2010-5,E01028857,Street Lights,1,1,1.0
+2010-5,E01028897,Road Surface Defects,1,1,1.0
+2010-5,E01028944,Rubbish,1,1,1.0
+2010-5,E01028993,Other,1,1,1.0
+2010-5,E01028995,Street Furniture,1,1,1.0
+2010-5,E01029001,Street Lights,1,1,1.0
+2010-5,E01029053,Road Surface Defects,1,1,1.0
+2010-5,E01029078,Other,1,1,1.0
+2010-5,E01029085,Highways Enquiries,1,1,1.0
+2010-5,E01029085,Road Safety,1,1,1.0
+2010-5,E01029129,Highways Enquiries,1,1,1.0
+2010-5,E01029129,Road Surface Defects,1,1,1.0
+2010-5,E01029164,Road Surface Defects,1,1,1.0
+2010-5,E01029175,Rubbish,1,1,1.0
+2010-5,E01029196,Road Surface Defects,1,1,1.0
+2010-5,E01029199,Road Surface Defects,1,1,1.0
+2010-5,E01029207,Road Surface Defects,1,1,1.0
+2010-5,E01029210,Street Lights,1,1,1.0
+2010-5,E01029225,Street Lights,1,1,1.0
+2010-5,E01029228,Highways Enquiries,1,1,1.0
+2010-5,E01029230,Road Surface Defects,1,1,1.0
+2010-5,E01029236,Street Lights,1,1,1.0
+2010-5,E01029240,Road Surface Defects,1,1,1.0
+2010-5,E01029245,Road Surface Defects,1,1,1.0
+2010-5,E01029251,Road Surface Defects,1,1,1.0
+2010-5,E01029261,Pavement /Footway Defects,1,1,1.0
+2010-5,E01029261,Road Surface Defects,1,1,1.0
+2010-5,E01029270,Road Surface Defects,1,1,1.0
+2010-5,E01029287,Highways Enquiries,1,1,1.0
+2010-5,E01029287,Parking,1,1,1.0
+2010-5,E01029291,Street Lights,1,1,1.0
+2010-5,E01029301,Road Surface Defects,2,1,2.0
+2010-5,E01029325,Road Surface Defects,1,1,1.0
+2010-5,E01029326,Highways Enquiries,1,1,1.0
+2010-5,E01029329,Highways Enquiries,1,1,1.0
+2010-5,E01029329,Rubbish,1,1,1.0
+2010-5,E01029333,Road Surface Defects,1,1,1.0
+2010-5,E01029342,Road Surface Defects,1,1,1.0
+2010-5,E01029365,Rubbish,1,1,1.0
+2010-5,E01029377,Open Spaces/Parks,1,1,1.0
+2010-5,E01029383,Road Surface Defects,1,1,1.0
+2010-5,E01029391,Other,1,1,1.0
+2010-5,E01029394,Highways Enquiries,1,1,1.0
+2010-5,E01029406,Road Surface Defects,1,1,1.0
+2010-5,E01029413,Other,1,1,1.0
+2010-5,E01029422,Road Surface Defects,1,1,1.0
+2010-5,E01029459,Parking,1,1,1.0
+2010-5,E01029469,Road Surface Defects,1,1,1.0
+2010-5,E01029469,Rubbish,2,2,1.0
+2010-5,E01029488,Rubbish,1,1,1.0
+2010-5,E01029494,Highways Enquiries,1,1,1.0
+2010-5,E01029499,Road Surface Defects,1,1,1.0
+2010-5,E01029499,Rubbish,1,1,1.0
+2010-5,E01029501,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01029501,Road Surface Defects,1,1,1.0
+2010-5,E01029505,Road Surface Defects,1,1,1.0
+2010-5,E01029508,Road Surface Defects,1,1,1.0
+2010-5,E01029514,Other,1,1,1.0
+2010-5,E01029519,Road Surface Defects,1,1,1.0
+2010-5,E01029521,Rubbish,1,1,1.0
+2010-5,E01029526,Dog Fouling,1,1,1.0
+2010-5,E01029526,Other,1,1,1.0
+2010-5,E01029560,Road Surface Defects,1,1,1.0
+2010-5,E01029578,Road Surface Defects,1,1,1.0
+2010-5,E01029579,Road Surface Defects,1,1,1.0
+2010-5,E01029580,Road Safety,1,1,1.0
+2010-5,E01029604,Road Surface Defects,2,2,1.0
+2010-5,E01029611,Road Safety,1,1,1.0
+2010-5,E01029611,Road Surface Defects,2,1,2.0
+2010-5,E01029612,Road Surface Defects,1,1,1.0
+2010-5,E01029630,Road Surface Defects,1,1,1.0
+2010-5,E01029653,Other,1,1,1.0
+2010-5,E01029660,Road Surface Defects,1,1,1.0
+2010-5,E01029677,Pavement /Footway Defects,1,1,1.0
+2010-5,E01029721,Road Surface Defects,1,1,1.0
+2010-5,E01029724,Abandoned Vehicles,1,1,1.0
+2010-5,E01029725,Abandoned Vehicles,1,1,1.0
+2010-5,E01029725,Dog Fouling,1,1,1.0
+2010-5,E01029725,Road Surface Defects,2,2,1.0
+2010-5,E01029725,Rubbish,1,1,1.0
+2010-5,E01029731,Road Surface Defects,1,1,1.0
+2010-5,E01029732,Highways Enquiries,1,1,1.0
+2010-5,E01029752,Abandoned Vehicles,1,1,1.0
+2010-5,E01029752,Rubbish,1,1,1.0
+2010-5,E01029761,Highways Enquiries,1,1,1.0
+2010-5,E01029761,Road Surface Defects,1,1,1.0
+2010-5,E01029770,Parking,1,1,1.0
+2010-5,E01029775,Road Surface Defects,1,1,1.0
+2010-5,E01029782,Street Furniture,2,1,2.0
+2010-5,E01029809,Rubbish,1,1,1.0
+2010-5,E01029879,Highways Enquiries,1,1,1.0
+2010-5,E01029897,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01029908,Street Lights,1,1,1.0
+2010-5,E01029980,Parking,1,1,1.0
+2010-5,E01029983,Road Surface Defects,1,1,1.0
+2010-5,E01029985,Pavement /Footway Defects,1,1,1.0
+2010-5,E01029985,Street Lights,1,1,1.0
+2010-5,E01029986,Road Safety,1,1,1.0
+2010-5,E01029988,Road Safety,1,1,1.0
+2010-5,E01029988,Street Lights,1,1,1.0
+2010-5,E01030001,Road Surface Defects,1,1,1.0
+2010-5,E01030002,Road Surface Defects,1,1,1.0
+2010-5,E01030003,Highways Enquiries,1,1,1.0
+2010-5,E01030006,Road Surface Defects,1,1,1.0
+2010-5,E01030008,Road Surface Defects,1,1,1.0
+2010-5,E01030011,Road Surface Defects,1,1,1.0
+2010-5,E01030032,Rubbish,1,1,1.0
+2010-5,E01030091,Road Surface Defects,1,1,1.0
+2010-5,E01030092,Abandoned Vehicles,1,1,1.0
+2010-5,E01030099,Road Surface Defects,1,1,1.0
+2010-5,E01030100,Road Surface Defects,1,1,1.0
+2010-5,E01030146,Road Surface Defects,1,1,1.0
+2010-5,E01030148,Road Surface Defects,1,1,1.0
+2010-5,E01030175,Other,1,1,1.0
+2010-5,E01030191,Pavement /Footway Defects,1,1,1.0
+2010-5,E01030191,Road Surface Defects,1,1,1.0
+2010-5,E01030192,Road Surface Defects,1,1,1.0
+2010-5,E01030195,Rubbish,1,1,1.0
+2010-5,E01030221,Highways Enquiries,1,1,1.0
+2010-5,E01030258,Street Lights,1,1,1.0
+2010-5,E01030322,Road Surface Defects,1,1,1.0
+2010-5,E01030324,Road Surface Defects,1,1,1.0
+2010-5,E01030326,Highways Enquiries,1,1,1.0
+2010-5,E01030326,Road Surface Defects,3,1,3.0
+2010-5,E01030329,Parking,1,1,1.0
+2010-5,E01030329,Road Surface Defects,2,1,2.0
+2010-5,E01030358,Road Surface Defects,1,1,1.0
+2010-5,E01030368,Road Surface Defects,1,1,1.0
+2010-5,E01030370,Abandoned Vehicles,1,1,1.0
+2010-5,E01030375,Abandoned Vehicles,1,1,1.0
+2010-5,E01030390,Highways Enquiries,1,1,1.0
+2010-5,E01030404,Highways Enquiries,1,1,1.0
+2010-5,E01030408,Road Surface Defects,1,1,1.0
+2010-5,E01030429,Abandoned Vehicles,1,1,1.0
+2010-5,E01030439,Rubbish,1,1,1.0
+2010-5,E01030439,Street Furniture,1,1,1.0
+2010-5,E01030448,Highways Enquiries,1,1,1.0
+2010-5,E01030448,Rubbish,5,1,5.0
+2010-5,E01030450,Road Surface Defects,1,1,1.0
+2010-5,E01030450,Rubbish,1,1,1.0
+2010-5,E01030451,Other,1,1,1.0
+2010-5,E01030451,Pavement /Footway Defects,1,1,1.0
+2010-5,E01030452,Other,1,1,1.0
+2010-5,E01030452,Road Safety,1,1,1.0
+2010-5,E01030453,Road Safety,1,1,1.0
+2010-5,E01030455,Incivilities,2,2,1.0
+2010-5,E01030455,Open Spaces/Parks,1,1,1.0
+2010-5,E01030455,Road Safety,1,1,1.0
+2010-5,E01030456,Highways Enquiries,1,1,1.0
+2010-5,E01030461,Road Surface Defects,1,1,1.0
+2010-5,E01030469,Road Surface Defects,1,1,1.0
+2010-5,E01030469,Rubbish,2,2,1.0
+2010-5,E01030470,Street Lights,1,1,1.0
+2010-5,E01030473,Highways Enquiries,1,1,1.0
+2010-5,E01030473,Street Lights,1,1,1.0
+2010-5,E01030474,Road Surface Defects,1,1,1.0
+2010-5,E01030484,Rubbish,1,1,1.0
+2010-5,E01030491,Road Surface Defects,1,1,1.0
+2010-5,E01030500,Street Lights,1,1,1.0
+2010-5,E01030507,Road Surface Defects,1,1,1.0
+2010-5,E01030541,Other,1,1,1.0
+2010-5,E01030542,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01030567,Road Surface Defects,2,1,2.0
+2010-5,E01030573,Road Surface Defects,1,1,1.0
+2010-5,E01030585,Parking,1,1,1.0
+2010-5,E01030590,Road Surface Defects,1,1,1.0
+2010-5,E01030593,Road Surface Defects,3,1,3.0
+2010-5,E01030596,Road Surface Defects,1,1,1.0
+2010-5,E01030598,Highways Enquiries,5,1,5.0
+2010-5,E01030598,Road Safety,4,3,1.3333333333333333
+2010-5,E01030598,Road Surface Defects,3,2,1.5
+2010-5,E01030598,Rubbish,1,1,1.0
+2010-5,E01030599,Open Spaces/Parks,1,1,1.0
+2010-5,E01030600,Highways Enquiries,1,1,1.0
+2010-5,E01030600,Open Spaces/Parks,1,1,1.0
+2010-5,E01030600,Road Surface Defects,1,1,1.0
+2010-5,E01030602,Highways Enquiries,1,1,1.0
+2010-5,E01030602,Road Surface Defects,3,1,3.0
+2010-5,E01030613,Pavement /Footway Defects,1,1,1.0
+2010-5,E01030613,Road Surface Defects,1,1,1.0
+2010-5,E01030620,Road Safety,1,1,1.0
+2010-5,E01030625,Road Surface Defects,2,2,1.0
+2010-5,E01030626,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01030626,Road Surface Defects,1,1,1.0
+2010-5,E01030627,Road Surface Defects,1,1,1.0
+2010-5,E01030628,Road Surface Defects,1,1,1.0
+2010-5,E01030630,Abandoned Vehicles,1,1,1.0
+2010-5,E01030630,Road Surface Defects,1,1,1.0
+2010-5,E01030632,Road Surface Defects,1,1,1.0
+2010-5,E01030637,Pavement /Footway Defects,1,1,1.0
+2010-5,E01030638,Road Surface Defects,2,1,2.0
+2010-5,E01030639,Parking,1,1,1.0
+2010-5,E01030639,Road Surface Defects,1,1,1.0
+2010-5,E01030650,Abandoned Vehicles,1,1,1.0
+2010-5,E01030651,Pavement /Footway Defects,1,1,1.0
+2010-5,E01030655,Highways Enquiries,1,1,1.0
+2010-5,E01030674,Other,1,1,1.0
+2010-5,E01030687,Street Lights,2,1,2.0
+2010-5,E01030707,Parking,1,1,1.0
+2010-5,E01030707,Road Surface Defects,1,1,1.0
+2010-5,E01030734,Street Lights,1,1,1.0
+2010-5,E01030752,Highways Enquiries,1,1,1.0
+2010-5,E01030772,Street Furniture,1,1,1.0
+2010-5,E01030773,Street Furniture,1,1,1.0
+2010-5,E01030784,Highways Enquiries,1,1,1.0
+2010-5,E01030791,Other,1,1,1.0
+2010-5,E01030799,Other,1,1,1.0
+2010-5,E01030803,Road Safety,1,1,1.0
+2010-5,E01030807,Road Safety,1,1,1.0
+2010-5,E01030823,Road Surface Defects,1,1,1.0
+2010-5,E01030833,Road Surface Defects,1,1,1.0
+2010-5,E01030837,Rubbish,1,1,1.0
+2010-5,E01030844,Road Surface Defects,1,1,1.0
+2010-5,E01030846,Road Surface Defects,1,1,1.0
+2010-5,E01030852,Rubbish,1,1,1.0
+2010-5,E01030854,Road Surface Defects,1,1,1.0
+2010-5,E01030859,Highways Enquiries,1,1,1.0
+2010-5,E01030859,Incivilities,1,1,1.0
+2010-5,E01030863,Rubbish,1,1,1.0
+2010-5,E01030881,Road Surface Defects,1,1,1.0
+2010-5,E01030888,Highways Enquiries,1,1,1.0
+2010-5,E01030888,Other,1,1,1.0
+2010-5,E01030888,Parking,1,1,1.0
+2010-5,E01030893,Road Surface Defects,1,1,1.0
+2010-5,E01030894,Road Surface Defects,2,1,2.0
+2010-5,E01030902,Rubbish,1,1,1.0
+2010-5,E01030903,Other,1,1,1.0
+2010-5,E01030903,Road Surface Defects,1,1,1.0
+2010-5,E01030908,Road Surface Defects,2,2,1.0
+2010-5,E01030929,Road Surface Defects,1,1,1.0
+2010-5,E01030929,Street Lights,1,1,1.0
+2010-5,E01030931,Other,2,1,2.0
+2010-5,E01030962,Rubbish,1,1,1.0
+2010-5,E01030983,Road Surface Defects,1,1,1.0
+2010-5,E01030986,Highways Enquiries,1,1,1.0
+2010-5,E01030986,Road Surface Defects,1,1,1.0
+2010-5,E01030994,Pavement /Footway Defects,1,1,1.0
+2010-5,E01030994,Road Surface Defects,2,1,2.0
+2010-5,E01030997,Highways Enquiries,1,1,1.0
+2010-5,E01031000,Rubbish,1,1,1.0
+2010-5,E01031004,Road Surface Defects,1,1,1.0
+2010-5,E01031005,Right of Way,1,1,1.0
+2010-5,E01031016,Road Surface Defects,1,1,1.0
+2010-5,E01031017,Other,1,1,1.0
+2010-5,E01031018,Road Surface Defects,1,1,1.0
+2010-5,E01031023,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031027,Road Surface Defects,1,1,1.0
+2010-5,E01031036,Parking,1,1,1.0
+2010-5,E01031041,Rubbish,1,1,1.0
+2010-5,E01031094,Road Surface Defects,1,1,1.0
+2010-5,E01031139,Road Surface Defects,1,1,1.0
+2010-5,E01031149,Rubbish,1,1,1.0
+2010-5,E01031151,Other,1,1,1.0
+2010-5,E01031152,Road Surface Defects,1,1,1.0
+2010-5,E01031159,Highways Enquiries,2,1,2.0
+2010-5,E01031160,Road Surface Defects,2,1,2.0
+2010-5,E01031183,Street Lights,1,1,1.0
+2010-5,E01031209,Parking,1,1,1.0
+2010-5,E01031209,Road Safety,2,1,2.0
+2010-5,E01031209,Road Surface Defects,1,1,1.0
+2010-5,E01031213,Road Safety,1,1,1.0
+2010-5,E01031243,Road Safety,1,1,1.0
+2010-5,E01031247,Other,1,1,1.0
+2010-5,E01031256,Parking,1,1,1.0
+2010-5,E01031260,Street Lights,1,1,1.0
+2010-5,E01031281,Highways Enquiries,1,1,1.0
+2010-5,E01031281,Road Surface Defects,1,1,1.0
+2010-5,E01031283,Road Surface Defects,1,1,1.0
+2010-5,E01031310,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01031337,Right of Way,1,1,1.0
+2010-5,E01031362,Road Surface Defects,1,1,1.0
+2010-5,E01031383,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031391,Street Lights,1,1,1.0
+2010-5,E01031408,Road Surface Defects,1,1,1.0
+2010-5,E01031429,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031435,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031435,Road Surface Defects,1,1,1.0
+2010-5,E01031453,Road Surface Defects,1,1,1.0
+2010-5,E01031454,Road Surface Defects,1,1,1.0
+2010-5,E01031463,Other,1,1,1.0
+2010-5,E01031466,Road Surface Defects,1,1,1.0
+2010-5,E01031470,Other,1,1,1.0
+2010-5,E01031486,Other,1,1,1.0
+2010-5,E01031489,Road Surface Defects,1,1,1.0
+2010-5,E01031496,Road Surface Defects,1,1,1.0
+2010-5,E01031533,Road Surface Defects,1,1,1.0
+2010-5,E01031543,Road Surface Defects,1,1,1.0
+2010-5,E01031570,Highways Enquiries,2,1,2.0
+2010-5,E01031576,Parking,1,1,1.0
+2010-5,E01031577,Road Surface Defects,1,1,1.0
+2010-5,E01031584,Other,1,1,1.0
+2010-5,E01031593,Road Surface Defects,1,1,1.0
+2010-5,E01031619,Parking,1,1,1.0
+2010-5,E01031626,Parking,1,1,1.0
+2010-5,E01031633,Parking,1,1,1.0
+2010-5,E01031636,Other,1,1,1.0
+2010-5,E01031636,Parking,1,1,1.0
+2010-5,E01031636,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031659,Rubbish,1,1,1.0
+2010-5,E01031677,Road Surface Defects,1,1,1.0
+2010-5,E01031685,Incivilities,1,1,1.0
+2010-5,E01031691,Road Surface Defects,2,1,2.0
+2010-5,E01031706,Other,1,1,1.0
+2010-5,E01031708,Rubbish,1,1,1.0
+2010-5,E01031709,Road Surface Defects,1,1,1.0
+2010-5,E01031723,Road Surface Defects,1,1,1.0
+2010-5,E01031732,Road Surface Defects,1,1,1.0
+2010-5,E01031739,Road Surface Defects,1,1,1.0
+2010-5,E01031763,Road Surface Defects,1,1,1.0
+2010-5,E01031766,Other,1,1,1.0
+2010-5,E01031766,Road Surface Defects,1,1,1.0
+2010-5,E01031770,Other,1,1,1.0
+2010-5,E01031845,Road Surface Defects,1,1,1.0
+2010-5,E01031850,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031851,Road Surface Defects,1,1,1.0
+2010-5,E01031854,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031858,Road Surface Defects,2,1,2.0
+2010-5,E01031862,Street Lights,1,1,1.0
+2010-5,E01031865,Highways Enquiries,1,1,1.0
+2010-5,E01031866,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031871,Highways Enquiries,1,1,1.0
+2010-5,E01031871,Pavement /Footway Defects,1,1,1.0
+2010-5,E01031891,Road Surface Defects,3,1,3.0
+2010-5,E01031916,Other,1,1,1.0
+2010-5,E01031916,Road Surface Defects,1,1,1.0
+2010-5,E01031917,Road Surface Defects,1,1,1.0
+2010-5,E01031926,Road Surface Defects,1,1,1.0
+2010-5,E01031967,Other,1,1,1.0
+2010-5,E01031969,Rubbish,1,1,1.0
+2010-5,E01031972,Rubbish,1,1,1.0
+2010-5,E01031992,Road Safety,1,1,1.0
+2010-5,E01032006,Road Surface Defects,1,1,1.0
+2010-5,E01032014,Road Surface Defects,1,1,1.0
+2010-5,E01032018,Road Surface Defects,1,1,1.0
+2010-5,E01032032,Highways Enquiries,1,1,1.0
+2010-5,E01032041,Other,1,1,1.0
+2010-5,E01032046,Road Surface Defects,1,1,1.0
+2010-5,E01032048,Road Surface Defects,1,1,1.0
+2010-5,E01032048,Street Furniture,1,1,1.0
+2010-5,E01032049,Other,1,1,1.0
+2010-5,E01032062,Street Lights,1,1,1.0
+2010-5,E01032066,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032071,Road Safety,1,1,1.0
+2010-5,E01032072,Highways Enquiries,1,1,1.0
+2010-5,E01032072,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,E01032073,Open Spaces/Parks,1,1,1.0
+2010-5,E01032079,Road Surface Defects,1,1,1.0
+2010-5,E01032103,Street Lights,1,1,1.0
+2010-5,E01032124,Road Surface Defects,1,1,1.0
+2010-5,E01032141,Other,1,1,1.0
+2010-5,E01032162,Other,1,1,1.0
+2010-5,E01032166,Road Surface Defects,1,1,1.0
+2010-5,E01032171,Road Surface Defects,1,1,1.0
+2010-5,E01032200,Parking,1,1,1.0
+2010-5,E01032205,Rubbish,1,1,1.0
+2010-5,E01032216,Highways Enquiries,1,1,1.0
+2010-5,E01032217,Road Surface Defects,1,1,1.0
+2010-5,E01032218,Road Surface Defects,1,1,1.0
+2010-5,E01032227,Road Surface Defects,1,1,1.0
+2010-5,E01032247,Parking,1,1,1.0
+2010-5,E01032263,Street Lights,1,1,1.0
+2010-5,E01032265,Street Lights,1,1,1.0
+2010-5,E01032271,Street Lights,2,1,2.0
+2010-5,E01032300,Highways Enquiries,1,1,1.0
+2010-5,E01032336,Road Surface Defects,1,1,1.0
+2010-5,E01032343,Road Surface Defects,1,1,1.0
+2010-5,E01032358,Road Safety,1,1,1.0
+2010-5,E01032359,Other,1,1,1.0
+2010-5,E01032360,Road Surface Defects,3,2,1.5
+2010-5,E01032437,Road Surface Defects,1,1,1.0
+2010-5,E01032438,Road Surface Defects,1,1,1.0
+2010-5,E01032450,Parking,1,1,1.0
+2010-5,E01032465,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032470,Highways Enquiries,1,1,1.0
+2010-5,E01032500,Road Surface Defects,1,1,1.0
+2010-5,E01032536,Road Surface Defects,1,1,1.0
+2010-5,E01032537,Road Surface Defects,1,1,1.0
+2010-5,E01032559,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032573,Road Surface Defects,1,1,1.0
+2010-5,E01032598,Rubbish,1,1,1.0
+2010-5,E01032604,Road Surface Defects,1,1,1.0
+2010-5,E01032624,Incivilities,1,1,1.0
+2010-5,E01032636,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032636,Road Safety,1,1,1.0
+2010-5,E01032640,Highways Enquiries,1,1,1.0
+2010-5,E01032640,Other,1,1,1.0
+2010-5,E01032658,Other,1,1,1.0
+2010-5,E01032663,Abandoned Vehicles,1,1,1.0
+2010-5,E01032663,Road Surface Defects,1,1,1.0
+2010-5,E01032684,Rubbish,1,1,1.0
+2010-5,E01032694,Street Lights,1,1,1.0
+2010-5,E01032719,Road Safety,1,1,1.0
+2010-5,E01032740,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032740,Road Surface Defects,1,1,1.0
+2010-5,E01032746,Road Safety,1,1,1.0
+2010-5,E01032759,Other,1,1,1.0
+2010-5,E01032763,Incivilities,1,1,1.0
+2010-5,E01032770,Rubbish,1,1,1.0
+2010-5,E01032771,Rubbish,1,1,1.0
+2010-5,E01032772,Rubbish,2,1,2.0
+2010-5,E01032782,Road Surface Defects,1,1,1.0
+2010-5,E01032786,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032794,Other,1,1,1.0
+2010-5,E01032797,Open Spaces/Parks,1,1,1.0
+2010-5,E01032802,Pavement /Footway Defects,1,1,1.0
+2010-5,E01032813,Parking,1,1,1.0
+2010-5,E01032814,Road Surface Defects,1,1,1.0
+2010-5,E01032834,Parking,1,1,1.0
+2010-5,E01032845,Other,1,1,1.0
+2010-5,E01032847,Incivilities,1,1,1.0
+2010-5,E01032850,Incivilities,1,1,1.0
+2010-5,E01032881,Parking,1,1,1.0
+2010-5,E01032892,Road Surface Defects,1,1,1.0
+2010-5,E01032897,Parking,1,1,1.0
+2010-5,E01032907,Road Surface Defects,2,2,1.0
+2010-5,E01032912,Rubbish,1,1,1.0
+2010-5,E01032919,Parking,1,1,1.0
+2010-5,E01032920,Highways Enquiries,1,1,1.0
+2010-5,E01032951,Rubbish,1,1,1.0
+2010-5,E01032961,Incivilities,1,1,1.0
+2010-5,E01032970,Open Spaces/Parks,1,1,1.0
+2010-5,E01032970,Road Surface Defects,1,1,1.0
+2010-5,E01032975,Open Spaces/Parks,1,1,1.0
+2010-5,E01032999,Other,1,1,1.0
+2010-5,E01033005,Highways Enquiries,1,1,1.0
+2010-5,E01033006,Highways Enquiries,1,1,1.0
+2010-5,E01033008,Rubbish,1,1,1.0
+2010-5,E01033011,Road Surface Defects,1,1,1.0
+2010-5,E01033013,Road Surface Defects,1,1,1.0
+2010-5,E01033032,Highways Enquiries,1,1,1.0
+2010-5,E01033052,Road Surface Defects,1,1,1.0
+2010-5,E01033070,Rubbish,1,1,1.0
+2010-5,E01033082,Road Surface Defects,1,1,1.0
+2010-5,E01033109,Street Lights,1,1,1.0
+2010-5,E01033111,Road Surface Defects,2,1,2.0
+2010-5,E01033112,Parking,1,1,1.0
+2010-5,E01033112,Road Safety,1,1,1.0
+2010-5,E01033112,Road Surface Defects,1,1,1.0
+2010-5,E01033112,Street Lights,3,1,3.0
+2010-5,E01033121,Other,1,1,1.0
+2010-5,E01033123,Parking,1,1,1.0
+2010-5,E01033124,Road Safety,1,1,1.0
+2010-5,E01033140,Road Surface Defects,1,1,1.0
+2010-5,E01033163,Other,1,1,1.0
+2010-5,E01033172,Parking,1,1,1.0
+2010-5,E01033176,Other,1,1,1.0
+2010-5,E01033177,Highways Enquiries,1,1,1.0
+2010-5,E01033178,Highways Enquiries,1,1,1.0
+2010-5,E01033179,Road Safety,1,1,1.0
+2010-5,E01033179,Street Lights,1,1,1.0
+2010-5,E01033181,Street Lights,1,1,1.0
+2010-5,E01033193,Incivilities,1,1,1.0
+2010-5,E01033224,Rubbish,1,1,1.0
+2010-5,E01033239,Road Safety,1,1,1.0
+2010-5,E01033244,Other,1,1,1.0
+2010-5,E01033261,Road Surface Defects,1,1,1.0
+2010-5,E01033278,Abandoned Vehicles,1,1,1.0
+2010-5,E01033278,Rubbish,1,1,1.0
+2010-5,E01033281,Highways Enquiries,1,1,1.0
+2010-5,E01033283,Pavement /Footway Defects,1,1,1.0
+2010-5,E01033306,Road Surface Defects,1,1,1.0
+2010-5,E01033317,Parking,1,1,1.0
+2010-5,E01033327,Road Safety,1,1,1.0
+2010-5,E01033331,Street Lights,1,1,1.0
+2010-5,E01033333,Highways Enquiries,1,1,1.0
+2010-5,E01033341,Incivilities,1,1,1.0
+2010-5,E01033341,Road Surface Defects,1,1,1.0
+2010-5,E01033352,Rubbish,1,1,1.0
+2010-5,E01033352,Street Lights,1,1,1.0
+2010-5,E01033367,Incivilities,1,1,1.0
+2010-5,E01033367,Rubbish,1,1,1.0
+2010-5,E01033388,Street Lights,1,1,1.0
+2010-5,E01033402,Rubbish,1,1,1.0
+2010-5,E01033415,Pavement /Footway Defects,1,1,1.0
+2010-5,E01033415,Street Lights,1,1,1.0
+2010-5,E01033437,Road Surface Defects,1,1,1.0
+2010-5,E01033441,Road Safety,1,1,1.0
+2010-5,E01033486,Road Surface Defects,1,1,1.0
+2010-5,E01033488,Road Surface Defects,1,1,1.0
+2010-5,E01033490,Highways Enquiries,1,1,1.0
+2010-5,E01033538,Road Surface Defects,1,1,1.0
+2010-5,E01033541,Street Lights,1,1,1.0
+2010-5,E01033543,Road Surface Defects,1,1,1.0
+2010-5,E01033551,Dog Fouling,1,1,1.0
+2010-5,E01033559,Other,1,1,1.0
+2010-5,E01033585,Road Surface Defects,1,1,1.0
+2010-5,E01033594,Road Safety,1,1,1.0
+2010-5,E01033595,Other,1,1,1.0
+2010-5,E01033622,Highways Enquiries,1,1,1.0
+2010-5,E01033622,Road Surface Defects,1,1,1.0
+2010-5,E01033625,Pavement /Footway Defects,1,1,1.0
+2010-5,E01033628,Road Surface Defects,1,1,1.0
+2010-5,E01033643,Rubbish,1,1,1.0
+2010-5,E01033645,Open Spaces/Parks,1,1,1.0
+2010-5,E01033650,Road Surface Defects,1,1,1.0
+2010-5,E01033673,Road Surface Defects,1,1,1.0
+2010-5,E01033684,Road Surface Defects,1,1,1.0
+2010-5,E01033688,Road Surface Defects,1,1,1.0
+2010-5,E01033692,Rubbish,1,1,1.0
+2010-5,E01033698,Dog Fouling,1,1,1.0
+2010-5,E01033705,Highways Enquiries,1,1,1.0
+2010-5,E01033722,Road Safety,1,1,1.0
+2010-5,E01033722,Street Lights,1,1,1.0
+2010-5,E01033724,Other,1,1,1.0
+2010-5,E01033741,Parking,1,1,1.0
+2010-5,E01033752,Dog Fouling,1,1,1.0
+2010-5,E01033753,Road Safety,1,1,1.0
+2010-5,S01006518,Highways Enquiries,1,1,1.0
+2010-5,S01006521,Road Surface Defects,1,1,1.0
+2010-5,S01006523,Road Surface Defects,2,1,2.0
+2010-5,S01006524,Road Safety,1,1,1.0
+2010-5,S01006528,Street Lights,1,1,1.0
+2010-5,S01006529,Rubbish,1,1,1.0
+2010-5,S01006572,Road Surface Defects,3,1,3.0
+2010-5,S01006584,Other,1,1,1.0
+2010-5,S01006586,Other,2,2,1.0
+2010-5,S01006586,Street Lights,1,1,1.0
+2010-5,S01006589,Road Safety,1,1,1.0
+2010-5,S01006605,Road Surface Defects,1,1,1.0
+2010-5,S01006626,Abandoned Vehicles,1,1,1.0
+2010-5,S01006642,Highways Enquiries,1,1,1.0
+2010-5,S01006645,Road Surface Defects,1,1,1.0
+2010-5,S01006646,Road Surface Defects,1,1,1.0
+2010-5,S01006646,Street Lights,1,1,1.0
+2010-5,S01006649,Street Lights,2,1,2.0
+2010-5,S01006652,Road Surface Defects,1,1,1.0
+2010-5,S01006679,Highways Enquiries,1,1,1.0
+2010-5,S01006719,Road Surface Defects,1,1,1.0
+2010-5,S01006755,Road Surface Defects,1,1,1.0
+2010-5,S01006756,Street Lights,1,1,1.0
+2010-5,S01006758,Highways Enquiries,1,1,1.0
+2010-5,S01006760,Highways Enquiries,1,1,1.0
+2010-5,S01006850,Open Spaces/Parks,1,1,1.0
+2010-5,S01006872,Street Lights,1,1,1.0
+2010-5,S01006928,Highways Enquiries,1,1,1.0
+2010-5,S01007139,Parking,1,1,1.0
+2010-5,S01007249,Road Safety,1,1,1.0
+2010-5,S01007312,Road Safety,1,1,1.0
+2010-5,S01007331,Dog Fouling,1,1,1.0
+2010-5,S01007381,Highways Enquiries,1,1,1.0
+2010-5,S01007387,Road Surface Defects,1,1,1.0
+2010-5,S01007433,Highways Enquiries,1,1,1.0
+2010-5,S01007474,Street Lights,1,1,1.0
+2010-5,S01007487,Rubbish,1,1,1.0
+2010-5,S01007489,Other,1,1,1.0
+2010-5,S01007521,Road Surface Defects,1,1,1.0
+2010-5,S01007560,Highways Enquiries,1,1,1.0
+2010-5,S01007562,Road Surface Defects,1,1,1.0
+2010-5,S01007640,Highways Enquiries,1,1,1.0
+2010-5,S01007661,Street Lights,1,1,1.0
+2010-5,S01007802,Other,1,1,1.0
+2010-5,S01007831,Other,2,1,2.0
+2010-5,S01007912,Street Lights,1,1,1.0
+2010-5,S01008049,Road Surface Defects,1,1,1.0
+2010-5,S01008106,Road Surface Defects,1,1,1.0
+2010-5,S01008120,Road Surface Defects,1,1,1.0
+2010-5,S01008133,Highways Enquiries,1,1,1.0
+2010-5,S01008159,Rubbish,1,1,1.0
+2010-5,S01008164,Rubbish,1,1,1.0
+2010-5,S01008247,Highways Enquiries,1,1,1.0
+2010-5,S01008285,Road Surface Defects,1,1,1.0
+2010-5,S01008338,Road Safety,1,1,1.0
+2010-5,S01008343,Road Surface Defects,1,1,1.0
+2010-5,S01008356,Road Surface Defects,1,1,1.0
+2010-5,S01008361,Road Surface Defects,1,1,1.0
+2010-5,S01008441,Highways Enquiries,1,1,1.0
+2010-5,S01008468,Incivilities,1,1,1.0
+2010-5,S01008499,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,S01008539,Open Spaces/Parks,1,1,1.0
+2010-5,S01008566,Incivilities,1,1,1.0
+2010-5,S01008587,Pavement /Footway Defects,1,1,1.0
+2010-5,S01008603,Other,1,1,1.0
+2010-5,S01008630,Road Safety,1,1,1.0
+2010-5,S01008676,Highways Enquiries,1,1,1.0
+2010-5,S01008692,Open Spaces/Parks,1,1,1.0
+2010-5,S01008755,Rubbish,2,1,2.0
+2010-5,S01008766,Other,1,1,1.0
+2010-5,S01008785,Rubbish,1,1,1.0
+2010-5,S01008786,Road Safety,1,1,1.0
+2010-5,S01008817,Road Surface Defects,1,1,1.0
+2010-5,S01008833,Road Surface Defects,1,1,1.0
+2010-5,S01008845,Pavement /Footway Defects,1,1,1.0
+2010-5,S01008851,Rubbish,1,1,1.0
+2010-5,S01008855,Road Safety,1,1,1.0
+2010-5,S01008868,Rubbish,1,1,1.0
+2010-5,S01008869,Rubbish,1,1,1.0
+2010-5,S01008873,Rubbish,1,1,1.0
+2010-5,S01008879,Pavement /Footway Defects,1,1,1.0
+2010-5,S01008882,Street Lights,1,1,1.0
+2010-5,S01008948,Highways Enquiries,1,1,1.0
+2010-5,S01008949,Road Surface Defects,1,1,1.0
+2010-5,S01008963,Road Safety,1,1,1.0
+2010-5,S01009052,Street Lights,1,1,1.0
+2010-5,S01009056,Other,1,1,1.0
+2010-5,S01009058,Pavement /Footway Defects,1,1,1.0
+2010-5,S01009059,Road Safety,1,1,1.0
+2010-5,S01009060,Highways Enquiries,1,1,1.0
+2010-5,S01009065,Highways Enquiries,1,1,1.0
+2010-5,S01009069,Street Lights,1,1,1.0
+2010-5,S01009070,Highways Enquiries,1,1,1.0
+2010-5,S01009075,Highways Enquiries,1,1,1.0
+2010-5,S01009075,Road Surface Defects,1,1,1.0
+2010-5,S01009077,Road Surface Defects,1,1,1.0
+2010-5,S01009082,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,S01009089,Street Lights,1,1,1.0
+2010-5,S01009092,Pavement /Footway Defects,1,1,1.0
+2010-5,S01009092,Rubbish,1,1,1.0
+2010-5,S01009092,Street Lights,1,1,1.0
+2010-5,S01009094,Open Spaces/Parks,1,1,1.0
+2010-5,S01009098,Highways Enquiries,1,1,1.0
+2010-5,S01009098,Road Surface Defects,1,1,1.0
+2010-5,S01009099,Highways Enquiries,1,1,1.0
+2010-5,S01009102,Road Surface Defects,1,1,1.0
+2010-5,S01009107,Pavement /Footway Defects,1,1,1.0
+2010-5,S01009120,Road Surface Defects,1,1,1.0
+2010-5,S01009124,Other,1,1,1.0
+2010-5,S01009127,Street Lights,1,1,1.0
+2010-5,S01009135,Road Surface Defects,1,1,1.0
+2010-5,S01009142,Road Surface Defects,1,1,1.0
+2010-5,S01009153,Street Lights,1,1,1.0
+2010-5,S01009162,Other,1,1,1.0
+2010-5,S01009167,Other,1,1,1.0
+2010-5,S01009176,Rubbish,1,1,1.0
+2010-5,S01009185,Road Surface Defects,1,1,1.0
+2010-5,S01009187,Highways Enquiries,1,1,1.0
+2010-5,S01009187,Road Surface Defects,1,1,1.0
+2010-5,S01009196,Pavement /Footway Defects,1,1,1.0
+2010-5,S01009198,Street Lights,1,1,1.0
+2010-5,S01009200,Pavement /Footway Defects,1,1,1.0
+2010-5,S01009200,Rubbish,1,1,1.0
+2010-5,S01009206,Road Surface Defects,2,2,1.0
+2010-5,S01009206,Street Lights,1,1,1.0
+2010-5,S01009207,Rubbish,1,1,1.0
+2010-5,S01009210,Open Spaces/Parks,1,1,1.0
+2010-5,S01009210,Road Surface Defects,2,2,1.0
+2010-5,S01009214,Rubbish,1,1,1.0
+2010-5,S01009215,Road Surface Defects,1,1,1.0
+2010-5,S01009224,Other,1,1,1.0
+2010-5,S01009225,Highways Enquiries,1,1,1.0
+2010-5,S01009225,Street Lights,1,1,1.0
+2010-5,S01009226,Highways Enquiries,1,1,1.0
+2010-5,S01009226,Road Surface Defects,1,1,1.0
+2010-5,S01009226,Rubbish,2,1,2.0
+2010-5,S01009229,Overgrown/Fallen Veg/Trees,2,2,1.0
+2010-5,S01009231,Highways Enquiries,1,1,1.0
+2010-5,S01009231,Road Surface Defects,1,1,1.0
+2010-5,S01009235,Road Surface Defects,1,1,1.0
+2010-5,S01009237,Highways Enquiries,1,1,1.0
+2010-5,S01009244,Pavement /Footway Defects,1,1,1.0
+2010-5,S01009244,Road Surface Defects,1,1,1.0
+2010-5,S01009245,Road Surface Defects,1,1,1.0
+2010-5,S01009255,Pavement /Footway Defects,3,1,3.0
+2010-5,S01009256,Road Safety,1,1,1.0
+2010-5,S01009257,Rubbish,1,1,1.0
+2010-5,S01009263,Rubbish,1,1,1.0
+2010-5,S01009279,Other,1,1,1.0
+2010-5,S01009328,Incivilities,1,1,1.0
+2010-5,S01009354,Dog Fouling,1,1,1.0
+2010-5,S01009354,Incivilities,1,1,1.0
+2010-5,S01009359,Pavement /Footway Defects,3,2,1.5
+2010-5,S01009385,Abandoned Vehicles,1,1,1.0
+2010-5,S01009509,Parking,1,1,1.0
+2010-5,S01009527,Parking,1,1,1.0
+2010-5,S01009574,Dog Fouling,1,1,1.0
+2010-5,S01009616,Other,1,1,1.0
+2010-5,S01009628,Road Surface Defects,1,1,1.0
+2010-5,S01009658,Road Surface Defects,2,1,2.0
+2010-5,S01009718,Other,1,1,1.0
+2010-5,S01009720,Abandoned Vehicles,1,1,1.0
+2010-5,S01009767,Road Safety,1,1,1.0
+2010-5,S01009779,Road Surface Defects,1,1,1.0
+2010-5,S01009787,Road Surface Defects,1,1,1.0
+2010-5,S01009792,Other,1,1,1.0
+2010-5,S01009792,Rubbish,1,1,1.0
+2010-5,S01009807,Road Surface Defects,1,1,1.0
+2010-5,S01009812,Road Surface Defects,1,1,1.0
+2010-5,S01009819,Road Surface Defects,1,1,1.0
+2010-5,S01009843,Road Surface Defects,1,1,1.0
+2010-5,S01010032,Highways Enquiries,1,1,1.0
+2010-5,S01010032,Road Safety,1,1,1.0
+2010-5,S01010032,Road Surface Defects,1,1,1.0
+2010-5,S01010039,Street Lights,1,1,1.0
+2010-5,S01010044,Dog Fouling,1,1,1.0
+2010-5,S01010044,Rubbish,1,1,1.0
+2010-5,S01010056,Road Surface Defects,1,1,1.0
+2010-5,S01010059,Road Surface Defects,1,1,1.0
+2010-5,S01010065,Rubbish,1,1,1.0
+2010-5,S01010071,Road Surface Defects,1,1,1.0
+2010-5,S01010107,Road Surface Defects,1,1,1.0
+2010-5,S01010108,Road Surface Defects,1,1,1.0
+2010-5,S01010129,Road Surface Defects,1,1,1.0
+2010-5,S01010137,Road Surface Defects,1,1,1.0
+2010-5,S01010262,Road Surface Defects,1,1,1.0
+2010-5,S01010270,Road Surface Defects,1,1,1.0
+2010-5,S01010283,Rubbish,1,1,1.0
+2010-5,S01010291,Road Surface Defects,1,1,1.0
+2010-5,S01010299,Rubbish,1,1,1.0
+2010-5,S01010345,Highways Enquiries,1,1,1.0
+2010-5,S01010345,Other,1,1,1.0
+2010-5,S01010345,Road Surface Defects,1,1,1.0
+2010-5,S01010354,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,S01010377,Road Surface Defects,1,1,1.0
+2010-5,S01010379,Pavement /Footway Defects,1,1,1.0
+2010-5,S01010384,Open Spaces/Parks,1,1,1.0
+2010-5,S01010386,Rubbish,1,1,1.0
+2010-5,S01010399,Highways Enquiries,1,1,1.0
+2010-5,S01010412,Pavement /Footway Defects,1,1,1.0
+2010-5,S01010412,Road Surface Defects,1,1,1.0
+2010-5,S01010444,Dog Fouling,1,1,1.0
+2010-5,S01010449,Road Surface Defects,1,1,1.0
+2010-5,S01010461,Open Spaces/Parks,1,1,1.0
+2010-5,S01010509,Road Surface Defects,1,1,1.0
+2010-5,S01010684,Road Surface Defects,1,1,1.0
+2010-5,S01010800,Rubbish,1,1,1.0
+2010-5,S01010808,Road Surface Defects,1,1,1.0
+2010-5,S01010817,Street Lights,1,1,1.0
+2010-5,S01010885,Dog Fouling,1,1,1.0
+2010-5,S01010956,Other,1,1,1.0
+2010-5,S01010956,Street Furniture,1,1,1.0
+2010-5,S01010960,Other,2,2,1.0
+2010-5,S01010960,Street Furniture,1,1,1.0
+2010-5,S01010961,Other,1,1,1.0
+2010-5,S01010961,Road Safety,1,1,1.0
+2010-5,S01010963,Open Spaces/Parks,1,1,1.0
+2010-5,S01011018,Highways Enquiries,1,1,1.0
+2010-5,S01011019,Dog Fouling,1,1,1.0
+2010-5,S01011019,Road Surface Defects,1,1,1.0
+2010-5,S01011027,Road Surface Defects,1,1,1.0
+2010-5,S01011029,Road Surface Defects,1,1,1.0
+2010-5,S01011034,Street Lights,1,1,1.0
+2010-5,S01011044,Pavement /Footway Defects,1,1,1.0
+2010-5,S01011114,Open Spaces/Parks,1,1,1.0
+2010-5,S01011131,Dog Fouling,1,1,1.0
+2010-5,S01011184,Pavement /Footway Defects,1,1,1.0
+2010-5,S01011301,Street Lights,1,1,1.0
+2010-5,S01011307,Other,1,1,1.0
+2010-5,S01011426,Pavement /Footway Defects,1,1,1.0
+2010-5,S01011426,Street Furniture,1,1,1.0
+2010-5,S01011439,Road Surface Defects,1,1,1.0
+2010-5,S01011446,Incivilities,1,1,1.0
+2010-5,S01011446,Rubbish,1,1,1.0
+2010-5,S01011451,Rubbish,2,1,2.0
+2010-5,S01011455,Highways Enquiries,1,1,1.0
+2010-5,S01011457,Rubbish,1,1,1.0
+2010-5,S01011461,Incivilities,1,1,1.0
+2010-5,S01011479,Highways Enquiries,1,1,1.0
+2010-5,S01011504,Rubbish,1,1,1.0
+2010-5,S01011522,Incivilities,1,1,1.0
+2010-5,S01011523,Highways Enquiries,1,1,1.0
+2010-5,S01011530,Highways Enquiries,1,1,1.0
+2010-5,S01011530,Incivilities,1,1,1.0
+2010-5,S01011530,Open Spaces/Parks,1,1,1.0
+2010-5,S01011530,Road Surface Defects,1,1,1.0
+2010-5,S01011531,Abandoned Vehicles,1,1,1.0
+2010-5,S01011531,Highways Enquiries,2,2,1.0
+2010-5,S01011531,Pavement /Footway Defects,1,1,1.0
+2010-5,S01011542,Street Lights,1,1,1.0
+2010-5,S01011687,Rubbish,1,1,1.0
+2010-5,S01011699,Street Lights,1,1,1.0
+2010-5,S01011703,Highways Enquiries,2,1,2.0
+2010-5,S01011713,Parking,1,1,1.0
+2010-5,S01011716,Parking,1,1,1.0
+2010-5,S01011912,Other,1,1,1.0
+2010-5,S01011913,Rubbish,1,1,1.0
+2010-5,S01011917,Open Spaces/Parks,1,1,1.0
+2010-5,S01011919,Rubbish,1,1,1.0
+2010-5,S01012001,Rubbish,1,1,1.0
+2010-5,S01012024,Other,1,1,1.0
+2010-5,S01012032,Road Surface Defects,1,1,1.0
+2010-5,S01012073,Road Surface Defects,1,1,1.0
+2010-5,S01012086,Other,1,1,1.0
+2010-5,S01012105,Road Safety,1,1,1.0
+2010-5,S01012114,Road Surface Defects,1,1,1.0
+2010-5,S01012122,Road Surface Defects,1,1,1.0
+2010-5,S01012123,Road Surface Defects,1,1,1.0
+2010-5,S01012144,Highways Enquiries,1,1,1.0
+2010-5,S01012166,Other,1,1,1.0
+2010-5,S01012166,Road Surface Defects,1,1,1.0
+2010-5,S01012206,Pavement /Footway Defects,1,1,1.0
+2010-5,S01012217,Road Surface Defects,2,1,2.0
+2010-5,S01012219,Road Surface Defects,1,1,1.0
+2010-5,S01012238,Open Spaces/Parks,1,1,1.0
+2010-5,S01012313,Incivilities,1,1,1.0
+2010-5,S01012360,Rubbish,1,1,1.0
+2010-5,S01012381,Incivilities,1,1,1.0
+2010-5,S01012589,Parking,1,1,1.0
+2010-5,S01012635,Pavement /Footway Defects,2,1,2.0
+2010-5,S01012635,Road Surface Defects,1,1,1.0
+2010-5,S01012655,Rubbish,1,1,1.0
+2010-5,S01012706,Road Surface Defects,1,1,1.0
+2010-5,S01012798,Rubbish,2,1,2.0
+2010-5,S01012800,Highways Enquiries,1,1,1.0
+2010-5,S01012808,Highways Enquiries,1,1,1.0
+2010-5,S01012841,Abandoned Vehicles,1,1,1.0
+2010-5,S01012886,Road Surface Defects,1,1,1.0
+2010-5,S01012908,Street Lights,1,1,1.0
+2010-5,S01012973,Open Spaces/Parks,2,1,2.0
+2010-5,S01012973,Rubbish,1,1,1.0
+2010-5,S01013015,Highways Enquiries,1,1,1.0
+2010-5,S01013015,Road Surface Defects,2,1,2.0
+2010-5,S01013080,Highways Enquiries,1,1,1.0
+2010-5,S01013106,Parking,1,1,1.0
+2010-5,S01013106,Road Surface Defects,1,1,1.0
+2010-5,S01013133,Other,1,1,1.0
+2010-5,S01013193,Road Surface Defects,1,1,1.0
+2010-5,S01013198,Street Lights,1,1,1.0
+2010-5,S01013212,Road Surface Defects,1,1,1.0
+2010-5,S01013219,Other,1,1,1.0
+2010-5,S01013228,Highways Enquiries,1,1,1.0
+2010-5,S01013236,Street Lights,1,1,1.0
+2010-5,S01013289,Road Surface Defects,1,1,1.0
+2010-5,S01013313,Rubbish,2,1,2.0
+2010-5,S01013330,Abandoned Vehicles,1,1,1.0
+2010-5,S01013330,Other,1,1,1.0
+2010-5,S01013342,Pavement /Footway Defects,1,1,1.0
+2010-5,S01013346,Road Surface Defects,1,1,1.0
+2010-5,S01013377,Street Lights,1,1,1.0
+2010-5,S01013432,Road Surface Defects,1,1,1.0
+2010-5,S01013454,Road Surface Defects,1,1,1.0
+2010-5,W01000031,Road Safety,1,1,1.0
+2010-5,W01000047,Rubbish,1,1,1.0
+2010-5,W01000049,Road Safety,1,1,1.0
+2010-5,W01000080,Road Safety,1,1,1.0
+2010-5,W01000140,Rubbish,1,1,1.0
+2010-5,W01000154,Road Surface Defects,1,1,1.0
+2010-5,W01000175,Other,1,1,1.0
+2010-5,W01000203,Other,1,1,1.0
+2010-5,W01000203,Rubbish,1,1,1.0
+2010-5,W01000261,Rubbish,1,1,1.0
+2010-5,W01000264,Rubbish,1,1,1.0
+2010-5,W01000265,Parking,1,1,1.0
+2010-5,W01000265,Road Surface Defects,1,1,1.0
+2010-5,W01000266,Highways Enquiries,1,1,1.0
+2010-5,W01000280,Rubbish,1,1,1.0
+2010-5,W01000283,Other,1,1,1.0
+2010-5,W01000284,Open Spaces/Parks,1,1,1.0
+2010-5,W01000286,Highways Enquiries,1,1,1.0
+2010-5,W01000286,Open Spaces/Parks,1,1,1.0
+2010-5,W01000286,Pavement /Footway Defects,1,1,1.0
+2010-5,W01000288,Other,1,1,1.0
+2010-5,W01000300,Other,1,1,1.0
+2010-5,W01000300,Road Surface Defects,1,1,1.0
+2010-5,W01000301,Highways Enquiries,1,1,1.0
+2010-5,W01000311,Road Surface Defects,1,1,1.0
+2010-5,W01000323,Highways Enquiries,1,1,1.0
+2010-5,W01000327,Rubbish,1,1,1.0
+2010-5,W01000337,Rubbish,1,1,1.0
+2010-5,W01000361,Street Furniture,1,1,1.0
+2010-5,W01000373,Road Surface Defects,1,1,1.0
+2010-5,W01000388,Pavement /Footway Defects,1,1,1.0
+2010-5,W01000431,Other,1,1,1.0
+2010-5,W01000444,Road Surface Defects,1,1,1.0
+2010-5,W01000517,Rubbish,1,1,1.0
+2010-5,W01000566,Road Surface Defects,1,1,1.0
+2010-5,W01000576,Parking,1,1,1.0
+2010-5,W01000582,Dog Fouling,1,1,1.0
+2010-5,W01000593,Abandoned Vehicles,1,1,1.0
+2010-5,W01000601,Pavement /Footway Defects,1,1,1.0
+2010-5,W01000601,Road Safety,1,1,1.0
+2010-5,W01000639,Other,1,1,1.0
+2010-5,W01000746,Road Surface Defects,1,1,1.0
+2010-5,W01000756,Road Surface Defects,1,1,1.0
+2010-5,W01000758,Road Surface Defects,2,1,2.0
+2010-5,W01000777,Road Surface Defects,1,1,1.0
+2010-5,W01000806,Other,1,1,1.0
+2010-5,W01000810,Parking,1,1,1.0
+2010-5,W01000829,Road Surface Defects,1,1,1.0
+2010-5,W01000840,Road Surface Defects,1,1,1.0
+2010-5,W01000845,Other,1,1,1.0
+2010-5,W01000867,Road Surface Defects,1,1,1.0
+2010-5,W01000898,Street Lights,1,1,1.0
+2010-5,W01000939,Other,1,1,1.0
+2010-5,W01000939,Street Lights,1,1,1.0
+2010-5,W01000965,Highways Enquiries,1,1,1.0
+2010-5,W01000965,Parking,1,1,1.0
+2010-5,W01000965,Road Surface Defects,2,1,2.0
+2010-5,W01000977,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,W01000977,Road Surface Defects,1,1,1.0
+2010-5,W01001009,Parking,1,1,1.0
+2010-5,W01001043,Road Surface Defects,1,1,1.0
+2010-5,W01001083,Road Surface Defects,1,1,1.0
+2010-5,W01001085,Highways Enquiries,1,1,1.0
+2010-5,W01001085,Road Surface Defects,1,1,1.0
+2010-5,W01001095,Street Lights,1,1,1.0
+2010-5,W01001113,Road Surface Defects,1,1,1.0
+2010-5,W01001114,Road Surface Defects,1,1,1.0
+2010-5,W01001125,Highways Enquiries,1,1,1.0
+2010-5,W01001146,Parking,1,1,1.0
+2010-5,W01001155,Street Lights,1,1,1.0
+2010-5,W01001193,Rubbish,1,1,1.0
+2010-5,W01001223,Highways Enquiries,1,1,1.0
+2010-5,W01001235,Open Spaces/Parks,1,1,1.0
+2010-5,W01001242,Rubbish,1,1,1.0
+2010-5,W01001249,Other,1,1,1.0
+2010-5,W01001263,Street Lights,1,1,1.0
+2010-5,W01001289,Highways Enquiries,1,1,1.0
+2010-5,W01001329,Rubbish,1,1,1.0
+2010-5,W01001417,Other,1,1,1.0
+2010-5,W01001438,Road Safety,1,1,1.0
+2010-5,W01001449,Other,1,1,1.0
+2010-5,W01001449,Street Furniture,1,1,1.0
+2010-5,W01001463,Road Surface Defects,1,1,1.0
+2010-5,W01001475,Highways Enquiries,1,1,1.0
+2010-5,W01001478,Highways Enquiries,1,1,1.0
+2010-5,W01001492,Street Lights,1,1,1.0
+2010-5,W01001498,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,W01001498,Rubbish,1,1,1.0
+2010-5,W01001515,Street Furniture,1,1,1.0
+2010-5,W01001523,Open Spaces/Parks,1,1,1.0
+2010-5,W01001523,Other,1,1,1.0
+2010-5,W01001523,Rubbish,1,1,1.0
+2010-5,W01001529,Street Lights,1,1,1.0
+2010-5,W01001542,Road Surface Defects,1,1,1.0
+2010-5,W01001546,Road Safety,1,1,1.0
+2010-5,W01001548,Road Surface Defects,1,1,1.0
+2010-5,W01001586,Street Lights,1,1,1.0
+2010-5,W01001593,Rubbish,1,1,1.0
+2010-5,W01001626,Road Surface Defects,1,1,1.0
+2010-5,W01001629,Road Surface Defects,1,1,1.0
+2010-5,W01001632,Road Surface Defects,2,1,2.0
+2010-5,W01001636,Rubbish,1,1,1.0
+2010-5,W01001652,Dog Fouling,3,1,3.0
+2010-5,W01001653,Pavement /Footway Defects,1,1,1.0
+2010-5,W01001694,Other,1,1,1.0
+2010-5,W01001696,Other,1,1,1.0
+2010-5,W01001696,Parking,1,1,1.0
+2010-5,W01001699,Rubbish,1,1,1.0
+2010-5,W01001718,Rubbish,2,1,2.0
+2010-5,W01001726,Road Surface Defects,1,1,1.0
+2010-5,W01001729,Road Surface Defects,1,1,1.0
+2010-5,W01001758,Road Surface Defects,1,1,1.0
+2010-5,W01001760,Other,1,1,1.0
+2010-5,W01001760,Overgrown/Fallen Veg/Trees,1,1,1.0
+2010-5,W01001761,Dog Fouling,1,1,1.0
+2010-5,W01001761,Other,1,1,1.0
+2010-5,W01001761,Pavement /Footway Defects,1,1,1.0
+2010-5,W01001762,Other,1,1,1.0
+2010-5,W01001762,Rubbish,2,1,2.0
+2010-5,W01001765,Other,2,1,2.0
+2010-5,W01001768,Other,1,1,1.0
+2010-5,W01001772,Road Surface Defects,1,1,1.0
+2010-5,W01001776,Road Surface Defects,1,1,1.0
+2010-5,W01001777,Road Surface Defects,1,1,1.0
+2010-5,W01001780,Street Lights,1,1,1.0
+2010-5,W01001791,Pavement /Footway Defects,1,1,1.0
+2010-5,W01001823,Street Lights,1,1,1.0
+2010-5,W01001835,Abandoned Vehicles,1,1,1.0
+2010-5,W01001838,Rubbish,1,1,1.0
+2010-5,W01001846,Street Furniture,1,1,1.0
+2010-5,W01001848,Road Surface Defects,1,1,1.0
+2010-5,W01001856,Rubbish,1,1,1.0
+2010-5,W01001857,Highways Enquiries,2,1,2.0
+2010-5,W01001857,Pavement /Footway Defects,1,1,1.0
+2010-5,W01001857,Road Surface Defects,1,1,1.0
+2010-5,W01001858,Rubbish,1,1,1.0
+2010-5,W01001859,Rubbish,1,1,1.0
+2010-5,W01001860,Road Surface Defects,1,1,1.0
+2010-5,W01001861,Highways Enquiries,2,2,1.0
+2010-5,W01001861,Rubbish,1,1,1.0
+2010-5,W01001862,Pavement /Footway Defects,2,1,2.0
+2010-5,W01001862,Road Surface Defects,1,1,1.0
+2010-5,W01001885,Incivilities,1,1,1.0
+2010-5,W01001889,Open Spaces/Parks,1,1,1.0
+2010-5,W01001893,Road Surface Defects,1,1,1.0
+2010-5,W01001918,Parking,1,1,1.0
+2010-5,W01001930,Pavement /Footway Defects,1,1,1.0
+2010-5,W01001932,Other,1,1,1.0
+2010-5,W01001939,Other,1,1,1.0
+2010-5,W01001944,Other,1,1,1.0
+2010-5,W01001945,Other,1,1,1.0
+2010-5,W01001946,Street Lights,1,1,1.0

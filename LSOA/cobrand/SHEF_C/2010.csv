@@ -1,0 +1,634 @@
+period,LSOA,SHEF_C,report_count,user_count,average
+2010,E01000115,Road Safety & Defects,3,3,1.0
+2010,E01000116,Road Safety & Defects,7,7,1.0
+2010,E01000117,Environmental Disruptions,1,1,1.0
+2010,E01000117,Road Safety & Defects,7,5,1.4
+2010,E01000118,Abandoned Vehicles & Parking,2,1,2.0
+2010,E01000118,Environmental Disruptions,1,1,1.0
+2010,E01000118,Environmental Health,1,1,1.0
+2010,E01000118,Public Space,1,1,1.0
+2010,E01000118,Road Safety & Defects,5,5,1.0
+2010,E01000119,Road Safety & Defects,5,5,1.0
+2010,E01000120,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000120,Other,2,2,1.0
+2010,E01000120,Road Safety & Defects,13,12,1.0833333333333333
+2010,E01000121,Road Safety & Defects,1,1,1.0
+2010,E01000121,Vehicles,1,1,1.0
+2010,E01000122,Road Safety & Defects,3,3,1.0
+2010,E01000123,Other,1,1,1.0
+2010,E01000123,Road Safety & Defects,10,7,1.4285714285714286
+2010,E01000124,Other,1,1,1.0
+2010,E01000124,Road Safety & Defects,4,4,1.0
+2010,E01000125,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000125,Environmental Health,1,1,1.0
+2010,E01000125,Road Safety & Defects,6,6,1.0
+2010,E01000125,Vehicles,1,1,1.0
+2010,E01000126,Other,1,1,1.0
+2010,E01000126,Road Safety & Defects,3,3,1.0
+2010,E01000127,Other,1,1,1.0
+2010,E01000127,Road Safety & Defects,2,2,1.0
+2010,E01000128,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000128,Environmental Disruptions,1,1,1.0
+2010,E01000128,Environmental Health,1,1,1.0
+2010,E01000128,Road Safety & Defects,4,4,1.0
+2010,E01000129,Other,1,1,1.0
+2010,E01000129,Road Safety & Defects,9,8,1.125
+2010,E01000130,Environmental Health,1,1,1.0
+2010,E01000130,Road Safety & Defects,3,3,1.0
+2010,E01000131,Environmental Health,1,1,1.0
+2010,E01000131,Road Safety & Defects,5,5,1.0
+2010,E01000132,Road Safety & Defects,1,1,1.0
+2010,E01000134,Other,2,1,2.0
+2010,E01000134,Road Safety & Defects,5,5,1.0
+2010,E01000135,Abandoned Vehicles & Parking,2,2,1.0
+2010,E01000135,Other,2,2,1.0
+2010,E01000135,Road Safety & Defects,10,10,1.0
+2010,E01000136,Environmental Disruptions,1,1,1.0
+2010,E01000136,Environmental Health,2,1,2.0
+2010,E01000136,Other,3,3,1.0
+2010,E01000136,Road Safety & Defects,9,9,1.0
+2010,E01000138,Environmental Disruptions,1,1,1.0
+2010,E01000138,Environmental Health,2,2,1.0
+2010,E01000138,Other,1,1,1.0
+2010,E01000138,Road Safety & Defects,5,4,1.25
+2010,E01000139,Road Safety & Defects,10,10,1.0
+2010,E01000140,Other,1,1,1.0
+2010,E01000140,Road Safety & Defects,3,2,1.5
+2010,E01000141,Environmental Disruptions,2,2,1.0
+2010,E01000141,Environmental Health,2,2,1.0
+2010,E01000141,Other,1,1,1.0
+2010,E01000141,Road Safety & Defects,10,10,1.0
+2010,E01000142,Environmental Health,1,1,1.0
+2010,E01000142,Other,4,2,2.0
+2010,E01000142,Public Space,2,1,2.0
+2010,E01000142,Road Safety & Defects,10,5,2.0
+2010,E01000144,Other,1,1,1.0
+2010,E01000144,Road Safety & Defects,14,8,1.75
+2010,E01000145,Other,2,2,1.0
+2010,E01000145,Road Safety & Defects,4,4,1.0
+2010,E01000146,Environmental Disruptions,1,1,1.0
+2010,E01000146,Road Safety & Defects,17,15,1.1333333333333333
+2010,E01000146,Vehicles,1,1,1.0
+2010,E01000147,Other,1,1,1.0
+2010,E01000147,Road Safety & Defects,7,7,1.0
+2010,E01000148,Road Safety & Defects,3,3,1.0
+2010,E01000150,Environmental Health,2,2,1.0
+2010,E01000150,Other,2,2,1.0
+2010,E01000150,Road Safety & Defects,8,8,1.0
+2010,E01000151,Road Safety & Defects,1,1,1.0
+2010,E01000152,Other,2,2,1.0
+2010,E01000153,Road Safety & Defects,2,2,1.0
+2010,E01000154,Road Safety & Defects,1,1,1.0
+2010,E01000155,Road Safety & Defects,7,5,1.4
+2010,E01000156,Road Safety & Defects,5,5,1.0
+2010,E01000157,Road Safety & Defects,4,4,1.0
+2010,E01000158,Environmental Disruptions,1,1,1.0
+2010,E01000158,Other,1,1,1.0
+2010,E01000158,Road Safety & Defects,2,2,1.0
+2010,E01000159,Environmental Health,1,1,1.0
+2010,E01000159,Other,1,1,1.0
+2010,E01000159,Road Safety & Defects,8,6,1.3333333333333333
+2010,E01000160,Other,1,1,1.0
+2010,E01000160,Road Safety & Defects,2,2,1.0
+2010,E01000161,Environmental Disruptions,2,2,1.0
+2010,E01000161,Road Safety & Defects,2,2,1.0
+2010,E01000162,Road Safety & Defects,8,6,1.3333333333333333
+2010,E01000163,Environmental Health,1,1,1.0
+2010,E01000164,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000164,Other,3,3,1.0
+2010,E01000164,Road Safety & Defects,12,11,1.0909090909090908
+2010,E01000165,Other,2,2,1.0
+2010,E01000165,Road Safety & Defects,4,4,1.0
+2010,E01000166,Other,2,2,1.0
+2010,E01000166,Road Safety & Defects,3,3,1.0
+2010,E01000167,Road Safety & Defects,4,4,1.0
+2010,E01000168,Environmental Health,1,1,1.0
+2010,E01000168,Other,1,1,1.0
+2010,E01000168,Road Safety & Defects,4,4,1.0
+2010,E01000169,Other,1,1,1.0
+2010,E01000169,Road Safety & Defects,13,10,1.3
+2010,E01000170,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000170,Environmental Health,1,1,1.0
+2010,E01000170,Other,1,1,1.0
+2010,E01000170,Road Safety & Defects,13,12,1.0833333333333333
+2010,E01000171,Road Safety & Defects,6,6,1.0
+2010,E01000172,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000172,Environmental Health,1,1,1.0
+2010,E01000172,Incivilities,1,1,1.0
+2010,E01000172,Other,1,1,1.0
+2010,E01000172,Road Safety & Defects,8,8,1.0
+2010,E01000172,Vehicles,1,1,1.0
+2010,E01000173,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000173,Environmental Disruptions,1,1,1.0
+2010,E01000173,Road Safety & Defects,9,9,1.0
+2010,E01000174,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000174,Environmental Health,2,2,1.0
+2010,E01000174,Other,1,1,1.0
+2010,E01000174,Public Space,1,1,1.0
+2010,E01000174,Road Safety & Defects,8,6,1.3333333333333333
+2010,E01000175,Incivilities,1,1,1.0
+2010,E01000175,Other,1,1,1.0
+2010,E01000175,Road Safety & Defects,15,15,1.0
+2010,E01000176,Other,1,1,1.0
+2010,E01000176,Road Safety & Defects,4,4,1.0
+2010,E01000177,Environmental Health,2,2,1.0
+2010,E01000177,Other,2,2,1.0
+2010,E01000177,Road Safety & Defects,5,4,1.25
+2010,E01000178,Road Safety & Defects,7,5,1.4
+2010,E01000179,Environmental Health,5,1,5.0
+2010,E01000179,Road Safety & Defects,5,5,1.0
+2010,E01000180,Environmental Health,1,1,1.0
+2010,E01000180,Road Safety & Defects,9,8,1.125
+2010,E01000181,Road Safety & Defects,10,9,1.1111111111111112
+2010,E01000182,Environmental Health,1,1,1.0
+2010,E01000182,Other,2,2,1.0
+2010,E01000182,Road Safety & Defects,4,4,1.0
+2010,E01000183,Environmental Disruptions,1,1,1.0
+2010,E01000183,Other,3,3,1.0
+2010,E01000183,Road Safety & Defects,7,7,1.0
+2010,E01000184,Environmental Disruptions,1,1,1.0
+2010,E01000184,Road Safety & Defects,1,1,1.0
+2010,E01000185,Environmental Health,1,1,1.0
+2010,E01000185,Other,1,1,1.0
+2010,E01000185,Road Safety & Defects,3,3,1.0
+2010,E01000186,Environmental Health,1,1,1.0
+2010,E01000186,Road Safety & Defects,5,3,1.6666666666666667
+2010,E01000187,Road Safety & Defects,3,3,1.0
+2010,E01000188,Incivilities,1,1,1.0
+2010,E01000188,Other,1,1,1.0
+2010,E01000188,Road Safety & Defects,4,4,1.0
+2010,E01000189,Road Safety & Defects,1,1,1.0
+2010,E01000190,Environmental Disruptions,1,1,1.0
+2010,E01000190,Public Space,1,1,1.0
+2010,E01000190,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000191,Road Safety & Defects,7,5,1.4
+2010,E01000192,Environmental Disruptions,1,1,1.0
+2010,E01000192,Other,2,1,2.0
+2010,E01000192,Road Safety & Defects,12,10,1.2
+2010,E01000193,Road Safety & Defects,4,4,1.0
+2010,E01000194,Environmental Health,1,1,1.0
+2010,E01000194,Road Safety & Defects,4,4,1.0
+2010,E01000195,Road Safety & Defects,2,2,1.0
+2010,E01000196,Other,2,2,1.0
+2010,E01000196,Road Safety & Defects,8,8,1.0
+2010,E01000197,Environmental Health,1,1,1.0
+2010,E01000197,Other,1,1,1.0
+2010,E01000197,Road Safety & Defects,13,9,1.4444444444444444
+2010,E01000198,Other,2,2,1.0
+2010,E01000198,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000199,Environmental Disruptions,1,1,1.0
+2010,E01000199,Other,1,1,1.0
+2010,E01000199,Road Safety & Defects,7,6,1.1666666666666667
+2010,E01000200,Environmental Health,1,1,1.0
+2010,E01000200,Road Safety & Defects,3,3,1.0
+2010,E01000200,Vehicles,1,1,1.0
+2010,E01000201,Other,3,3,1.0
+2010,E01000201,Road Safety & Defects,1,1,1.0
+2010,E01000202,Other,1,1,1.0
+2010,E01000202,Road Safety & Defects,2,2,1.0
+2010,E01000203,Environmental Disruptions,1,1,1.0
+2010,E01000203,Other,3,3,1.0
+2010,E01000203,Public Space,1,1,1.0
+2010,E01000203,Road Safety & Defects,13,10,1.3
+2010,E01000204,Environmental Disruptions,1,1,1.0
+2010,E01000204,Road Safety & Defects,14,11,1.2727272727272727
+2010,E01000205,Environmental Health,1,1,1.0
+2010,E01000205,Other,1,1,1.0
+2010,E01000205,Road Safety & Defects,10,10,1.0
+2010,E01000206,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000206,Road Safety & Defects,9,9,1.0
+2010,E01000207,Environmental Health,1,1,1.0
+2010,E01000207,Road Safety & Defects,10,10,1.0
+2010,E01000208,Environmental Disruptions,1,1,1.0
+2010,E01000208,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000209,Other,1,1,1.0
+2010,E01000209,Road Safety & Defects,5,4,1.25
+2010,E01000210,Other,1,1,1.0
+2010,E01000210,Road Safety & Defects,11,9,1.2222222222222223
+2010,E01000211,Road Safety & Defects,5,5,1.0
+2010,E01000212,Road Safety & Defects,12,9,1.3333333333333333
+2010,E01000213,Road Safety & Defects,16,15,1.0666666666666667
+2010,E01000214,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000214,Environmental Health,1,1,1.0
+2010,E01000214,Other,3,2,1.5
+2010,E01000214,Road Safety & Defects,9,7,1.2857142857142858
+2010,E01000215,Environmental Disruptions,1,1,1.0
+2010,E01000215,Road Safety & Defects,8,8,1.0
+2010,E01000216,Other,1,1,1.0
+2010,E01000216,Road Safety & Defects,3,3,1.0
+2010,E01000217,Road Safety & Defects,3,3,1.0
+2010,E01000218,Environmental Disruptions,1,1,1.0
+2010,E01000218,Road Safety & Defects,2,2,1.0
+2010,E01000219,Environmental Disruptions,1,1,1.0
+2010,E01000219,Environmental Health,1,1,1.0
+2010,E01000219,Road Safety & Defects,5,5,1.0
+2010,E01000220,Road Safety & Defects,5,4,1.25
+2010,E01000221,Road Safety & Defects,15,12,1.25
+2010,E01000222,Other,1,1,1.0
+2010,E01000222,Road Safety & Defects,3,3,1.0
+2010,E01000223,Other,2,2,1.0
+2010,E01000223,Road Safety & Defects,7,6,1.1666666666666667
+2010,E01000224,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000224,Road Safety & Defects,3,3,1.0
+2010,E01000224,Vehicles,1,1,1.0
+2010,E01000225,Road Safety & Defects,3,3,1.0
+2010,E01000226,Environmental Health,2,2,1.0
+2010,E01000226,Road Safety & Defects,4,4,1.0
+2010,E01000227,Environmental Disruptions,1,1,1.0
+2010,E01000227,Other,1,1,1.0
+2010,E01000227,Road Safety & Defects,3,3,1.0
+2010,E01000228,Environmental Disruptions,2,2,1.0
+2010,E01000228,Other,1,1,1.0
+2010,E01000228,Road Safety & Defects,20,15,1.3333333333333333
+2010,E01000229,Environmental Disruptions,2,2,1.0
+2010,E01000229,Other,3,2,1.5
+2010,E01000229,Road Safety & Defects,10,5,2.0
+2010,E01000230,Environmental Disruptions,2,2,1.0
+2010,E01000230,Road Safety & Defects,12,9,1.3333333333333333
+2010,E01000231,Environmental Disruptions,1,1,1.0
+2010,E01000231,Environmental Health,2,2,1.0
+2010,E01000231,Road Safety & Defects,4,4,1.0
+2010,E01000232,Other,5,5,1.0
+2010,E01000232,Road Safety & Defects,13,12,1.0833333333333333
+2010,E01000233,Environmental Disruptions,3,3,1.0
+2010,E01000233,Other,1,1,1.0
+2010,E01000233,Road Safety & Defects,9,8,1.125
+2010,E01000234,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000234,Environmental Disruptions,1,1,1.0
+2010,E01000234,Environmental Health,1,1,1.0
+2010,E01000234,Other,2,2,1.0
+2010,E01000234,Public Space,1,1,1.0
+2010,E01000234,Road Safety & Defects,2,2,1.0
+2010,E01000235,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000235,Environmental Health,1,1,1.0
+2010,E01000235,Road Safety & Defects,13,9,1.4444444444444444
+2010,E01000236,Environmental Health,2,1,2.0
+2010,E01000236,Road Safety & Defects,6,4,1.5
+2010,E01000236,Vehicles,1,1,1.0
+2010,E01000237,Other,2,2,1.0
+2010,E01000237,Road Safety & Defects,8,8,1.0
+2010,E01000238,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000238,Environmental Disruptions,3,2,1.5
+2010,E01000238,Environmental Health,1,1,1.0
+2010,E01000238,Other,3,2,1.5
+2010,E01000238,Road Safety & Defects,10,7,1.4285714285714286
+2010,E01000239,Environmental Health,2,2,1.0
+2010,E01000239,Other,3,3,1.0
+2010,E01000239,Road Safety & Defects,6,6,1.0
+2010,E01000240,Environmental Health,1,1,1.0
+2010,E01000240,Road Safety & Defects,4,4,1.0
+2010,E01000241,Road Safety & Defects,5,5,1.0
+2010,E01000242,Environmental Health,1,1,1.0
+2010,E01000242,Road Safety & Defects,7,6,1.1666666666666667
+2010,E01000243,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000244,Other,1,1,1.0
+2010,E01000244,Road Safety & Defects,4,4,1.0
+2010,E01000245,Other,2,2,1.0
+2010,E01000245,Road Safety & Defects,6,5,1.2
+2010,E01000246,Environmental Disruptions,1,1,1.0
+2010,E01000246,Other,1,1,1.0
+2010,E01000246,Road Safety & Defects,9,8,1.125
+2010,E01000247,Road Safety & Defects,6,5,1.2
+2010,E01000248,Other,3,3,1.0
+2010,E01000248,Road Safety & Defects,9,8,1.125
+2010,E01000249,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000249,Environmental Health,1,1,1.0
+2010,E01000249,Other,1,1,1.0
+2010,E01000249,Road Safety & Defects,11,11,1.0
+2010,E01000250,Environmental Disruptions,1,1,1.0
+2010,E01000250,Other,1,1,1.0
+2010,E01000250,Road Safety & Defects,16,14,1.1428571428571428
+2010,E01000251,Other,3,3,1.0
+2010,E01000251,Road Safety & Defects,3,3,1.0
+2010,E01000252,Environmental Health,1,1,1.0
+2010,E01000252,Road Safety & Defects,2,2,1.0
+2010,E01000253,Environmental Health,1,1,1.0
+2010,E01000253,Other,4,3,1.3333333333333333
+2010,E01000253,Road Safety & Defects,21,14,1.5
+2010,E01000254,Environmental Disruptions,1,1,1.0
+2010,E01000254,Road Safety & Defects,4,3,1.3333333333333333
+2010,E01000255,Environmental Disruptions,1,1,1.0
+2010,E01000255,Environmental Health,1,1,1.0
+2010,E01000255,Other,2,2,1.0
+2010,E01000255,Road Safety & Defects,3,3,1.0
+2010,E01000256,Environmental Disruptions,1,1,1.0
+2010,E01000256,Other,1,1,1.0
+2010,E01000256,Road Safety & Defects,11,6,1.8333333333333333
+2010,E01000257,Road Safety & Defects,10,10,1.0
+2010,E01000258,Incivilities,1,1,1.0
+2010,E01000258,Other,1,1,1.0
+2010,E01000258,Road Safety & Defects,6,6,1.0
+2010,E01000259,Environmental Disruptions,1,1,1.0
+2010,E01000259,Other,4,4,1.0
+2010,E01000259,Road Safety & Defects,11,8,1.375
+2010,E01000260,Other,2,2,1.0
+2010,E01000260,Road Safety & Defects,14,12,1.1666666666666667
+2010,E01000261,Environmental Disruptions,1,1,1.0
+2010,E01000261,Other,1,1,1.0
+2010,E01000261,Road Safety & Defects,8,6,1.3333333333333333
+2010,E01000262,Road Safety & Defects,13,9,1.4444444444444444
+2010,E01000263,Environmental Disruptions,1,1,1.0
+2010,E01000263,Other,1,1,1.0
+2010,E01000263,Road Safety & Defects,11,10,1.1
+2010,E01000264,Other,2,2,1.0
+2010,E01000264,Road Safety & Defects,12,12,1.0
+2010,E01000265,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000265,Road Safety & Defects,2,2,1.0
+2010,E01000266,Environmental Health,1,1,1.0
+2010,E01000266,Road Safety & Defects,4,4,1.0
+2010,E01000267,Other,1,1,1.0
+2010,E01000267,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000268,Other,1,1,1.0
+2010,E01000268,Road Safety & Defects,11,10,1.1
+2010,E01000269,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000269,Road Safety & Defects,5,4,1.25
+2010,E01000269,Vehicles,1,1,1.0
+2010,E01000270,Environmental Health,1,1,1.0
+2010,E01000270,Other,1,1,1.0
+2010,E01000270,Road Safety & Defects,6,6,1.0
+2010,E01000271,Incivilities,1,1,1.0
+2010,E01000271,Road Safety & Defects,8,4,2.0
+2010,E01000272,Road Safety & Defects,10,9,1.1111111111111112
+2010,E01000273,Road Safety & Defects,6,6,1.0
+2010,E01000274,Other,2,1,2.0
+2010,E01000274,Road Safety & Defects,7,7,1.0
+2010,E01000275,Road Safety & Defects,9,8,1.125
+2010,E01000276,Road Safety & Defects,4,4,1.0
+2010,E01000277,Environmental Health,1,1,1.0
+2010,E01000277,Incivilities,1,1,1.0
+2010,E01000277,Other,1,1,1.0
+2010,E01000277,Road Safety & Defects,10,6,1.6666666666666667
+2010,E01000278,Other,1,1,1.0
+2010,E01000278,Road Safety & Defects,1,1,1.0
+2010,E01000279,Other,2,2,1.0
+2010,E01000279,Road Safety & Defects,8,8,1.0
+2010,E01000280,Road Safety & Defects,10,8,1.25
+2010,E01000280,Vehicles,1,1,1.0
+2010,E01000281,Road Safety & Defects,6,5,1.2
+2010,E01000282,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000283,Environmental Health,1,1,1.0
+2010,E01000283,Road Safety & Defects,5,5,1.0
+2010,E01000284,Environmental Disruptions,1,1,1.0
+2010,E01000284,Environmental Health,2,1,2.0
+2010,E01000284,Road Safety & Defects,3,3,1.0
+2010,E01000285,Road Safety & Defects,7,7,1.0
+2010,E01000286,Road Safety & Defects,3,3,1.0
+2010,E01000286,Vehicles,1,1,1.0
+2010,E01000287,Environmental Disruptions,1,1,1.0
+2010,E01000287,Other,1,1,1.0
+2010,E01000287,Road Safety & Defects,4,4,1.0
+2010,E01000288,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000288,Other,1,1,1.0
+2010,E01000288,Road Safety & Defects,8,8,1.0
+2010,E01000289,Road Safety & Defects,2,2,1.0
+2010,E01000290,Road Safety & Defects,6,6,1.0
+2010,E01000291,Road Safety & Defects,4,4,1.0
+2010,E01000292,Environmental Health,1,1,1.0
+2010,E01000292,Other,1,1,1.0
+2010,E01000292,Public Space,1,1,1.0
+2010,E01000292,Road Safety & Defects,12,7,1.7142857142857142
+2010,E01000293,Environmental Disruptions,1,1,1.0
+2010,E01000293,Environmental Health,1,1,1.0
+2010,E01000293,Incivilities,1,1,1.0
+2010,E01000293,Other,8,3,2.6666666666666665
+2010,E01000293,Road Safety & Defects,12,11,1.0909090909090908
+2010,E01000294,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000294,Environmental Health,2,1,2.0
+2010,E01000294,Other,2,2,1.0
+2010,E01000294,Road Safety & Defects,7,7,1.0
+2010,E01000295,Road Safety & Defects,3,3,1.0
+2010,E01000296,Road Safety & Defects,5,5,1.0
+2010,E01000297,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000297,Road Safety & Defects,6,6,1.0
+2010,E01000298,Environmental Disruptions,1,1,1.0
+2010,E01000298,Other,2,2,1.0
+2010,E01000298,Road Safety & Defects,11,9,1.2222222222222223
+2010,E01000299,Other,1,1,1.0
+2010,E01000299,Road Safety & Defects,3,3,1.0
+2010,E01000300,Road Safety & Defects,5,5,1.0
+2010,E01000301,Other,2,2,1.0
+2010,E01000301,Road Safety & Defects,9,8,1.125
+2010,E01000302,Abandoned Vehicles & Parking,4,1,4.0
+2010,E01000302,Other,1,1,1.0
+2010,E01000302,Road Safety & Defects,12,10,1.2
+2010,E01000303,Environmental Health,2,1,2.0
+2010,E01000303,Other,1,1,1.0
+2010,E01000303,Road Safety & Defects,6,6,1.0
+2010,E01000304,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000305,Road Safety & Defects,13,11,1.1818181818181819
+2010,E01000306,Environmental Health,1,1,1.0
+2010,E01000306,Road Safety & Defects,4,4,1.0
+2010,E01000307,Environmental Health,1,1,1.0
+2010,E01000307,Other,2,2,1.0
+2010,E01000307,Road Safety & Defects,16,14,1.1428571428571428
+2010,E01000308,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000309,Environmental Health,1,1,1.0
+2010,E01000309,Other,1,1,1.0
+2010,E01000309,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000310,Other,1,1,1.0
+2010,E01000310,Road Safety & Defects,6,6,1.0
+2010,E01000311,Road Safety & Defects,8,7,1.1428571428571428
+2010,E01000312,Environmental Disruptions,1,1,1.0
+2010,E01000312,Road Safety & Defects,4,4,1.0
+2010,E01000313,Public Space,1,1,1.0
+2010,E01000313,Road Safety & Defects,7,6,1.1666666666666667
+2010,E01000314,Environmental Health,1,1,1.0
+2010,E01000314,Other,1,1,1.0
+2010,E01000314,Road Safety & Defects,3,3,1.0
+2010,E01000315,Other,1,1,1.0
+2010,E01000315,Public Space,1,1,1.0
+2010,E01000315,Road Safety & Defects,3,3,1.0
+2010,E01000316,Road Safety & Defects,3,3,1.0
+2010,E01000317,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000317,Road Safety & Defects,3,3,1.0
+2010,E01000318,Environmental Disruptions,1,1,1.0
+2010,E01000318,Other,1,1,1.0
+2010,E01000318,Road Safety & Defects,6,6,1.0
+2010,E01000319,Environmental Disruptions,2,2,1.0
+2010,E01000319,Road Safety & Defects,7,6,1.1666666666666667
+2010,E01000320,Environmental Disruptions,2,2,1.0
+2010,E01000320,Other,3,3,1.0
+2010,E01000320,Road Safety & Defects,15,13,1.1538461538461537
+2010,E01000321,Other,2,2,1.0
+2010,E01000321,Road Safety & Defects,1,1,1.0
+2010,E01000322,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01000322,Other,2,2,1.0
+2010,E01000322,Road Safety & Defects,2,2,1.0
+2010,E01000323,Road Safety & Defects,6,6,1.0
+2010,E01000324,Environmental Health,1,1,1.0
+2010,E01000324,Road Safety & Defects,4,4,1.0
+2010,E01000497,Road Safety & Defects,1,1,1.0
+2010,E01002114,Road Safety & Defects,1,1,1.0
+2010,E01011265,Other,1,1,1.0
+2010,E01011284,Incivilities,1,1,1.0
+2010,E01011284,Other,2,1,2.0
+2010,E01011292,Environmental Health,1,1,1.0
+2010,E01011293,Environmental Health,1,1,1.0
+2010,E01011309,Environmental Health,1,1,1.0
+2010,E01011310,Environmental Health,1,1,1.0
+2010,E01011313,Environmental Health,1,1,1.0
+2010,E01011314,Environmental Health,2,2,1.0
+2010,E01011325,Environmental Health,1,1,1.0
+2010,E01011329,Other,1,1,1.0
+2010,E01011344,Environmental Health,2,2,1.0
+2010,E01011351,Environmental Health,1,1,1.0
+2010,E01011352,Environmental Health,1,1,1.0
+2010,E01011353,Environmental Health,1,1,1.0
+2010,E01011353,Road Safety & Defects,1,1,1.0
+2010,E01011359,Environmental Health,2,2,1.0
+2010,E01011360,Environmental Health,1,1,1.0
+2010,E01011362,Environmental Health,1,1,1.0
+2010,E01011362,Road Safety & Defects,1,1,1.0
+2010,E01011370,Environmental Health,1,1,1.0
+2010,E01011376,Road Safety & Defects,1,1,1.0
+2010,E01011378,Environmental Health,1,1,1.0
+2010,E01011384,Environmental Health,1,1,1.0
+2010,E01011386,Environmental Health,1,1,1.0
+2010,E01011426,Road Safety & Defects,1,1,1.0
+2010,E01011430,Environmental Health,1,1,1.0
+2010,E01011433,Environmental Health,1,1,1.0
+2010,E01011441,Environmental Health,1,1,1.0
+2010,E01011442,Environmental Health,1,1,1.0
+2010,E01011443,Environmental Health,1,1,1.0
+2010,E01011444,Environmental Health,2,2,1.0
+2010,E01011454,Road Safety & Defects,1,1,1.0
+2010,E01011460,Environmental Health,1,1,1.0
+2010,E01011477,Environmental Health,1,1,1.0
+2010,E01011481,Road Safety & Defects,1,1,1.0
+2010,E01011482,Road Safety & Defects,1,1,1.0
+2010,E01011507,Environmental Health,1,1,1.0
+2010,E01011508,Road Safety & Defects,1,1,1.0
+2010,E01011510,Environmental Health,1,1,1.0
+2010,E01011511,Road Safety & Defects,1,1,1.0
+2010,E01011515,Environmental Health,1,1,1.0
+2010,E01011541,Environmental Health,3,3,1.0
+2010,E01011549,Environmental Health,1,1,1.0
+2010,E01011554,Environmental Health,1,1,1.0
+2010,E01011557,Environmental Health,2,2,1.0
+2010,E01011559,Environmental Health,2,1,2.0
+2010,E01011561,Environmental Health,1,1,1.0
+2010,E01011561,Road Safety & Defects,1,1,1.0
+2010,E01011585,Other,1,1,1.0
+2010,E01011586,Environmental Health,1,1,1.0
+2010,E01011606,Environmental Health,1,1,1.0
+2010,E01011624,Environmental Health,1,1,1.0
+2010,E01011628,Environmental Health,1,1,1.0
+2010,E01011636,Environmental Health,1,1,1.0
+2010,E01011642,Environmental Health,8,6,1.3333333333333333
+2010,E01011647,Environmental Health,1,1,1.0
+2010,E01011648,Environmental Health,1,1,1.0
+2010,E01011651,Environmental Health,1,1,1.0
+2010,E01011652,Road Safety & Defects,1,1,1.0
+2010,E01011653,Environmental Health,1,1,1.0
+2010,E01011653,Road Safety & Defects,2,2,1.0
+2010,E01011654,Other,1,1,1.0
+2010,E01011669,Environmental Health,3,3,1.0
+2010,E01011669,Public Space,1,1,1.0
+2010,E01011671,Environmental Health,2,2,1.0
+2010,E01011678,Road Safety & Defects,1,1,1.0
+2010,E01011681,Environmental Health,2,2,1.0
+2010,E01011685,Environmental Health,1,1,1.0
+2010,E01011691,Environmental Health,1,1,1.0
+2010,E01011692,Environmental Health,1,1,1.0
+2010,E01011693,Road Safety & Defects,1,1,1.0
+2010,E01011702,Environmental Health,1,1,1.0
+2010,E01011703,Environmental Health,1,1,1.0
+2010,E01011703,Road Safety & Defects,1,1,1.0
+2010,E01011706,Environmental Health,1,1,1.0
+2010,E01011711,Environmental Health,1,1,1.0
+2010,E01011722,Environmental Health,1,1,1.0
+2010,E01011728,Environmental Health,1,1,1.0
+2010,E01011730,Environmental Health,1,1,1.0
+2010,E01011731,Environmental Health,1,1,1.0
+2010,E01011732,Road Safety & Defects,1,1,1.0
+2010,E01011737,Environmental Health,1,1,1.0
+2010,E01032496,Environmental Health,1,1,1.0
+2010,E01033005,Environmental Health,1,1,1.0
+2010,E01033006,Environmental Health,2,2,1.0
+2010,E01033006,Incivilities,1,1,1.0
+2010,E01033008,Environmental Health,1,1,1.0
+2010,E01033010,Environmental Health,1,1,1.0
+2010,E01033011,Abandoned Vehicles & Parking,1,1,1.0
+2010,E01033011,Environmental Health,1,1,1.0
+2010,E01033015,Environmental Health,1,1,1.0
+2010,E01033572,Environmental Health,1,1,1.0
+2010,E01033572,Road Safety & Defects,6,6,1.0
+2010,E01033573,Road Safety & Defects,1,1,1.0
+2010,S01008442,Road Safety & Defects,2,2,1.0
+2010,S01008450,Environmental Health,1,1,1.0
+2010,S01008542,Road Safety & Defects,1,1,1.0
+2010,S01008553,Other,1,1,1.0
+2010,S01008553,Road Safety & Defects,1,1,1.0
+2010,S01008564,Road Safety & Defects,1,1,1.0
+2010,S01008661,Road Safety & Defects,1,1,1.0
+2010,S01008666,Other,1,1,1.0
+2010,S01008676,Environmental Health,1,1,1.0
+2010,S01008677,Road Safety & Defects,1,1,1.0
+2010,S01008682,Road Safety & Defects,1,1,1.0
+2010,S01008683,Incivilities,2,1,2.0
+2010,S01008685,Road Safety & Defects,1,1,1.0
+2010,S01008772,Incivilities,1,1,1.0
+2010,S01008790,Other,1,1,1.0
+2010,S01008790,Vehicles,1,1,1.0
+2010,S01008797,Environmental Health,1,1,1.0
+2010,S01008814,Environmental Health,1,1,1.0
+2010,S01008829,Road Safety & Defects,1,1,1.0
+2010,S01008843,Road Safety & Defects,1,1,1.0
+2010,S01008874,Road Safety & Defects,1,1,1.0
+2010,S01008954,Road Safety & Defects,1,1,1.0
+2010,S01008956,Other,1,1,1.0
+2010,S01008970,Environmental Health,1,1,1.0
+2010,S01008993,Road Safety & Defects,1,1,1.0
+2010,S01008995,Other,1,1,1.0
+2010,W01001694,Environmental Health,2,2,1.0
+2010,W01001702,Road Safety & Defects,2,1,2.0
+2010,W01001705,Incivilities,1,1,1.0
+2010,W01001705,Road Safety & Defects,1,1,1.0
+2010,W01001712,Abandoned Vehicles & Parking,1,1,1.0
+2010,W01001719,Environmental Health,1,1,1.0
+2010,W01001720,Environmental Health,1,1,1.0
+2010,W01001732,Road Safety & Defects,1,1,1.0
+2010,W01001739,Road Safety & Defects,1,1,1.0
+2010,W01001753,Environmental Health,3,1,3.0
+2010,W01001754,Road Safety & Defects,1,1,1.0
+2010,W01001756,Environmental Health,1,1,1.0
+2010,W01001765,Environmental Health,1,1,1.0
+2010,W01001765,Other,1,1,1.0
+2010,W01001766,Road Safety & Defects,1,1,1.0
+2010,W01001777,Other,1,1,1.0
+2010,W01001778,Road Safety & Defects,1,1,1.0
+2010,W01001789,Road Safety & Defects,2,2,1.0
+2010,W01001812,Road Safety & Defects,1,1,1.0
+2010,W01001821,Road Safety & Defects,1,1,1.0
+2010,W01001822,Public Space,1,1,1.0
+2010,W01001834,Environmental Health,2,1,2.0
+2010,W01001834,Vehicles,1,1,1.0
+2010,W01001837,Other,1,1,1.0
+2010,W01001846,Road Safety & Defects,1,1,1.0
+2010,W01001852,Road Safety & Defects,1,1,1.0
+2010,W01001857,Road Safety & Defects,1,1,1.0
+2010,W01001858,Road Safety & Defects,1,1,1.0
+2010,W01001859,Environmental Disruptions,1,1,1.0
+2010,W01001860,Environmental Health,2,2,1.0
+2010,W01001868,Road Safety & Defects,1,1,1.0
+2010,W01001871,Environmental Health,1,1,1.0
+2010,W01001871,Road Safety & Defects,1,1,1.0
+2010,W01001874,Road Safety & Defects,1,1,1.0
+2010,W01001876,Incivilities,1,1,1.0
+2010,W01001879,Other,1,1,1.0
+2010,W01001881,Other,1,1,1.0
+2010,W01001889,Abandoned Vehicles & Parking,1,1,1.0
+2010,W01001889,Road Safety & Defects,4,1,4.0
+2010,W01001890,Road Safety & Defects,2,1,2.0
+2010,W01001891,Abandoned Vehicles & Parking,1,1,1.0
+2010,W01001891,Road Safety & Defects,1,1,1.0
+2010,W01001892,Road Safety & Defects,2,1,2.0
+2010,W01001922,Road Safety & Defects,1,1,1.0
+2010,W01001939,Road Safety & Defects,3,2,1.5
+2010,W01001942,Environmental Health,2,1,2.0
+2010,W01001943,Environmental Health,1,1,1.0
+2010,W01001944,Environmental Health,1,1,1.0
+2010,W01001946,Other,1,1,1.0
+2010,W01001947,Abandoned Vehicles & Parking,1,1,1.0
+2010,W01001947,Environmental Health,1,1,1.0
+2010,W01001947,Road Safety & Defects,1,1,1.0

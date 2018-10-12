@@ -1,0 +1,20 @@
+period,LAD,SHEF_C,report_count,user_count,average
+2012-5,E06000045,Environmental Disruptions,13,13,1.0
+2012-5,E06000045,Environmental Health,27,25,1.08
+2012-5,E06000045,Incivilities,3,2,1.5
+2012-5,E06000045,Other,17,16,1.0625
+2012-5,E06000045,Road Safety & Defects,58,52,1.1153846153846154
+2012-5,E09000003,Abandoned Vehicles & Parking,1,1,1.0
+2012-5,E09000003,Environmental Disruptions,22,19,1.1578947368421053
+2012-5,E09000003,Environmental Health,150,109,1.3761467889908257
+2012-5,E09000003,Incivilities,38,6,6.333333333333333
+2012-5,E09000003,Road Safety & Defects,190,117,1.623931623931624
+2012-5,E09000003,Vehicles,24,23,1.0434782608695652
+2012-5,E09000006,Access,2,2,1.0
+2012-5,E09000006,Environmental Disruptions,4,3,1.3333333333333333
+2012-5,E09000006,Environmental Health,11,10,1.1
+2012-5,E09000006,Incivilities,1,1,1.0
+2012-5,E09000006,Road Safety & Defects,7,7,1.0
+2012-5,E09000006,Vehicles,3,3,1.0
+2012-5,,Environmental Health,1,1,1.0
+2012-5,,Road Safety & Defects,2,2,1.0

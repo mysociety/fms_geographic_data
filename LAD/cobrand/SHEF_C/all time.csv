@@ -1,0 +1,3340 @@
+period,LAD,SHEF_C,report_count,user_count,average
+all time,E06000001,Abandoned Vehicles & Parking,26,22,1.1818181818181819
+all time,E06000001,Access,7,5,1.4
+all time,E06000001,Environmental Disruptions,24,20,1.2
+all time,E06000001,Environmental Health,256,90,2.8444444444444446
+all time,E06000001,Incivilities,18,12,1.5
+all time,E06000001,Other,90,59,1.5254237288135593
+all time,E06000001,Public Space,30,13,2.3076923076923075
+all time,E06000001,Road Safety & Defects,443,189,2.3439153439153437
+all time,E06000001,Vehicles,6,6,1.0
+all time,E06000002,Abandoned Vehicles & Parking,43,36,1.1944444444444444
+all time,E06000002,Environmental Disruptions,40,33,1.2121212121212122
+all time,E06000002,Environmental Health,189,95,1.9894736842105263
+all time,E06000002,Incivilities,16,9,1.7777777777777777
+all time,E06000002,Other,138,91,1.5164835164835164
+all time,E06000002,Public Space,28,13,2.1538461538461537
+all time,E06000002,Road Safety & Defects,519,217,2.391705069124424
+all time,E06000002,Vehicles,27,18,1.5
+all time,E06000003,Abandoned Vehicles & Parking,65,43,1.5116279069767442
+all time,E06000003,Environmental Disruptions,39,33,1.1818181818181819
+all time,E06000003,Environmental Health,207,122,1.6967213114754098
+all time,E06000003,Incivilities,7,6,1.1666666666666667
+all time,E06000003,Other,101,73,1.3835616438356164
+all time,E06000003,Public Space,18,13,1.3846153846153846
+all time,E06000003,Road Safety & Defects,371,205,1.8097560975609757
+all time,E06000003,Vehicles,18,16,1.125
+all time,E06000004,Abandoned Vehicles & Parking,168,124,1.3548387096774193
+all time,E06000004,Access,1,1,1.0
+all time,E06000004,Environmental Disruptions,110,86,1.2790697674418605
+all time,E06000004,Environmental Health,445,220,2.022727272727273
+all time,E06000004,Incivilities,50,25,2.0
+all time,E06000004,Other,230,170,1.3529411764705883
+all time,E06000004,Public Space,69,47,1.4680851063829787
+all time,E06000004,Road Safety & Defects,1217,591,2.0592216582064298
+all time,E06000004,Vehicles,85,57,1.4912280701754386
+all time,E06000005,Abandoned Vehicles & Parking,22,21,1.0476190476190477
+all time,E06000005,Environmental Disruptions,19,19,1.0
+all time,E06000005,Environmental Health,292,97,3.0103092783505154
+all time,E06000005,Incivilities,21,15,1.4
+all time,E06000005,Other,55,44,1.25
+all time,E06000005,Public Space,9,7,1.2857142857142858
+all time,E06000005,Road Safety & Defects,459,201,2.283582089552239
+all time,E06000005,Vehicles,16,15,1.0666666666666667
+all time,E06000006,Abandoned Vehicles & Parking,48,37,1.2972972972972974
+all time,E06000006,Environmental Disruptions,75,45,1.6666666666666667
+all time,E06000006,Environmental Health,245,110,2.227272727272727
+all time,E06000006,Incivilities,14,10,1.4
+all time,E06000006,Other,89,69,1.289855072463768
+all time,E06000006,Public Space,41,25,1.64
+all time,E06000006,Road Safety & Defects,447,242,1.8471074380165289
+all time,E06000006,Vehicles,54,47,1.148936170212766
+all time,E06000007,Abandoned Vehicles & Parking,111,74,1.5
+all time,E06000007,Access,1,1,1.0
+all time,E06000007,Environmental Disruptions,87,69,1.2608695652173914
+all time,E06000007,Environmental Health,249,147,1.6938775510204083
+all time,E06000007,Incivilities,9,9,1.0
+all time,E06000007,Other,142,115,1.2347826086956522
+all time,E06000007,Public Space,44,26,1.6923076923076923
+all time,E06000007,Road Safety & Defects,1270,551,2.304900181488203
+all time,E06000007,Vehicles,43,36,1.1944444444444444
+all time,E06000008,Abandoned Vehicles & Parking,102,89,1.146067415730337
+all time,E06000008,Environmental Disruptions,62,55,1.1272727272727272
+all time,E06000008,Environmental Health,1048,420,2.4952380952380953
+all time,E06000008,Incivilities,34,29,1.1724137931034482
+all time,E06000008,Other,248,182,1.3626373626373627
+all time,E06000008,Public Space,71,42,1.6904761904761905
+all time,E06000008,Road Safety & Defects,1883,759,2.4808959156785244
+all time,E06000008,Vehicles,96,78,1.2307692307692308
+all time,E06000009,Abandoned Vehicles & Parking,80,68,1.1764705882352942
+all time,E06000009,Access,4,4,1.0
+all time,E06000009,Environmental Disruptions,39,29,1.3448275862068966
+all time,E06000009,Environmental Health,463,210,2.204761904761905
+all time,E06000009,Incivilities,12,9,1.3333333333333333
+all time,E06000009,Other,197,144,1.3680555555555556
+all time,E06000009,Public Space,32,23,1.391304347826087
+all time,E06000009,Road Safety & Defects,904,406,2.226600985221675
+all time,E06000009,Vehicles,68,48,1.4166666666666667
+all time,E06000010,,21,19,1.105263157894737
+all time,E06000010,Abandoned Vehicles & Parking,129,107,1.205607476635514
+all time,E06000010,Access,1,1,1.0
+all time,E06000010,Environmental Disruptions,104,46,2.260869565217391
+all time,E06000010,Environmental Health,1782,252,7.071428571428571
+all time,E06000010,Incivilities,492,21,23.428571428571427
+all time,E06000010,Other,529,127,4.165354330708661
+all time,E06000010,Public Space,69,46,1.5
+all time,E06000010,Road Safety & Defects,3074,476,6.457983193277311
+all time,E06000010,Vehicles,60,43,1.3953488372093024
+all time,E06000011,,39,25,1.56
+all time,E06000011,Abandoned Vehicles & Parking,70,60,1.1666666666666667
+all time,E06000011,Access,49,13,3.769230769230769
+all time,E06000011,Environmental Disruptions,154,61,2.5245901639344264
+all time,E06000011,Environmental Health,1021,243,4.20164609053498
+all time,E06000011,Incivilities,405,18,22.5
+all time,E06000011,Other,740,383,1.9321148825065275
+all time,E06000011,Public Space,39,22,1.7727272727272727
+all time,E06000011,Road Safety & Defects,4346,637,6.822605965463108
+all time,E06000011,Vehicles,32,29,1.103448275862069
+all time,E06000012,,7,5,1.4
+all time,E06000012,Abandoned Vehicles & Parking,58,41,1.4146341463414633
+all time,E06000012,Access,1,1,1.0
+all time,E06000012,Environmental Disruptions,16,15,1.0666666666666667
+all time,E06000012,Environmental Health,287,108,2.6574074074074074
+all time,E06000012,Incivilities,25,6,4.166666666666667
+all time,E06000012,Other,90,62,1.4516129032258065
+all time,E06000012,Public Space,9,7,1.2857142857142858
+all time,E06000012,Road Safety & Defects,421,208,2.0240384615384617
+all time,E06000012,Vehicles,21,18,1.1666666666666667
+all time,E06000013,Abandoned Vehicles & Parking,28,24,1.1666666666666667
+all time,E06000013,Access,7,3,2.3333333333333335
+all time,E06000013,Environmental Disruptions,47,19,2.473684210526316
+all time,E06000013,Environmental Health,400,95,4.2105263157894735
+all time,E06000013,Incivilities,60,10,6.0
+all time,E06000013,Other,115,49,2.3469387755102042
+all time,E06000013,Public Space,10,7,1.4285714285714286
+all time,E06000013,Road Safety & Defects,924,242,3.8181818181818183
+all time,E06000013,Vehicles,26,21,1.2380952380952381
+all time,E06000014,Abandoned Vehicles & Parking,41,39,1.0512820512820513
+all time,E06000014,Access,2,2,1.0
+all time,E06000014,Environmental Disruptions,86,42,2.0476190476190474
+all time,E06000014,Environmental Health,300,103,2.912621359223301
+all time,E06000014,Incivilities,94,38,2.473684210526316
+all time,E06000014,Other,135,80,1.6875
+all time,E06000014,Public Space,38,17,2.235294117647059
+all time,E06000014,Road Safety & Defects,1172,417,2.8105515587529974
+all time,E06000014,Vehicles,49,37,1.3243243243243243
+all time,E06000015,Abandoned Vehicles & Parking,75,66,1.1363636363636365
+all time,E06000015,Environmental Disruptions,91,66,1.378787878787879
+all time,E06000015,Environmental Health,616,205,3.004878048780488
+all time,E06000015,Incivilities,49,30,1.6333333333333333
+all time,E06000015,Other,142,96,1.4791666666666667
+all time,E06000015,Public Space,41,24,1.7083333333333333
+all time,E06000015,Road Safety & Defects,917,468,1.9594017094017093
+all time,E06000015,Vehicles,55,44,1.25
+all time,E06000016,Abandoned Vehicles & Parking,193,143,1.3496503496503496
+all time,E06000016,Environmental Disruptions,44,34,1.2941176470588236
+all time,E06000016,Environmental Health,362,208,1.7403846153846154
+all time,E06000016,Incivilities,87,44,1.9772727272727273
+all time,E06000016,Other,197,150,1.3133333333333332
+all time,E06000016,Public Space,36,23,1.565217391304348
+all time,E06000016,Road Safety & Defects,971,445,2.1820224719101122
+all time,E06000016,Vehicles,88,76,1.1578947368421053
+all time,E06000017,,3,3,1.0
+all time,E06000017,Abandoned Vehicles & Parking,12,9,1.3333333333333333
+all time,E06000017,Access,1,1,1.0
+all time,E06000017,Environmental Disruptions,8,7,1.1428571428571428
+all time,E06000017,Environmental Health,41,28,1.4642857142857142
+all time,E06000017,Incivilities,8,8,1.0
+all time,E06000017,Other,24,19,1.263157894736842
+all time,E06000017,Public Space,4,4,1.0
+all time,E06000017,Road Safety & Defects,423,115,3.6782608695652175
+all time,E06000017,Vehicles,6,6,1.0
+all time,E06000018,Abandoned Vehicles & Parking,141,102,1.3823529411764706
+all time,E06000018,Access,2,2,1.0
+all time,E06000018,Environmental Disruptions,103,58,1.7758620689655173
+all time,E06000018,Environmental Health,917,298,3.077181208053691
+all time,E06000018,Incivilities,305,48,6.354166666666667
+all time,E06000018,Other,310,167,1.8562874251497006
+all time,E06000018,Public Space,65,29,2.2413793103448274
+all time,E06000018,Road Safety & Defects,1305,420,3.107142857142857
+all time,E06000018,Vehicles,49,48,1.0208333333333333
+all time,E06000019,Abandoned Vehicles & Parking,50,38,1.3157894736842106
+all time,E06000019,Access,36,26,1.3846153846153846
+all time,E06000019,Environmental Disruptions,67,46,1.4565217391304348
+all time,E06000019,Environmental Health,281,125,2.248
+all time,E06000019,Incivilities,51,21,2.4285714285714284
+all time,E06000019,Other,130,101,1.2871287128712872
+all time,E06000019,Public Space,21,15,1.4
+all time,E06000019,Road Safety & Defects,2671,828,3.225845410628019
+all time,E06000019,Vehicles,30,26,1.1538461538461537
+all time,E06000020,Abandoned Vehicles & Parking,65,50,1.3
+all time,E06000020,Access,3,3,1.0
+all time,E06000020,Environmental Disruptions,56,39,1.435897435897436
+all time,E06000020,Environmental Health,277,124,2.2338709677419355
+all time,E06000020,Incivilities,125,25,5.0
+all time,E06000020,Other,100,81,1.2345679012345678
+all time,E06000020,Public Space,31,22,1.4090909090909092
+all time,E06000020,Road Safety & Defects,1115,378,2.9497354497354498
+all time,E06000020,Vehicles,38,30,1.2666666666666666
+all time,E06000021,Abandoned Vehicles & Parking,188,134,1.4029850746268657
+all time,E06000021,Access,2,2,1.0
+all time,E06000021,Environmental Disruptions,115,81,1.4197530864197532
+all time,E06000021,Environmental Health,657,292,2.25
+all time,E06000021,Incivilities,44,28,1.5714285714285714
+all time,E06000021,Other,406,257,1.5797665369649805
+all time,E06000021,Public Space,59,30,1.9666666666666666
+all time,E06000021,Road Safety & Defects,2104,635,3.3133858267716536
+all time,E06000021,Vehicles,80,65,1.2307692307692308
+all time,E06000022,,460,295,1.5593220338983051
+all time,E06000022,Abandoned Vehicles & Parking,66,50,1.32
+all time,E06000022,Access,3,3,1.0
+all time,E06000022,Environmental Disruptions,64,39,1.641025641025641
+all time,E06000022,Environmental Health,303,167,1.81437125748503
+all time,E06000022,Incivilities,28,16,1.75
+all time,E06000022,Other,125,94,1.3297872340425532
+all time,E06000022,Public Space,39,27,1.4444444444444444
+all time,E06000022,Road Safety & Defects,1453,475,3.0589473684210526
+all time,E06000022,Vehicles,51,46,1.108695652173913
+all time,E06000023,Abandoned Vehicles & Parking,497,378,1.3148148148148149
+all time,E06000023,Access,2193,1393,1.574300071787509
+all time,E06000023,Environmental Disruptions,1148,765,1.5006535947712418
+all time,E06000023,Environmental Health,4539,1954,2.3229273285568066
+all time,E06000023,Incivilities,653,169,3.863905325443787
+all time,E06000023,Other,798,546,1.4615384615384615
+all time,E06000023,Public Space,194,117,1.6581196581196582
+all time,E06000023,Road Safety & Defects,8462,3863,2.19052549831737
+all time,E06000023,Vehicles,406,302,1.3443708609271523
+all time,E06000024,Abandoned Vehicles & Parking,99,85,1.1647058823529413
+all time,E06000024,Access,2,2,1.0
+all time,E06000024,Environmental Disruptions,71,40,1.775
+all time,E06000024,Environmental Health,364,154,2.3636363636363638
+all time,E06000024,Incivilities,49,26,1.8846153846153846
+all time,E06000024,Other,135,107,1.2616822429906542
+all time,E06000024,Public Space,41,21,1.9523809523809523
+all time,E06000024,Road Safety & Defects,2081,788,2.6408629441624365
+all time,E06000024,Vehicles,67,53,1.2641509433962264
+all time,E06000025,Abandoned Vehicles & Parking,127,90,1.4111111111111112
+all time,E06000025,Access,3,2,1.5
+all time,E06000025,Environmental Disruptions,111,83,1.3373493975903614
+all time,E06000025,Environmental Health,594,251,2.366533864541833
+all time,E06000025,Incivilities,83,35,2.3714285714285714
+all time,E06000025,Other,249,179,1.3910614525139664
+all time,E06000025,Public Space,66,45,1.4666666666666666
+all time,E06000025,Road Safety & Defects,2022,791,2.556257901390645
+all time,E06000025,Vehicles,96,86,1.1162790697674418
+all time,E06000026,Abandoned Vehicles & Parking,212,154,1.3766233766233766
+all time,E06000026,Access,5,5,1.0
+all time,E06000026,Environmental Disruptions,107,82,1.3048780487804879
+all time,E06000026,Environmental Health,566,275,2.058181818181818
+all time,E06000026,Incivilities,44,28,1.5714285714285714
+all time,E06000026,Other,253,185,1.3675675675675676
+all time,E06000026,Public Space,70,47,1.4893617021276595
+all time,E06000026,Road Safety & Defects,1773,750,2.364
+all time,E06000026,Vehicles,133,102,1.303921568627451
+all time,E06000027,Abandoned Vehicles & Parking,51,45,1.1333333333333333
+all time,E06000027,Environmental Disruptions,31,21,1.4761904761904763
+all time,E06000027,Environmental Health,202,113,1.7876106194690264
+all time,E06000027,Incivilities,26,17,1.5294117647058822
+all time,E06000027,Other,103,55,1.8727272727272728
+all time,E06000027,Public Space,9,8,1.125
+all time,E06000027,Road Safety & Defects,675,263,2.5665399239543727
+all time,E06000027,Vehicles,56,50,1.12
+all time,E06000028,Abandoned Vehicles & Parking,211,136,1.5514705882352942
+all time,E06000028,Access,7,6,1.1666666666666667
+all time,E06000028,Environmental Disruptions,182,77,2.3636363636363638
+all time,E06000028,Environmental Health,529,241,2.195020746887967
+all time,E06000028,Incivilities,496,40,12.4
+all time,E06000028,Other,216,154,1.4025974025974026
+all time,E06000028,Public Space,52,35,1.4857142857142858
+all time,E06000028,Road Safety & Defects,2551,489,5.216768916155419
+all time,E06000028,Vehicles,126,101,1.2475247524752475
+all time,E06000029,Abandoned Vehicles & Parking,38,35,1.0857142857142856
+all time,E06000029,Access,2,2,1.0
+all time,E06000029,Environmental Disruptions,34,27,1.2592592592592593
+all time,E06000029,Environmental Health,114,72,1.5833333333333333
+all time,E06000029,Incivilities,67,13,5.153846153846154
+all time,E06000029,Other,87,68,1.2794117647058822
+all time,E06000029,Public Space,22,12,1.8333333333333333
+all time,E06000029,Road Safety & Defects,625,264,2.367424242424242
+all time,E06000029,Vehicles,53,49,1.0816326530612246
+all time,E06000030,Abandoned Vehicles & Parking,226,155,1.4580645161290322
+all time,E06000030,Access,2,2,1.0
+all time,E06000030,Environmental Disruptions,100,75,1.3333333333333333
+all time,E06000030,Environmental Health,489,217,2.2534562211981566
+all time,E06000030,Incivilities,89,42,2.119047619047619
+all time,E06000030,Other,195,126,1.5476190476190477
+all time,E06000030,Public Space,65,39,1.6666666666666667
+all time,E06000030,Road Safety & Defects,1033,564,1.8315602836879432
+all time,E06000030,Vehicles,96,81,1.1851851851851851
+all time,E06000031,Abandoned Vehicles & Parking,243,139,1.7482014388489209
+all time,E06000031,Access,4,4,1.0
+all time,E06000031,Environmental Disruptions,189,113,1.6725663716814159
+all time,E06000031,Environmental Health,1914,358,5.346368715083799
+all time,E06000031,Incivilities,671,83,8.08433734939759
+all time,E06000031,Other,386,217,1.7788018433179724
+all time,E06000031,Public Space,207,88,2.352272727272727
+all time,E06000031,Road Safety & Defects,3068,590,5.2
+all time,E06000031,Vehicles,143,104,1.375
+all time,E06000032,Abandoned Vehicles & Parking,379,185,2.0486486486486486
+all time,E06000032,Access,5,5,1.0
+all time,E06000032,Environmental Disruptions,126,69,1.826086956521739
+all time,E06000032,Environmental Health,2262,296,7.641891891891892
+all time,E06000032,Incivilities,51,26,1.9615384615384615
+all time,E06000032,Other,366,161,2.2732919254658386
+all time,E06000032,Public Space,85,35,2.4285714285714284
+all time,E06000032,Road Safety & Defects,1197,397,3.0151133501259446
+all time,E06000032,Vehicles,372,193,1.927461139896373
+all time,E06000033,Abandoned Vehicles & Parking,70,55,1.2727272727272727
+all time,E06000033,Access,2,2,1.0
+all time,E06000033,Environmental Disruptions,59,43,1.372093023255814
+all time,E06000033,Environmental Health,358,148,2.418918918918919
+all time,E06000033,Incivilities,19,12,1.5833333333333333
+all time,E06000033,Other,1232,368,3.347826086956522
+all time,E06000033,Public Space,29,18,1.6111111111111112
+all time,E06000033,Vehicles,66,54,1.2222222222222223
+all time,E06000034,Abandoned Vehicles & Parking,89,68,1.3088235294117647
+all time,E06000034,Environmental Disruptions,48,21,2.2857142857142856
+all time,E06000034,Environmental Health,231,116,1.9913793103448276
+all time,E06000034,Incivilities,16,6,2.6666666666666665
+all time,E06000034,Other,89,57,1.5614035087719298
+all time,E06000034,Public Space,43,25,1.72
+all time,E06000034,Road Safety & Defects,961,272,3.5330882352941178
+all time,E06000034,Vehicles,75,54,1.3888888888888888
+all time,E06000035,Abandoned Vehicles & Parking,214,162,1.3209876543209877
+all time,E06000035,Access,2,2,1.0
+all time,E06000035,Environmental Disruptions,44,35,1.2571428571428571
+all time,E06000035,Environmental Health,601,267,2.250936329588015
+all time,E06000035,Incivilities,20,16,1.25
+all time,E06000035,Other,194,138,1.4057971014492754
+all time,E06000035,Public Space,38,24,1.5833333333333333
+all time,E06000035,Road Safety & Defects,736,374,1.967914438502674
+all time,E06000035,Vehicles,158,122,1.2950819672131149
+all time,E06000036,Abandoned Vehicles & Parking,121,89,1.3595505617977528
+all time,E06000036,Environmental Disruptions,73,56,1.3035714285714286
+all time,E06000036,Environmental Health,320,139,2.302158273381295
+all time,E06000036,Incivilities,89,31,2.870967741935484
+all time,E06000036,Other,165,114,1.4473684210526316
+all time,E06000036,Public Space,67,42,1.5952380952380953
+all time,E06000036,Road Safety & Defects,1007,461,2.1843817787418653
+all time,E06000036,Vehicles,68,53,1.2830188679245282
+all time,E06000037,,114,67,1.7014925373134329
+all time,E06000037,Abandoned Vehicles & Parking,17,17,1.0
+all time,E06000037,Access,389,148,2.6283783783783785
+all time,E06000037,Environmental Disruptions,78,49,1.5918367346938775
+all time,E06000037,Environmental Health,197,123,1.6016260162601625
+all time,E06000037,Incivilities,14,10,1.4
+all time,E06000037,Other,41,34,1.2058823529411764
+all time,E06000037,Public Space,11,10,1.1
+all time,E06000037,Road Safety & Defects,1371,583,2.351629502572899
+all time,E06000037,Vehicles,6,6,1.0
+all time,E06000038,Abandoned Vehicles & Parking,218,155,1.4064516129032258
+all time,E06000038,Access,1,1,1.0
+all time,E06000038,Environmental Disruptions,220,100,2.2
+all time,E06000038,Environmental Health,933,324,2.8796296296296298
+all time,E06000038,Incivilities,202,61,3.3114754098360657
+all time,E06000038,Other,365,225,1.6222222222222222
+all time,E06000038,Public Space,96,54,1.7777777777777777
+all time,E06000038,Road Safety & Defects,2762,901,3.0654827968923417
+all time,E06000038,Vehicles,126,99,1.2727272727272727
+all time,E06000039,Abandoned Vehicles & Parking,102,76,1.3421052631578947
+all time,E06000039,Environmental Disruptions,32,21,1.5238095238095237
+all time,E06000039,Environmental Health,451,159,2.8364779874213837
+all time,E06000039,Incivilities,33,15,2.2
+all time,E06000039,Other,162,102,1.588235294117647
+all time,E06000039,Public Space,40,23,1.7391304347826086
+all time,E06000039,Road Safety & Defects,607,274,2.2153284671532845
+all time,E06000039,Vehicles,66,56,1.1785714285714286
+all time,E06000040,Abandoned Vehicles & Parking,168,120,1.4
+all time,E06000040,Access,6,4,1.5
+all time,E06000040,Environmental Disruptions,99,83,1.1927710843373494
+all time,E06000040,Environmental Health,338,216,1.5648148148148149
+all time,E06000040,Incivilities,30,22,1.3636363636363635
+all time,E06000040,Other,183,147,1.2448979591836735
+all time,E06000040,Public Space,42,34,1.2352941176470589
+all time,E06000040,Road Safety & Defects,1858,774,2.400516795865633
+all time,E06000040,Vehicles,81,68,1.1911764705882353
+all time,E06000041,Abandoned Vehicles & Parking,129,108,1.1944444444444444
+all time,E06000041,Access,1,1,1.0
+all time,E06000041,Environmental Disruptions,183,123,1.4878048780487805
+all time,E06000041,Environmental Health,856,282,3.0354609929078014
+all time,E06000041,Incivilities,137,65,2.1076923076923078
+all time,E06000041,Other,342,233,1.4678111587982832
+all time,E06000041,Public Space,190,91,2.087912087912088
+all time,E06000041,Road Safety & Defects,2536,829,3.0591073582629673
+all time,E06000041,Vehicles,74,66,1.121212121212121
+all time,E06000042,Abandoned Vehicles & Parking,114,98,1.163265306122449
+all time,E06000042,Environmental Disruptions,104,70,1.4857142857142858
+all time,E06000042,Environmental Health,325,163,1.9938650306748467
+all time,E06000042,Incivilities,113,19,5.947368421052632
+all time,E06000042,Other,153,128,1.1953125
+all time,E06000042,Public Space,57,47,1.2127659574468086
+all time,E06000042,Road Safety & Defects,2001,735,2.7224489795918365
+all time,E06000042,Vehicles,69,54,1.2777777777777777
+all time,E06000043,Abandoned Vehicles & Parking,235,173,1.3583815028901733
+all time,E06000043,Access,5,4,1.25
+all time,E06000043,Environmental Disruptions,145,103,1.4077669902912622
+all time,E06000043,Environmental Health,1138,399,2.8521303258145365
+all time,E06000043,Incivilities,245,75,3.2666666666666666
+all time,E06000043,Other,757,502,1.5079681274900398
+all time,E06000043,Road Safety & Defects,1421,589,2.4125636672325976
+all time,E06000043,Vehicles,191,151,1.2649006622516556
+all time,E06000044,Abandoned Vehicles & Parking,197,161,1.2236024844720497
+all time,E06000044,Access,1,1,1.0
+all time,E06000044,Environmental Disruptions,54,39,1.3846153846153846
+all time,E06000044,Environmental Health,258,181,1.425414364640884
+all time,E06000044,Incivilities,18,16,1.125
+all time,E06000044,Other,196,154,1.2727272727272727
+all time,E06000044,Public Space,15,14,1.0714285714285714
+all time,E06000044,Road Safety & Defects,443,271,1.6346863468634687
+all time,E06000044,Vehicles,91,79,1.1518987341772151
+all time,E06000045,Abandoned Vehicles & Parking,680,425,1.6
+all time,E06000045,Access,64,40,1.6
+all time,E06000045,Environmental Disruptions,1122,577,1.9445407279029463
+all time,E06000045,Environmental Health,3338,1253,2.664006384676776
+all time,E06000045,Incivilities,777,253,3.0711462450592886
+all time,E06000045,Other,1065,657,1.6210045662100456
+all time,E06000045,Public Space,9,9,1.0
+all time,E06000045,Road Safety & Defects,5668,2422,2.3402146985962013
+all time,E06000045,Vehicles,55,50,1.1
+all time,E06000046,Abandoned Vehicles & Parking,36,32,1.125
+all time,E06000046,Access,3,1,3.0
+all time,E06000046,Environmental Disruptions,67,24,2.7916666666666665
+all time,E06000046,Environmental Health,217,84,2.5833333333333335
+all time,E06000046,Incivilities,13,7,1.8571428571428572
+all time,E06000046,Other,213,59,3.610169491525424
+all time,E06000046,Public Space,8,6,1.3333333333333333
+all time,E06000046,Road Safety & Defects,1228,293,4.191126279863481
+all time,E06000046,Vehicles,54,41,1.3170731707317074
+all time,E06000047,Abandoned Vehicles & Parking,188,135,1.3925925925925926
+all time,E06000047,Access,2,2,1.0
+all time,E06000047,Environmental Disruptions,145,109,1.3302752293577982
+all time,E06000047,Environmental Health,1200,448,2.6785714285714284
+all time,E06000047,Incivilities,80,40,2.0
+all time,E06000047,Other,483,322,1.5
+all time,E06000047,Public Space,99,66,1.5
+all time,E06000047,Road Safety & Defects,2862,1009,2.836471754212091
+all time,E06000047,Vehicles,71,61,1.1639344262295082
+all time,E06000049,Abandoned Vehicles & Parking,186,139,1.3381294964028776
+all time,E06000049,Access,3,3,1.0
+all time,E06000049,Environmental Disruptions,259,145,1.7862068965517242
+all time,E06000049,Environmental Health,1041,395,2.6354430379746834
+all time,E06000049,Incivilities,63,46,1.3695652173913044
+all time,E06000049,Other,529,330,1.603030303030303
+all time,E06000049,Public Space,84,68,1.2352941176470589
+all time,E06000049,Road Safety & Defects,7373,2038,3.6177625122669284
+all time,E06000049,Vehicles,88,72,1.2222222222222223
+all time,E06000050,Abandoned Vehicles & Parking,202,82,2.4634146341463414
+all time,E06000050,Access,1,1,1.0
+all time,E06000050,Environmental Disruptions,143,99,1.4444444444444444
+all time,E06000050,Environmental Health,492,244,2.0163934426229506
+all time,E06000050,Incivilities,39,22,1.7727272727272727
+all time,E06000050,Other,224,167,1.341317365269461
+all time,E06000050,Public Space,99,49,2.020408163265306
+all time,E06000050,Road Safety & Defects,2549,1061,2.402450518378888
+all time,E06000050,Vehicles,49,46,1.065217391304348
+all time,E06000051,Abandoned Vehicles & Parking,47,38,1.236842105263158
+all time,E06000051,Access,46,23,2.0
+all time,E06000051,Environmental Disruptions,54,42,1.2857142857142858
+all time,E06000051,Environmental Health,339,140,2.4214285714285713
+all time,E06000051,Incivilities,25,14,1.7857142857142858
+all time,E06000051,Other,148,110,1.3454545454545455
+all time,E06000051,Public Space,26,16,1.625
+all time,E06000051,Road Safety & Defects,1822,739,2.465493910690122
+all time,E06000051,Vehicles,38,33,1.1515151515151516
+all time,E06000052,Abandoned Vehicles & Parking,187,153,1.2222222222222223
+all time,E06000052,Access,19,14,1.3571428571428572
+all time,E06000052,Environmental Disruptions,164,130,1.2615384615384615
+all time,E06000052,Environmental Health,839,414,2.026570048309179
+all time,E06000052,Incivilities,43,33,1.303030303030303
+all time,E06000052,Other,419,306,1.369281045751634
+all time,E06000052,Public Space,80,60,1.3333333333333333
+all time,E06000052,Road Safety & Defects,3482,1324,2.6299093655589125
+all time,E06000052,Vehicles,163,127,1.2834645669291338
+all time,E06000053,Other,1,1,1.0
+all time,E06000054,Abandoned Vehicles & Parking,81,67,1.208955223880597
+all time,E06000054,Access,2,2,1.0
+all time,E06000054,Environmental Disruptions,109,83,1.3132530120481927
+all time,E06000054,Environmental Health,355,213,1.6666666666666667
+all time,E06000054,Incivilities,49,33,1.4848484848484849
+all time,E06000054,Other,232,186,1.2473118279569892
+all time,E06000054,Public Space,41,34,1.2058823529411764
+all time,E06000054,Road Safety & Defects,3138,1433,2.1898115840893233
+all time,E06000054,Vehicles,62,56,1.1071428571428572
+all time,E06000055,Abandoned Vehicles & Parking,102,71,1.4366197183098592
+all time,E06000055,Access,2,2,1.0
+all time,E06000055,Environmental Disruptions,65,46,1.4130434782608696
+all time,E06000055,Environmental Health,337,140,2.407142857142857
+all time,E06000055,Incivilities,15,12,1.25
+all time,E06000055,Other,136,99,1.3737373737373737
+all time,E06000055,Public Space,22,18,1.2222222222222223
+all time,E06000055,Road Safety & Defects,1122,394,2.8477157360406093
+all time,E06000055,Vehicles,106,92,1.1521739130434783
+all time,E06000056,,1,1,1.0
+all time,E06000056,Abandoned Vehicles & Parking,245,189,1.2962962962962963
+all time,E06000056,Access,32,22,1.4545454545454546
+all time,E06000056,Environmental Disruptions,241,152,1.5855263157894737
+all time,E06000056,Environmental Health,892,308,2.896103896103896
+all time,E06000056,Incivilities,119,51,2.3333333333333335
+all time,E06000056,Other,334,221,1.51131221719457
+all time,E06000056,Public Space,79,38,2.0789473684210527
+all time,E06000056,Road Safety & Defects,3397,1194,2.8450586264656614
+all time,E06000056,Vehicles,211,171,1.2339181286549707
+all time,E06000057,Abandoned Vehicles & Parking,69,58,1.1896551724137931
+all time,E06000057,Access,10,10,1.0
+all time,E06000057,Environmental Disruptions,92,76,1.2105263157894737
+all time,E06000057,Environmental Health,600,267,2.247191011235955
+all time,E06000057,Incivilities,30,17,1.7647058823529411
+all time,E06000057,Other,488,311,1.5691318327974277
+all time,E06000057,Public Space,71,55,1.290909090909091
+all time,E06000057,Road Safety & Defects,2487,965,2.57720207253886
+all time,E06000057,Vehicles,52,44,1.1818181818181819
+all time,E07000004,,263,209,1.2583732057416268
+all time,E07000004,Abandoned Vehicles & Parking,110,96,1.1458333333333333
+all time,E07000004,Environmental Disruptions,113,73,1.547945205479452
+all time,E07000004,Environmental Health,335,211,1.5876777251184835
+all time,E07000004,Incivilities,173,17,10.176470588235293
+all time,E07000004,Other,214,170,1.2588235294117647
+all time,E07000004,Public Space,32,26,1.2307692307692308
+all time,E07000004,Road Safety & Defects,3784,1683,2.2483660130718954
+all time,E07000004,Vehicles,77,60,1.2833333333333334
+all time,E07000005,,159,132,1.2045454545454546
+all time,E07000005,Abandoned Vehicles & Parking,46,40,1.15
+all time,E07000005,Access,1,1,1.0
+all time,E07000005,Environmental Disruptions,61,45,1.3555555555555556
+all time,E07000005,Environmental Health,264,113,2.336283185840708
+all time,E07000005,Incivilities,39,17,2.2941176470588234
+all time,E07000005,Other,105,78,1.3461538461538463
+all time,E07000005,Public Space,20,5,4.0
+all time,E07000005,Road Safety & Defects,2562,988,2.5931174089068825
+all time,E07000005,Vehicles,33,29,1.1379310344827587
+all time,E07000006,,171,110,1.5545454545454545
+all time,E07000006,Abandoned Vehicles & Parking,60,48,1.25
+all time,E07000006,Access,4,3,1.3333333333333333
+all time,E07000006,Environmental Disruptions,82,58,1.4137931034482758
+all time,E07000006,Environmental Health,378,165,2.290909090909091
+all time,E07000006,Incivilities,22,7,3.142857142857143
+all time,E07000006,Other,163,103,1.5825242718446602
+all time,E07000006,Public Space,34,24,1.4166666666666667
+all time,E07000006,Road Safety & Defects,2856,1128,2.5319148936170213
+all time,E07000006,Vehicles,36,35,1.0285714285714285
+all time,E07000007,,240,204,1.1764705882352942
+all time,E07000007,Abandoned Vehicles & Parking,141,102,1.3823529411764706
+all time,E07000007,Access,10,10,1.0
+all time,E07000007,Environmental Disruptions,147,93,1.5806451612903225
+all time,E07000007,Environmental Health,408,200,2.04
+all time,E07000007,Incivilities,61,12,5.083333333333333
+all time,E07000007,Other,221,162,1.3641975308641976
+all time,E07000007,Public Space,39,27,1.4444444444444444
+all time,E07000007,Road Safety & Defects,3323,1218,2.7282430213464695
+all time,E07000007,Vehicles,89,65,1.3692307692307693
+all time,E07000008,Abandoned Vehicles & Parking,46,41,1.1219512195121952
+all time,E07000008,Access,8,7,1.1428571428571428
+all time,E07000008,Environmental Disruptions,117,82,1.4268292682926829
+all time,E07000008,Environmental Health,381,175,2.177142857142857
+all time,E07000008,Incivilities,481,73,6.589041095890411
+all time,E07000008,Other,285,181,1.574585635359116
+all time,E07000008,Public Space,94,61,1.540983606557377
+all time,E07000008,Road Safety & Defects,2823,872,3.2373853211009176
+all time,E07000008,Vehicles,123,79,1.5569620253164558
+all time,E07000009,,1,1,1.0
+all time,E07000009,Abandoned Vehicles & Parking,13,13,1.0
+all time,E07000009,Environmental Disruptions,27,24,1.125
+all time,E07000009,Environmental Health,192,70,2.742857142857143
+all time,E07000009,Incivilities,7,6,1.1666666666666667
+all time,E07000009,Other,60,51,1.1764705882352942
+all time,E07000009,Public Space,3,3,1.0
+all time,E07000009,Road Safety & Defects,389,197,1.9746192893401016
+all time,E07000009,Vehicles,18,17,1.0588235294117647
+all time,E07000010,Abandoned Vehicles & Parking,16,13,1.2307692307692308
+all time,E07000010,Access,2,2,1.0
+all time,E07000010,Environmental Disruptions,31,17,1.8235294117647058
+all time,E07000010,Environmental Health,121,50,2.42
+all time,E07000010,Incivilities,46,9,5.111111111111111
+all time,E07000010,Other,90,64,1.40625
+all time,E07000010,Public Space,32,17,1.8823529411764706
+all time,E07000010,Road Safety & Defects,588,206,2.854368932038835
+all time,E07000010,Vehicles,22,20,1.1
+all time,E07000011,Abandoned Vehicles & Parking,48,44,1.0909090909090908
+all time,E07000011,Access,1,1,1.0
+all time,E07000011,Environmental Disruptions,64,52,1.2307692307692308
+all time,E07000011,Environmental Health,237,131,1.8091603053435115
+all time,E07000011,Incivilities,19,16,1.1875
+all time,E07000011,Other,170,133,1.2781954887218046
+all time,E07000011,Public Space,25,18,1.3888888888888888
+all time,E07000011,Road Safety & Defects,1096,577,1.89948006932409
+all time,E07000011,Vehicles,57,51,1.1176470588235294
+all time,E07000012,Abandoned Vehicles & Parking,39,26,1.5
+all time,E07000012,Access,3,3,1.0
+all time,E07000012,Environmental Disruptions,163,124,1.314516129032258
+all time,E07000012,Environmental Health,275,176,1.5625
+all time,E07000012,Incivilities,43,29,1.4827586206896552
+all time,E07000012,Other,233,185,1.2594594594594595
+all time,E07000012,Public Space,19,18,1.0555555555555556
+all time,E07000012,Road Safety & Defects,2633,1083,2.4312096029547554
+all time,E07000012,Vehicles,54,52,1.0384615384615385
+all time,E07000026,Abandoned Vehicles & Parking,20,19,1.0526315789473684
+all time,E07000026,Access,1,1,1.0
+all time,E07000026,Environmental Disruptions,6,6,1.0
+all time,E07000026,Environmental Health,139,55,2.5272727272727273
+all time,E07000026,Incivilities,9,9,1.0
+all time,E07000026,Other,44,37,1.1891891891891893
+all time,E07000026,Public Space,2,2,1.0
+all time,E07000026,Road Safety & Defects,507,223,2.273542600896861
+all time,E07000026,Vehicles,11,10,1.1
+all time,E07000027,Abandoned Vehicles & Parking,22,17,1.2941176470588236
+all time,E07000027,Environmental Disruptions,24,18,1.3333333333333333
+all time,E07000027,Environmental Health,207,62,3.338709677419355
+all time,E07000027,Incivilities,13,4,3.25
+all time,E07000027,Other,26,20,1.3
+all time,E07000027,Public Space,5,4,1.25
+all time,E07000027,Road Safety & Defects,372,133,2.7969924812030076
+all time,E07000027,Vehicles,14,12,1.1666666666666667
+all time,E07000028,Abandoned Vehicles & Parking,8,8,1.0
+all time,E07000028,Environmental Disruptions,10,8,1.25
+all time,E07000028,Environmental Health,95,53,1.7924528301886793
+all time,E07000028,Incivilities,3,3,1.0
+all time,E07000028,Other,36,30,1.2
+all time,E07000028,Public Space,7,5,1.4
+all time,E07000028,Road Safety & Defects,426,203,2.0985221674876846
+all time,E07000028,Vehicles,12,12,1.0
+all time,E07000029,Abandoned Vehicles & Parking,29,27,1.0740740740740742
+all time,E07000029,Access,1,1,1.0
+all time,E07000029,Environmental Disruptions,14,14,1.0
+all time,E07000029,Environmental Health,159,89,1.7865168539325842
+all time,E07000029,Incivilities,5,5,1.0
+all time,E07000029,Other,72,50,1.44
+all time,E07000029,Public Space,5,5,1.0
+all time,E07000029,Road Safety & Defects,1026,432,2.375
+all time,E07000029,Vehicles,25,23,1.0869565217391304
+all time,E07000030,Abandoned Vehicles & Parking,8,7,1.1428571428571428
+all time,E07000030,Access,1,1,1.0
+all time,E07000030,Environmental Disruptions,6,6,1.0
+all time,E07000030,Environmental Health,55,18,3.0555555555555554
+all time,E07000030,Incivilities,1,1,1.0
+all time,E07000030,Other,28,21,1.3333333333333333
+all time,E07000030,Public Space,2,2,1.0
+all time,E07000030,Road Safety & Defects,291,142,2.0492957746478875
+all time,E07000030,Vehicles,5,5,1.0
+all time,E07000031,Abandoned Vehicles & Parking,22,21,1.0476190476190477
+all time,E07000031,Access,2,2,1.0
+all time,E07000031,Environmental Disruptions,16,12,1.3333333333333333
+all time,E07000031,Environmental Health,72,52,1.3846153846153846
+all time,E07000031,Incivilities,3,3,1.0
+all time,E07000031,Other,76,63,1.2063492063492063
+all time,E07000031,Public Space,5,5,1.0
+all time,E07000031,Road Safety & Defects,1049,445,2.357303370786517
+all time,E07000031,Vehicles,22,19,1.1578947368421053
+all time,E07000032,,15,15,1.0
+all time,E07000032,Abandoned Vehicles & Parking,68,59,1.152542372881356
+all time,E07000032,Access,3,3,1.0
+all time,E07000032,Environmental Disruptions,41,32,1.28125
+all time,E07000032,Environmental Health,200,105,1.9047619047619047
+all time,E07000032,Incivilities,11,7,1.5714285714285714
+all time,E07000032,Other,83,65,1.2769230769230768
+all time,E07000032,Public Space,16,11,1.4545454545454546
+all time,E07000032,Road Safety & Defects,739,341,2.167155425219941
+all time,E07000032,Vehicles,16,16,1.0
+all time,E07000033,,8,8,1.0
+all time,E07000033,Abandoned Vehicles & Parking,61,41,1.4878048780487805
+all time,E07000033,Environmental Disruptions,19,13,1.4615384615384615
+all time,E07000033,Environmental Health,172,92,1.8695652173913044
+all time,E07000033,Incivilities,5,3,1.6666666666666667
+all time,E07000033,Other,65,51,1.2745098039215685
+all time,E07000033,Public Space,14,10,1.4
+all time,E07000033,Road Safety & Defects,586,266,2.2030075187969924
+all time,E07000033,Vehicles,16,9,1.7777777777777777
+all time,E07000034,,13,12,1.0833333333333333
+all time,E07000034,Abandoned Vehicles & Parking,63,54,1.1666666666666667
+all time,E07000034,Access,2,2,1.0
+all time,E07000034,Environmental Disruptions,58,26,2.230769230769231
+all time,E07000034,Environmental Health,218,79,2.759493670886076
+all time,E07000034,Incivilities,32,21,1.5238095238095237
+all time,E07000034,Other,73,55,1.3272727272727274
+all time,E07000034,Public Space,12,10,1.2
+all time,E07000034,Road Safety & Defects,1199,227,5.28193832599119
+all time,E07000034,Vehicles,27,25,1.08
+all time,E07000035,,11,8,1.375
+all time,E07000035,Abandoned Vehicles & Parking,21,20,1.05
+all time,E07000035,Access,1,1,1.0
+all time,E07000035,Environmental Disruptions,36,25,1.44
+all time,E07000035,Environmental Health,120,58,2.0689655172413794
+all time,E07000035,Incivilities,14,4,3.5
+all time,E07000035,Other,79,50,1.58
+all time,E07000035,Public Space,6,5,1.2
+all time,E07000035,Road Safety & Defects,675,252,2.6785714285714284
+all time,E07000035,Vehicles,6,6,1.0
+all time,E07000036,,12,11,1.0909090909090908
+all time,E07000036,Abandoned Vehicles & Parking,60,50,1.2
+all time,E07000036,Access,1,1,1.0
+all time,E07000036,Environmental Disruptions,52,36,1.4444444444444444
+all time,E07000036,Environmental Health,325,128,2.5390625
+all time,E07000036,Incivilities,34,24,1.4166666666666667
+all time,E07000036,Other,111,78,1.4230769230769231
+all time,E07000036,Public Space,24,19,1.263157894736842
+all time,E07000036,Road Safety & Defects,780,395,1.9746835443037976
+all time,E07000036,Vehicles,38,34,1.1176470588235294
+all time,E07000037,,5,4,1.25
+all time,E07000037,Abandoned Vehicles & Parking,39,22,1.7727272727272727
+all time,E07000037,Access,1,1,1.0
+all time,E07000037,Environmental Disruptions,16,12,1.3333333333333333
+all time,E07000037,Environmental Health,90,66,1.3636363636363635
+all time,E07000037,Incivilities,3,2,1.5
+all time,E07000037,Other,48,41,1.170731707317073
+all time,E07000037,Public Space,8,7,1.1428571428571428
+all time,E07000037,Road Safety & Defects,644,326,1.9754601226993864
+all time,E07000037,Vehicles,25,23,1.0869565217391304
+all time,E07000038,,15,13,1.1538461538461537
+all time,E07000038,Abandoned Vehicles & Parking,33,27,1.2222222222222223
+all time,E07000038,Access,2,2,1.0
+all time,E07000038,Environmental Disruptions,60,28,2.142857142857143
+all time,E07000038,Environmental Health,235,82,2.8658536585365852
+all time,E07000038,Incivilities,13,7,1.8571428571428572
+all time,E07000038,Other,76,59,1.2881355932203389
+all time,E07000038,Public Space,18,9,2.0
+all time,E07000038,Road Safety & Defects,1626,372,4.370967741935484
+all time,E07000038,Vehicles,10,10,1.0
+all time,E07000039,,13,9,1.4444444444444444
+all time,E07000039,Abandoned Vehicles & Parking,52,31,1.6774193548387097
+all time,E07000039,Environmental Disruptions,30,28,1.0714285714285714
+all time,E07000039,Environmental Health,182,95,1.9157894736842105
+all time,E07000039,Incivilities,27,11,2.4545454545454546
+all time,E07000039,Other,76,60,1.2666666666666666
+all time,E07000039,Public Space,25,15,1.6666666666666667
+all time,E07000039,Road Safety & Defects,1036,451,2.2971175166297115
+all time,E07000039,Vehicles,18,17,1.0588235294117647
+all time,E07000040,,93,54,1.7222222222222223
+all time,E07000040,Abandoned Vehicles & Parking,78,59,1.3220338983050848
+all time,E07000040,Access,19,11,1.7272727272727273
+all time,E07000040,Environmental Disruptions,99,67,1.4776119402985075
+all time,E07000040,Environmental Health,393,192,2.046875
+all time,E07000040,Incivilities,11,10,1.1
+all time,E07000040,Other,193,123,1.5691056910569106
+all time,E07000040,Public Space,12,11,1.0909090909090908
+all time,E07000040,Road Safety & Defects,1245,486,2.5617283950617282
+all time,E07000040,Vehicles,53,42,1.2619047619047619
+all time,E07000041,,16,14,1.1428571428571428
+all time,E07000041,Abandoned Vehicles & Parking,63,52,1.2115384615384615
+all time,E07000041,Access,9,8,1.125
+all time,E07000041,Environmental Disruptions,46,36,1.2777777777777777
+all time,E07000041,Environmental Health,274,142,1.9295774647887325
+all time,E07000041,Incivilities,122,28,4.357142857142857
+all time,E07000041,Other,119,88,1.3522727272727273
+all time,E07000041,Public Space,9,9,1.0
+all time,E07000041,Road Safety & Defects,422,221,1.909502262443439
+all time,E07000041,Vehicles,51,39,1.3076923076923077
+all time,E07000042,,20,20,1.0
+all time,E07000042,Abandoned Vehicles & Parking,22,19,1.1578947368421053
+all time,E07000042,Access,7,7,1.0
+all time,E07000042,Environmental Disruptions,39,28,1.3928571428571428
+all time,E07000042,Environmental Health,170,77,2.207792207792208
+all time,E07000042,Incivilities,4,4,1.0
+all time,E07000042,Other,84,57,1.4736842105263157
+all time,E07000042,Public Space,6,5,1.2
+all time,E07000042,Road Safety & Defects,506,214,2.364485981308411
+all time,E07000042,Vehicles,29,17,1.7058823529411764
+all time,E07000043,,58,43,1.3488372093023255
+all time,E07000043,Abandoned Vehicles & Parking,103,73,1.4109589041095891
+all time,E07000043,Access,22,20,1.1
+all time,E07000043,Environmental Disruptions,138,97,1.422680412371134
+all time,E07000043,Environmental Health,686,327,2.0978593272171255
+all time,E07000043,Incivilities,42,20,2.1
+all time,E07000043,Other,166,138,1.2028985507246377
+all time,E07000043,Public Space,22,20,1.1
+all time,E07000043,Road Safety & Defects,941,493,1.9087221095334685
+all time,E07000043,Vehicles,58,42,1.380952380952381
+all time,E07000044,,51,35,1.457142857142857
+all time,E07000044,Abandoned Vehicles & Parking,56,34,1.6470588235294117
+all time,E07000044,Access,16,10,1.6
+all time,E07000044,Environmental Disruptions,64,46,1.391304347826087
+all time,E07000044,Environmental Health,361,143,2.5244755244755246
+all time,E07000044,Incivilities,19,10,1.9
+all time,E07000044,Other,139,78,1.7820512820512822
+all time,E07000044,Public Space,33,12,2.75
+all time,E07000044,Road Safety & Defects,629,298,2.110738255033557
+all time,E07000044,Vehicles,36,33,1.0909090909090908
+all time,E07000045,,72,45,1.6
+all time,E07000045,Abandoned Vehicles & Parking,83,60,1.3833333333333333
+all time,E07000045,Access,8,7,1.1428571428571428
+all time,E07000045,Environmental Disruptions,111,81,1.3703703703703705
+all time,E07000045,Environmental Health,343,183,1.8743169398907105
+all time,E07000045,Incivilities,21,14,1.5
+all time,E07000045,Other,137,117,1.170940170940171
+all time,E07000045,Public Space,7,7,1.0
+all time,E07000045,Road Safety & Defects,1054,513,2.05458089668616
+all time,E07000045,Vehicles,40,36,1.1111111111111112
+all time,E07000046,,68,24,2.8333333333333335
+all time,E07000046,Abandoned Vehicles & Parking,38,26,1.4615384615384615
+all time,E07000046,Access,11,7,1.5714285714285714
+all time,E07000046,Environmental Disruptions,83,41,2.024390243902439
+all time,E07000046,Environmental Health,529,121,4.371900826446281
+all time,E07000046,Incivilities,62,12,5.166666666666667
+all time,E07000046,Other,115,70,1.6428571428571428
+all time,E07000046,Public Space,94,11,8.545454545454545
+all time,E07000046,Road Safety & Defects,962,348,2.764367816091954
+all time,E07000046,Vehicles,42,28,1.5
+all time,E07000047,,11,11,1.0
+all time,E07000047,Abandoned Vehicles & Parking,8,8,1.0
+all time,E07000047,Access,2,2,1.0
+all time,E07000047,Environmental Disruptions,14,11,1.2727272727272727
+all time,E07000047,Environmental Health,136,74,1.837837837837838
+all time,E07000047,Incivilities,5,4,1.25
+all time,E07000047,Other,36,28,1.2857142857142858
+all time,E07000047,Public Space,5,5,1.0
+all time,E07000047,Road Safety & Defects,257,125,2.056
+all time,E07000047,Vehicles,8,8,1.0
+all time,E07000048,Abandoned Vehicles & Parking,18,18,1.0
+all time,E07000048,Access,2,1,2.0
+all time,E07000048,Environmental Disruptions,26,19,1.368421052631579
+all time,E07000048,Environmental Health,78,38,2.0526315789473686
+all time,E07000048,Incivilities,9,5,1.8
+all time,E07000048,Other,52,28,1.8571428571428572
+all time,E07000048,Public Space,11,9,1.2222222222222223
+all time,E07000048,Road Safety & Defects,251,133,1.887218045112782
+all time,E07000048,Vehicles,31,24,1.2916666666666667
+all time,E07000049,Abandoned Vehicles & Parking,10,9,1.1111111111111112
+all time,E07000049,Access,1,1,1.0
+all time,E07000049,Environmental Disruptions,40,31,1.2903225806451613
+all time,E07000049,Environmental Health,86,47,1.8297872340425532
+all time,E07000049,Incivilities,7,6,1.1666666666666667
+all time,E07000049,Other,57,40,1.425
+all time,E07000049,Public Space,7,7,1.0
+all time,E07000049,Road Safety & Defects,638,247,2.582995951417004
+all time,E07000049,Vehicles,19,17,1.1176470588235294
+all time,E07000050,Abandoned Vehicles & Parking,10,10,1.0
+all time,E07000050,Environmental Disruptions,15,10,1.5
+all time,E07000050,Environmental Health,36,28,1.2857142857142858
+all time,E07000050,Other,31,21,1.4761904761904763
+all time,E07000050,Public Space,2,2,1.0
+all time,E07000050,Road Safety & Defects,410,200,2.05
+all time,E07000050,Vehicles,8,8,1.0
+all time,E07000051,Environmental Disruptions,2,2,1.0
+all time,E07000051,Other,67,48,1.3958333333333333
+all time,E07000051,Road Safety & Defects,358,155,2.3096774193548386
+all time,E07000052,Abandoned Vehicles & Parking,20,14,1.4285714285714286
+all time,E07000052,Access,3,3,1.0
+all time,E07000052,Environmental Disruptions,17,15,1.1333333333333333
+all time,E07000052,Environmental Health,87,57,1.5263157894736843
+all time,E07000052,Incivilities,3,3,1.0
+all time,E07000052,Other,97,63,1.5396825396825398
+all time,E07000052,Public Space,2,2,1.0
+all time,E07000052,Road Safety & Defects,701,324,2.1635802469135803
+all time,E07000052,Vehicles,14,10,1.4
+all time,E07000053,Abandoned Vehicles & Parking,12,12,1.0
+all time,E07000053,Access,4,4,1.0
+all time,E07000053,Environmental Disruptions,9,7,1.2857142857142858
+all time,E07000053,Environmental Health,144,64,2.25
+all time,E07000053,Incivilities,6,3,2.0
+all time,E07000053,Other,53,38,1.394736842105263
+all time,E07000053,Public Space,12,11,1.0909090909090908
+all time,E07000053,Road Safety & Defects,205,127,1.6141732283464567
+all time,E07000053,Vehicles,17,15,1.1333333333333333
+all time,E07000061,Abandoned Vehicles & Parking,83,72,1.1527777777777777
+all time,E07000061,Access,89,76,1.1710526315789473
+all time,E07000061,Environmental Disruptions,176,123,1.4308943089430894
+all time,E07000061,Environmental Health,444,254,1.7480314960629921
+all time,E07000061,Incivilities,12,9,1.3333333333333333
+all time,E07000061,Other,130,96,1.3541666666666667
+all time,E07000061,Public Space,8,8,1.0
+all time,E07000061,Road Safety & Defects,2244,1071,2.0952380952380953
+all time,E07000061,Vehicles,21,21,1.0
+all time,E07000062,Abandoned Vehicles & Parking,112,76,1.4736842105263157
+all time,E07000062,Access,214,146,1.4657534246575343
+all time,E07000062,Environmental Disruptions,316,190,1.6631578947368422
+all time,E07000062,Environmental Health,794,428,1.855140186915888
+all time,E07000062,Incivilities,46,20,2.3
+all time,E07000062,Other,199,150,1.3266666666666667
+all time,E07000062,Public Space,24,19,1.263157894736842
+all time,E07000062,Road Safety & Defects,2271,1030,2.204854368932039
+all time,E07000062,Vehicles,82,68,1.2058823529411764
+all time,E07000063,Abandoned Vehicles & Parking,156,126,1.2380952380952381
+all time,E07000063,Access,375,243,1.5432098765432098
+all time,E07000063,Environmental Disruptions,541,372,1.4543010752688172
+all time,E07000063,Environmental Health,1151,630,1.826984126984127
+all time,E07000063,Incivilities,57,35,1.6285714285714286
+all time,E07000063,Other,221,185,1.1945945945945946
+all time,E07000063,Public Space,46,33,1.393939393939394
+all time,E07000063,Road Safety & Defects,3714,2048,1.8134765625
+all time,E07000063,Vehicles,70,60,1.1666666666666667
+all time,E07000064,Abandoned Vehicles & Parking,122,107,1.1401869158878504
+all time,E07000064,Access,420,279,1.5053763440860215
+all time,E07000064,Environmental Disruptions,467,315,1.4825396825396826
+all time,E07000064,Environmental Health,1975,1070,1.8457943925233644
+all time,E07000064,Incivilities,58,46,1.2608695652173914
+all time,E07000064,Other,499,345,1.4463768115942028
+all time,E07000064,Public Space,33,16,2.0625
+all time,E07000064,Road Safety & Defects,4728,2356,2.00679117147708
+all time,E07000064,Vehicles,75,64,1.171875
+all time,E07000065,Abandoned Vehicles & Parking,138,124,1.1129032258064515
+all time,E07000065,Access,874,371,2.3557951482479784
+all time,E07000065,Environmental Disruptions,769,498,1.5441767068273093
+all time,E07000065,Environmental Health,1881,976,1.9272540983606556
+all time,E07000065,Incivilities,35,25,1.4
+all time,E07000065,Other,390,269,1.449814126394052
+all time,E07000065,Public Space,7,7,1.0
+all time,E07000065,Road Safety & Defects,8610,3498,2.4614065180102918
+all time,E07000065,Vehicles,194,174,1.1149425287356323
+all time,E07000066,Abandoned Vehicles & Parking,110,99,1.1111111111111112
+all time,E07000066,Access,17,15,1.1333333333333333
+all time,E07000066,Environmental Disruptions,66,54,1.2222222222222223
+all time,E07000066,Environmental Health,165,95,1.736842105263158
+all time,E07000066,Incivilities,22,19,1.1578947368421053
+all time,E07000066,Other,104,91,1.1428571428571428
+all time,E07000066,Public Space,32,25,1.28
+all time,E07000066,Road Safety & Defects,1169,592,1.974662162162162
+all time,E07000066,Vehicles,46,41,1.1219512195121952
+all time,E07000067,Abandoned Vehicles & Parking,69,57,1.2105263157894737
+all time,E07000067,Access,14,11,1.2727272727272727
+all time,E07000067,Environmental Disruptions,13,11,1.1818181818181819
+all time,E07000067,Environmental Health,52,38,1.368421052631579
+all time,E07000067,Incivilities,13,8,1.625
+all time,E07000067,Other,67,61,1.098360655737705
+all time,E07000067,Public Space,12,10,1.2
+all time,E07000067,Road Safety & Defects,759,421,1.8028503562945368
+all time,E07000067,Vehicles,32,30,1.0666666666666667
+all time,E07000068,Abandoned Vehicles & Parking,29,22,1.3181818181818181
+all time,E07000068,Access,9,7,1.2857142857142858
+all time,E07000068,Environmental Disruptions,18,14,1.2857142857142858
+all time,E07000068,Environmental Health,213,49,4.346938775510204
+all time,E07000068,Incivilities,12,8,1.5
+all time,E07000068,Other,57,33,1.7272727272727273
+all time,E07000068,Public Space,6,6,1.0
+all time,E07000068,Road Safety & Defects,1107,302,3.665562913907285
+all time,E07000068,Vehicles,28,24,1.1666666666666667
+all time,E07000069,Abandoned Vehicles & Parking,57,45,1.2666666666666666
+all time,E07000069,Access,4,3,1.3333333333333333
+all time,E07000069,Environmental Disruptions,14,9,1.5555555555555556
+all time,E07000069,Environmental Health,138,37,3.72972972972973
+all time,E07000069,Incivilities,9,7,1.2857142857142858
+all time,E07000069,Other,47,40,1.175
+all time,E07000069,Public Space,7,7,1.0
+all time,E07000069,Road Safety & Defects,734,287,2.557491289198606
+all time,E07000069,Vehicles,22,13,1.6923076923076923
+all time,E07000070,Abandoned Vehicles & Parking,68,60,1.1333333333333333
+all time,E07000070,Access,23,17,1.3529411764705883
+all time,E07000070,Environmental Disruptions,44,37,1.1891891891891893
+all time,E07000070,Environmental Health,173,77,2.2467532467532467
+all time,E07000070,Incivilities,16,11,1.4545454545454546
+all time,E07000070,Other,109,90,1.211111111111111
+all time,E07000070,Public Space,23,15,1.5333333333333334
+all time,E07000070,Road Safety & Defects,1445,587,2.4616695059625213
+all time,E07000070,Vehicles,46,42,1.0952380952380953
+all time,E07000071,Abandoned Vehicles & Parking,142,118,1.2033898305084745
+all time,E07000071,Access,29,20,1.45
+all time,E07000071,Environmental Disruptions,77,51,1.5098039215686274
+all time,E07000071,Environmental Health,396,148,2.675675675675676
+all time,E07000071,Incivilities,89,34,2.6176470588235294
+all time,E07000071,Other,206,133,1.5488721804511278
+all time,E07000071,Public Space,23,17,1.3529411764705883
+all time,E07000071,Road Safety & Defects,2641,767,3.4432855280312906
+all time,E07000071,Vehicles,74,53,1.3962264150943395
+all time,E07000072,Abandoned Vehicles & Parking,73,64,1.140625
+all time,E07000072,Access,11,10,1.1
+all time,E07000072,Environmental Disruptions,28,24,1.1666666666666667
+all time,E07000072,Environmental Health,177,106,1.669811320754717
+all time,E07000072,Incivilities,7,6,1.1666666666666667
+all time,E07000072,Other,84,69,1.2173913043478262
+all time,E07000072,Public Space,16,14,1.1428571428571428
+all time,E07000072,Road Safety & Defects,1331,586,2.2713310580204777
+all time,E07000072,Vehicles,63,50,1.26
+all time,E07000073,Abandoned Vehicles & Parking,32,26,1.2307692307692308
+all time,E07000073,Access,9,6,1.5
+all time,E07000073,Environmental Disruptions,12,11,1.0909090909090908
+all time,E07000073,Environmental Health,109,53,2.056603773584906
+all time,E07000073,Incivilities,4,3,1.3333333333333333
+all time,E07000073,Other,75,52,1.4423076923076923
+all time,E07000073,Public Space,21,11,1.9090909090909092
+all time,E07000073,Road Safety & Defects,431,232,1.8577586206896552
+all time,E07000073,Vehicles,32,25,1.28
+all time,E07000074,Abandoned Vehicles & Parking,11,11,1.0
+all time,E07000074,Access,2,2,1.0
+all time,E07000074,Environmental Disruptions,9,9,1.0
+all time,E07000074,Environmental Health,30,25,1.2
+all time,E07000074,Incivilities,2,2,1.0
+all time,E07000074,Other,23,20,1.15
+all time,E07000074,Public Space,1,1,1.0
+all time,E07000074,Road Safety & Defects,328,127,2.5826771653543306
+all time,E07000074,Vehicles,8,8,1.0
+all time,E07000075,Abandoned Vehicles & Parking,53,38,1.394736842105263
+all time,E07000075,Access,19,15,1.2666666666666666
+all time,E07000075,Environmental Disruptions,31,28,1.1071428571428572
+all time,E07000075,Environmental Health,90,54,1.6666666666666667
+all time,E07000075,Incivilities,21,8,2.625
+all time,E07000075,Other,72,62,1.1612903225806452
+all time,E07000075,Public Space,15,11,1.3636363636363635
+all time,E07000075,Road Safety & Defects,830,403,2.0595533498759306
+all time,E07000075,Vehicles,34,30,1.1333333333333333
+all time,E07000076,Abandoned Vehicles & Parking,29,26,1.1153846153846154
+all time,E07000076,Access,10,7,1.4285714285714286
+all time,E07000076,Environmental Disruptions,30,24,1.25
+all time,E07000076,Environmental Health,89,67,1.328358208955224
+all time,E07000076,Incivilities,11,8,1.375
+all time,E07000076,Other,77,65,1.1846153846153846
+all time,E07000076,Public Space,6,3,2.0
+all time,E07000076,Road Safety & Defects,748,374,2.0
+all time,E07000076,Vehicles,26,20,1.3
+all time,E07000077,Abandoned Vehicles & Parking,20,19,1.0526315789473684
+all time,E07000077,Access,2,2,1.0
+all time,E07000077,Environmental Disruptions,27,22,1.2272727272727273
+all time,E07000077,Environmental Health,43,34,1.2647058823529411
+all time,E07000077,Incivilities,5,5,1.0
+all time,E07000077,Other,58,42,1.380952380952381
+all time,E07000077,Public Space,2,2,1.0
+all time,E07000077,Road Safety & Defects,933,422,2.2109004739336493
+all time,E07000077,Vehicles,16,13,1.2307692307692308
+all time,E07000078,Abandoned Vehicles & Parking,123,95,1.2947368421052632
+all time,E07000078,Access,16,15,1.0666666666666667
+all time,E07000078,Environmental Disruptions,174,103,1.6893203883495145
+all time,E07000078,Environmental Health,764,332,2.3012048192771086
+all time,E07000078,Incivilities,215,78,2.7564102564102564
+all time,E07000078,Other,276,202,1.3663366336633664
+all time,E07000078,Public Space,137,62,2.2096774193548385
+all time,E07000078,Road Safety & Defects,3233,1021,3.166503428011753
+all time,E07000078,Vehicles,76,62,1.2258064516129032
+all time,E07000079,Abandoned Vehicles & Parking,13,12,1.0833333333333333
+all time,E07000079,Access,25,15,1.6666666666666667
+all time,E07000079,Environmental Disruptions,25,22,1.1363636363636365
+all time,E07000079,Environmental Health,357,67,5.3283582089552235
+all time,E07000079,Incivilities,26,5,5.2
+all time,E07000079,Other,84,55,1.5272727272727273
+all time,E07000079,Public Space,4,4,1.0
+all time,E07000079,Road Safety & Defects,1578,523,3.017208413001912
+all time,E07000079,Vehicles,13,13,1.0
+all time,E07000080,Abandoned Vehicles & Parking,17,14,1.2142857142857142
+all time,E07000080,Access,22,15,1.4666666666666666
+all time,E07000080,Environmental Disruptions,14,13,1.0769230769230769
+all time,E07000080,Environmental Health,51,42,1.2142857142857142
+all time,E07000080,Incivilities,6,4,1.5
+all time,E07000080,Other,64,54,1.1851851851851851
+all time,E07000080,Public Space,3,3,1.0
+all time,E07000080,Road Safety & Defects,766,316,2.4240506329113924
+all time,E07000080,Vehicles,14,14,1.0
+all time,E07000081,Abandoned Vehicles & Parking,67,56,1.1964285714285714
+all time,E07000081,Access,11,9,1.2222222222222223
+all time,E07000081,Environmental Disruptions,36,26,1.3846153846153846
+all time,E07000081,Environmental Health,165,88,1.875
+all time,E07000081,Incivilities,6,4,1.5
+all time,E07000081,Other,121,85,1.423529411764706
+all time,E07000081,Public Space,33,20,1.65
+all time,E07000081,Road Safety & Defects,830,317,2.6182965299684544
+all time,E07000081,Vehicles,74,53,1.3962264150943395
+all time,E07000082,Abandoned Vehicles & Parking,50,43,1.1627906976744187
+all time,E07000082,Access,27,24,1.125
+all time,E07000082,Environmental Disruptions,48,37,1.2972972972972974
+all time,E07000082,Environmental Health,175,89,1.9662921348314606
+all time,E07000082,Incivilities,6,4,1.5
+all time,E07000082,Other,102,80,1.275
+all time,E07000082,Public Space,12,12,1.0
+all time,E07000082,Road Safety & Defects,1300,502,2.589641434262948
+all time,E07000082,Vehicles,28,25,1.12
+all time,E07000083,Abandoned Vehicles & Parking,37,33,1.121212121212121
+all time,E07000083,Access,26,13,2.0
+all time,E07000083,Environmental Disruptions,53,35,1.5142857142857142
+all time,E07000083,Environmental Health,274,107,2.560747663551402
+all time,E07000083,Incivilities,7,7,1.0
+all time,E07000083,Other,118,86,1.372093023255814
+all time,E07000083,Public Space,40,37,1.0810810810810811
+all time,E07000083,Road Safety & Defects,1250,541,2.310536044362292
+all time,E07000083,Vehicles,18,18,1.0
+all time,E07000084,Abandoned Vehicles & Parking,102,72,1.4166666666666667
+all time,E07000084,Access,22,17,1.2941176470588236
+all time,E07000084,Environmental Disruptions,153,93,1.6451612903225807
+all time,E07000084,Environmental Health,521,210,2.480952380952381
+all time,E07000084,Incivilities,786,48,16.375
+all time,E07000084,Other,329,192,1.7135416666666667
+all time,E07000084,Public Space,71,45,1.5777777777777777
+all time,E07000084,Road Safety & Defects,1974,696,2.836206896551724
+all time,E07000084,Vehicles,101,72,1.4027777777777777
+all time,E07000085,Abandoned Vehicles & Parking,8,8,1.0
+all time,E07000085,Access,6,6,1.0
+all time,E07000085,Environmental Disruptions,48,42,1.1428571428571428
+all time,E07000085,Environmental Health,395,200,1.975
+all time,E07000085,Incivilities,10,10,1.0
+all time,E07000085,Other,138,113,1.2212389380530972
+all time,E07000085,Public Space,2,2,1.0
+all time,E07000085,Road Safety & Defects,1318,572,2.304195804195804
+all time,E07000085,Vehicles,80,65,1.2307692307692308
+all time,E07000086,Abandoned Vehicles & Parking,98,72,1.3611111111111112
+all time,E07000086,Access,11,10,1.1
+all time,E07000086,Environmental Disruptions,50,44,1.1363636363636365
+all time,E07000086,Environmental Health,236,117,2.017094017094017
+all time,E07000086,Incivilities,21,18,1.1666666666666667
+all time,E07000086,Other,108,77,1.4025974025974026
+all time,E07000086,Public Space,35,19,1.8421052631578947
+all time,E07000086,Road Safety & Defects,960,410,2.341463414634146
+all time,E07000086,Vehicles,57,48,1.1875
+all time,E07000087,Abandoned Vehicles & Parking,81,66,1.2272727272727273
+all time,E07000087,Access,2,2,1.0
+all time,E07000087,Environmental Disruptions,64,48,1.3333333333333333
+all time,E07000087,Environmental Health,110,64,1.71875
+all time,E07000087,Incivilities,25,17,1.4705882352941178
+all time,E07000087,Other,105,75,1.4
+all time,E07000087,Public Space,28,17,1.6470588235294117
+all time,E07000087,Road Safety & Defects,636,279,2.2795698924731185
+all time,E07000087,Vehicles,25,21,1.1904761904761905
+all time,E07000088,Abandoned Vehicles & Parking,121,101,1.198019801980198
+all time,E07000088,Access,2,2,1.0
+all time,E07000088,Environmental Disruptions,15,13,1.1538461538461537
+all time,E07000088,Environmental Health,111,55,2.018181818181818
+all time,E07000088,Incivilities,6,6,1.0
+all time,E07000088,Other,60,48,1.25
+all time,E07000088,Public Space,21,9,2.3333333333333335
+all time,E07000088,Road Safety & Defects,170,106,1.6037735849056605
+all time,E07000088,Vehicles,49,37,1.3243243243243243
+all time,E07000089,Abandoned Vehicles & Parking,242,209,1.1578947368421053
+all time,E07000089,Access,45,35,1.2857142857142858
+all time,E07000089,Environmental Disruptions,100,77,1.2987012987012987
+all time,E07000089,Environmental Health,1855,1032,1.7974806201550388
+all time,E07000089,Incivilities,110,82,1.3414634146341464
+all time,E07000089,Other,863,652,1.3236196319018405
+all time,E07000089,Public Space,8,7,1.1428571428571428
+all time,E07000089,Road Safety & Defects,3584,1950,1.837948717948718
+all time,E07000089,Vehicles,592,502,1.1792828685258965
+all time,E07000090,Abandoned Vehicles & Parking,74,62,1.1935483870967742
+all time,E07000090,Environmental Disruptions,31,24,1.2916666666666667
+all time,E07000090,Environmental Health,149,84,1.7738095238095237
+all time,E07000090,Incivilities,21,12,1.75
+all time,E07000090,Other,73,64,1.140625
+all time,E07000090,Public Space,16,14,1.1428571428571428
+all time,E07000090,Road Safety & Defects,388,225,1.7244444444444444
+all time,E07000090,Vehicles,52,35,1.4857142857142858
+all time,E07000091,Abandoned Vehicles & Parking,118,71,1.6619718309859155
+all time,E07000091,Access,12,11,1.0909090909090908
+all time,E07000091,Environmental Disruptions,112,77,1.4545454545454546
+all time,E07000091,Environmental Health,279,121,2.3057851239669422
+all time,E07000091,Incivilities,45,24,1.875
+all time,E07000091,Other,196,131,1.4961832061068703
+all time,E07000091,Public Space,10,10,1.0
+all time,E07000091,Road Safety & Defects,2046,757,2.702774108322325
+all time,E07000091,Vehicles,62,47,1.3191489361702127
+all time,E07000092,Abandoned Vehicles & Parking,62,51,1.2156862745098038
+all time,E07000092,Access,3,3,1.0
+all time,E07000092,Environmental Disruptions,38,28,1.3571428571428572
+all time,E07000092,Environmental Health,185,96,1.9270833333333333
+all time,E07000092,Incivilities,27,20,1.35
+all time,E07000092,Other,92,67,1.373134328358209
+all time,E07000092,Public Space,11,11,1.0
+all time,E07000092,Road Safety & Defects,791,306,2.584967320261438
+all time,E07000092,Vehicles,39,33,1.1818181818181819
+all time,E07000093,Abandoned Vehicles & Parking,68,58,1.1724137931034482
+all time,E07000093,Access,20,8,2.5
+all time,E07000093,Environmental Disruptions,90,55,1.6363636363636365
+all time,E07000093,Environmental Health,193,114,1.6929824561403508
+all time,E07000093,Incivilities,14,11,1.2727272727272727
+all time,E07000093,Other,118,92,1.2826086956521738
+all time,E07000093,Public Space,21,14,1.5
+all time,E07000093,Road Safety & Defects,1488,561,2.6524064171122994
+all time,E07000093,Vehicles,40,38,1.0526315789473684
+all time,E07000094,Abandoned Vehicles & Parking,66,57,1.1578947368421053
+all time,E07000094,Access,19,10,1.9
+all time,E07000094,Environmental Disruptions,108,78,1.3846153846153846
+all time,E07000094,Environmental Health,422,190,2.221052631578947
+all time,E07000094,Incivilities,40,19,2.1052631578947367
+all time,E07000094,Other,194,150,1.2933333333333332
+all time,E07000094,Public Space,33,19,1.736842105263158
+all time,E07000094,Road Safety & Defects,2236,860,2.6
+all time,E07000094,Vehicles,48,32,1.5
+all time,E07000095,Abandoned Vehicles & Parking,56,47,1.1914893617021276
+all time,E07000095,Access,3,3,1.0
+all time,E07000095,Environmental Disruptions,25,22,1.1363636363636365
+all time,E07000095,Environmental Health,137,75,1.8266666666666667
+all time,E07000095,Incivilities,8,7,1.1428571428571428
+all time,E07000095,Other,93,62,1.5
+all time,E07000095,Public Space,7,6,1.1666666666666667
+all time,E07000095,Road Safety & Defects,661,307,2.1530944625407167
+all time,E07000095,Vehicles,53,43,1.2325581395348837
+all time,E07000096,Abandoned Vehicles & Parking,169,132,1.2803030303030303
+all time,E07000096,Access,25,20,1.25
+all time,E07000096,Environmental Disruptions,161,107,1.5046728971962617
+all time,E07000096,Environmental Health,642,241,2.663900414937759
+all time,E07000096,Incivilities,67,27,2.4814814814814814
+all time,E07000096,Other,260,185,1.4054054054054055
+all time,E07000096,Public Space,47,36,1.3055555555555556
+all time,E07000096,Road Safety & Defects,3463,1190,2.9100840336134453
+all time,E07000096,Vehicles,124,101,1.2277227722772277
+all time,E07000098,Abandoned Vehicles & Parking,88,72,1.2222222222222223
+all time,E07000098,Access,16,14,1.1428571428571428
+all time,E07000098,Environmental Disruptions,151,125,1.208
+all time,E07000098,Environmental Health,422,197,2.1421319796954315
+all time,E07000098,Incivilities,25,18,1.3888888888888888
+all time,E07000098,Other,189,141,1.3404255319148937
+all time,E07000098,Public Space,31,27,1.1481481481481481
+all time,E07000098,Road Safety & Defects,2134,904,2.3606194690265485
+all time,E07000098,Vehicles,142,104,1.3653846153846154
+all time,E07000099,Abandoned Vehicles & Parking,132,104,1.2692307692307692
+all time,E07000099,Access,11,10,1.1
+all time,E07000099,Environmental Disruptions,133,90,1.4777777777777779
+all time,E07000099,Environmental Health,559,231,2.41991341991342
+all time,E07000099,Incivilities,76,34,2.235294117647059
+all time,E07000099,Other,235,159,1.4779874213836477
+all time,E07000099,Public Space,57,39,1.4615384615384615
+all time,E07000099,Road Safety & Defects,2056,777,2.6460746460746463
+all time,E07000099,Vehicles,136,109,1.2477064220183487
+all time,E07000102,,10,9,1.1111111111111112
+all time,E07000102,Abandoned Vehicles & Parking,80,67,1.1940298507462686
+all time,E07000102,Access,20,16,1.25
+all time,E07000102,Environmental Disruptions,103,62,1.6612903225806452
+all time,E07000102,Environmental Health,546,189,2.888888888888889
+all time,E07000102,Incivilities,89,21,4.238095238095238
+all time,E07000102,Other,179,103,1.7378640776699028
+all time,E07000102,Public Space,39,17,2.2941176470588234
+all time,E07000102,Road Safety & Defects,1528,565,2.704424778761062
+all time,E07000102,Vehicles,188,136,1.3823529411764706
+all time,E07000103,Abandoned Vehicles & Parking,74,62,1.1935483870967742
+all time,E07000103,Access,16,10,1.6
+all time,E07000103,Environmental Disruptions,113,44,2.5681818181818183
+all time,E07000103,Environmental Health,510,113,4.513274336283186
+all time,E07000103,Incivilities,53,19,2.789473684210526
+all time,E07000103,Other,155,93,1.6666666666666667
+all time,E07000103,Public Space,49,22,2.227272727272727
+all time,E07000103,Road Safety & Defects,1298,354,3.6666666666666665
+all time,E07000103,Vehicles,112,86,1.302325581395349
+all time,E07000105,Abandoned Vehicles & Parking,104,74,1.4054054054054055
+all time,E07000105,Access,1,1,1.0
+all time,E07000105,Environmental Disruptions,57,48,1.1875
+all time,E07000105,Environmental Health,313,148,2.114864864864865
+all time,E07000105,Incivilities,19,15,1.2666666666666666
+all time,E07000105,Other,149,119,1.2521008403361344
+all time,E07000105,Public Space,30,20,1.5
+all time,E07000105,Road Safety & Defects,1306,483,2.7039337474120084
+all time,E07000105,Vehicles,51,41,1.2439024390243902
+all time,E07000106,Abandoned Vehicles & Parking,69,49,1.4081632653061225
+all time,E07000106,Access,7,3,2.3333333333333335
+all time,E07000106,Environmental Disruptions,28,19,1.4736842105263157
+all time,E07000106,Environmental Health,386,170,2.2705882352941176
+all time,E07000106,Incivilities,56,38,1.4736842105263157
+all time,E07000106,Other,160,105,1.5238095238095237
+all time,E07000106,Public Space,57,29,1.9655172413793103
+all time,E07000106,Road Safety & Defects,1819,639,2.8466353677621283
+all time,E07000106,Vehicles,57,46,1.2391304347826086
+all time,E07000107,Abandoned Vehicles & Parking,35,26,1.3461538461538463
+all time,E07000107,Environmental Disruptions,27,18,1.5
+all time,E07000107,Environmental Health,505,88,5.738636363636363
+all time,E07000107,Incivilities,45,12,3.75
+all time,E07000107,Other,75,55,1.3636363636363635
+all time,E07000107,Public Space,17,12,1.4166666666666667
+all time,E07000107,Road Safety & Defects,1407,308,4.568181818181818
+all time,E07000107,Vehicles,34,31,1.096774193548387
+all time,E07000108,Abandoned Vehicles & Parking,26,24,1.0833333333333333
+all time,E07000108,Access,2,2,1.0
+all time,E07000108,Environmental Disruptions,18,13,1.3846153846153846
+all time,E07000108,Environmental Health,89,58,1.5344827586206897
+all time,E07000108,Incivilities,9,6,1.5
+all time,E07000108,Other,77,61,1.2622950819672132
+all time,E07000108,Public Space,10,10,1.0
+all time,E07000108,Road Safety & Defects,533,248,2.149193548387097
+all time,E07000108,Vehicles,53,45,1.1777777777777778
+all time,E07000109,Abandoned Vehicles & Parking,232,35,6.628571428571429
+all time,E07000109,Environmental Disruptions,19,18,1.0555555555555556
+all time,E07000109,Environmental Health,308,116,2.6551724137931036
+all time,E07000109,Incivilities,14,11,1.2727272727272727
+all time,E07000109,Other,69,54,1.2777777777777777
+all time,E07000109,Public Space,8,6,1.3333333333333333
+all time,E07000109,Road Safety & Defects,466,232,2.0086206896551726
+all time,E07000109,Vehicles,55,39,1.4102564102564104
+all time,E07000110,Abandoned Vehicles & Parking,41,35,1.1714285714285715
+all time,E07000110,Access,1,1,1.0
+all time,E07000110,Environmental Disruptions,61,44,1.3863636363636365
+all time,E07000110,Environmental Health,182,99,1.8383838383838385
+all time,E07000110,Incivilities,14,8,1.75
+all time,E07000110,Other,90,75,1.2
+all time,E07000110,Public Space,11,10,1.1
+all time,E07000110,Road Safety & Defects,1252,550,2.2763636363636364
+all time,E07000110,Vehicles,43,39,1.1025641025641026
+all time,E07000111,Abandoned Vehicles & Parking,31,27,1.1481481481481481
+all time,E07000111,Access,1,1,1.0
+all time,E07000111,Environmental Disruptions,75,62,1.2096774193548387
+all time,E07000111,Environmental Health,801,217,3.6912442396313363
+all time,E07000111,Incivilities,47,24,1.9583333333333333
+all time,E07000111,Other,272,81,3.3580246913580245
+all time,E07000111,Public Space,40,13,3.076923076923077
+all time,E07000111,Road Safety & Defects,1864,542,3.4391143911439115
+all time,E07000111,Vehicles,91,66,1.378787878787879
+all time,E07000112,Abandoned Vehicles & Parking,46,40,1.15
+all time,E07000112,Access,6,5,1.2
+all time,E07000112,Environmental Disruptions,48,43,1.1162790697674418
+all time,E07000112,Environmental Health,209,110,1.9
+all time,E07000112,Incivilities,24,17,1.411764705882353
+all time,E07000112,Other,134,90,1.488888888888889
+all time,E07000112,Public Space,21,17,1.2352941176470589
+all time,E07000112,Road Safety & Defects,1059,399,2.654135338345865
+all time,E07000112,Vehicles,57,50,1.14
+all time,E07000113,Abandoned Vehicles & Parking,67,50,1.34
+all time,E07000113,Environmental Disruptions,47,39,1.205128205128205
+all time,E07000113,Environmental Health,415,173,2.398843930635838
+all time,E07000113,Incivilities,49,26,1.8846153846153846
+all time,E07000113,Other,116,91,1.2747252747252746
+all time,E07000113,Public Space,62,26,2.3846153846153846
+all time,E07000113,Road Safety & Defects,1055,401,2.630922693266833
+all time,E07000113,Vehicles,43,39,1.1025641025641026
+all time,E07000114,Abandoned Vehicles & Parking,203,139,1.460431654676259
+all time,E07000114,Access,2,2,1.0
+all time,E07000114,Environmental Disruptions,64,53,1.2075471698113207
+all time,E07000114,Environmental Health,1614,369,4.373983739837398
+all time,E07000114,Incivilities,86,48,1.7916666666666667
+all time,E07000114,Other,245,141,1.7375886524822695
+all time,E07000114,Public Space,91,40,2.275
+all time,E07000114,Road Safety & Defects,1579,484,3.262396694214876
+all time,E07000114,Vehicles,219,109,2.0091743119266057
+all time,E07000115,Abandoned Vehicles & Parking,58,37,1.5675675675675675
+all time,E07000115,Access,1,1,1.0
+all time,E07000115,Environmental Disruptions,43,31,1.3870967741935485
+all time,E07000115,Environmental Health,175,96,1.8229166666666667
+all time,E07000115,Incivilities,33,14,2.357142857142857
+all time,E07000115,Other,126,76,1.6578947368421053
+all time,E07000115,Public Space,21,14,1.5
+all time,E07000115,Road Safety & Defects,857,365,2.347945205479452
+all time,E07000115,Vehicles,54,46,1.173913043478261
+all time,E07000116,Abandoned Vehicles & Parking,64,47,1.3617021276595744
+all time,E07000116,Access,2,2,1.0
+all time,E07000116,Environmental Disruptions,29,25,1.16
+all time,E07000116,Environmental Health,355,128,2.7734375
+all time,E07000116,Incivilities,60,20,3.0
+all time,E07000116,Other,139,101,1.3762376237623761
+all time,E07000116,Public Space,15,11,1.3636363636363635
+all time,E07000116,Road Safety & Defects,1353,491,2.7556008146639512
+all time,E07000116,Vehicles,65,42,1.5476190476190477
+all time,E07000117,Abandoned Vehicles & Parking,43,27,1.5925925925925926
+all time,E07000117,Access,1,1,1.0
+all time,E07000117,Environmental Disruptions,23,19,1.2105263157894737
+all time,E07000117,Environmental Health,126,64,1.96875
+all time,E07000117,Incivilities,4,4,1.0
+all time,E07000117,Other,64,50,1.28
+all time,E07000117,Public Space,9,9,1.0
+all time,E07000117,Road Safety & Defects,353,168,2.1011904761904763
+all time,E07000117,Vehicles,25,23,1.0869565217391304
+all time,E07000118,Abandoned Vehicles & Parking,60,50,1.2
+all time,E07000118,Environmental Disruptions,82,53,1.5471698113207548
+all time,E07000118,Environmental Health,294,96,3.0625
+all time,E07000118,Incivilities,60,15,4.0
+all time,E07000118,Other,117,92,1.2717391304347827
+all time,E07000118,Public Space,27,12,2.25
+all time,E07000118,Road Safety & Defects,1309,445,2.9415730337078654
+all time,E07000118,Vehicles,27,25,1.08
+all time,E07000119,Abandoned Vehicles & Parking,29,28,1.0357142857142858
+all time,E07000119,Access,4,4,1.0
+all time,E07000119,Environmental Disruptions,54,48,1.125
+all time,E07000119,Environmental Health,229,112,2.044642857142857
+all time,E07000119,Incivilities,6,6,1.0
+all time,E07000119,Other,101,78,1.294871794871795
+all time,E07000119,Public Space,16,12,1.3333333333333333
+all time,E07000119,Road Safety & Defects,1133,453,2.501103752759382
+all time,E07000119,Vehicles,26,24,1.0833333333333333
+all time,E07000120,Abandoned Vehicles & Parking,25,24,1.0416666666666667
+all time,E07000120,Environmental Disruptions,14,13,1.0769230769230769
+all time,E07000120,Environmental Health,168,99,1.696969696969697
+all time,E07000120,Incivilities,7,7,1.0
+all time,E07000120,Other,49,46,1.065217391304348
+all time,E07000120,Public Space,5,5,1.0
+all time,E07000120,Road Safety & Defects,507,247,2.0526315789473686
+all time,E07000120,Vehicles,28,27,1.037037037037037
+all time,E07000121,Abandoned Vehicles & Parking,71,63,1.126984126984127
+all time,E07000121,Access,1,1,1.0
+all time,E07000121,Environmental Disruptions,150,114,1.3157894736842106
+all time,E07000121,Environmental Health,575,271,2.121771217712177
+all time,E07000121,Incivilities,88,38,2.3157894736842106
+all time,E07000121,Other,255,185,1.3783783783783783
+all time,E07000121,Public Space,74,52,1.4230769230769231
+all time,E07000121,Road Safety & Defects,2068,932,2.218884120171674
+all time,E07000121,Vehicles,56,37,1.5135135135135136
+all time,E07000122,Abandoned Vehicles & Parking,22,19,1.1578947368421053
+all time,E07000122,Environmental Disruptions,15,14,1.0714285714285714
+all time,E07000122,Environmental Health,117,60,1.95
+all time,E07000122,Incivilities,2,2,1.0
+all time,E07000122,Other,68,50,1.36
+all time,E07000122,Public Space,9,9,1.0
+all time,E07000122,Road Safety & Defects,450,212,2.1226415094339623
+all time,E07000122,Vehicles,26,23,1.1304347826086956
+all time,E07000123,Abandoned Vehicles & Parking,108,59,1.8305084745762712
+all time,E07000123,Access,1,1,1.0
+all time,E07000123,Environmental Disruptions,99,64,1.546875
+all time,E07000123,Environmental Health,634,254,2.4960629921259843
+all time,E07000123,Incivilities,37,17,2.176470588235294
+all time,E07000123,Other,138,111,1.2432432432432432
+all time,E07000123,Public Space,60,34,1.7647058823529411
+all time,E07000123,Road Safety & Defects,976,424,2.30188679245283
+all time,E07000123,Vehicles,35,33,1.0606060606060606
+all time,E07000124,Abandoned Vehicles & Parking,19,17,1.1176470588235294
+all time,E07000124,Environmental Disruptions,24,21,1.1428571428571428
+all time,E07000124,Environmental Health,47,39,1.205128205128205
+all time,E07000124,Incivilities,3,3,1.0
+all time,E07000124,Other,48,42,1.1428571428571428
+all time,E07000124,Public Space,7,4,1.75
+all time,E07000124,Road Safety & Defects,1023,350,2.922857142857143
+all time,E07000124,Vehicles,14,12,1.1666666666666667
+all time,E07000125,Abandoned Vehicles & Parking,77,39,1.9743589743589745
+all time,E07000125,Environmental Disruptions,36,25,1.44
+all time,E07000125,Environmental Health,280,121,2.3140495867768593
+all time,E07000125,Incivilities,12,9,1.3333333333333333
+all time,E07000125,Other,68,52,1.3076923076923077
+all time,E07000125,Public Space,7,6,1.1666666666666667
+all time,E07000125,Road Safety & Defects,689,294,2.3435374149659864
+all time,E07000125,Vehicles,30,21,1.4285714285714286
+all time,E07000126,Abandoned Vehicles & Parking,67,53,1.2641509433962264
+all time,E07000126,Access,1,1,1.0
+all time,E07000126,Environmental Disruptions,53,39,1.358974358974359
+all time,E07000126,Environmental Health,201,95,2.1157894736842104
+all time,E07000126,Incivilities,13,9,1.4444444444444444
+all time,E07000126,Other,97,79,1.2278481012658229
+all time,E07000126,Public Space,21,19,1.105263157894737
+all time,E07000126,Road Safety & Defects,1263,536,2.3563432835820897
+all time,E07000126,Vehicles,23,21,1.0952380952380953
+all time,E07000127,Abandoned Vehicles & Parking,39,34,1.1470588235294117
+all time,E07000127,Environmental Disruptions,79,44,1.7954545454545454
+all time,E07000127,Environmental Health,121,67,1.8059701492537314
+all time,E07000127,Incivilities,10,8,1.25
+all time,E07000127,Other,123,85,1.4470588235294117
+all time,E07000127,Public Space,7,7,1.0
+all time,E07000127,Road Safety & Defects,1480,490,3.020408163265306
+all time,E07000127,Vehicles,21,17,1.2352941176470589
+all time,E07000128,Abandoned Vehicles & Parking,39,33,1.1818181818181819
+all time,E07000128,Access,2,2,1.0
+all time,E07000128,Environmental Disruptions,49,35,1.4
+all time,E07000128,Environmental Health,150,82,1.829268292682927
+all time,E07000128,Incivilities,8,8,1.0
+all time,E07000128,Other,127,100,1.27
+all time,E07000128,Public Space,12,8,1.5
+all time,E07000128,Road Safety & Defects,1157,459,2.520697167755991
+all time,E07000128,Vehicles,12,12,1.0
+all time,E07000129,Abandoned Vehicles & Parking,39,26,1.5
+all time,E07000129,Environmental Disruptions,21,15,1.4
+all time,E07000129,Environmental Health,70,45,1.5555555555555556
+all time,E07000129,Incivilities,6,5,1.2
+all time,E07000129,Other,54,41,1.3170731707317074
+all time,E07000129,Public Space,6,3,2.0
+all time,E07000129,Road Safety & Defects,375,174,2.1551724137931036
+all time,E07000129,Vehicles,18,15,1.2
+all time,E07000130,Abandoned Vehicles & Parking,70,57,1.2280701754385965
+all time,E07000130,Environmental Disruptions,50,35,1.4285714285714286
+all time,E07000130,Environmental Health,168,110,1.5272727272727273
+all time,E07000130,Incivilities,43,16,2.6875
+all time,E07000130,Other,93,71,1.3098591549295775
+all time,E07000130,Public Space,27,17,1.588235294117647
+all time,E07000130,Road Safety & Defects,771,325,2.3723076923076922
+all time,E07000130,Vehicles,21,17,1.2352941176470589
+all time,E07000131,Abandoned Vehicles & Parking,34,27,1.2592592592592593
+all time,E07000131,Environmental Disruptions,58,49,1.183673469387755
+all time,E07000131,Environmental Health,332,106,3.1320754716981134
+all time,E07000131,Incivilities,23,16,1.4375
+all time,E07000131,Other,86,67,1.2835820895522387
+all time,E07000131,Public Space,44,28,1.5714285714285714
+all time,E07000131,Road Safety & Defects,1092,492,2.2195121951219514
+all time,E07000131,Vehicles,35,23,1.5217391304347827
+all time,E07000132,Abandoned Vehicles & Parking,61,44,1.3863636363636365
+all time,E07000132,Environmental Disruptions,17,12,1.4166666666666667
+all time,E07000132,Environmental Health,110,47,2.3404255319148937
+all time,E07000132,Incivilities,4,4,1.0
+all time,E07000132,Other,60,42,1.4285714285714286
+all time,E07000132,Public Space,9,8,1.125
+all time,E07000132,Road Safety & Defects,451,187,2.411764705882353
+all time,E07000132,Vehicles,30,25,1.2
+all time,E07000133,Abandoned Vehicles & Parking,8,7,1.1428571428571428
+all time,E07000133,Environmental Disruptions,8,6,1.3333333333333333
+all time,E07000133,Environmental Health,108,31,3.4838709677419355
+all time,E07000133,Incivilities,5,5,1.0
+all time,E07000133,Other,46,28,1.6428571428571428
+all time,E07000133,Public Space,5,4,1.25
+all time,E07000133,Road Safety & Defects,280,117,2.393162393162393
+all time,E07000133,Vehicles,14,10,1.4
+all time,E07000134,Abandoned Vehicles & Parking,44,30,1.4666666666666666
+all time,E07000134,Environmental Disruptions,27,16,1.6875
+all time,E07000134,Environmental Health,185,86,2.1511627906976742
+all time,E07000134,Incivilities,7,6,1.1666666666666667
+all time,E07000134,Other,91,63,1.4444444444444444
+all time,E07000134,Public Space,10,7,1.4285714285714286
+all time,E07000134,Road Safety & Defects,417,241,1.7302904564315353
+all time,E07000134,Vehicles,23,22,1.0454545454545454
+all time,E07000135,Abandoned Vehicles & Parking,18,15,1.2
+all time,E07000135,Environmental Disruptions,11,11,1.0
+all time,E07000135,Environmental Health,50,32,1.5625
+all time,E07000135,Incivilities,2,2,1.0
+all time,E07000135,Other,30,25,1.2
+all time,E07000135,Public Space,7,5,1.4
+all time,E07000135,Road Safety & Defects,201,86,2.3372093023255816
+all time,E07000135,Vehicles,20,10,2.0
+all time,E07000136,Abandoned Vehicles & Parking,20,17,1.1764705882352942
+all time,E07000136,Environmental Disruptions,6,5,1.2
+all time,E07000136,Environmental Health,51,38,1.3421052631578947
+all time,E07000136,Incivilities,3,3,1.0
+all time,E07000136,Other,40,33,1.2121212121212122
+all time,E07000136,Public Space,3,3,1.0
+all time,E07000136,Road Safety & Defects,306,164,1.8658536585365855
+all time,E07000136,Vehicles,13,12,1.0833333333333333
+all time,E07000137,Abandoned Vehicles & Parking,29,27,1.0740740740740742
+all time,E07000137,Access,4,4,1.0
+all time,E07000137,Environmental Disruptions,46,33,1.393939393939394
+all time,E07000137,Environmental Health,140,98,1.4285714285714286
+all time,E07000137,Incivilities,7,5,1.4
+all time,E07000137,Other,116,92,1.2608695652173914
+all time,E07000137,Public Space,4,4,1.0
+all time,E07000137,Road Safety & Defects,1548,524,2.954198473282443
+all time,E07000137,Vehicles,18,18,1.0
+all time,E07000138,Abandoned Vehicles & Parking,60,49,1.2244897959183674
+all time,E07000138,Access,1,1,1.0
+all time,E07000138,Environmental Disruptions,58,38,1.5263157894736843
+all time,E07000138,Environmental Health,209,96,2.1770833333333335
+all time,E07000138,Incivilities,35,15,2.3333333333333335
+all time,E07000138,Other,121,86,1.4069767441860466
+all time,E07000138,Public Space,17,12,1.4166666666666667
+all time,E07000138,Road Safety & Defects,527,254,2.074803149606299
+all time,E07000138,Vehicles,27,26,1.0384615384615385
+all time,E07000139,Abandoned Vehicles & Parking,55,49,1.1224489795918366
+all time,E07000139,Access,5,5,1.0
+all time,E07000139,Environmental Disruptions,46,34,1.3529411764705883
+all time,E07000139,Environmental Health,176,94,1.872340425531915
+all time,E07000139,Incivilities,11,7,1.5714285714285714
+all time,E07000139,Other,126,97,1.2989690721649485
+all time,E07000139,Public Space,39,32,1.21875
+all time,E07000139,Road Safety & Defects,1732,664,2.608433734939759
+all time,E07000139,Vehicles,24,23,1.0434782608695652
+all time,E07000140,Abandoned Vehicles & Parking,23,18,1.2777777777777777
+all time,E07000140,Access,1,1,1.0
+all time,E07000140,Environmental Disruptions,18,18,1.0
+all time,E07000140,Environmental Health,142,56,2.5357142857142856
+all time,E07000140,Incivilities,37,5,7.4
+all time,E07000140,Other,59,47,1.2553191489361701
+all time,E07000140,Public Space,8,6,1.3333333333333333
+all time,E07000140,Road Safety & Defects,679,262,2.5916030534351147
+all time,E07000140,Vehicles,14,12,1.1666666666666667
+all time,E07000141,Abandoned Vehicles & Parking,59,45,1.3111111111111111
+all time,E07000141,Access,4,4,1.0
+all time,E07000141,Environmental Disruptions,104,71,1.4647887323943662
+all time,E07000141,Environmental Health,393,142,2.767605633802817
+all time,E07000141,Incivilities,37,23,1.608695652173913
+all time,E07000141,Other,166,116,1.4310344827586208
+all time,E07000141,Public Space,29,22,1.3181818181818181
+all time,E07000141,Road Safety & Defects,2512,720,3.488888888888889
+all time,E07000141,Vehicles,39,35,1.1142857142857143
+all time,E07000142,Abandoned Vehicles & Parking,11,11,1.0
+all time,E07000142,Access,5,1,5.0
+all time,E07000142,Environmental Disruptions,67,24,2.7916666666666665
+all time,E07000142,Environmental Health,178,78,2.282051282051282
+all time,E07000142,Incivilities,27,9,3.0
+all time,E07000142,Other,80,66,1.2121212121212122
+all time,E07000142,Public Space,5,5,1.0
+all time,E07000142,Road Safety & Defects,820,318,2.5786163522012577
+all time,E07000142,Vehicles,6,6,1.0
+all time,E07000143,,136,30,4.533333333333333
+all time,E07000143,Abandoned Vehicles & Parking,54,48,1.125
+all time,E07000143,Access,38,24,1.5833333333333333
+all time,E07000143,Environmental Disruptions,72,52,1.3846153846153846
+all time,E07000143,Environmental Health,303,149,2.033557046979866
+all time,E07000143,Incivilities,33,18,1.8333333333333333
+all time,E07000143,Other,179,126,1.4206349206349207
+all time,E07000143,Public Space,37,22,1.6818181818181819
+all time,E07000143,Road Safety & Defects,1577,662,2.382175226586103
+all time,E07000143,Vehicles,54,42,1.2857142857142858
+all time,E07000144,,69,25,2.76
+all time,E07000144,Abandoned Vehicles & Parking,39,33,1.1818181818181819
+all time,E07000144,Access,30,23,1.3043478260869565
+all time,E07000144,Environmental Disruptions,81,53,1.528301886792453
+all time,E07000144,Environmental Health,236,84,2.8095238095238093
+all time,E07000144,Incivilities,23,12,1.9166666666666667
+all time,E07000144,Other,84,65,1.2923076923076924
+all time,E07000144,Public Space,11,9,1.2222222222222223
+all time,E07000144,Road Safety & Defects,1189,456,2.607456140350877
+all time,E07000144,Vehicles,18,17,1.0588235294117647
+all time,E07000145,,17,13,1.3076923076923077
+all time,E07000145,Abandoned Vehicles & Parking,77,61,1.2622950819672132
+all time,E07000145,Access,14,7,2.0
+all time,E07000145,Environmental Disruptions,32,27,1.1851851851851851
+all time,E07000145,Environmental Health,412,117,3.5213675213675213
+all time,E07000145,Incivilities,17,13,1.3076923076923077
+all time,E07000145,Other,160,94,1.702127659574468
+all time,E07000145,Public Space,30,15,2.0
+all time,E07000145,Road Safety & Defects,860,306,2.810457516339869
+all time,E07000145,Vehicles,43,34,1.2647058823529411
+all time,E07000146,,78,27,2.888888888888889
+all time,E07000146,Abandoned Vehicles & Parking,53,39,1.358974358974359
+all time,E07000146,Access,37,22,1.6818181818181819
+all time,E07000146,Environmental Disruptions,46,39,1.1794871794871795
+all time,E07000146,Environmental Health,539,126,4.277777777777778
+all time,E07000146,Incivilities,21,15,1.4
+all time,E07000146,Other,209,128,1.6328125
+all time,E07000146,Public Space,23,18,1.2777777777777777
+all time,E07000146,Road Safety & Defects,1929,501,3.8502994011976046
+all time,E07000146,Vehicles,36,33,1.0909090909090908
+all time,E07000147,,249,20,12.45
+all time,E07000147,Abandoned Vehicles & Parking,41,26,1.5769230769230769
+all time,E07000147,Access,22,17,1.2941176470588236
+all time,E07000147,Environmental Disruptions,25,20,1.25
+all time,E07000147,Environmental Health,168,75,2.24
+all time,E07000147,Incivilities,10,9,1.1111111111111112
+all time,E07000147,Other,100,72,1.3888888888888888
+all time,E07000147,Public Space,16,10,1.6
+all time,E07000147,Road Safety & Defects,583,284,2.0528169014084505
+all time,E07000147,Vehicles,22,19,1.1578947368421053
+all time,E07000148,Abandoned Vehicles & Parking,64,50,1.28
+all time,E07000148,Access,2,2,1.0
+all time,E07000148,Environmental Disruptions,101,64,1.578125
+all time,E07000148,Environmental Health,540,191,2.8272251308900525
+all time,E07000148,Incivilities,91,43,2.116279069767442
+all time,E07000148,Other,232,144,1.6111111111111112
+all time,E07000148,Public Space,43,27,1.5925925925925926
+all time,E07000148,Road Safety & Defects,1251,411,3.0437956204379564
+all time,E07000148,Vehicles,60,50,1.2
+all time,E07000149,,76,31,2.4516129032258065
+all time,E07000149,Abandoned Vehicles & Parking,32,22,1.4545454545454546
+all time,E07000149,Access,31,23,1.3478260869565217
+all time,E07000149,Environmental Disruptions,45,43,1.0465116279069768
+all time,E07000149,Environmental Health,212,109,1.944954128440367
+all time,E07000149,Incivilities,12,12,1.0
+all time,E07000149,Other,86,70,1.2285714285714286
+all time,E07000149,Public Space,14,12,1.1666666666666667
+all time,E07000149,Road Safety & Defects,1337,557,2.400359066427289
+all time,E07000149,Vehicles,26,21,1.2380952380952381
+all time,E07000150,Abandoned Vehicles & Parking,59,49,1.2040816326530612
+all time,E07000150,Environmental Disruptions,12,12,1.0
+all time,E07000150,Environmental Health,74,46,1.608695652173913
+all time,E07000150,Incivilities,6,5,1.2
+all time,E07000150,Other,24,21,1.1428571428571428
+all time,E07000150,Public Space,11,8,1.375
+all time,E07000150,Road Safety & Defects,202,143,1.4125874125874125
+all time,E07000150,Vehicles,21,18,1.1666666666666667
+all time,E07000151,Abandoned Vehicles & Parking,27,27,1.0
+all time,E07000151,Environmental Disruptions,20,18,1.1111111111111112
+all time,E07000151,Environmental Health,231,65,3.5538461538461537
+all time,E07000151,Incivilities,5,4,1.25
+all time,E07000151,Other,59,45,1.3111111111111111
+all time,E07000151,Public Space,12,10,1.2
+all time,E07000151,Road Safety & Defects,692,291,2.3780068728522337
+all time,E07000151,Vehicles,17,15,1.1333333333333333
+all time,E07000152,Abandoned Vehicles & Parking,52,45,1.1555555555555554
+all time,E07000152,Environmental Disruptions,33,30,1.1
+all time,E07000152,Environmental Health,118,67,1.7611940298507462
+all time,E07000152,Incivilities,15,8,1.875
+all time,E07000152,Other,60,58,1.0344827586206897
+all time,E07000152,Public Space,7,6,1.1666666666666667
+all time,E07000152,Road Safety & Defects,487,277,1.7581227436823104
+all time,E07000152,Vehicles,35,30,1.1666666666666667
+all time,E07000153,Abandoned Vehicles & Parking,84,67,1.2537313432835822
+all time,E07000153,Environmental Disruptions,28,22,1.2727272727272727
+all time,E07000153,Environmental Health,135,74,1.8243243243243243
+all time,E07000153,Incivilities,13,7,1.8571428571428572
+all time,E07000153,Other,60,58,1.0344827586206897
+all time,E07000153,Public Space,27,14,1.9285714285714286
+all time,E07000153,Road Safety & Defects,419,231,1.8138528138528138
+all time,E07000153,Vehicles,32,27,1.1851851851851851
+all time,E07000154,Abandoned Vehicles & Parking,211,181,1.1657458563535912
+all time,E07000154,Access,1,1,1.0
+all time,E07000154,Environmental Disruptions,106,84,1.2619047619047619
+all time,E07000154,Environmental Health,756,324,2.3333333333333335
+all time,E07000154,Incivilities,73,28,2.607142857142857
+all time,E07000154,Other,180,148,1.2162162162162162
+all time,E07000154,Public Space,46,34,1.3529411764705883
+all time,E07000154,Road Safety & Defects,1006,531,1.8945386064030132
+all time,E07000154,Vehicles,133,103,1.2912621359223302
+all time,E07000155,Abandoned Vehicles & Parking,38,32,1.1875
+all time,E07000155,Access,1,1,1.0
+all time,E07000155,Environmental Disruptions,43,33,1.303030303030303
+all time,E07000155,Environmental Health,101,49,2.061224489795918
+all time,E07000155,Incivilities,16,7,2.2857142857142856
+all time,E07000155,Other,51,46,1.108695652173913
+all time,E07000155,Public Space,9,9,1.0
+all time,E07000155,Road Safety & Defects,1228,427,2.8758782201405153
+all time,E07000155,Vehicles,17,17,1.0
+all time,E07000156,Abandoned Vehicles & Parking,18,18,1.0
+all time,E07000156,Environmental Disruptions,11,10,1.1
+all time,E07000156,Environmental Health,103,71,1.4507042253521127
+all time,E07000156,Incivilities,1,1,1.0
+all time,E07000156,Other,51,42,1.2142857142857142
+all time,E07000156,Public Space,2,2,1.0
+all time,E07000156,Road Safety & Defects,354,217,1.631336405529954
+all time,E07000156,Vehicles,29,27,1.0740740740740742
+all time,E07000163,Abandoned Vehicles & Parking,12,11,1.0909090909090908
+all time,E07000163,Environmental Disruptions,9,9,1.0
+all time,E07000163,Environmental Health,73,42,1.7380952380952381
+all time,E07000163,Incivilities,2,2,1.0
+all time,E07000163,Other,33,24,1.375
+all time,E07000163,Public Space,3,3,1.0
+all time,E07000163,Road Safety & Defects,363,169,2.1479289940828403
+all time,E07000163,Vehicles,4,4,1.0
+all time,E07000164,Abandoned Vehicles & Parking,14,13,1.0769230769230769
+all time,E07000164,Environmental Disruptions,14,14,1.0
+all time,E07000164,Environmental Health,83,55,1.509090909090909
+all time,E07000164,Incivilities,5,5,1.0
+all time,E07000164,Other,49,41,1.1951219512195121
+all time,E07000164,Public Space,5,4,1.25
+all time,E07000164,Road Safety & Defects,545,315,1.7301587301587302
+all time,E07000164,Vehicles,7,7,1.0
+all time,E07000165,Abandoned Vehicles & Parking,98,92,1.065217391304348
+all time,E07000165,Access,3,3,1.0
+all time,E07000165,Environmental Disruptions,182,145,1.2551724137931035
+all time,E07000165,Environmental Health,788,438,1.7990867579908676
+all time,E07000165,Incivilities,44,37,1.1891891891891893
+all time,E07000165,Other,258,217,1.1889400921658986
+all time,E07000165,Public Space,46,31,1.4838709677419355
+all time,E07000165,Road Safety & Defects,2444,1049,2.3298379408960916
+all time,E07000165,Vehicles,220,194,1.134020618556701
+all time,E07000166,Abandoned Vehicles & Parking,5,4,1.25
+all time,E07000166,Access,1,1,1.0
+all time,E07000166,Environmental Disruptions,10,10,1.0
+all time,E07000166,Environmental Health,78,40,1.95
+all time,E07000166,Incivilities,7,5,1.4
+all time,E07000166,Other,30,21,1.4285714285714286
+all time,E07000166,Public Space,2,2,1.0
+all time,E07000166,Road Safety & Defects,256,123,2.0813008130081303
+all time,E07000166,Vehicles,5,5,1.0
+all time,E07000167,Abandoned Vehicles & Parking,4,4,1.0
+all time,E07000167,Access,1,1,1.0
+all time,E07000167,Environmental Disruptions,8,8,1.0
+all time,E07000167,Environmental Health,46,34,1.3529411764705883
+all time,E07000167,Other,64,41,1.5609756097560976
+all time,E07000167,Public Space,6,4,1.5
+all time,E07000167,Road Safety & Defects,787,266,2.9586466165413534
+all time,E07000167,Vehicles,5,5,1.0
+all time,E07000168,Abandoned Vehicles & Parking,11,11,1.0
+all time,E07000168,Access,6,5,1.2
+all time,E07000168,Environmental Disruptions,13,12,1.0833333333333333
+all time,E07000168,Environmental Health,66,36,1.8333333333333333
+all time,E07000168,Incivilities,6,5,1.2
+all time,E07000168,Other,23,21,1.0952380952380953
+all time,E07000168,Public Space,5,5,1.0
+all time,E07000168,Road Safety & Defects,429,196,2.188775510204082
+all time,E07000168,Vehicles,7,6,1.1666666666666667
+all time,E07000169,Abandoned Vehicles & Parking,33,27,1.2222222222222223
+all time,E07000169,Environmental Disruptions,14,12,1.1666666666666667
+all time,E07000169,Environmental Health,265,73,3.6301369863013697
+all time,E07000169,Incivilities,5,5,1.0
+all time,E07000169,Other,48,40,1.2
+all time,E07000169,Public Space,18,14,1.2857142857142858
+all time,E07000169,Road Safety & Defects,352,195,1.8051282051282052
+all time,E07000169,Vehicles,6,5,1.2
+all time,E07000170,Abandoned Vehicles & Parking,48,41,1.170731707317073
+all time,E07000170,Environmental Disruptions,49,32,1.53125
+all time,E07000170,Environmental Health,188,94,2.0
+all time,E07000170,Incivilities,21,17,1.2352941176470589
+all time,E07000170,Other,75,65,1.1538461538461537
+all time,E07000170,Public Space,12,11,1.0909090909090908
+all time,E07000170,Road Safety & Defects,741,317,2.3375394321766563
+all time,E07000170,Vehicles,17,17,1.0
+all time,E07000171,Abandoned Vehicles & Parking,26,20,1.3
+all time,E07000171,Environmental Disruptions,74,30,2.466666666666667
+all time,E07000171,Environmental Health,330,118,2.7966101694915255
+all time,E07000171,Incivilities,27,14,1.9285714285714286
+all time,E07000171,Other,82,52,1.5769230769230769
+all time,E07000171,Public Space,12,7,1.7142857142857142
+all time,E07000171,Road Safety & Defects,804,249,3.2289156626506026
+all time,E07000171,Vehicles,1,1,1.0
+all time,E07000172,Abandoned Vehicles & Parking,39,32,1.21875
+all time,E07000172,Environmental Disruptions,35,28,1.25
+all time,E07000172,Environmental Health,133,80,1.6625
+all time,E07000172,Incivilities,40,12,3.3333333333333335
+all time,E07000172,Other,75,58,1.293103448275862
+all time,E07000172,Public Space,20,14,1.4285714285714286
+all time,E07000172,Road Safety & Defects,689,353,1.951841359773371
+all time,E07000172,Vehicles,18,17,1.0588235294117647
+all time,E07000173,Abandoned Vehicles & Parking,47,41,1.146341463414634
+all time,E07000173,Environmental Disruptions,60,44,1.3636363636363635
+all time,E07000173,Environmental Health,176,103,1.7087378640776698
+all time,E07000173,Incivilities,53,22,2.409090909090909
+all time,E07000173,Other,122,86,1.4186046511627908
+all time,E07000173,Public Space,23,17,1.3529411764705883
+all time,E07000173,Road Safety & Defects,687,343,2.002915451895044
+all time,E07000173,Vehicles,20,19,1.0526315789473684
+all time,E07000174,Abandoned Vehicles & Parking,41,35,1.1714285714285715
+all time,E07000174,Environmental Disruptions,32,23,1.391304347826087
+all time,E07000174,Environmental Health,85,59,1.4406779661016949
+all time,E07000174,Incivilities,12,6,2.0
+all time,E07000174,Other,84,58,1.4482758620689655
+all time,E07000174,Public Space,29,14,2.0714285714285716
+all time,E07000174,Road Safety & Defects,361,165,2.187878787878788
+all time,E07000174,Vehicles,11,10,1.1
+all time,E07000175,Abandoned Vehicles & Parking,31,29,1.0689655172413792
+all time,E07000175,Environmental Disruptions,30,23,1.3043478260869565
+all time,E07000175,Environmental Health,117,80,1.4625
+all time,E07000175,Incivilities,5,5,1.0
+all time,E07000175,Other,57,52,1.0961538461538463
+all time,E07000175,Public Space,9,8,1.125
+all time,E07000175,Road Safety & Defects,503,259,1.942084942084942
+all time,E07000175,Vehicles,14,14,1.0
+all time,E07000176,Abandoned Vehicles & Parking,33,27,1.2222222222222223
+all time,E07000176,Environmental Disruptions,25,20,1.25
+all time,E07000176,Environmental Health,112,54,2.074074074074074
+all time,E07000176,Incivilities,30,8,3.75
+all time,E07000176,Other,76,53,1.4339622641509433
+all time,E07000176,Public Space,3,3,1.0
+all time,E07000176,Road Safety & Defects,631,326,1.9355828220858895
+all time,E07000176,Vehicles,19,18,1.0555555555555556
+all time,E07000177,,233,165,1.412121212121212
+all time,E07000177,Abandoned Vehicles & Parking,146,124,1.1774193548387097
+all time,E07000177,Access,49,38,1.2894736842105263
+all time,E07000177,Environmental Disruptions,1992,1221,1.6314496314496314
+all time,E07000177,Environmental Health,2283,1062,2.1497175141242937
+all time,E07000177,Incivilities,105,67,1.5671641791044777
+all time,E07000177,Other,670,497,1.3480885311871227
+all time,E07000177,Public Space,92,74,1.2432432432432432
+all time,E07000177,Road Safety & Defects,16620,5110,3.252446183953033
+all time,E07000177,Vehicles,243,168,1.4464285714285714
+all time,E07000178,,100,87,1.1494252873563218
+all time,E07000178,Abandoned Vehicles & Parking,216,186,1.1612903225806452
+all time,E07000178,Access,47,42,1.119047619047619
+all time,E07000178,Environmental Disruptions,924,605,1.5272727272727273
+all time,E07000178,Environmental Health,1705,830,2.0542168674698793
+all time,E07000178,Incivilities,238,100,2.38
+all time,E07000178,Other,528,394,1.3401015228426396
+all time,E07000178,Public Space,92,36,2.5555555555555554
+all time,E07000178,Road Safety & Defects,8835,3464,2.5505196304849886
+all time,E07000178,Vehicles,135,110,1.2272727272727273
+all time,E07000179,,312,215,1.4511627906976745
+all time,E07000179,Abandoned Vehicles & Parking,128,111,1.1531531531531531
+all time,E07000179,Access,85,82,1.0365853658536586
+all time,E07000179,Environmental Disruptions,2544,1455,1.7484536082474227
+all time,E07000179,Environmental Health,3924,1731,2.266897746967071
+all time,E07000179,Incivilities,91,65,1.4
+all time,E07000179,Other,791,611,1.2945990180032734
+all time,E07000179,Public Space,44,37,1.1891891891891893
+all time,E07000179,Road Safety & Defects,22761,6624,3.436141304347826
+all time,E07000179,Vehicles,188,159,1.1823899371069182
+all time,E07000180,,337,224,1.5044642857142858
+all time,E07000180,Abandoned Vehicles & Parking,127,96,1.3229166666666667
+all time,E07000180,Access,76,67,1.1343283582089552
+all time,E07000180,Environmental Disruptions,2235,1218,1.8349753694581281
+all time,E07000180,Environmental Health,2862,1263,2.2660332541567696
+all time,E07000180,Incivilities,128,70,1.8285714285714285
+all time,E07000180,Other,750,537,1.3966480446927374
+all time,E07000180,Public Space,59,40,1.475
+all time,E07000180,Road Safety & Defects,16099,5433,2.96318792563961
+all time,E07000180,Vehicles,189,150,1.26
+all time,E07000181,,126,102,1.2352941176470589
+all time,E07000181,Abandoned Vehicles & Parking,245,200,1.225
+all time,E07000181,Access,39,35,1.1142857142857143
+all time,E07000181,Environmental Disruptions,1332,840,1.5857142857142856
+all time,E07000181,Environmental Health,1757,915,1.9202185792349726
+all time,E07000181,Incivilities,62,39,1.5897435897435896
+all time,E07000181,Other,479,361,1.3268698060941828
+all time,E07000181,Public Space,46,35,1.3142857142857143
+all time,E07000181,Road Safety & Defects,15770,4832,3.263658940397351
+all time,E07000181,Vehicles,117,95,1.231578947368421
+all time,E07000187,Abandoned Vehicles & Parking,54,40,1.35
+all time,E07000187,Environmental Disruptions,52,41,1.2682926829268293
+all time,E07000187,Environmental Health,395,169,2.337278106508876
+all time,E07000187,Incivilities,144,18,8.0
+all time,E07000187,Other,135,92,1.4673913043478262
+all time,E07000187,Public Space,12,12,1.0
+all time,E07000187,Road Safety & Defects,1252,451,2.776053215077605
+all time,E07000187,Vehicles,38,34,1.1176470588235294
+all time,E07000188,,13,11,1.1818181818181819
+all time,E07000188,Abandoned Vehicles & Parking,57,45,1.2666666666666666
+all time,E07000188,Access,3,3,1.0
+all time,E07000188,Environmental Disruptions,32,25,1.28
+all time,E07000188,Environmental Health,236,89,2.651685393258427
+all time,E07000188,Incivilities,9,6,1.5
+all time,E07000188,Other,89,64,1.390625
+all time,E07000188,Public Space,16,14,1.1428571428571428
+all time,E07000188,Road Safety & Defects,806,286,2.8181818181818183
+all time,E07000188,Vehicles,30,26,1.1538461538461537
+all time,E07000189,Abandoned Vehicles & Parking,99,58,1.706896551724138
+all time,E07000189,Access,3,3,1.0
+all time,E07000189,Environmental Disruptions,65,48,1.3541666666666667
+all time,E07000189,Environmental Health,348,165,2.109090909090909
+all time,E07000189,Incivilities,21,17,1.2352941176470589
+all time,E07000189,Other,187,126,1.4841269841269842
+all time,E07000189,Public Space,18,14,1.2857142857142858
+all time,E07000189,Road Safety & Defects,1548,519,2.9826589595375723
+all time,E07000189,Vehicles,49,39,1.2564102564102564
+all time,E07000190,Abandoned Vehicles & Parking,40,32,1.25
+all time,E07000190,Environmental Disruptions,35,29,1.206896551724138
+all time,E07000190,Environmental Health,120,76,1.5789473684210527
+all time,E07000190,Incivilities,6,5,1.2
+all time,E07000190,Other,81,63,1.2857142857142858
+all time,E07000190,Public Space,10,9,1.1111111111111112
+all time,E07000190,Road Safety & Defects,561,240,2.3375
+all time,E07000190,Vehicles,31,26,1.1923076923076923
+all time,E07000191,Abandoned Vehicles & Parking,5,5,1.0
+all time,E07000191,Environmental Disruptions,20,12,1.6666666666666667
+all time,E07000191,Environmental Health,38,18,2.111111111111111
+all time,E07000191,Incivilities,1,1,1.0
+all time,E07000191,Other,26,17,1.5294117647058822
+all time,E07000191,Public Space,9,3,3.0
+all time,E07000191,Road Safety & Defects,231,91,2.5384615384615383
+all time,E07000191,Vehicles,8,8,1.0
+all time,E07000192,Abandoned Vehicles & Parking,71,62,1.1451612903225807
+all time,E07000192,Environmental Disruptions,47,34,1.3823529411764706
+all time,E07000192,Environmental Health,126,65,1.9384615384615385
+all time,E07000192,Incivilities,8,6,1.3333333333333333
+all time,E07000192,Other,82,46,1.7826086956521738
+all time,E07000192,Public Space,17,12,1.4166666666666667
+all time,E07000192,Road Safety & Defects,542,222,2.4414414414414414
+all time,E07000192,Vehicles,28,27,1.037037037037037
+all time,E07000193,Abandoned Vehicles & Parking,46,40,1.15
+all time,E07000193,Access,2,2,1.0
+all time,E07000193,Environmental Disruptions,45,36,1.25
+all time,E07000193,Environmental Health,149,86,1.7325581395348837
+all time,E07000193,Incivilities,7,7,1.0
+all time,E07000193,Other,69,60,1.15
+all time,E07000193,Public Space,21,17,1.2352941176470589
+all time,E07000193,Road Safety & Defects,653,323,2.021671826625387
+all time,E07000193,Vehicles,24,21,1.1428571428571428
+all time,E07000194,Abandoned Vehicles & Parking,132,101,1.306930693069307
+all time,E07000194,Access,3,1,3.0
+all time,E07000194,Environmental Disruptions,109,82,1.329268292682927
+all time,E07000194,Environmental Health,875,468,1.8696581196581197
+all time,E07000194,Incivilities,47,38,1.236842105263158
+all time,E07000194,Other,213,157,1.356687898089172
+all time,E07000194,Public Space,51,44,1.1590909090909092
+all time,E07000194,Road Safety & Defects,1237,601,2.0582362728785357
+all time,E07000194,Vehicles,88,78,1.1282051282051282
+all time,E07000195,Abandoned Vehicles & Parking,76,31,2.4516129032258065
+all time,E07000195,Access,1,1,1.0
+all time,E07000195,Environmental Disruptions,58,41,1.4146341463414633
+all time,E07000195,Environmental Health,371,126,2.9444444444444446
+all time,E07000195,Incivilities,18,7,2.5714285714285716
+all time,E07000195,Other,94,72,1.3055555555555556
+all time,E07000195,Public Space,19,17,1.1176470588235294
+all time,E07000195,Road Safety & Defects,852,319,2.670846394984326
+all time,E07000195,Vehicles,37,26,1.4230769230769231
+all time,E07000196,Abandoned Vehicles & Parking,38,37,1.027027027027027
+all time,E07000196,Access,1,1,1.0
+all time,E07000196,Environmental Disruptions,38,30,1.2666666666666666
+all time,E07000196,Environmental Health,369,142,2.5985915492957745
+all time,E07000196,Incivilities,16,11,1.4545454545454546
+all time,E07000196,Other,44,39,1.1282051282051282
+all time,E07000196,Public Space,15,11,1.3636363636363635
+all time,E07000196,Road Safety & Defects,776,324,2.3950617283950617
+all time,E07000196,Vehicles,17,15,1.1333333333333333
+all time,E07000197,Abandoned Vehicles & Parking,42,38,1.105263157894737
+all time,E07000197,Access,1,1,1.0
+all time,E07000197,Environmental Disruptions,33,25,1.32
+all time,E07000197,Environmental Health,168,98,1.7142857142857142
+all time,E07000197,Incivilities,33,11,3.0
+all time,E07000197,Other,83,60,1.3833333333333333
+all time,E07000197,Public Space,9,6,1.5
+all time,E07000197,Road Safety & Defects,679,333,2.039039039039039
+all time,E07000197,Vehicles,28,25,1.12
+all time,E07000198,Abandoned Vehicles & Parking,7,7,1.0
+all time,E07000198,Environmental Disruptions,14,5,2.8
+all time,E07000198,Environmental Health,41,27,1.5185185185185186
+all time,E07000198,Incivilities,8,5,1.6
+all time,E07000198,Other,117,54,2.1666666666666665
+all time,E07000198,Public Space,1,1,1.0
+all time,E07000198,Road Safety & Defects,672,259,2.5945945945945947
+all time,E07000198,Vehicles,1,1,1.0
+all time,E07000199,Abandoned Vehicles & Parking,34,26,1.3076923076923077
+all time,E07000199,Environmental Disruptions,34,24,1.4166666666666667
+all time,E07000199,Environmental Health,143,68,2.1029411764705883
+all time,E07000199,Incivilities,32,12,2.6666666666666665
+all time,E07000199,Other,70,46,1.5217391304347827
+all time,E07000199,Public Space,23,11,2.090909090909091
+all time,E07000199,Road Safety & Defects,355,168,2.113095238095238
+all time,E07000199,Vehicles,18,18,1.0
+all time,E07000200,,75,19,3.9473684210526314
+all time,E07000200,Abandoned Vehicles & Parking,11,11,1.0
+all time,E07000200,Environmental Disruptions,23,16,1.4375
+all time,E07000200,Environmental Health,78,44,1.7727272727272727
+all time,E07000200,Incivilities,29,8,3.625
+all time,E07000200,Other,56,44,1.2727272727272727
+all time,E07000200,Public Space,3,3,1.0
+all time,E07000200,Road Safety & Defects,626,279,2.2437275985663083
+all time,E07000200,Vehicles,14,11,1.2727272727272727
+all time,E07000201,,22,13,1.6923076923076923
+all time,E07000201,Abandoned Vehicles & Parking,30,21,1.4285714285714286
+all time,E07000201,Access,2,2,1.0
+all time,E07000201,Environmental Disruptions,35,17,2.0588235294117645
+all time,E07000201,Environmental Health,164,54,3.037037037037037
+all time,E07000201,Incivilities,13,6,2.1666666666666665
+all time,E07000201,Other,74,43,1.7209302325581395
+all time,E07000201,Public Space,12,9,1.3333333333333333
+all time,E07000201,Road Safety & Defects,743,232,3.2025862068965516
+all time,E07000201,Vehicles,26,22,1.1818181818181819
+all time,E07000202,,17,13,1.3076923076923077
+all time,E07000202,Abandoned Vehicles & Parking,103,52,1.9807692307692308
+all time,E07000202,Environmental Disruptions,149,51,2.9215686274509802
+all time,E07000202,Environmental Health,597,147,4.061224489795919
+all time,E07000202,Incivilities,355,30,11.833333333333334
+all time,E07000202,Other,150,86,1.744186046511628
+all time,E07000202,Public Space,34,20,1.7
+all time,E07000202,Road Safety & Defects,2138,403,5.305210918114144
+all time,E07000202,Vehicles,83,41,2.024390243902439
+all time,E07000203,,97,36,2.6944444444444446
+all time,E07000203,Abandoned Vehicles & Parking,27,21,1.2857142857142858
+all time,E07000203,Environmental Disruptions,13,13,1.0
+all time,E07000203,Environmental Health,100,62,1.6129032258064515
+all time,E07000203,Incivilities,3,3,1.0
+all time,E07000203,Other,64,46,1.391304347826087
+all time,E07000203,Public Space,6,6,1.0
+all time,E07000203,Road Safety & Defects,809,370,2.1864864864864866
+all time,E07000203,Vehicles,6,5,1.2
+all time,E07000204,,24,19,1.263157894736842
+all time,E07000204,Abandoned Vehicles & Parking,54,35,1.542857142857143
+all time,E07000204,Environmental Disruptions,46,35,1.3142857142857143
+all time,E07000204,Environmental Health,97,71,1.3661971830985915
+all time,E07000204,Incivilities,7,7,1.0
+all time,E07000204,Other,92,66,1.393939393939394
+all time,E07000204,Public Space,20,15,1.3333333333333333
+all time,E07000204,Road Safety & Defects,1011,501,2.0179640718562872
+all time,E07000204,Vehicles,30,25,1.2
+all time,E07000205,,131,35,3.742857142857143
+all time,E07000205,Abandoned Vehicles & Parking,34,32,1.0625
+all time,E07000205,Access,1,1,1.0
+all time,E07000205,Environmental Disruptions,68,52,1.3076923076923077
+all time,E07000205,Environmental Health,125,88,1.4204545454545454
+all time,E07000205,Incivilities,159,5,31.8
+all time,E07000205,Other,86,75,1.1466666666666667
+all time,E07000205,Public Space,13,11,1.1818181818181819
+all time,E07000205,Road Safety & Defects,734,353,2.0793201133144477
+all time,E07000205,Vehicles,14,14,1.0
+all time,E07000206,,45,27,1.6666666666666667
+all time,E07000206,Abandoned Vehicles & Parking,59,49,1.2040816326530612
+all time,E07000206,Access,2,2,1.0
+all time,E07000206,Environmental Disruptions,46,36,1.2777777777777777
+all time,E07000206,Environmental Health,205,97,2.11340206185567
+all time,E07000206,Incivilities,9,7,1.2857142857142858
+all time,E07000206,Other,84,52,1.6153846153846154
+all time,E07000206,Public Space,24,13,1.8461538461538463
+all time,E07000206,Road Safety & Defects,531,207,2.5652173913043477
+all time,E07000206,Vehicles,26,24,1.0833333333333333
+all time,E07000207,Abandoned Vehicles & Parking,97,75,1.2933333333333332
+all time,E07000207,Access,47,30,1.5666666666666667
+all time,E07000207,Environmental Disruptions,20,18,1.1111111111111112
+all time,E07000207,Environmental Health,234,118,1.9830508474576272
+all time,E07000207,Incivilities,23,18,1.2777777777777777
+all time,E07000207,Other,175,112,1.5625
+all time,E07000207,Public Space,18,17,1.0588235294117647
+all time,E07000207,Road Safety & Defects,1652,679,2.4329896907216493
+all time,E07000207,Vehicles,77,60,1.2833333333333334
+all time,E07000208,Abandoned Vehicles & Parking,58,30,1.9333333333333333
+all time,E07000208,Access,20,15,1.3333333333333333
+all time,E07000208,Environmental Disruptions,41,22,1.8636363636363635
+all time,E07000208,Environmental Health,143,79,1.8101265822784811
+all time,E07000208,Incivilities,35,19,1.8421052631578947
+all time,E07000208,Other,83,60,1.3833333333333333
+all time,E07000208,Public Space,15,13,1.1538461538461537
+all time,E07000208,Road Safety & Defects,802,320,2.50625
+all time,E07000208,Vehicles,22,18,1.2222222222222223
+all time,E07000209,Abandoned Vehicles & Parking,72,56,1.2857142857142858
+all time,E07000209,Access,73,49,1.489795918367347
+all time,E07000209,Environmental Disruptions,93,58,1.603448275862069
+all time,E07000209,Environmental Health,427,215,1.986046511627907
+all time,E07000209,Incivilities,121,24,5.041666666666667
+all time,E07000209,Other,257,161,1.5962732919254659
+all time,E07000209,Public Space,38,21,1.8095238095238095
+all time,E07000209,Road Safety & Defects,2749,900,3.0544444444444445
+all time,E07000209,Vehicles,62,56,1.1071428571428572
+all time,E07000210,Abandoned Vehicles & Parking,42,32,1.3125
+all time,E07000210,Access,58,27,2.1481481481481484
+all time,E07000210,Environmental Disruptions,51,36,1.4166666666666667
+all time,E07000210,Environmental Health,155,79,1.9620253164556962
+all time,E07000210,Incivilities,33,19,1.736842105263158
+all time,E07000210,Other,153,98,1.5612244897959184
+all time,E07000210,Public Space,19,15,1.2666666666666666
+all time,E07000210,Road Safety & Defects,1777,577,3.079722703639515
+all time,E07000210,Vehicles,52,34,1.5294117647058822
+all time,E07000211,Abandoned Vehicles & Parking,92,70,1.3142857142857143
+all time,E07000211,Access,47,32,1.46875
+all time,E07000211,Environmental Disruptions,48,33,1.4545454545454546
+all time,E07000211,Environmental Health,169,103,1.6407766990291262
+all time,E07000211,Incivilities,9,8,1.125
+all time,E07000211,Other,179,114,1.5701754385964912
+all time,E07000211,Public Space,17,16,1.0625
+all time,E07000211,Road Safety & Defects,2249,791,2.843236409608091
+all time,E07000211,Vehicles,75,63,1.1904761904761905
+all time,E07000212,Abandoned Vehicles & Parking,156,89,1.752808988764045
+all time,E07000212,Access,57,46,1.2391304347826086
+all time,E07000212,Environmental Disruptions,40,35,1.1428571428571428
+all time,E07000212,Environmental Health,353,161,2.1925465838509317
+all time,E07000212,Incivilities,13,11,1.1818181818181819
+all time,E07000212,Other,160,112,1.4285714285714286
+all time,E07000212,Public Space,26,24,1.0833333333333333
+all time,E07000212,Road Safety & Defects,1156,477,2.4234800838574424
+all time,E07000212,Vehicles,98,69,1.4202898550724639
+all time,E07000213,Abandoned Vehicles & Parking,56,48,1.1666666666666667
+all time,E07000213,Access,26,22,1.1818181818181819
+all time,E07000213,Environmental Disruptions,50,40,1.25
+all time,E07000213,Environmental Health,221,115,1.9217391304347826
+all time,E07000213,Incivilities,24,16,1.5
+all time,E07000213,Other,132,84,1.5714285714285714
+all time,E07000213,Public Space,49,24,2.0416666666666665
+all time,E07000213,Road Safety & Defects,884,393,2.2493638676844783
+all time,E07000213,Vehicles,81,61,1.3278688524590163
+all time,E07000214,Abandoned Vehicles & Parking,83,67,1.2388059701492538
+all time,E07000214,Access,39,34,1.1470588235294117
+all time,E07000214,Environmental Disruptions,34,27,1.2592592592592593
+all time,E07000214,Environmental Health,163,101,1.613861386138614
+all time,E07000214,Incivilities,22,14,1.5714285714285714
+all time,E07000214,Other,80,64,1.25
+all time,E07000214,Public Space,23,14,1.6428571428571428
+all time,E07000214,Road Safety & Defects,1193,478,2.49581589958159
+all time,E07000214,Vehicles,55,47,1.1702127659574468
+all time,E07000215,Abandoned Vehicles & Parking,74,47,1.574468085106383
+all time,E07000215,Access,37,27,1.3703703703703705
+all time,E07000215,Environmental Disruptions,37,28,1.3214285714285714
+all time,E07000215,Environmental Health,225,102,2.2058823529411766
+all time,E07000215,Incivilities,10,8,1.25
+all time,E07000215,Other,117,91,1.2857142857142858
+all time,E07000215,Public Space,8,8,1.0
+all time,E07000215,Road Safety & Defects,1765,643,2.744945567651633
+all time,E07000215,Vehicles,57,41,1.3902439024390243
+all time,E07000216,Abandoned Vehicles & Parking,47,41,1.146341463414634
+all time,E07000216,Access,52,37,1.4054054054054055
+all time,E07000216,Environmental Disruptions,53,42,1.2619047619047619
+all time,E07000216,Environmental Health,222,122,1.819672131147541
+all time,E07000216,Incivilities,28,19,1.4736842105263157
+all time,E07000216,Other,123,89,1.3820224719101124
+all time,E07000216,Public Space,16,11,1.4545454545454546
+all time,E07000216,Road Safety & Defects,2105,686,3.068513119533528
+all time,E07000216,Vehicles,45,37,1.2162162162162162
+all time,E07000217,Abandoned Vehicles & Parking,71,53,1.3396226415094339
+all time,E07000217,Access,42,26,1.6153846153846154
+all time,E07000217,Environmental Disruptions,37,30,1.2333333333333334
+all time,E07000217,Environmental Health,169,85,1.988235294117647
+all time,E07000217,Incivilities,17,14,1.2142857142857142
+all time,E07000217,Other,120,79,1.518987341772152
+all time,E07000217,Public Space,21,14,1.5
+all time,E07000217,Road Safety & Defects,1027,412,2.4927184466019416
+all time,E07000217,Vehicles,48,42,1.1428571428571428
+all time,E07000218,Abandoned Vehicles & Parking,48,46,1.0434782608695652
+all time,E07000218,Access,500,327,1.529051987767584
+all time,E07000218,Environmental Disruptions,73,61,1.1967213114754098
+all time,E07000218,Environmental Health,482,283,1.7031802120141342
+all time,E07000218,Incivilities,18,12,1.5
+all time,E07000218,Other,259,216,1.1990740740740742
+all time,E07000218,Public Space,10,8,1.25
+all time,E07000218,Road Safety & Defects,858,528,1.625
+all time,E07000218,Vehicles,16,16,1.0
+all time,E07000219,Abandoned Vehicles & Parking,109,97,1.1237113402061856
+all time,E07000219,Access,541,365,1.4821917808219178
+all time,E07000219,Environmental Disruptions,136,115,1.182608695652174
+all time,E07000219,Environmental Health,568,332,1.7108433734939759
+all time,E07000219,Incivilities,26,19,1.368421052631579
+all time,E07000219,Other,419,294,1.4251700680272108
+all time,E07000219,Public Space,45,33,1.3636363636363635
+all time,E07000219,Road Safety & Defects,1296,590,2.1966101694915254
+all time,E07000219,Vehicles,29,28,1.0357142857142858
+all time,E07000220,Abandoned Vehicles & Parking,82,72,1.1388888888888888
+all time,E07000220,Access,625,388,1.6108247422680413
+all time,E07000220,Environmental Disruptions,140,108,1.2962962962962963
+all time,E07000220,Environmental Health,661,330,2.003030303030303
+all time,E07000220,Incivilities,14,12,1.1666666666666667
+all time,E07000220,Other,377,285,1.3228070175438595
+all time,E07000220,Public Space,29,25,1.16
+all time,E07000220,Road Safety & Defects,1417,732,1.935792349726776
+all time,E07000220,Vehicles,40,29,1.3793103448275863
+all time,E07000221,Abandoned Vehicles & Parking,57,54,1.0555555555555556
+all time,E07000221,Access,1259,874,1.4405034324942791
+all time,E07000221,Environmental Disruptions,226,197,1.1472081218274113
+all time,E07000221,Environmental Health,918,657,1.3972602739726028
+all time,E07000221,Incivilities,28,19,1.4736842105263157
+all time,E07000221,Other,624,518,1.2046332046332047
+all time,E07000221,Public Space,18,15,1.2
+all time,E07000221,Road Safety & Defects,1894,1194,1.5862646566164154
+all time,E07000221,Vehicles,37,36,1.0277777777777777
+all time,E07000222,Abandoned Vehicles & Parking,129,109,1.18348623853211
+all time,E07000222,Access,1034,771,1.3411154345006484
+all time,E07000222,Environmental Disruptions,258,213,1.2112676056338028
+all time,E07000222,Environmental Health,836,548,1.5255474452554745
+all time,E07000222,Incivilities,49,26,1.8846153846153846
+all time,E07000222,Other,676,531,1.2730696798493408
+all time,E07000222,Public Space,31,26,1.1923076923076923
+all time,E07000222,Road Safety & Defects,2024,1121,1.8055307760927743
+all time,E07000222,Vehicles,62,45,1.3777777777777778
+all time,E07000223,Abandoned Vehicles & Parking,35,32,1.09375
+all time,E07000223,Environmental Disruptions,14,13,1.0769230769230769
+all time,E07000223,Environmental Health,131,42,3.119047619047619
+all time,E07000223,Incivilities,9,3,3.0
+all time,E07000223,Other,61,40,1.525
+all time,E07000223,Public Space,9,8,1.125
+all time,E07000223,Road Safety & Defects,459,183,2.5081967213114753
+all time,E07000223,Vehicles,41,31,1.3225806451612903
+all time,E07000224,Abandoned Vehicles & Parking,81,75,1.08
+all time,E07000224,Access,2,2,1.0
+all time,E07000224,Environmental Disruptions,61,38,1.605263157894737
+all time,E07000224,Environmental Health,206,102,2.019607843137255
+all time,E07000224,Incivilities,7,6,1.1666666666666667
+all time,E07000224,Other,122,97,1.2577319587628866
+all time,E07000224,Public Space,16,10,1.6
+all time,E07000224,Road Safety & Defects,1089,499,2.182364729458918
+all time,E07000224,Vehicles,111,80,1.3875
+all time,E07000225,Abandoned Vehicles & Parking,35,24,1.4583333333333333
+all time,E07000225,Environmental Disruptions,50,35,1.4285714285714286
+all time,E07000225,Environmental Health,181,86,2.104651162790698
+all time,E07000225,Incivilities,3,3,1.0
+all time,E07000225,Other,85,63,1.3492063492063493
+all time,E07000225,Public Space,7,7,1.0
+all time,E07000225,Road Safety & Defects,1340,507,2.6429980276134124
+all time,E07000225,Vehicles,32,30,1.0666666666666667
+all time,E07000226,Abandoned Vehicles & Parking,62,53,1.169811320754717
+all time,E07000226,Environmental Disruptions,48,33,1.4545454545454546
+all time,E07000226,Environmental Health,113,81,1.3950617283950617
+all time,E07000226,Incivilities,6,4,1.5
+all time,E07000226,Other,118,81,1.4567901234567902
+all time,E07000226,Public Space,14,14,1.0
+all time,E07000226,Road Safety & Defects,809,376,2.151595744680851
+all time,E07000226,Vehicles,58,43,1.3488372093023255
+all time,E07000227,Abandoned Vehicles & Parking,43,38,1.131578947368421
+all time,E07000227,Environmental Disruptions,48,39,1.2307692307692308
+all time,E07000227,Environmental Health,153,92,1.6630434782608696
+all time,E07000227,Incivilities,5,4,1.25
+all time,E07000227,Other,90,70,1.2857142857142858
+all time,E07000227,Public Space,17,14,1.2142857142857142
+all time,E07000227,Road Safety & Defects,1293,522,2.4770114942528734
+all time,E07000227,Vehicles,32,29,1.103448275862069
+all time,E07000228,Abandoned Vehicles & Parking,97,84,1.1547619047619047
+all time,E07000228,Access,2,2,1.0
+all time,E07000228,Environmental Disruptions,54,44,1.2272727272727273
+all time,E07000228,Environmental Health,251,96,2.6145833333333335
+all time,E07000228,Incivilities,11,4,2.75
+all time,E07000228,Other,153,112,1.3660714285714286
+all time,E07000228,Public Space,14,10,1.4
+all time,E07000228,Road Safety & Defects,1747,746,2.341823056300268
+all time,E07000228,Vehicles,68,60,1.1333333333333333
+all time,E07000229,Abandoned Vehicles & Parking,75,57,1.3157894736842106
+all time,E07000229,Access,2,2,1.0
+all time,E07000229,Environmental Disruptions,32,28,1.1428571428571428
+all time,E07000229,Environmental Health,92,62,1.4838709677419355
+all time,E07000229,Incivilities,2,2,1.0
+all time,E07000229,Other,84,74,1.135135135135135
+all time,E07000229,Public Space,12,9,1.3333333333333333
+all time,E07000229,Road Safety & Defects,623,309,2.016181229773463
+all time,E07000229,Vehicles,49,44,1.1136363636363635
+all time,E07000234,Abandoned Vehicles & Parking,44,39,1.1282051282051282
+all time,E07000234,Access,14,11,1.2727272727272727
+all time,E07000234,Environmental Disruptions,51,32,1.59375
+all time,E07000234,Environmental Health,243,82,2.9634146341463414
+all time,E07000234,Incivilities,51,20,2.55
+all time,E07000234,Other,137,90,1.5222222222222221
+all time,E07000234,Public Space,19,9,2.111111111111111
+all time,E07000234,Road Safety & Defects,541,287,1.8850174216027875
+all time,E07000234,Vehicles,30,28,1.0714285714285714
+all time,E07000235,Abandoned Vehicles & Parking,9,9,1.0
+all time,E07000235,Access,10,8,1.25
+all time,E07000235,Environmental Disruptions,27,21,1.2857142857142858
+all time,E07000235,Environmental Health,61,46,1.326086956521739
+all time,E07000235,Incivilities,5,5,1.0
+all time,E07000235,Other,56,42,1.3333333333333333
+all time,E07000235,Public Space,4,4,1.0
+all time,E07000235,Road Safety & Defects,323,150,2.1533333333333333
+all time,E07000235,Vehicles,6,6,1.0
+all time,E07000236,Abandoned Vehicles & Parking,71,61,1.1639344262295082
+all time,E07000236,Access,7,6,1.1666666666666667
+all time,E07000236,Environmental Disruptions,55,44,1.25
+all time,E07000236,Environmental Health,158,65,2.4307692307692306
+all time,E07000236,Incivilities,21,9,2.3333333333333335
+all time,E07000236,Other,135,71,1.9014084507042253
+all time,E07000236,Public Space,40,20,2.0
+all time,E07000236,Road Safety & Defects,412,184,2.239130434782609
+all time,E07000236,Vehicles,41,35,1.1714285714285715
+all time,E07000237,Abandoned Vehicles & Parking,42,35,1.2
+all time,E07000237,Access,3,3,1.0
+all time,E07000237,Environmental Disruptions,28,25,1.12
+all time,E07000237,Environmental Health,60,52,1.1538461538461537
+all time,E07000237,Incivilities,6,6,1.0
+all time,E07000237,Other,52,42,1.2380952380952381
+all time,E07000237,Public Space,13,10,1.3
+all time,E07000237,Road Safety & Defects,143,107,1.3364485981308412
+all time,E07000237,Vehicles,16,16,1.0
+all time,E07000238,Abandoned Vehicles & Parking,23,21,1.0952380952380953
+all time,E07000238,Access,17,9,1.8888888888888888
+all time,E07000238,Environmental Disruptions,27,24,1.125
+all time,E07000238,Environmental Health,122,79,1.5443037974683544
+all time,E07000238,Incivilities,8,6,1.3333333333333333
+all time,E07000238,Other,83,66,1.2575757575757576
+all time,E07000238,Public Space,3,3,1.0
+all time,E07000238,Road Safety & Defects,552,244,2.262295081967213
+all time,E07000238,Vehicles,21,20,1.05
+all time,E07000239,Abandoned Vehicles & Parking,59,48,1.2291666666666667
+all time,E07000239,Access,18,8,2.25
+all time,E07000239,Environmental Disruptions,42,33,1.2727272727272727
+all time,E07000239,Environmental Health,220,93,2.3655913978494625
+all time,E07000239,Incivilities,66,10,6.6
+all time,E07000239,Other,121,76,1.5921052631578947
+all time,E07000239,Public Space,26,15,1.7333333333333334
+all time,E07000239,Road Safety & Defects,687,214,3.210280373831776
+all time,E07000239,Vehicles,9,8,1.125
+all time,E07000240,Abandoned Vehicles & Parking,93,67,1.3880597014925373
+all time,E07000240,Access,30,23,1.3043478260869565
+all time,E07000240,Environmental Disruptions,216,114,1.894736842105263
+all time,E07000240,Environmental Health,622,210,2.961904761904762
+all time,E07000240,Incivilities,32,18,1.7777777777777777
+all time,E07000240,Other,235,156,1.5064102564102564
+all time,E07000240,Public Space,49,37,1.3243243243243243
+all time,E07000240,Road Safety & Defects,2964,1050,2.822857142857143
+all time,E07000240,Vehicles,124,102,1.2156862745098038
+all time,E07000241,Abandoned Vehicles & Parking,71,56,1.2678571428571428
+all time,E07000241,Access,33,24,1.375
+all time,E07000241,Environmental Disruptions,177,106,1.669811320754717
+all time,E07000241,Environmental Health,884,267,3.310861423220974
+all time,E07000241,Incivilities,55,26,2.1153846153846154
+all time,E07000241,Other,242,150,1.6133333333333333
+all time,E07000241,Public Space,75,41,1.829268292682927
+all time,E07000241,Road Safety & Defects,2323,842,2.7589073634204277
+all time,E07000241,Vehicles,106,83,1.2771084337349397
+all time,E07000242,,8,8,1.0
+all time,E07000242,Abandoned Vehicles & Parking,65,52,1.25
+all time,E07000242,Access,32,29,1.103448275862069
+all time,E07000242,Environmental Disruptions,124,95,1.305263157894737
+all time,E07000242,Environmental Health,506,312,1.6217948717948718
+all time,E07000242,Incivilities,46,23,2.0
+all time,E07000242,Other,213,168,1.2678571428571428
+all time,E07000242,Public Space,25,16,1.5625
+all time,E07000242,Road Safety & Defects,1790,785,2.2802547770700636
+all time,E07000242,Vehicles,136,124,1.096774193548387
+all time,E07000243,Abandoned Vehicles & Parking,19,15,1.2666666666666666
+all time,E07000243,Access,94,68,1.3823529411764706
+all time,E07000243,Environmental Disruptions,382,268,1.4253731343283582
+all time,E07000243,Environmental Health,15776,1469,10.73927842069435
+all time,E07000243,Incivilities,794,152,5.223684210526316
+all time,E07000243,Other,1637,644,2.5419254658385095
+all time,E07000243,Public Space,8,5,1.6
+all time,E07000243,Road Safety & Defects,1917,739,2.5940460081190797
+all time,E07000243,Vehicles,3553,1076,3.3020446096654275
+all time,E08000001,Abandoned Vehicles & Parking,81,72,1.125
+all time,E08000001,Environmental Disruptions,89,71,1.2535211267605635
+all time,E08000001,Environmental Health,1085,332,3.2680722891566263
+all time,E08000001,Incivilities,62,28,2.2142857142857144
+all time,E08000001,Other,213,173,1.23121387283237
+all time,E08000001,Public Space,287,48,5.979166666666667
+all time,E08000001,Road Safety & Defects,3900,884,4.411764705882353
+all time,E08000001,Vehicles,63,58,1.0862068965517242
+all time,E08000002,Abandoned Vehicles & Parking,81,56,1.4464285714285714
+all time,E08000002,Environmental Disruptions,59,45,1.3111111111111111
+all time,E08000002,Environmental Health,504,196,2.5714285714285716
+all time,E08000002,Incivilities,78,25,3.12
+all time,E08000002,Other,108,82,1.3170731707317074
+all time,E08000002,Public Space,124,25,4.96
+all time,E08000002,Road Safety & Defects,2161,672,3.2157738095238093
+all time,E08000002,Vehicles,55,46,1.1956521739130435
+all time,E08000003,Abandoned Vehicles & Parking,226,149,1.516778523489933
+all time,E08000003,Access,6,6,1.0
+all time,E08000003,Environmental Disruptions,144,113,1.2743362831858407
+all time,E08000003,Environmental Health,3014,844,3.571090047393365
+all time,E08000003,Incivilities,345,90,3.8333333333333335
+all time,E08000003,Other,578,411,1.4063260340632604
+all time,E08000003,Public Space,153,97,1.577319587628866
+all time,E08000003,Road Safety & Defects,5031,1580,3.1841772151898735
+all time,E08000003,Vehicles,128,108,1.1851851851851851
+all time,E08000004,Abandoned Vehicles & Parking,99,69,1.434782608695652
+all time,E08000004,Access,3,3,1.0
+all time,E08000004,Environmental Disruptions,32,30,1.0666666666666667
+all time,E08000004,Environmental Health,473,215,2.2
+all time,E08000004,Incivilities,26,19,1.368421052631579
+all time,E08000004,Other,42,38,1.105263157894737
+all time,E08000004,Public Space,96,41,2.341463414634146
+all time,E08000004,Road Safety & Defects,4844,732,6.617486338797814
+all time,E08000004,Vehicles,40,33,1.2121212121212122
+all time,E08000005,Abandoned Vehicles & Parking,72,60,1.2
+all time,E08000005,Access,1,1,1.0
+all time,E08000005,Environmental Disruptions,48,40,1.2
+all time,E08000005,Environmental Health,353,198,1.7828282828282829
+all time,E08000005,Incivilities,29,21,1.380952380952381
+all time,E08000005,Other,122,97,1.2577319587628866
+all time,E08000005,Public Space,24,19,1.263157894736842
+all time,E08000005,Road Safety & Defects,743,405,1.834567901234568
+all time,E08000005,Vehicles,41,40,1.025
+all time,E08000006,Abandoned Vehicles & Parking,51,40,1.275
+all time,E08000006,Environmental Disruptions,49,42,1.1666666666666667
+all time,E08000006,Environmental Health,347,174,1.9942528735632183
+all time,E08000006,Incivilities,36,25,1.44
+all time,E08000006,Other,409,274,1.4927007299270072
+all time,E08000006,Public Space,30,17,1.7647058823529411
+all time,E08000006,Road Safety & Defects,963,431,2.234338747099768
+all time,E08000006,Vehicles,19,17,1.1176470588235294
+all time,E08000007,Abandoned Vehicles & Parking,185,137,1.3503649635036497
+all time,E08000007,Access,4,4,1.0
+all time,E08000007,Environmental Disruptions,119,94,1.2659574468085106
+all time,E08000007,Environmental Health,393,243,1.617283950617284
+all time,E08000007,Incivilities,46,27,1.7037037037037037
+all time,E08000007,Other,228,176,1.2954545454545454
+all time,E08000007,Public Space,50,30,1.6666666666666667
+all time,E08000007,Road Safety & Defects,2347,959,2.4473409801876955
+all time,E08000007,Vehicles,81,72,1.125
+all time,E08000008,Abandoned Vehicles & Parking,56,42,1.3333333333333333
+all time,E08000008,Environmental Disruptions,30,26,1.1538461538461537
+all time,E08000008,Environmental Health,367,207,1.7729468599033817
+all time,E08000008,Incivilities,23,17,1.3529411764705883
+all time,E08000008,Other,112,93,1.2043010752688172
+all time,E08000008,Public Space,9,9,1.0
+all time,E08000008,Road Safety & Defects,1109,562,1.9733096085409252
+all time,E08000008,Vehicles,55,43,1.2790697674418605
+all time,E08000009,Abandoned Vehicles & Parking,78,64,1.21875
+all time,E08000009,Access,2,2,1.0
+all time,E08000009,Environmental Disruptions,150,117,1.2820512820512822
+all time,E08000009,Environmental Health,1905,471,4.044585987261146
+all time,E08000009,Incivilities,183,62,2.9516129032258065
+all time,E08000009,Other,255,197,1.2944162436548223
+all time,E08000009,Public Space,121,67,1.8059701492537314
+all time,E08000009,Road Safety & Defects,2678,903,2.9656699889258027
+all time,E08000009,Vehicles,58,44,1.3181818181818181
+all time,E08000010,Abandoned Vehicles & Parking,95,83,1.144578313253012
+all time,E08000010,Access,1,1,1.0
+all time,E08000010,Environmental Disruptions,73,60,1.2166666666666666
+all time,E08000010,Environmental Health,364,245,1.4857142857142858
+all time,E08000010,Incivilities,35,18,1.9444444444444444
+all time,E08000010,Other,213,168,1.2678571428571428
+all time,E08000010,Public Space,44,27,1.6296296296296295
+all time,E08000010,Road Safety & Defects,963,530,1.8169811320754716
+all time,E08000010,Vehicles,71,63,1.126984126984127
+all time,E08000011,Abandoned Vehicles & Parking,42,28,1.5
+all time,E08000011,Environmental Disruptions,46,37,1.2432432432432432
+all time,E08000011,Environmental Health,242,120,2.0166666666666666
+all time,E08000011,Incivilities,17,14,1.2142857142857142
+all time,E08000011,Other,107,69,1.5507246376811594
+all time,E08000011,Public Space,41,26,1.5769230769230769
+all time,E08000011,Road Safety & Defects,492,255,1.9294117647058824
+all time,E08000011,Vehicles,21,21,1.0
+all time,E08000012,Abandoned Vehicles & Parking,294,187,1.572192513368984
+all time,E08000012,Access,1,1,1.0
+all time,E08000012,Environmental Disruptions,138,106,1.3018867924528301
+all time,E08000012,Environmental Health,1427,526,2.7129277566539924
+all time,E08000012,Incivilities,246,92,2.6739130434782608
+all time,E08000012,Other,330,267,1.2359550561797752
+all time,E08000012,Public Space,58,41,1.4146341463414633
+all time,E08000012,Road Safety & Defects,2264,932,2.429184549356223
+all time,E08000012,Vehicles,66,58,1.1379310344827587
+all time,E08000013,Abandoned Vehicles & Parking,44,39,1.1282051282051282
+all time,E08000013,Environmental Disruptions,42,32,1.3125
+all time,E08000013,Environmental Health,177,106,1.669811320754717
+all time,E08000013,Incivilities,8,8,1.0
+all time,E08000013,Other,58,49,1.183673469387755
+all time,E08000013,Public Space,9,6,1.5
+all time,E08000013,Road Safety & Defects,464,242,1.9173553719008265
+all time,E08000013,Vehicles,24,24,1.0
+all time,E08000014,Abandoned Vehicles & Parking,55,47,1.1702127659574468
+all time,E08000014,Access,2,2,1.0
+all time,E08000014,Environmental Disruptions,56,45,1.2444444444444445
+all time,E08000014,Environmental Health,263,142,1.852112676056338
+all time,E08000014,Incivilities,24,17,1.411764705882353
+all time,E08000014,Other,91,75,1.2133333333333334
+all time,E08000014,Public Space,17,14,1.2142857142857142
+all time,E08000014,Road Safety & Defects,809,417,1.9400479616306954
+all time,E08000014,Vehicles,28,26,1.0769230769230769
+all time,E08000015,Abandoned Vehicles & Parking,128,115,1.1130434782608696
+all time,E08000015,Access,2,2,1.0
+all time,E08000015,Environmental Disruptions,105,79,1.3291139240506329
+all time,E08000015,Environmental Health,599,325,1.843076923076923
+all time,E08000015,Incivilities,62,42,1.4761904761904763
+all time,E08000015,Other,299,239,1.2510460251046025
+all time,E08000015,Public Space,24,24,1.0
+all time,E08000015,Road Safety & Defects,1534,869,1.765247410817031
+all time,E08000015,Vehicles,70,61,1.1475409836065573
+all time,E08000016,Abandoned Vehicles & Parking,120,96,1.25
+all time,E08000016,Access,1,1,1.0
+all time,E08000016,Environmental Disruptions,84,66,1.2727272727272727
+all time,E08000016,Environmental Health,1084,357,3.0364145658263304
+all time,E08000016,Incivilities,59,38,1.5526315789473684
+all time,E08000016,Other,351,244,1.4385245901639345
+all time,E08000016,Public Space,65,37,1.7567567567567568
+all time,E08000016,Road Safety & Defects,1683,616,2.732142857142857
+all time,E08000016,Vehicles,62,50,1.24
+all time,E08000017,Abandoned Vehicles & Parking,122,100,1.22
+all time,E08000017,Access,1,1,1.0
+all time,E08000017,Environmental Disruptions,139,68,2.0441176470588234
+all time,E08000017,Environmental Health,925,303,3.052805280528053
+all time,E08000017,Incivilities,38,19,2.0
+all time,E08000017,Other,367,232,1.581896551724138
+all time,E08000017,Public Space,49,36,1.3611111111111112
+all time,E08000017,Road Safety & Defects,2283,672,3.3973214285714284
+all time,E08000017,Vehicles,46,38,1.2105263157894737
+all time,E08000018,Abandoned Vehicles & Parking,147,112,1.3125
+all time,E08000018,Environmental Disruptions,116,74,1.5675675675675675
+all time,E08000018,Environmental Health,1106,309,3.5792880258899675
+all time,E08000018,Incivilities,88,27,3.259259259259259
+all time,E08000018,Other,329,200,1.645
+all time,E08000018,Public Space,103,57,1.8070175438596492
+all time,E08000018,Road Safety & Defects,2218,778,2.8508997429305913
+all time,E08000018,Vehicles,23,23,1.0
+all time,E08000019,Abandoned Vehicles & Parking,520,388,1.3402061855670102
+all time,E08000019,Access,6,5,1.2
+all time,E08000019,Environmental Disruptions,594,342,1.736842105263158
+all time,E08000019,Environmental Health,4992,1197,4.170426065162907
+all time,E08000019,Incivilities,654,230,2.8434782608695652
+all time,E08000019,Other,1181,726,1.6267217630853994
+all time,E08000019,Public Space,323,165,1.9575757575757575
+all time,E08000019,Road Safety & Defects,8197,2413,3.3970161624533777
+all time,E08000019,Vehicles,247,191,1.293193717277487
+all time,E08000021,Abandoned Vehicles & Parking,135,110,1.2272727272727273
+all time,E08000021,Access,1,1,1.0
+all time,E08000021,Environmental Disruptions,96,70,1.3714285714285714
+all time,E08000021,Environmental Health,782,290,2.696551724137931
+all time,E08000021,Incivilities,94,45,2.088888888888889
+all time,E08000021,Other,313,173,1.8092485549132948
+all time,E08000021,Public Space,66,40,1.65
+all time,E08000021,Road Safety & Defects,1152,495,2.327272727272727
+all time,E08000021,Vehicles,58,53,1.0943396226415094
+all time,E08000022,Abandoned Vehicles & Parking,65,60,1.0833333333333333
+all time,E08000022,Access,3,2,1.5
+all time,E08000022,Environmental Disruptions,60,44,1.3636363636363635
+all time,E08000022,Environmental Health,415,152,2.7302631578947367
+all time,E08000022,Incivilities,76,27,2.814814814814815
+all time,E08000022,Other,178,133,1.3383458646616542
+all time,E08000022,Public Space,27,22,1.2272727272727273
+all time,E08000022,Road Safety & Defects,1264,468,2.700854700854701
+all time,E08000022,Vehicles,39,29,1.3448275862068966
+all time,E08000023,Abandoned Vehicles & Parking,43,38,1.131578947368421
+all time,E08000023,Access,1,1,1.0
+all time,E08000023,Environmental Disruptions,13,13,1.0
+all time,E08000023,Environmental Health,92,73,1.2602739726027397
+all time,E08000023,Incivilities,6,4,1.5
+all time,E08000023,Other,46,42,1.0952380952380953
+all time,E08000023,Public Space,14,14,1.0
+all time,E08000023,Road Safety & Defects,323,178,1.8146067415730338
+all time,E08000023,Vehicles,11,11,1.0
+all time,E08000024,Abandoned Vehicles & Parking,87,77,1.12987012987013
+all time,E08000024,Environmental Disruptions,97,74,1.3108108108108107
+all time,E08000024,Environmental Health,1184,354,3.3446327683615817
+all time,E08000024,Incivilities,57,34,1.6764705882352942
+all time,E08000024,Other,214,167,1.281437125748503
+all time,E08000024,Public Space,127,68,1.8676470588235294
+all time,E08000024,Road Safety & Defects,1027,476,2.157563025210084
+all time,E08000024,Vehicles,70,52,1.3461538461538463
+all time,E08000025,Abandoned Vehicles & Parking,873,600,1.455
+all time,E08000025,Access,6,6,1.0
+all time,E08000025,Environmental Disruptions,537,340,1.5794117647058823
+all time,E08000025,Environmental Health,5461,1646,3.3177399756986636
+all time,E08000025,Incivilities,899,244,3.6844262295081966
+all time,E08000025,Other,1358,890,1.5258426966292136
+all time,E08000025,Public Space,253,171,1.4795321637426901
+all time,E08000025,Road Safety & Defects,7807,2280,3.424122807017544
+all time,E08000025,Vehicles,531,413,1.2857142857142858
+all time,E08000026,Abandoned Vehicles & Parking,122,98,1.2448979591836735
+all time,E08000026,Environmental Disruptions,83,61,1.360655737704918
+all time,E08000026,Environmental Health,494,256,1.9296875
+all time,E08000026,Incivilities,32,24,1.3333333333333333
+all time,E08000026,Other,201,169,1.1893491124260356
+all time,E08000026,Public Space,36,26,1.3846153846153846
+all time,E08000026,Road Safety & Defects,1317,616,2.137987012987013
+all time,E08000026,Vehicles,106,86,1.2325581395348837
+all time,E08000027,Abandoned Vehicles & Parking,191,130,1.4692307692307693
+all time,E08000027,Environmental Disruptions,93,71,1.3098591549295775
+all time,E08000027,Environmental Health,574,250,2.296
+all time,E08000027,Incivilities,162,60,2.7
+all time,E08000027,Other,269,204,1.3186274509803921
+all time,E08000027,Public Space,68,38,1.7894736842105263
+all time,E08000027,Road Safety & Defects,1845,653,2.8254211332312402
+all time,E08000027,Vehicles,62,50,1.24
+all time,E08000028,Abandoned Vehicles & Parking,213,176,1.2102272727272727
+all time,E08000028,Access,2,2,1.0
+all time,E08000028,Environmental Disruptions,115,94,1.2234042553191489
+all time,E08000028,Environmental Health,677,358,1.8910614525139664
+all time,E08000028,Incivilities,83,52,1.5961538461538463
+all time,E08000028,Other,358,261,1.371647509578544
+all time,E08000028,Public Space,40,35,1.1428571428571428
+all time,E08000028,Road Safety & Defects,1260,606,2.0792079207920793
+all time,E08000028,Vehicles,95,80,1.1875
+all time,E08000029,Abandoned Vehicles & Parking,103,76,1.355263157894737
+all time,E08000029,Environmental Disruptions,73,61,1.1967213114754098
+all time,E08000029,Environmental Health,370,187,1.9786096256684491
+all time,E08000029,Incivilities,44,27,1.6296296296296295
+all time,E08000029,Other,173,125,1.384
+all time,E08000029,Public Space,62,48,1.2916666666666667
+all time,E08000029,Road Safety & Defects,1453,662,2.194864048338369
+all time,E08000029,Vehicles,36,36,1.0
+all time,E08000030,,38,28,1.3571428571428572
+all time,E08000030,Abandoned Vehicles & Parking,277,181,1.5303867403314917
+all time,E08000030,Access,3,3,1.0
+all time,E08000030,Environmental Disruptions,124,79,1.5696202531645569
+all time,E08000030,Environmental Health,801,284,2.8204225352112675
+all time,E08000030,Incivilities,94,40,2.35
+all time,E08000030,Other,296,222,1.3333333333333333
+all time,E08000030,Public Space,48,30,1.6
+all time,E08000030,Road Safety & Defects,1934,595,3.250420168067227
+all time,E08000030,Vehicles,55,51,1.0784313725490196
+all time,E08000031,Abandoned Vehicles & Parking,139,119,1.1680672268907564
+all time,E08000031,Environmental Disruptions,122,50,2.44
+all time,E08000031,Environmental Health,486,164,2.9634146341463414
+all time,E08000031,Incivilities,279,29,9.620689655172415
+all time,E08000031,Other,241,141,1.7092198581560283
+all time,E08000031,Public Space,42,33,1.2727272727272727
+all time,E08000031,Road Safety & Defects,1401,389,3.601542416452442
+all time,E08000031,Vehicles,60,54,1.1111111111111112
+all time,E08000032,Abandoned Vehicles & Parking,204,155,1.3161290322580645
+all time,E08000032,Access,3,3,1.0
+all time,E08000032,Environmental Disruptions,97,87,1.1149425287356323
+all time,E08000032,Environmental Health,1148,527,2.178368121442125
+all time,E08000032,Incivilities,53,34,1.5588235294117647
+all time,E08000032,Other,423,338,1.2514792899408285
+all time,E08000032,Public Space,61,48,1.2708333333333333
+all time,E08000032,Road Safety & Defects,2926,1246,2.348314606741573
+all time,E08000032,Vehicles,102,79,1.2911392405063291
+all time,E08000033,Abandoned Vehicles & Parking,76,66,1.1515151515151516
+all time,E08000033,Access,1,1,1.0
+all time,E08000033,Environmental Disruptions,62,40,1.55
+all time,E08000033,Environmental Health,305,167,1.8263473053892216
+all time,E08000033,Incivilities,83,30,2.7666666666666666
+all time,E08000033,Other,151,114,1.3245614035087718
+all time,E08000033,Public Space,17,13,1.3076923076923077
+all time,E08000033,Road Safety & Defects,1173,487,2.4086242299794662
+all time,E08000033,Vehicles,50,41,1.2195121951219512
+all time,E08000034,Abandoned Vehicles & Parking,116,101,1.1485148514851484
+all time,E08000034,Environmental Disruptions,79,55,1.4363636363636363
+all time,E08000034,Environmental Health,545,292,1.8664383561643836
+all time,E08000034,Incivilities,150,36,4.166666666666667
+all time,E08000034,Other,298,208,1.4326923076923077
+all time,E08000034,Public Space,43,36,1.1944444444444444
+all time,E08000034,Road Safety & Defects,2093,880,2.378409090909091
+all time,E08000034,Vehicles,67,62,1.0806451612903225
+all time,E08000035,Abandoned Vehicles & Parking,510,404,1.2623762376237624
+all time,E08000035,Access,3,3,1.0
+all time,E08000035,Environmental Disruptions,313,233,1.3433476394849786
+all time,E08000035,Environmental Health,2564,1271,2.017309205350118
+all time,E08000035,Incivilities,309,138,2.239130434782609
+all time,E08000035,Other,971,633,1.5339652448657188
+all time,E08000035,Public Space,239,172,1.3895348837209303
+all time,E08000035,Road Safety & Defects,4902,2049,2.392386530014641
+all time,E08000035,Vehicles,167,154,1.0844155844155845
+all time,E08000036,Abandoned Vehicles & Parking,160,136,1.1764705882352942
+all time,E08000036,Access,2,1,2.0
+all time,E08000036,Environmental Disruptions,58,51,1.1372549019607843
+all time,E08000036,Environmental Health,576,237,2.430379746835443
+all time,E08000036,Incivilities,12,11,1.0909090909090908
+all time,E08000036,Other,207,174,1.1896551724137931
+all time,E08000036,Public Space,46,29,1.5862068965517242
+all time,E08000036,Road Safety & Defects,1205,624,1.9310897435897436
+all time,E08000036,Vehicles,35,32,1.09375
+all time,E08000037,Abandoned Vehicles & Parking,93,70,1.3285714285714285
+all time,E08000037,Environmental Disruptions,33,27,1.2222222222222223
+all time,E08000037,Environmental Health,316,140,2.257142857142857
+all time,E08000037,Incivilities,30,26,1.1538461538461537
+all time,E08000037,Other,101,85,1.188235294117647
+all time,E08000037,Public Space,18,13,1.3846153846153846
+all time,E08000037,Road Safety & Defects,806,391,2.061381074168798
+all time,E08000037,Vehicles,31,24,1.2916666666666667
+all time,E09000001,Abandoned Vehicles & Parking,6,5,1.2
+all time,E09000001,Environmental Disruptions,17,10,1.7
+all time,E09000001,Environmental Health,70,36,1.9444444444444444
+all time,E09000001,Incivilities,73,13,5.615384615384615
+all time,E09000001,Other,38,35,1.0857142857142856
+all time,E09000001,Public Space,2,2,1.0
+all time,E09000001,Road Safety & Defects,368,209,1.7607655502392345
+all time,E09000001,Vehicles,13,10,1.3
+all time,E09000002,Abandoned Vehicles & Parking,105,32,3.28125
+all time,E09000002,Access,3,3,1.0
+all time,E09000002,Environmental Disruptions,43,23,1.8695652173913044
+all time,E09000002,Environmental Health,338,131,2.5801526717557253
+all time,E09000002,Incivilities,8,6,1.3333333333333333
+all time,E09000002,Other,63,43,1.4651162790697674
+all time,E09000002,Public Space,14,12,1.1666666666666667
+all time,E09000002,Road Safety & Defects,603,187,3.2245989304812834
+all time,E09000002,Vehicles,119,73,1.63013698630137
+all time,E09000003,Abandoned Vehicles & Parking,152,128,1.1875
+all time,E09000003,Environmental Disruptions,1778,1189,1.4953742640874685
+all time,E09000003,Environmental Health,11713,4624,2.5330882352941178
+all time,E09000003,Incivilities,1426,304,4.690789473684211
+all time,E09000003,Other,439,339,1.294985250737463
+all time,E09000003,Public Space,34,30,1.1333333333333333
+all time,E09000003,Road Safety & Defects,18524,8410,2.202615933412604
+all time,E09000003,Vehicles,1335,925,1.4432432432432432
+all time,E09000004,Abandoned Vehicles & Parking,79,65,1.2153846153846153
+all time,E09000004,Environmental Disruptions,85,65,1.3076923076923077
+all time,E09000004,Environmental Health,739,312,2.3685897435897436
+all time,E09000004,Incivilities,89,25,3.56
+all time,E09000004,Other,125,96,1.3020833333333333
+all time,E09000004,Public Space,25,18,1.3888888888888888
+all time,E09000004,Road Safety & Defects,1113,408,2.7279411764705883
+all time,E09000004,Vehicles,131,105,1.2476190476190476
+all time,E09000005,Abandoned Vehicles & Parking,65,55,1.1818181818181819
+all time,E09000005,Access,1,1,1.0
+all time,E09000005,Environmental Disruptions,145,84,1.7261904761904763
+all time,E09000005,Environmental Health,1668,397,4.2015113350125946
+all time,E09000005,Incivilities,400,41,9.75609756097561
+all time,E09000005,Other,184,128,1.4375
+all time,E09000005,Public Space,20,14,1.4285714285714286
+all time,E09000005,Road Safety & Defects,1435,624,2.2996794871794872
+all time,E09000005,Vehicles,132,93,1.4193548387096775
+all time,E09000006,,236,220,1.0727272727272728
+all time,E09000006,Abandoned Vehicles & Parking,47,36,1.3055555555555556
+all time,E09000006,Access,3194,2286,1.3972003499562555
+all time,E09000006,Environmental Disruptions,13844,7643,1.8113306293340312
+all time,E09000006,Environmental Health,44505,13898,3.202259317887466
+all time,E09000006,Incivilities,4310,991,4.349142280524722
+all time,E09000006,Other,227,187,1.213903743315508
+all time,E09000006,Public Space,12,10,1.2
+all time,E09000006,Road Safety & Defects,30203,12660,2.385703001579779
+all time,E09000006,Vehicles,6697,5019,1.334329547718669
+all time,E09000007,Abandoned Vehicles & Parking,45,40,1.125
+all time,E09000007,Access,21,16,1.3125
+all time,E09000007,Environmental Disruptions,184,117,1.5726495726495726
+all time,E09000007,Environmental Health,1077,365,2.9506849315068493
+all time,E09000007,Incivilities,236,43,5.488372093023256
+all time,E09000007,Other,144,116,1.2413793103448276
+all time,E09000007,Public Space,10,10,1.0
+all time,E09000007,Road Safety & Defects,1918,614,3.1237785016286646
+all time,E09000007,Vehicles,172,71,2.4225352112676055
+all time,E09000008,Abandoned Vehicles & Parking,147,111,1.3243243243243243
+all time,E09000008,Access,3,2,1.5
+all time,E09000008,Environmental Disruptions,229,140,1.6357142857142857
+all time,E09000008,Environmental Health,2870,621,4.6215780998389695
+all time,E09000008,Incivilities,436,48,9.083333333333334
+all time,E09000008,Other,202,170,1.188235294117647
+all time,E09000008,Public Space,63,41,1.5365853658536586
+all time,E09000008,Road Safety & Defects,1891,805,2.3490683229813665
+all time,E09000008,Vehicles,283,194,1.458762886597938
+all time,E09000009,Abandoned Vehicles & Parking,95,80,1.1875
+all time,E09000009,Access,9,5,1.8
+all time,E09000009,Environmental Disruptions,151,106,1.4245283018867925
+all time,E09000009,Environmental Health,1637,625,2.6192
+all time,E09000009,Incivilities,183,67,2.7313432835820897
+all time,E09000009,Other,257,205,1.2536585365853659
+all time,E09000009,Public Space,58,37,1.5675675675675675
+all time,E09000009,Road Safety & Defects,1599,678,2.3584070796460175
+all time,E09000009,Vehicles,269,187,1.4385026737967914
+all time,E09000010,Abandoned Vehicles & Parking,149,87,1.7126436781609196
+all time,E09000010,Access,4,4,1.0
+all time,E09000010,Environmental Disruptions,160,101,1.5841584158415842
+all time,E09000010,Environmental Health,1578,353,4.470254957507082
+all time,E09000010,Incivilities,40,25,1.6
+all time,E09000010,Other,237,142,1.6690140845070423
+all time,E09000010,Public Space,56,32,1.75
+all time,E09000010,Road Safety & Defects,1210,496,2.439516129032258
+all time,E09000010,Vehicles,202,139,1.4532374100719425
+all time,E09000011,Abandoned Vehicles & Parking,692,383,1.8067885117493472
+all time,E09000011,Access,11,11,1.0
+all time,E09000011,Environmental Disruptions,336,259,1.2972972972972974
+all time,E09000011,Environmental Health,10154,4040,2.513366336633663
+all time,E09000011,Incivilities,481,265,1.8150943396226416
+all time,E09000011,Other,877,693,1.2655122655122655
+all time,E09000011,Public Space,353,237,1.489451476793249
+all time,E09000011,Road Safety & Defects,2446,1285,1.9035019455252917
+all time,E09000011,Vehicles,2176,1520,1.431578947368421
+all time,E09000012,Abandoned Vehicles & Parking,59,49,1.2040816326530612
+all time,E09000012,Access,4,4,1.0
+all time,E09000012,Environmental Disruptions,119,92,1.2934782608695652
+all time,E09000012,Environmental Health,448,238,1.8823529411764706
+all time,E09000012,Incivilities,45,29,1.5517241379310345
+all time,E09000012,Other,167,131,1.2748091603053435
+all time,E09000012,Public Space,25,15,1.6666666666666667
+all time,E09000012,Road Safety & Defects,914,475,1.9242105263157894
+all time,E09000012,Vehicles,110,75,1.4666666666666666
+all time,E09000013,Abandoned Vehicles & Parking,23,20,1.15
+all time,E09000013,Access,2,2,1.0
+all time,E09000013,Environmental Disruptions,45,38,1.1842105263157894
+all time,E09000013,Environmental Health,365,192,1.9010416666666667
+all time,E09000013,Incivilities,35,28,1.25
+all time,E09000013,Other,85,69,1.2318840579710144
+all time,E09000013,Public Space,9,8,1.125
+all time,E09000013,Road Safety & Defects,432,276,1.565217391304348
+all time,E09000013,Vehicles,32,32,1.0
+all time,E09000014,Abandoned Vehicles & Parking,65,54,1.2037037037037037
+all time,E09000014,Access,4,4,1.0
+all time,E09000014,Environmental Disruptions,186,82,2.268292682926829
+all time,E09000014,Environmental Health,2119,408,5.193627450980392
+all time,E09000014,Incivilities,424,61,6.950819672131147
+all time,E09000014,Other,248,162,1.5308641975308641
+all time,E09000014,Public Space,26,21,1.2380952380952381
+all time,E09000014,Road Safety & Defects,1438,582,2.470790378006873
+all time,E09000014,Vehicles,139,97,1.4329896907216495
+all time,E09000015,Abandoned Vehicles & Parking,70,65,1.0769230769230769
+all time,E09000015,Access,4,4,1.0
+all time,E09000015,Environmental Disruptions,127,89,1.4269662921348314
+all time,E09000015,Environmental Health,826,321,2.573208722741433
+all time,E09000015,Incivilities,51,30,1.7
+all time,E09000015,Other,190,104,1.8269230769230769
+all time,E09000015,Public Space,14,10,1.4
+all time,E09000015,Road Safety & Defects,1086,502,2.1633466135458166
+all time,E09000015,Vehicles,202,151,1.3377483443708609
+all time,E09000016,Abandoned Vehicles & Parking,62,41,1.5121951219512195
+all time,E09000016,Access,1,1,1.0
+all time,E09000016,Environmental Disruptions,60,49,1.2244897959183674
+all time,E09000016,Environmental Health,301,124,2.4274193548387095
+all time,E09000016,Incivilities,14,12,1.1666666666666667
+all time,E09000016,Other,45,41,1.0975609756097562
+all time,E09000016,Public Space,1,1,1.0
+all time,E09000016,Road Safety & Defects,586,305,1.9213114754098362
+all time,E09000016,Vehicles,45,41,1.0975609756097562
+all time,E09000017,Abandoned Vehicles & Parking,100,89,1.1235955056179776
+all time,E09000017,Access,1,1,1.0
+all time,E09000017,Environmental Disruptions,106,73,1.452054794520548
+all time,E09000017,Environmental Health,718,255,2.815686274509804
+all time,E09000017,Incivilities,79,35,2.257142857142857
+all time,E09000017,Other,161,113,1.424778761061947
+all time,E09000017,Public Space,79,32,2.46875
+all time,E09000017,Road Safety & Defects,1176,623,1.8876404494382022
+all time,E09000017,Vehicles,195,145,1.3448275862068966
+all time,E09000018,Abandoned Vehicles & Parking,247,179,1.3798882681564246
+all time,E09000018,Access,6,6,1.0
+all time,E09000018,Environmental Disruptions,185,119,1.5546218487394958
+all time,E09000018,Environmental Health,2881,622,4.631832797427653
+all time,E09000018,Incivilities,211,86,2.453488372093023
+all time,E09000018,Other,297,208,1.4278846153846154
+all time,E09000018,Public Space,93,35,2.657142857142857
+all time,E09000018,Road Safety & Defects,1822,851,2.1410105757931843
+all time,E09000018,Vehicles,279,204,1.3676470588235294
+all time,E09000019,Abandoned Vehicles & Parking,33,29,1.1379310344827587
+all time,E09000019,Access,4,4,1.0
+all time,E09000019,Environmental Disruptions,119,82,1.451219512195122
+all time,E09000019,Environmental Health,880,340,2.588235294117647
+all time,E09000019,Incivilities,261,56,4.660714285714286
+all time,E09000019,Other,185,139,1.330935251798561
+all time,E09000019,Public Space,38,21,1.8095238095238095
+all time,E09000019,Road Safety & Defects,1478,630,2.346031746031746
+all time,E09000019,Vehicles,134,56,2.392857142857143
+all time,E09000020,Abandoned Vehicles & Parking,22,17,1.2941176470588236
+all time,E09000020,Access,1,1,1.0
+all time,E09000020,Environmental Disruptions,31,22,1.4090909090909092
+all time,E09000020,Environmental Health,167,94,1.7765957446808511
+all time,E09000020,Incivilities,18,10,1.8
+all time,E09000020,Other,54,43,1.255813953488372
+all time,E09000020,Public Space,4,3,1.3333333333333333
+all time,E09000020,Road Safety & Defects,365,195,1.8717948717948718
+all time,E09000020,Vehicles,21,11,1.9090909090909092
+all time,E09000021,Abandoned Vehicles & Parking,109,85,1.2823529411764707
+all time,E09000021,Access,3,3,1.0
+all time,E09000021,Environmental Disruptions,111,75,1.48
+all time,E09000021,Environmental Health,437,218,2.0045871559633026
+all time,E09000021,Incivilities,45,29,1.5517241379310345
+all time,E09000021,Other,121,100,1.21
+all time,E09000021,Public Space,23,17,1.3529411764705883
+all time,E09000021,Road Safety & Defects,1156,485,2.3835051546391752
+all time,E09000021,Vehicles,115,84,1.369047619047619
+all time,E09000022,Abandoned Vehicles & Parking,113,88,1.2840909090909092
+all time,E09000022,Access,7,7,1.0
+all time,E09000022,Environmental Disruptions,247,170,1.4529411764705882
+all time,E09000022,Environmental Health,3137,804,3.9017412935323383
+all time,E09000022,Incivilities,258,94,2.74468085106383
+all time,E09000022,Other,390,275,1.4181818181818182
+all time,E09000022,Public Space,64,45,1.4222222222222223
+all time,E09000022,Road Safety & Defects,3030,1177,2.5743415463041632
+all time,E09000022,Vehicles,295,169,1.7455621301775148
+all time,E09000023,Abandoned Vehicles & Parking,473,258,1.8333333333333333
+all time,E09000023,Access,13,11,1.1818181818181819
+all time,E09000023,Environmental Disruptions,544,330,1.6484848484848484
+all time,E09000023,Environmental Health,27911,3315,8.419607843137255
+all time,E09000023,Incivilities,2568,343,7.486880466472303
+all time,E09000023,Other,1927,274,7.032846715328467
+all time,E09000023,Public Space,629,217,2.8986175115207375
+all time,E09000023,Road Safety & Defects,3165,1331,2.3779113448534934
+all time,E09000023,Vehicles,1397,868,1.609447004608295
+all time,E09000024,Abandoned Vehicles & Parking,76,56,1.3571428571428572
+all time,E09000024,Environmental Disruptions,107,76,1.4078947368421053
+all time,E09000024,Environmental Health,831,276,3.010869565217391
+all time,E09000024,Incivilities,128,29,4.413793103448276
+all time,E09000024,Other,122,97,1.2577319587628866
+all time,E09000024,Public Space,20,12,1.6666666666666667
+all time,E09000024,Road Safety & Defects,859,404,2.126237623762376
+all time,E09000024,Vehicles,86,72,1.1944444444444444
+all time,E09000025,Abandoned Vehicles & Parking,44,37,1.1891891891891893
+all time,E09000025,Access,2,2,1.0
+all time,E09000025,Environmental Disruptions,81,57,1.4210526315789473
+all time,E09000025,Environmental Health,307,162,1.8950617283950617
+all time,E09000025,Incivilities,23,16,1.4375
+all time,E09000025,Other,70,52,1.3461538461538463
+all time,E09000025,Public Space,365,156,2.33974358974359
+all time,E09000025,Road Safety & Defects,530,265,2.0
+all time,E09000025,Vehicles,50,37,1.3513513513513513
+all time,E09000026,Abandoned Vehicles & Parking,79,70,1.1285714285714286
+all time,E09000026,Access,10,9,1.1111111111111112
+all time,E09000026,Environmental Disruptions,58,56,1.0357142857142858
+all time,E09000026,Environmental Health,271,194,1.3969072164948453
+all time,E09000026,Incivilities,45,30,1.5
+all time,E09000026,Other,129,106,1.2169811320754718
+all time,E09000026,Public Space,16,13,1.2307692307692308
+all time,E09000026,Road Safety & Defects,444,275,1.6145454545454545
+all time,E09000026,Vehicles,75,70,1.0714285714285714
+all time,E09000027,Abandoned Vehicles & Parking,64,61,1.0491803278688525
+all time,E09000027,Access,2,2,1.0
+all time,E09000027,Environmental Disruptions,98,75,1.3066666666666666
+all time,E09000027,Environmental Health,430,212,2.0283018867924527
+all time,E09000027,Incivilities,94,38,2.473684210526316
+all time,E09000027,Other,148,114,1.2982456140350878
+all time,E09000027,Public Space,29,23,1.2608695652173914
+all time,E09000027,Road Safety & Defects,1162,512,2.26953125
+all time,E09000027,Vehicles,92,77,1.1948051948051948
+all time,E09000028,Abandoned Vehicles & Parking,137,88,1.5568181818181819
+all time,E09000028,Access,3,3,1.0
+all time,E09000028,Environmental Disruptions,161,111,1.4504504504504505
+all time,E09000028,Environmental Health,1028,405,2.5382716049382714
+all time,E09000028,Incivilities,133,67,1.9850746268656716
+all time,E09000028,Other,231,190,1.2157894736842105
+all time,E09000028,Public Space,39,29,1.3448275862068966
+all time,E09000028,Road Safety & Defects,1743,830,2.1
+all time,E09000028,Vehicles,160,119,1.3445378151260505
+all time,E09000029,Abandoned Vehicles & Parking,95,50,1.9
+all time,E09000029,Access,1,1,1.0
+all time,E09000029,Environmental Disruptions,82,57,1.4385964912280702
+all time,E09000029,Environmental Health,681,195,3.4923076923076923
+all time,E09000029,Incivilities,239,25,9.56
+all time,E09000029,Other,98,77,1.2727272727272727
+all time,E09000029,Public Space,28,12,2.3333333333333335
+all time,E09000029,Road Safety & Defects,687,245,2.804081632653061
+all time,E09000029,Vehicles,142,100,1.42
+all time,E09000030,Abandoned Vehicles & Parking,79,63,1.253968253968254
+all time,E09000030,Access,9,8,1.125
+all time,E09000030,Environmental Disruptions,106,74,1.4324324324324325
+all time,E09000030,Environmental Health,1081,389,2.7789203084832903
+all time,E09000030,Incivilities,101,66,1.5303030303030303
+all time,E09000030,Other,212,170,1.2470588235294118
+all time,E09000030,Public Space,53,22,2.409090909090909
+all time,E09000030,Road Safety & Defects,1079,533,2.024390243902439
+all time,E09000030,Vehicles,82,58,1.4137931034482758
+all time,E09000031,Abandoned Vehicles & Parking,87,66,1.3181818181818181
+all time,E09000031,Access,6,5,1.2
+all time,E09000031,Environmental Disruptions,117,74,1.5810810810810811
+all time,E09000031,Environmental Health,1661,472,3.5190677966101696
+all time,E09000031,Incivilities,63,49,1.2857142857142858
+all time,E09000031,Other,212,140,1.5142857142857142
+all time,E09000031,Public Space,42,23,1.826086956521739
+all time,E09000031,Road Safety & Defects,960,485,1.9793814432989691
+all time,E09000031,Vehicles,133,115,1.1565217391304348
+all time,E09000032,Abandoned Vehicles & Parking,69,47,1.4680851063829787
+all time,E09000032,Access,2,2,1.0
+all time,E09000032,Environmental Disruptions,162,109,1.4862385321100917
+all time,E09000032,Environmental Health,999,389,2.5681233933161955
+all time,E09000032,Incivilities,112,49,2.2857142857142856
+all time,E09000032,Other,286,205,1.395121951219512
+all time,E09000032,Public Space,23,23,1.0
+all time,E09000032,Road Safety & Defects,2067,1006,2.054671968190855
+all time,E09000032,Vehicles,129,104,1.2403846153846154
+all time,E09000033,Abandoned Vehicles & Parking,38,30,1.2666666666666666
+all time,E09000033,Access,3,3,1.0
+all time,E09000033,Environmental Disruptions,128,64,2.0
+all time,E09000033,Environmental Health,379,227,1.669603524229075
+all time,E09000033,Incivilities,120,38,3.1578947368421053
+all time,E09000033,Other,156,126,1.2380952380952381
+all time,E09000033,Public Space,9,9,1.0
+all time,E09000033,Road Safety & Defects,1410,676,2.0857988165680474
+all time,E09000033,Vehicles,70,45,1.5555555555555556
+all time,S12000005,Abandoned Vehicles & Parking,8,5,1.6
+all time,S12000005,Environmental Disruptions,12,5,2.4
+all time,S12000005,Environmental Health,36,20,1.8
+all time,S12000005,Incivilities,5,4,1.25
+all time,S12000005,Other,27,21,1.2857142857142858
+all time,S12000005,Public Space,2,2,1.0
+all time,S12000005,Road Safety & Defects,331,85,3.8941176470588235
+all time,S12000005,Vehicles,8,7,1.1428571428571428
+all time,S12000006,Abandoned Vehicles & Parking,10,10,1.0
+all time,S12000006,Access,4,4,1.0
+all time,S12000006,Environmental Disruptions,15,8,1.875
+all time,S12000006,Environmental Health,64,45,1.4222222222222223
+all time,S12000006,Incivilities,4,4,1.0
+all time,S12000006,Other,68,50,1.36
+all time,S12000006,Public Space,4,4,1.0
+all time,S12000006,Road Safety & Defects,1136,379,2.9973614775725594
+all time,S12000006,Vehicles,5,5,1.0
+all time,S12000008,Abandoned Vehicles & Parking,28,19,1.4736842105263157
+all time,S12000008,Environmental Disruptions,18,16,1.125
+all time,S12000008,Environmental Health,75,51,1.4705882352941178
+all time,S12000008,Incivilities,8,5,1.6
+all time,S12000008,Other,62,40,1.55
+all time,S12000008,Public Space,10,9,1.1111111111111112
+all time,S12000008,Road Safety & Defects,816,298,2.738255033557047
+all time,S12000008,Vehicles,26,24,1.0833333333333333
+all time,S12000010,Abandoned Vehicles & Parking,18,15,1.2
+all time,S12000010,Access,1,1,1.0
+all time,S12000010,Environmental Disruptions,22,19,1.1578947368421053
+all time,S12000010,Environmental Health,112,62,1.8064516129032258
+all time,S12000010,Incivilities,3,3,1.0
+all time,S12000010,Other,51,45,1.1333333333333333
+all time,S12000010,Public Space,13,12,1.0833333333333333
+all time,S12000010,Road Safety & Defects,450,242,1.859504132231405
+all time,S12000010,Vehicles,14,11,1.2727272727272727
+all time,S12000011,Abandoned Vehicles & Parking,21,9,2.3333333333333335
+all time,S12000011,Access,1,1,1.0
+all time,S12000011,Environmental Disruptions,19,16,1.1875
+all time,S12000011,Environmental Health,86,39,2.2051282051282053
+all time,S12000011,Incivilities,13,9,1.4444444444444444
+all time,S12000011,Other,54,32,1.6875
+all time,S12000011,Public Space,7,6,1.1666666666666667
+all time,S12000011,Road Safety & Defects,1316,291,4.52233676975945
+all time,S12000011,Vehicles,31,25,1.24
+all time,S12000013,Environmental Health,5,4,1.25
+all time,S12000013,Other,7,5,1.4
+all time,S12000013,Road Safety & Defects,45,18,2.5
+all time,S12000013,Vehicles,3,3,1.0
+all time,S12000014,Abandoned Vehicles & Parking,122,100,1.22
+all time,S12000014,Access,5,5,1.0
+all time,S12000014,Environmental Disruptions,212,153,1.3856209150326797
+all time,S12000014,Environmental Health,642,317,2.0252365930599368
+all time,S12000014,Incivilities,62,43,1.441860465116279
+all time,S12000014,Other,584,407,1.434889434889435
+all time,S12000014,Public Space,137,79,1.7341772151898733
+all time,S12000014,Road Safety & Defects,4904,1782,2.7519640852974185
+all time,S12000014,Vehicles,34,31,1.096774193548387
+all time,S12000015,Abandoned Vehicles & Parking,119,101,1.1782178217821782
+all time,S12000015,Access,4,1,4.0
+all time,S12000015,Environmental Disruptions,78,65,1.2
+all time,S12000015,Environmental Health,608,232,2.6206896551724137
+all time,S12000015,Incivilities,20,19,1.0526315789473684
+all time,S12000015,Other,249,214,1.1635514018691588
+all time,S12000015,Public Space,42,38,1.105263157894737
+all time,S12000015,Road Safety & Defects,2078,777,2.6743886743886742
+all time,S12000015,Vehicles,76,53,1.4339622641509433
+all time,S12000017,Abandoned Vehicles & Parking,31,30,1.0333333333333334
+all time,S12000017,Access,3,3,1.0
+all time,S12000017,Environmental Disruptions,44,36,1.2222222222222223
+all time,S12000017,Environmental Health,195,115,1.6956521739130435
+all time,S12000017,Incivilities,12,9,1.3333333333333333
+all time,S12000017,Other,182,133,1.368421052631579
+all time,S12000017,Public Space,27,22,1.2272727272727273
+all time,S12000017,Road Safety & Defects,1954,724,2.6988950276243093
+all time,S12000017,Vehicles,77,47,1.6382978723404256
+all time,S12000018,Abandoned Vehicles & Parking,13,12,1.0833333333333333
+all time,S12000018,Environmental Disruptions,11,11,1.0
+all time,S12000018,Environmental Health,59,42,1.4047619047619047
+all time,S12000018,Incivilities,2,2,1.0
+all time,S12000018,Other,21,17,1.2352941176470589
+all time,S12000018,Public Space,1,1,1.0
+all time,S12000018,Road Safety & Defects,243,138,1.7608695652173914
+all time,S12000018,Vehicles,1,1,1.0
+all time,S12000019,Abandoned Vehicles & Parking,31,21,1.4761904761904763
+all time,S12000019,Environmental Disruptions,42,30,1.4
+all time,S12000019,Environmental Health,178,78,2.282051282051282
+all time,S12000019,Incivilities,2,2,1.0
+all time,S12000019,Other,88,62,1.4193548387096775
+all time,S12000019,Public Space,29,16,1.8125
+all time,S12000019,Road Safety & Defects,795,329,2.4164133738601823
+all time,S12000019,Vehicles,15,14,1.0714285714285714
+all time,S12000020,Abandoned Vehicles & Parking,16,14,1.1428571428571428
+all time,S12000020,Environmental Disruptions,7,5,1.4
+all time,S12000020,Environmental Health,47,30,1.5666666666666667
+all time,S12000020,Incivilities,3,3,1.0
+all time,S12000020,Other,35,26,1.3461538461538463
+all time,S12000020,Public Space,3,3,1.0
+all time,S12000020,Road Safety & Defects,201,103,1.9514563106796117
+all time,S12000020,Vehicles,11,6,1.8333333333333333
+all time,S12000021,Abandoned Vehicles & Parking,18,17,1.0588235294117647
+all time,S12000021,Access,1,1,1.0
+all time,S12000021,Environmental Disruptions,32,27,1.1851851851851851
+all time,S12000021,Environmental Health,193,85,2.2705882352941176
+all time,S12000021,Incivilities,7,5,1.4
+all time,S12000021,Other,83,69,1.2028985507246377
+all time,S12000021,Public Space,17,12,1.4166666666666667
+all time,S12000021,Road Safety & Defects,813,357,2.277310924369748
+all time,S12000021,Vehicles,15,15,1.0
+all time,S12000023,Environmental Health,2,2,1.0
+all time,S12000023,Other,2,2,1.0
+all time,S12000023,Road Safety & Defects,9,4,2.25
+all time,S12000023,Vehicles,1,1,1.0
+all time,S12000024,Abandoned Vehicles & Parking,20,12,1.6666666666666667
+all time,S12000024,Environmental Disruptions,31,20,1.55
+all time,S12000024,Environmental Health,219,78,2.8076923076923075
+all time,S12000024,Incivilities,3,3,1.0
+all time,S12000024,Other,108,53,2.0377358490566038
+all time,S12000024,Public Space,84,18,4.666666666666667
+all time,S12000024,Road Safety & Defects,854,290,2.9448275862068964
+all time,S12000024,Vehicles,14,12,1.1666666666666667
+all time,S12000026,Abandoned Vehicles & Parking,6,6,1.0
+all time,S12000026,Access,1,1,1.0
+all time,S12000026,Environmental Disruptions,8,8,1.0
+all time,S12000026,Environmental Health,44,37,1.1891891891891893
+all time,S12000026,Incivilities,15,3,5.0
+all time,S12000026,Other,46,32,1.4375
+all time,S12000026,Public Space,11,7,1.5714285714285714
+all time,S12000026,Road Safety & Defects,607,244,2.487704918032787
+all time,S12000026,Vehicles,4,4,1.0
+all time,S12000027,Road Safety & Defects,10,10,1.0
+all time,S12000028,Abandoned Vehicles & Parking,37,21,1.7619047619047619
+all time,S12000028,Environmental Disruptions,16,13,1.2307692307692308
+all time,S12000028,Environmental Health,119,52,2.2884615384615383
+all time,S12000028,Incivilities,2,2,1.0
+all time,S12000028,Other,46,41,1.1219512195121952
+all time,S12000028,Public Space,12,7,1.7142857142857142
+all time,S12000028,Road Safety & Defects,746,300,2.486666666666667
+all time,S12000028,Vehicles,14,13,1.0769230769230769
+all time,S12000029,Abandoned Vehicles & Parking,51,47,1.0851063829787233
+all time,S12000029,Access,1,1,1.0
+all time,S12000029,Environmental Disruptions,49,43,1.1395348837209303
+all time,S12000029,Environmental Health,249,164,1.5182926829268293
+all time,S12000029,Incivilities,68,29,2.3448275862068964
+all time,S12000029,Other,434,284,1.528169014084507
+all time,S12000029,Public Space,49,35,1.4
+all time,S12000029,Road Safety & Defects,1161,625,1.8576
+all time,S12000029,Vehicles,31,26,1.1923076923076923
+all time,S12000030,Abandoned Vehicles & Parking,23,20,1.15
+all time,S12000030,Environmental Disruptions,24,21,1.1428571428571428
+all time,S12000030,Environmental Health,101,49,2.061224489795918
+all time,S12000030,Incivilities,3,3,1.0
+all time,S12000030,Other,73,48,1.5208333333333333
+all time,S12000030,Public Space,14,8,1.75
+all time,S12000030,Road Safety & Defects,648,288,2.25
+all time,S12000030,Vehicles,7,5,1.4
+all time,S12000033,Abandoned Vehicles & Parking,38,33,1.1515151515151516
+all time,S12000033,Environmental Disruptions,257,50,5.14
+all time,S12000033,Environmental Health,185,102,1.8137254901960784
+all time,S12000033,Incivilities,16,11,1.4545454545454546
+all time,S12000033,Other,122,83,1.4698795180722892
+all time,S12000033,Public Space,31,21,1.4761904761904763
+all time,S12000033,Road Safety & Defects,2648,533,4.968105065666041
+all time,S12000033,Vehicles,73,54,1.3518518518518519
+all time,S12000034,Abandoned Vehicles & Parking,23,22,1.0454545454545454
+all time,S12000034,Access,1,1,1.0
+all time,S12000034,Environmental Disruptions,44,31,1.4193548387096775
+all time,S12000034,Environmental Health,190,126,1.507936507936508
+all time,S12000034,Incivilities,4,4,1.0
+all time,S12000034,Other,139,107,1.2990654205607477
+all time,S12000034,Public Space,29,18,1.6111111111111112
+all time,S12000034,Road Safety & Defects,1996,663,3.0105580693815988
+all time,S12000034,Vehicles,45,30,1.5
+all time,S12000035,Abandoned Vehicles & Parking,4,4,1.0
+all time,S12000035,Environmental Disruptions,6,5,1.2
+all time,S12000035,Environmental Health,47,31,1.5161290322580645
+all time,S12000035,Incivilities,2,2,1.0
+all time,S12000035,Other,31,29,1.0689655172413792
+all time,S12000035,Public Space,1,1,1.0
+all time,S12000035,Road Safety & Defects,569,265,2.147169811320755
+all time,S12000035,Vehicles,14,11,1.2727272727272727
+all time,S12000036,Abandoned Vehicles & Parking,199,157,1.267515923566879
+all time,S12000036,Access,11,8,1.375
+all time,S12000036,Environmental Disruptions,211,153,1.3790849673202614
+all time,S12000036,Environmental Health,3154,937,3.366061899679829
+all time,S12000036,Incivilities,314,138,2.2753623188405796
+all time,S12000036,Other,756,509,1.4852652259332024
+all time,S12000036,Public Space,142,94,1.5106382978723405
+all time,S12000036,Road Safety & Defects,6948,1891,3.674246430460074
+all time,S12000036,Vehicles,205,159,1.2893081761006289
+all time,S12000038,Abandoned Vehicles & Parking,46,37,1.2432432432432432
+all time,S12000038,Access,3,3,1.0
+all time,S12000038,Environmental Disruptions,54,50,1.08
+all time,S12000038,Environmental Health,279,177,1.576271186440678
+all time,S12000038,Incivilities,45,32,1.40625
+all time,S12000038,Other,217,165,1.3151515151515152
+all time,S12000038,Public Space,45,36,1.25
+all time,S12000038,Road Safety & Defects,3818,1202,3.1763727121464225
+all time,S12000038,Vehicles,42,37,1.135135135135135
+all time,S12000039,Abandoned Vehicles & Parking,21,19,1.105263157894737
+all time,S12000039,Access,1,1,1.0
+all time,S12000039,Environmental Disruptions,26,23,1.1304347826086956
+all time,S12000039,Environmental Health,226,56,4.035714285714286
+all time,S12000039,Incivilities,62,6,10.333333333333334
+all time,S12000039,Other,64,48,1.3333333333333333
+all time,S12000039,Public Space,10,8,1.25
+all time,S12000039,Road Safety & Defects,713,229,3.11353711790393
+all time,S12000039,Vehicles,10,10,1.0
+all time,S12000040,Abandoned Vehicles & Parking,61,56,1.0892857142857142
+all time,S12000040,Environmental Disruptions,48,43,1.1162790697674418
+all time,S12000040,Environmental Health,254,128,1.984375
+all time,S12000040,Incivilities,19,17,1.1176470588235294
+all time,S12000040,Other,186,109,1.7064220183486238
+all time,S12000040,Public Space,33,29,1.1379310344827587
+all time,S12000040,Road Safety & Defects,1018,426,2.3896713615023475
+all time,S12000040,Vehicles,48,40,1.2
+all time,S12000041,Abandoned Vehicles & Parking,24,22,1.0909090909090908
+all time,S12000041,Environmental Disruptions,15,12,1.25
+all time,S12000041,Environmental Health,186,92,2.0217391304347827
+all time,S12000041,Incivilities,1,1,1.0
+all time,S12000041,Other,64,48,1.3333333333333333
+all time,S12000041,Public Space,25,17,1.4705882352941178
+all time,S12000041,Road Safety & Defects,1041,655,1.5893129770992367
+all time,S12000041,Vehicles,14,13,1.0769230769230769
+all time,S12000042,Abandoned Vehicles & Parking,54,44,1.2272727272727273
+all time,S12000042,Environmental Disruptions,38,23,1.6521739130434783
+all time,S12000042,Environmental Health,94,65,1.4461538461538461
+all time,S12000042,Incivilities,30,22,1.3636363636363635
+all time,S12000042,Other,87,59,1.4745762711864407
+all time,S12000042,Public Space,12,9,1.3333333333333333
+all time,S12000042,Road Safety & Defects,631,274,2.302919708029197
+all time,S12000042,Vehicles,35,25,1.4
+all time,S12000044,Abandoned Vehicles & Parking,84,68,1.2352941176470589
+all time,S12000044,Environmental Disruptions,79,56,1.4107142857142858
+all time,S12000044,Environmental Health,522,228,2.289473684210526
+all time,S12000044,Incivilities,73,25,2.92
+all time,S12000044,Other,255,218,1.1697247706422018
+all time,S12000044,Public Space,61,35,1.7428571428571429
+all time,S12000044,Road Safety & Defects,1640,649,2.526964560862866
+all time,S12000044,Vehicles,33,32,1.03125
+all time,S12000045,Abandoned Vehicles & Parking,45,36,1.25
+all time,S12000045,Environmental Disruptions,26,21,1.2380952380952381
+all time,S12000045,Environmental Health,101,68,1.4852941176470589
+all time,S12000045,Incivilities,20,14,1.4285714285714286
+all time,S12000045,Other,75,60,1.25
+all time,S12000045,Public Space,38,18,2.111111111111111
+all time,S12000045,Road Safety & Defects,1033,362,2.8535911602209945
+all time,S12000045,Vehicles,14,14,1.0
+all time,S12000046,Abandoned Vehicles & Parking,497,369,1.3468834688346885
+all time,S12000046,Access,8,7,1.1428571428571428
+all time,S12000046,Environmental Disruptions,219,155,1.4129032258064516
+all time,S12000046,Environmental Health,2116,999,2.118118118118118
+all time,S12000046,Incivilities,203,122,1.6639344262295082
+all time,S12000046,Other,802,603,1.330016583747927
+all time,S12000046,Public Space,156,108,1.4444444444444444
+all time,S12000046,Road Safety & Defects,8725,3239,2.693732633528867
+all time,S12000046,Vehicles,254,180,1.4111111111111112
+all time,W06000001,Abandoned Vehicles & Parking,25,11,2.272727272727273
+all time,W06000001,Environmental Disruptions,13,10,1.3
+all time,W06000001,Environmental Health,41,35,1.1714285714285715
+all time,W06000001,Incivilities,1,1,1.0
+all time,W06000001,Other,20,15,1.3333333333333333
+all time,W06000001,Public Space,7,5,1.4
+all time,W06000001,Road Safety & Defects,184,84,2.1904761904761907
+all time,W06000001,Vehicles,9,9,1.0
+all time,W06000002,Abandoned Vehicles & Parking,32,30,1.0666666666666667
+all time,W06000002,Access,1,1,1.0
+all time,W06000002,Environmental Disruptions,26,12,2.1666666666666665
+all time,W06000002,Environmental Health,144,79,1.8227848101265822
+all time,W06000002,Incivilities,5,5,1.0
+all time,W06000002,Other,64,48,1.3333333333333333
+all time,W06000002,Public Space,13,8,1.625
+all time,W06000002,Road Safety & Defects,248,125,1.984
+all time,W06000002,Vehicles,23,21,1.0952380952380953
+all time,W06000003,Abandoned Vehicles & Parking,40,33,1.2121212121212122
+all time,W06000003,Access,3,3,1.0
+all time,W06000003,Environmental Disruptions,56,29,1.9310344827586208
+all time,W06000003,Environmental Health,241,109,2.2110091743119265
+all time,W06000003,Incivilities,29,15,1.9333333333333333
+all time,W06000003,Other,82,50,1.64
+all time,W06000003,Public Space,32,23,1.391304347826087
+all time,W06000003,Road Safety & Defects,615,258,2.383720930232558
+all time,W06000003,Vehicles,22,20,1.1
+all time,W06000004,Abandoned Vehicles & Parking,29,23,1.2608695652173914
+all time,W06000004,Access,1,1,1.0
+all time,W06000004,Environmental Disruptions,21,18,1.1666666666666667
+all time,W06000004,Environmental Health,80,57,1.4035087719298245
+all time,W06000004,Incivilities,6,6,1.0
+all time,W06000004,Other,67,45,1.488888888888889
+all time,W06000004,Public Space,5,5,1.0
+all time,W06000004,Road Safety & Defects,458,180,2.5444444444444443
+all time,W06000004,Vehicles,17,15,1.1333333333333333
+all time,W06000005,Abandoned Vehicles & Parking,60,46,1.3043478260869565
+all time,W06000005,Access,2,2,1.0
+all time,W06000005,Environmental Disruptions,74,42,1.7619047619047619
+all time,W06000005,Environmental Health,421,138,3.050724637681159
+all time,W06000005,Incivilities,33,13,2.5384615384615383
+all time,W06000005,Other,134,94,1.425531914893617
+all time,W06000005,Public Space,54,25,2.16
+all time,W06000005,Road Safety & Defects,1119,399,2.8045112781954886
+all time,W06000005,Vehicles,36,30,1.2
+all time,W06000006,Abandoned Vehicles & Parking,20,19,1.0526315789473684
+all time,W06000006,Environmental Disruptions,29,20,1.45
+all time,W06000006,Environmental Health,97,52,1.8653846153846154
+all time,W06000006,Incivilities,3,3,1.0
+all time,W06000006,Other,58,43,1.3488372093023255
+all time,W06000006,Public Space,15,13,1.1538461538461537
+all time,W06000006,Road Safety & Defects,664,299,2.220735785953177
+all time,W06000006,Vehicles,22,19,1.1578947368421053
+all time,W06000008,Abandoned Vehicles & Parking,15,10,1.5
+all time,W06000008,Access,1,1,1.0
+all time,W06000008,Environmental Disruptions,38,18,2.111111111111111
+all time,W06000008,Environmental Health,99,49,2.020408163265306
+all time,W06000008,Incivilities,19,8,2.375
+all time,W06000008,Other,57,37,1.5405405405405406
+all time,W06000008,Public Space,14,7,2.0
+all time,W06000008,Road Safety & Defects,295,132,2.234848484848485
+all time,W06000008,Vehicles,23,13,1.7692307692307692
+all time,W06000009,Abandoned Vehicles & Parking,31,22,1.4090909090909092
+all time,W06000009,Access,2,2,1.0
+all time,W06000009,Environmental Disruptions,10,8,1.25
+all time,W06000009,Environmental Health,89,57,1.5614035087719298
+all time,W06000009,Incivilities,5,4,1.25
+all time,W06000009,Other,45,42,1.0714285714285714
+all time,W06000009,Public Space,5,5,1.0
+all time,W06000009,Road Safety & Defects,460,194,2.3711340206185567
+all time,W06000009,Vehicles,28,19,1.4736842105263157
+all time,W06000010,Abandoned Vehicles & Parking,33,30,1.1
+all time,W06000010,Access,4,4,1.0
+all time,W06000010,Environmental Disruptions,14,14,1.0
+all time,W06000010,Environmental Health,146,82,1.7804878048780488
+all time,W06000010,Incivilities,3,2,1.5
+all time,W06000010,Other,65,50,1.3
+all time,W06000010,Public Space,10,8,1.25
+all time,W06000010,Road Safety & Defects,322,159,2.0251572327044025
+all time,W06000010,Vehicles,16,16,1.0
+all time,W06000011,Abandoned Vehicles & Parking,108,81,1.3333333333333333
+all time,W06000011,Access,1,1,1.0
+all time,W06000011,Environmental Disruptions,61,46,1.326086956521739
+all time,W06000011,Environmental Health,525,174,3.0172413793103448
+all time,W06000011,Incivilities,28,23,1.2173913043478262
+all time,W06000011,Other,158,112,1.4107142857142858
+all time,W06000011,Public Space,49,26,1.8846153846153846
+all time,W06000011,Road Safety & Defects,1134,482,2.3526970954356847
+all time,W06000011,Vehicles,35,29,1.206896551724138
+all time,W06000012,Abandoned Vehicles & Parking,45,37,1.2162162162162162
+all time,W06000012,Environmental Disruptions,30,24,1.25
+all time,W06000012,Environmental Health,197,91,2.1648351648351647
+all time,W06000012,Incivilities,5,5,1.0
+all time,W06000012,Other,64,49,1.3061224489795917
+all time,W06000012,Public Space,10,10,1.0
+all time,W06000012,Road Safety & Defects,466,206,2.262135922330097
+all time,W06000012,Vehicles,13,13,1.0
+all time,W06000013,Abandoned Vehicles & Parking,101,86,1.1744186046511629
+all time,W06000013,Environmental Disruptions,71,64,1.109375
+all time,W06000013,Environmental Health,480,236,2.0338983050847457
+all time,W06000013,Incivilities,23,16,1.4375
+all time,W06000013,Other,167,132,1.2651515151515151
+all time,W06000013,Public Space,50,38,1.3157894736842106
+all time,W06000013,Road Safety & Defects,1492,787,1.8958068614993646
+all time,W06000013,Vehicles,47,38,1.236842105263158
+all time,W06000014,Abandoned Vehicles & Parking,35,29,1.206896551724138
+all time,W06000014,Access,1,1,1.0
+all time,W06000014,Environmental Disruptions,18,17,1.0588235294117647
+all time,W06000014,Environmental Health,233,101,2.3069306930693068
+all time,W06000014,Incivilities,30,12,2.5
+all time,W06000014,Other,57,43,1.3255813953488371
+all time,W06000014,Public Space,27,21,1.2857142857142858
+all time,W06000014,Road Safety & Defects,782,297,2.632996632996633
+all time,W06000014,Vehicles,39,30,1.3
+all time,W06000015,Abandoned Vehicles & Parking,471,254,1.8543307086614174
+all time,W06000015,Access,3,3,1.0
+all time,W06000015,Environmental Disruptions,233,176,1.3238636363636365
+all time,W06000015,Environmental Health,3166,758,4.176781002638522
+all time,W06000015,Incivilities,340,137,2.4817518248175183
+all time,W06000015,Other,543,372,1.4596774193548387
+all time,W06000015,Public Space,259,120,2.158333333333333
+all time,W06000015,Road Safety & Defects,4062,1372,2.9606413994169096
+all time,W06000015,Vehicles,32,28,1.1428571428571428
+all time,W06000016,Abandoned Vehicles & Parking,92,69,1.3333333333333333
+all time,W06000016,Access,2,2,1.0
+all time,W06000016,Environmental Disruptions,40,34,1.1764705882352942
+all time,W06000016,Environmental Health,268,154,1.7402597402597402
+all time,W06000016,Incivilities,12,10,1.2
+all time,W06000016,Other,128,106,1.2075471698113207
+all time,W06000016,Public Space,13,10,1.3
+all time,W06000016,Road Safety & Defects,650,370,1.7567567567567568
+all time,W06000016,Vehicles,45,33,1.3636363636363635
+all time,W06000018,Abandoned Vehicles & Parking,81,47,1.7234042553191489
+all time,W06000018,Access,1,1,1.0
+all time,W06000018,Environmental Disruptions,26,20,1.3
+all time,W06000018,Environmental Health,371,118,3.1440677966101696
+all time,W06000018,Incivilities,82,20,4.1
+all time,W06000018,Other,93,76,1.2236842105263157
+all time,W06000018,Public Space,10,8,1.25
+all time,W06000018,Road Safety & Defects,444,215,2.0651162790697675
+all time,W06000018,Vehicles,37,26,1.4230769230769231
+all time,W06000019,Abandoned Vehicles & Parking,18,16,1.125
+all time,W06000019,Environmental Disruptions,8,8,1.0
+all time,W06000019,Environmental Health,68,41,1.6585365853658536
+all time,W06000019,Incivilities,3,3,1.0
+all time,W06000019,Other,43,29,1.4827586206896552
+all time,W06000019,Public Space,6,4,1.5
+all time,W06000019,Road Safety & Defects,168,102,1.6470588235294117
+all time,W06000019,Vehicles,19,16,1.1875
+all time,W06000020,Abandoned Vehicles & Parking,16,14,1.1428571428571428
+all time,W06000020,Environmental Disruptions,16,16,1.0
+all time,W06000020,Environmental Health,77,48,1.6041666666666667
+all time,W06000020,Incivilities,2,2,1.0
+all time,W06000020,Other,47,37,1.2702702702702702
+all time,W06000020,Public Space,6,3,2.0
+all time,W06000020,Road Safety & Defects,232,140,1.6571428571428573
+all time,W06000020,Vehicles,19,13,1.4615384615384615
+all time,W06000021,Abandoned Vehicles & Parking,35,27,1.2962962962962963
+all time,W06000021,Access,2,2,1.0
+all time,W06000021,Environmental Disruptions,97,49,1.9795918367346939
+all time,W06000021,Environmental Health,228,98,2.326530612244898
+all time,W06000021,Incivilities,37,19,1.9473684210526316
+all time,W06000021,Other,147,92,1.5978260869565217
+all time,W06000021,Public Space,39,21,1.8571428571428572
+all time,W06000021,Road Safety & Defects,1135,380,2.986842105263158
+all time,W06000021,Vehicles,19,10,1.9
+all time,W06000022,Abandoned Vehicles & Parking,114,92,1.2391304347826086
+all time,W06000022,Environmental Disruptions,53,43,1.2325581395348837
+all time,W06000022,Environmental Health,561,154,3.642857142857143
+all time,W06000022,Incivilities,22,12,1.8333333333333333
+all time,W06000022,Other,154,99,1.5555555555555556
+all time,W06000022,Public Space,29,18,1.6111111111111112
+all time,W06000022,Road Safety & Defects,480,267,1.797752808988764
+all time,W06000022,Vehicles,56,45,1.2444444444444445
+all time,W06000023,Abandoned Vehicles & Parking,17,14,1.2142857142857142
+all time,W06000023,Access,1,1,1.0
+all time,W06000023,Environmental Disruptions,20,18,1.1111111111111112
+all time,W06000023,Environmental Health,97,51,1.9019607843137254
+all time,W06000023,Incivilities,5,4,1.25
+all time,W06000023,Other,37,29,1.2758620689655173
+all time,W06000023,Public Space,6,6,1.0
+all time,W06000023,Road Safety & Defects,504,228,2.210526315789474
+all time,W06000023,Vehicles,5,5,1.0
+all time,W06000024,Abandoned Vehicles & Parking,16,15,1.0666666666666667
+all time,W06000024,Access,1,1,1.0
+all time,W06000024,Environmental Disruptions,5,5,1.0
+all time,W06000024,Environmental Health,186,66,2.8181818181818183
+all time,W06000024,Incivilities,7,7,1.0
+all time,W06000024,Other,36,30,1.2
+all time,W06000024,Public Space,6,3,2.0
+all time,W06000024,Road Safety & Defects,326,148,2.2027027027027026
+all time,W06000024,Vehicles,24,15,1.6
+all time,,,1,1,1.0
+all time,,Abandoned Vehicles & Parking,50,43,1.1627906976744187
+all time,,Access,12,12,1.0
+all time,,Environmental Disruptions,61,58,1.0517241379310345
+all time,,Environmental Health,554,343,1.6151603498542273
+all time,,Incivilities,98,61,1.6065573770491803
+all time,,Other,257,207,1.2415458937198067
+all time,,Public Space,56,35,1.6
+all time,,Road Safety & Defects,1611,1033,1.5595353339787028
+all time,,Vehicles,63,59,1.0677966101694916

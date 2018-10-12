@@ -1,0 +1,3699 @@
+period,LSOA,SHEF_A,report_count,user_count,average
+2018-1,E01000645,Dumped Rubbish,3,2,1.5
+2018-1,E01000645,Obstruction,2,2,1.0
+2018-1,E01000645,Overgrown Vegetation,1,1,1.0
+2018-1,E01000645,Road Surface Defects,2,2,1.0
+2018-1,E01000645,Street Lights,2,2,1.0
+2018-1,E01000645,Street Signs,1,1,1.0
+2018-1,E01000646,Abandoned Vehicles,1,1,1.0
+2018-1,E01000646,Dumped Rubbish,1,1,1.0
+2018-1,E01000646,Overgrown Vegetation,2,2,1.0
+2018-1,E01000646,Street Lights,1,1,1.0
+2018-1,E01000646,Street Signs,1,1,1.0
+2018-1,E01000647,Abandoned Vehicles,2,2,1.0
+2018-1,E01000647,Street Cleaning,2,2,1.0
+2018-1,E01000648,Dumped Rubbish,1,1,1.0
+2018-1,E01000648,Overgrown Vegetation,1,1,1.0
+2018-1,E01000648,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000648,Road Surface Defects,1,1,1.0
+2018-1,E01000649,Dumped Rubbish,2,2,1.0
+2018-1,E01000649,Overgrown Vegetation,1,1,1.0
+2018-1,E01000649,Spillage on Raod,1,1,1.0
+2018-1,E01000649,Street Cleaning,3,2,1.5
+2018-1,E01000649,Street Lights,4,2,2.0
+2018-1,E01000650,Dumped Rubbish,2,2,1.0
+2018-1,E01000650,Open Spaces/Parks,3,1,3.0
+2018-1,E01000650,Overgrown Vegetation,1,1,1.0
+2018-1,E01000650,Pavement /Footway Defects,2,1,2.0
+2018-1,E01000650,Street Cleaning,1,1,1.0
+2018-1,E01000650,Street Lights,4,4,1.0
+2018-1,E01000651,Abandoned Vehicles,1,1,1.0
+2018-1,E01000651,Obstruction,1,1,1.0
+2018-1,E01000651,Street Lights,1,1,1.0
+2018-1,E01000652,Abandoned Vehicles,1,1,1.0
+2018-1,E01000652,Blocked Drains,1,1,1.0
+2018-1,E01000652,Overgrown Vegetation,2,2,1.0
+2018-1,E01000652,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000652,Road Surface Defects,1,1,1.0
+2018-1,E01000652,Street Cleaning,2,2,1.0
+2018-1,E01000653,Abandoned Vehicles,1,1,1.0
+2018-1,E01000653,Pavement /Footway Defects,2,1,2.0
+2018-1,E01000654,,1,1,1.0
+2018-1,E01000654,Dumped Rubbish,4,3,1.3333333333333333
+2018-1,E01000654,Obstruction,1,1,1.0
+2018-1,E01000654,Overgrown Vegetation,1,1,1.0
+2018-1,E01000654,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000654,Road Surface Defects,2,2,1.0
+2018-1,E01000654,Street Cleaning,1,1,1.0
+2018-1,E01000654,Street Lights,1,1,1.0
+2018-1,E01000655,Blocked Drains,1,1,1.0
+2018-1,E01000655,Street Cleaning,1,1,1.0
+2018-1,E01000656,Abandoned Vehicles,2,2,1.0
+2018-1,E01000656,Dumped Rubbish,3,2,1.5
+2018-1,E01000656,Obstruction,1,1,1.0
+2018-1,E01000656,Road Surface Defects,1,1,1.0
+2018-1,E01000656,Street Cleaning,2,2,1.0
+2018-1,E01000658,Dumped Rubbish,2,2,1.0
+2018-1,E01000658,Litter/Litter Bin,1,1,1.0
+2018-1,E01000658,Road Surface Defects,2,2,1.0
+2018-1,E01000659,Abandoned Vehicles,1,1,1.0
+2018-1,E01000659,Road Surface Defects,1,1,1.0
+2018-1,E01000659,Street Cleaning,2,2,1.0
+2018-1,E01000661,Blocked Drains,1,1,1.0
+2018-1,E01000661,Dumped Rubbish,2,2,1.0
+2018-1,E01000661,Graffiti,1,1,1.0
+2018-1,E01000661,Litter/Litter Bin,1,1,1.0
+2018-1,E01000661,Overgrown Vegetation,1,1,1.0
+2018-1,E01000661,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000661,Street Cleaning,9,1,9.0
+2018-1,E01000661,Street Signs,1,1,1.0
+2018-1,E01000662,Abandoned Vehicles,1,1,1.0
+2018-1,E01000662,Obstruction,1,1,1.0
+2018-1,E01000662,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000662,Road Surface Defects,1,1,1.0
+2018-1,E01000662,Street Cleaning,4,1,4.0
+2018-1,E01000662,Street Signs,1,1,1.0
+2018-1,E01000663,Abandoned Vehicles,2,2,1.0
+2018-1,E01000663,Dumped Rubbish,2,2,1.0
+2018-1,E01000663,Leafing,1,1,1.0
+2018-1,E01000663,Obstruction,2,1,2.0
+2018-1,E01000663,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000663,Street Cleaning,4,2,2.0
+2018-1,E01000663,Street Lights,1,1,1.0
+2018-1,E01000663,Street Signs,1,1,1.0
+2018-1,E01000664,,1,1,1.0
+2018-1,E01000664,Abandoned Vehicles,1,1,1.0
+2018-1,E01000664,Dead Animals,1,1,1.0
+2018-1,E01000664,Open Spaces/Parks,1,1,1.0
+2018-1,E01000664,Pavement /Footway Defects,3,3,1.0
+2018-1,E01000664,Street Cleaning,1,1,1.0
+2018-1,E01000665,Dead Animals,3,3,1.0
+2018-1,E01000665,Dumped Rubbish,2,2,1.0
+2018-1,E01000665,Litter/Litter Bin,2,1,2.0
+2018-1,E01000665,Obstruction,1,1,1.0
+2018-1,E01000665,Open Spaces/Parks,1,1,1.0
+2018-1,E01000665,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000665,Road Surface Defects,2,2,1.0
+2018-1,E01000665,Street Cleaning,3,1,3.0
+2018-1,E01000665,Street Lights,1,1,1.0
+2018-1,E01000665,Street Signs,1,1,1.0
+2018-1,E01000666,,1,1,1.0
+2018-1,E01000666,Blocked Drains,2,2,1.0
+2018-1,E01000666,Dead Animals,1,1,1.0
+2018-1,E01000666,Leafing,1,1,1.0
+2018-1,E01000666,Litter/Litter Bin,2,1,2.0
+2018-1,E01000666,Open Spaces/Parks,1,1,1.0
+2018-1,E01000666,Overgrown Vegetation,1,1,1.0
+2018-1,E01000666,Road Surface Defects,2,2,1.0
+2018-1,E01000666,Street Cleaning,1,1,1.0
+2018-1,E01000666,Street Lights,2,2,1.0
+2018-1,E01000667,Dead Animals,1,1,1.0
+2018-1,E01000667,Obstruction,1,1,1.0
+2018-1,E01000667,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000667,Road Surface Defects,1,1,1.0
+2018-1,E01000667,Street Cleaning,1,1,1.0
+2018-1,E01000667,Street Lights,3,3,1.0
+2018-1,E01000668,Abandoned Vehicles,2,2,1.0
+2018-1,E01000668,Dumped Rubbish,3,3,1.0
+2018-1,E01000668,Litter/Litter Bin,3,2,1.5
+2018-1,E01000668,Road Surface Defects,1,1,1.0
+2018-1,E01000668,Street Cleaning,4,2,2.0
+2018-1,E01000668,Street Lights,2,2,1.0
+2018-1,E01000669,Abandoned Vehicles,1,1,1.0
+2018-1,E01000669,Dumped Rubbish,1,1,1.0
+2018-1,E01000669,Leafing,1,1,1.0
+2018-1,E01000669,Street Cleaning,3,1,3.0
+2018-1,E01000670,Dumped Rubbish,2,2,1.0
+2018-1,E01000670,Leafing,1,1,1.0
+2018-1,E01000670,Overgrown Vegetation,1,1,1.0
+2018-1,E01000670,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000670,Street Cleaning,1,1,1.0
+2018-1,E01000671,Abandoned Vehicles,1,1,1.0
+2018-1,E01000671,Dumped Rubbish,5,5,1.0
+2018-1,E01000671,Leafing,1,1,1.0
+2018-1,E01000671,Litter/Litter Bin,2,1,2.0
+2018-1,E01000671,Road Surface Defects,3,2,1.5
+2018-1,E01000671,Street Cleaning,3,3,1.0
+2018-1,E01000672,Dumped Rubbish,1,1,1.0
+2018-1,E01000672,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000672,Street Lights,1,1,1.0
+2018-1,E01000673,Abandoned Vehicles,1,1,1.0
+2018-1,E01000673,Dumped Rubbish,3,2,1.5
+2018-1,E01000673,Open Spaces/Parks,1,1,1.0
+2018-1,E01000673,Overgrown Vegetation,2,2,1.0
+2018-1,E01000673,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000673,Road Surface Defects,1,1,1.0
+2018-1,E01000673,Street Cleaning,1,1,1.0
+2018-1,E01000674,Dumped Rubbish,4,4,1.0
+2018-1,E01000674,Spillage on Raod,1,1,1.0
+2018-1,E01000674,Street Cleaning,1,1,1.0
+2018-1,E01000675,Abandoned Vehicles,1,1,1.0
+2018-1,E01000675,Blocked Drains,1,1,1.0
+2018-1,E01000675,Dumped Rubbish,5,4,1.25
+2018-1,E01000675,Litter/Litter Bin,1,1,1.0
+2018-1,E01000675,Obstruction,1,1,1.0
+2018-1,E01000675,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000675,Road Surface Defects,1,1,1.0
+2018-1,E01000675,Street Lights,1,1,1.0
+2018-1,E01000676,Abandoned Vehicles,2,1,2.0
+2018-1,E01000676,Blocked Drains,1,1,1.0
+2018-1,E01000676,Dumped Rubbish,4,4,1.0
+2018-1,E01000676,Graffiti,3,2,1.5
+2018-1,E01000676,Overgrown Vegetation,1,1,1.0
+2018-1,E01000676,Street Lights,3,2,1.5
+2018-1,E01000677,Abandoned Vehicles,1,1,1.0
+2018-1,E01000677,Dead Animals,2,2,1.0
+2018-1,E01000677,Dumped Rubbish,3,3,1.0
+2018-1,E01000677,Leafing,1,1,1.0
+2018-1,E01000677,Road Surface Defects,1,1,1.0
+2018-1,E01000677,Street Cleaning,4,1,4.0
+2018-1,E01000678,Road Surface Defects,1,1,1.0
+2018-1,E01000678,Street Cleaning,2,2,1.0
+2018-1,E01000678,Street Signs,1,1,1.0
+2018-1,E01000679,Blocked Drains,1,1,1.0
+2018-1,E01000679,Dumped Rubbish,1,1,1.0
+2018-1,E01000679,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000679,Street Cleaning,2,2,1.0
+2018-1,E01000679,Street Lights,1,1,1.0
+2018-1,E01000680,Abandoned Vehicles,2,1,2.0
+2018-1,E01000680,Dead Animals,1,1,1.0
+2018-1,E01000680,Dumped Rubbish,2,1,2.0
+2018-1,E01000680,Open Spaces/Parks,1,1,1.0
+2018-1,E01000680,Spillage on Raod,1,1,1.0
+2018-1,E01000680,Street Cleaning,5,2,2.5
+2018-1,E01000680,Street Lights,5,4,1.25
+2018-1,E01000681,Dumped Rubbish,1,1,1.0
+2018-1,E01000681,Overgrown Vegetation,1,1,1.0
+2018-1,E01000682,Obstruction,1,1,1.0
+2018-1,E01000682,Overgrown Vegetation,1,1,1.0
+2018-1,E01000682,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000682,Street Cleaning,1,1,1.0
+2018-1,E01000683,Overgrown Vegetation,3,2,1.5
+2018-1,E01000683,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000683,Street Lights,1,1,1.0
+2018-1,E01000684,Open Spaces/Parks,1,1,1.0
+2018-1,E01000684,Overgrown Vegetation,1,1,1.0
+2018-1,E01000684,Street Cleaning,1,1,1.0
+2018-1,E01000684,Street Lights,1,1,1.0
+2018-1,E01000685,Abandoned Vehicles,1,1,1.0
+2018-1,E01000685,Dumped Rubbish,1,1,1.0
+2018-1,E01000685,Leafing,1,1,1.0
+2018-1,E01000685,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000685,Road Surface Defects,2,2,1.0
+2018-1,E01000685,Street Cleaning,1,1,1.0
+2018-1,E01000685,Street Lights,1,1,1.0
+2018-1,E01000686,Abandoned Vehicles,1,1,1.0
+2018-1,E01000686,Dead Animals,2,2,1.0
+2018-1,E01000686,Obstruction,1,1,1.0
+2018-1,E01000686,Open Spaces/Parks,1,1,1.0
+2018-1,E01000686,Street Cleaning,2,2,1.0
+2018-1,E01000686,Street Lights,3,3,1.0
+2018-1,E01000687,Dead Animals,1,1,1.0
+2018-1,E01000687,Leafing,2,2,1.0
+2018-1,E01000687,Overgrown Vegetation,4,4,1.0
+2018-1,E01000687,Road Surface Defects,1,1,1.0
+2018-1,E01000687,Street Lights,1,1,1.0
+2018-1,E01000688,Abandoned Vehicles,1,1,1.0
+2018-1,E01000688,Leafing,1,1,1.0
+2018-1,E01000688,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000688,Road Surface Defects,1,1,1.0
+2018-1,E01000689,Abandoned Vehicles,2,1,2.0
+2018-1,E01000689,Litter/Litter Bin,1,1,1.0
+2018-1,E01000689,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000689,Street Cleaning,1,1,1.0
+2018-1,E01000689,Street Lights,1,1,1.0
+2018-1,E01000690,Dumped Rubbish,1,1,1.0
+2018-1,E01000690,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000690,Street Lights,1,1,1.0
+2018-1,E01000691,Dead Animals,1,1,1.0
+2018-1,E01000691,Dumped Rubbish,1,1,1.0
+2018-1,E01000691,Obstruction,1,1,1.0
+2018-1,E01000691,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000691,Road Surface Defects,2,2,1.0
+2018-1,E01000691,Street Lights,1,1,1.0
+2018-1,E01000692,Dumped Rubbish,1,1,1.0
+2018-1,E01000692,Pavement /Footway Defects,3,3,1.0
+2018-1,E01000692,Road Surface Defects,2,2,1.0
+2018-1,E01000692,Street Lights,1,1,1.0
+2018-1,E01000693,Dumped Rubbish,3,3,1.0
+2018-1,E01000693,Obstruction,1,1,1.0
+2018-1,E01000693,Overgrown Vegetation,1,1,1.0
+2018-1,E01000693,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000693,Street Lights,3,3,1.0
+2018-1,E01000693,Street Signs,1,1,1.0
+2018-1,E01000694,Dumped Rubbish,2,2,1.0
+2018-1,E01000694,Leafing,1,1,1.0
+2018-1,E01000694,Overgrown Vegetation,1,1,1.0
+2018-1,E01000694,Street Cleaning,1,1,1.0
+2018-1,E01000694,Street Lights,4,4,1.0
+2018-1,E01000694,Street Signs,1,1,1.0
+2018-1,E01000695,Dumped Rubbish,1,1,1.0
+2018-1,E01000695,Overgrown Vegetation,1,1,1.0
+2018-1,E01000695,Road Surface Defects,1,1,1.0
+2018-1,E01000695,Street Lights,3,3,1.0
+2018-1,E01000696,Dead Animals,3,1,3.0
+2018-1,E01000696,Leafing,2,2,1.0
+2018-1,E01000696,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000696,Road Surface Defects,6,6,1.0
+2018-1,E01000696,Street Lights,4,3,1.3333333333333333
+2018-1,E01000696,Street Signs,1,1,1.0
+2018-1,E01000697,Obstruction,1,1,1.0
+2018-1,E01000697,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000697,Street Cleaning,3,3,1.0
+2018-1,E01000697,Street Lights,3,3,1.0
+2018-1,E01000698,Blocked Drains,1,1,1.0
+2018-1,E01000698,Dead Animals,1,1,1.0
+2018-1,E01000698,Overgrown Vegetation,1,1,1.0
+2018-1,E01000698,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000698,Street Lights,1,1,1.0
+2018-1,E01000699,Abandoned Vehicles,1,1,1.0
+2018-1,E01000699,Dead Animals,1,1,1.0
+2018-1,E01000699,Dumped Rubbish,3,2,1.5
+2018-1,E01000699,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000699,Street Cleaning,4,4,1.0
+2018-1,E01000700,Dumped Rubbish,1,1,1.0
+2018-1,E01000700,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000700,Street Cleaning,1,1,1.0
+2018-1,E01000701,Abandoned Vehicles,1,1,1.0
+2018-1,E01000701,Dumped Rubbish,4,1,4.0
+2018-1,E01000701,Street Lights,2,2,1.0
+2018-1,E01000701,Street Signs,1,1,1.0
+2018-1,E01000702,Blocked Drains,1,1,1.0
+2018-1,E01000702,Dumped Rubbish,1,1,1.0
+2018-1,E01000702,Graffiti,1,1,1.0
+2018-1,E01000703,Dumped Rubbish,4,3,1.3333333333333333
+2018-1,E01000703,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000703,Road Surface Defects,1,1,1.0
+2018-1,E01000703,Spillage on Raod,1,1,1.0
+2018-1,E01000703,Street Signs,1,1,1.0
+2018-1,E01000704,Abandoned Vehicles,1,1,1.0
+2018-1,E01000704,Blocked Drains,1,1,1.0
+2018-1,E01000704,Dead Animals,1,1,1.0
+2018-1,E01000704,Dumped Rubbish,4,3,1.3333333333333333
+2018-1,E01000704,Graffiti,1,1,1.0
+2018-1,E01000704,Obstruction,1,1,1.0
+2018-1,E01000704,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000704,Street Cleaning,1,1,1.0
+2018-1,E01000704,Street Lights,3,3,1.0
+2018-1,E01000705,Blocked Drains,2,2,1.0
+2018-1,E01000705,Litter/Litter Bin,1,1,1.0
+2018-1,E01000705,Overgrown Vegetation,1,1,1.0
+2018-1,E01000705,Road Surface Defects,1,1,1.0
+2018-1,E01000705,Street Cleaning,1,1,1.0
+2018-1,E01000705,Street Lights,1,1,1.0
+2018-1,E01000706,Dumped Rubbish,2,2,1.0
+2018-1,E01000707,Dumped Rubbish,1,1,1.0
+2018-1,E01000707,Road Surface Defects,1,1,1.0
+2018-1,E01000708,Abandoned Vehicles,2,2,1.0
+2018-1,E01000708,Blocked Drains,2,1,2.0
+2018-1,E01000708,Dead Animals,1,1,1.0
+2018-1,E01000708,Dumped Rubbish,4,4,1.0
+2018-1,E01000708,Obstruction,1,1,1.0
+2018-1,E01000708,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000708,Road Surface Defects,1,1,1.0
+2018-1,E01000708,Street Cleaning,1,1,1.0
+2018-1,E01000709,Blocked Drains,1,1,1.0
+2018-1,E01000709,Dumped Rubbish,2,2,1.0
+2018-1,E01000709,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000709,Road Surface Defects,1,1,1.0
+2018-1,E01000709,Street Cleaning,2,2,1.0
+2018-1,E01000710,Abandoned Vehicles,1,1,1.0
+2018-1,E01000710,Dumped Rubbish,5,4,1.25
+2018-1,E01000710,Leafing,1,1,1.0
+2018-1,E01000710,Street Cleaning,1,1,1.0
+2018-1,E01000711,Blocked Drains,1,1,1.0
+2018-1,E01000711,Dumped Rubbish,4,4,1.0
+2018-1,E01000711,Leafing,2,2,1.0
+2018-1,E01000711,Obstruction,1,1,1.0
+2018-1,E01000711,Street Cleaning,1,1,1.0
+2018-1,E01000712,Abandoned Vehicles,2,2,1.0
+2018-1,E01000712,Dumped Rubbish,1,1,1.0
+2018-1,E01000712,Road Surface Defects,1,1,1.0
+2018-1,E01000712,Street Cleaning,1,1,1.0
+2018-1,E01000713,Blocked Drains,1,1,1.0
+2018-1,E01000713,Graffiti,1,1,1.0
+2018-1,E01000714,Blocked Drains,2,2,1.0
+2018-1,E01000714,Dumped Rubbish,4,4,1.0
+2018-1,E01000714,Obstruction,1,1,1.0
+2018-1,E01000714,Road Surface Defects,5,5,1.0
+2018-1,E01000715,Dumped Rubbish,1,1,1.0
+2018-1,E01000715,Leafing,1,1,1.0
+2018-1,E01000715,Road Surface Defects,1,1,1.0
+2018-1,E01000715,Street Cleaning,1,1,1.0
+2018-1,E01000715,Street Lights,1,1,1.0
+2018-1,E01000716,Abandoned Vehicles,1,1,1.0
+2018-1,E01000716,Road Surface Defects,1,1,1.0
+2018-1,E01000716,Street Lights,1,1,1.0
+2018-1,E01000717,Overgrown Vegetation,1,1,1.0
+2018-1,E01000718,Dumped Rubbish,4,4,1.0
+2018-1,E01000718,Overgrown Vegetation,1,1,1.0
+2018-1,E01000719,Dumped Rubbish,9,2,4.5
+2018-1,E01000719,Spillage on Raod,1,1,1.0
+2018-1,E01000719,Street Cleaning,3,2,1.5
+2018-1,E01000719,Street Lights,2,2,1.0
+2018-1,E01000720,,1,1,1.0
+2018-1,E01000720,Abandoned Vehicles,2,2,1.0
+2018-1,E01000720,Blocked Drains,2,2,1.0
+2018-1,E01000720,Dumped Rubbish,6,3,2.0
+2018-1,E01000720,Obstruction,2,2,1.0
+2018-1,E01000720,Overgrown Vegetation,3,1,3.0
+2018-1,E01000720,Road Surface Defects,1,1,1.0
+2018-1,E01000720,Street Cleaning,1,1,1.0
+2018-1,E01000720,Street Lights,1,1,1.0
+2018-1,E01000720,Street Signs,1,1,1.0
+2018-1,E01000721,Dumped Rubbish,2,1,2.0
+2018-1,E01000722,Abandoned Vehicles,1,1,1.0
+2018-1,E01000722,Dead Animals,1,1,1.0
+2018-1,E01000722,Dumped Rubbish,1,1,1.0
+2018-1,E01000722,Graffiti,1,1,1.0
+2018-1,E01000722,Obstruction,1,1,1.0
+2018-1,E01000722,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000722,Street Cleaning,1,1,1.0
+2018-1,E01000722,Street Lights,1,1,1.0
+2018-1,E01000723,Dead Animals,1,1,1.0
+2018-1,E01000723,Dumped Rubbish,2,2,1.0
+2018-1,E01000723,Street Cleaning,1,1,1.0
+2018-1,E01000724,Abandoned Vehicles,1,1,1.0
+2018-1,E01000724,Open Spaces/Parks,1,1,1.0
+2018-1,E01000725,Abandoned Vehicles,3,3,1.0
+2018-1,E01000725,Dumped Rubbish,2,2,1.0
+2018-1,E01000725,Leafing,1,1,1.0
+2018-1,E01000725,Litter/Litter Bin,1,1,1.0
+2018-1,E01000725,Obstruction,1,1,1.0
+2018-1,E01000725,Open Spaces/Parks,2,2,1.0
+2018-1,E01000725,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000725,Road Surface Defects,1,1,1.0
+2018-1,E01000725,Street Cleaning,1,1,1.0
+2018-1,E01000725,Street Lights,1,1,1.0
+2018-1,E01000726,Abandoned Vehicles,1,1,1.0
+2018-1,E01000726,Dead Animals,1,1,1.0
+2018-1,E01000726,Dumped Rubbish,4,2,2.0
+2018-1,E01000726,Leafing,1,1,1.0
+2018-1,E01000726,Litter/Litter Bin,2,1,2.0
+2018-1,E01000726,Street Cleaning,8,2,4.0
+2018-1,E01000726,Street Signs,1,1,1.0
+2018-1,E01000727,Dumped Rubbish,1,1,1.0
+2018-1,E01000727,Floral displays,1,1,1.0
+2018-1,E01000727,Pavement /Footway Defects,3,3,1.0
+2018-1,E01000727,Street Lights,2,2,1.0
+2018-1,E01000728,Abandoned Vehicles,1,1,1.0
+2018-1,E01000728,Blocked Drains,1,1,1.0
+2018-1,E01000728,Dead Animals,1,1,1.0
+2018-1,E01000728,Dumped Rubbish,2,2,1.0
+2018-1,E01000728,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000729,Abandoned Vehicles,1,1,1.0
+2018-1,E01000729,Dumped Rubbish,7,4,1.75
+2018-1,E01000729,Obstruction,1,1,1.0
+2018-1,E01000729,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000729,Road Surface Defects,1,1,1.0
+2018-1,E01000729,Street Cleaning,1,1,1.0
+2018-1,E01000729,Street Signs,1,1,1.0
+2018-1,E01000730,Dumped Rubbish,4,4,1.0
+2018-1,E01000730,Obstruction,1,1,1.0
+2018-1,E01000730,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000730,Road Surface Defects,2,2,1.0
+2018-1,E01000730,Street Lights,2,2,1.0
+2018-1,E01000730,Street Signs,2,1,2.0
+2018-1,E01000731,Abandoned Vehicles,1,1,1.0
+2018-1,E01000731,Dumped Rubbish,2,2,1.0
+2018-1,E01000731,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000731,Street Lights,1,1,1.0
+2018-1,E01000732,Dumped Rubbish,1,1,1.0
+2018-1,E01000732,Obstruction,1,1,1.0
+2018-1,E01000732,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000732,Road Surface Defects,1,1,1.0
+2018-1,E01000732,Street Lights,3,3,1.0
+2018-1,E01000732,Street Signs,1,1,1.0
+2018-1,E01000733,Abandoned Vehicles,2,1,2.0
+2018-1,E01000733,Dumped Rubbish,3,2,1.5
+2018-1,E01000733,Road Surface Defects,1,1,1.0
+2018-1,E01000733,Street Lights,1,1,1.0
+2018-1,E01000734,Overgrown Vegetation,1,1,1.0
+2018-1,E01000735,Abandoned Vehicles,2,2,1.0
+2018-1,E01000735,Dumped Rubbish,1,1,1.0
+2018-1,E01000735,Obstruction,1,1,1.0
+2018-1,E01000735,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000735,Road Surface Defects,2,2,1.0
+2018-1,E01000735,Street Lights,1,1,1.0
+2018-1,E01000736,Dumped Rubbish,2,1,2.0
+2018-1,E01000736,Obstruction,1,1,1.0
+2018-1,E01000736,Overgrown Vegetation,1,1,1.0
+2018-1,E01000736,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000736,Road Surface Defects,3,3,1.0
+2018-1,E01000736,Street Cleaning,2,2,1.0
+2018-1,E01000737,Dumped Rubbish,4,3,1.3333333333333333
+2018-1,E01000737,Obstruction,2,1,2.0
+2018-1,E01000737,Open Spaces/Parks,2,1,2.0
+2018-1,E01000737,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000737,Road Surface Defects,2,2,1.0
+2018-1,E01000737,Street Cleaning,1,1,1.0
+2018-1,E01000737,Street Lights,2,2,1.0
+2018-1,E01000738,,1,1,1.0
+2018-1,E01000738,Dead Animals,1,1,1.0
+2018-1,E01000738,Dumped Rubbish,2,1,2.0
+2018-1,E01000738,Road Surface Defects,1,1,1.0
+2018-1,E01000738,Street Lights,1,1,1.0
+2018-1,E01000739,Abandoned Vehicles,1,1,1.0
+2018-1,E01000739,Dumped Rubbish,3,2,1.5
+2018-1,E01000739,Overgrown Vegetation,1,1,1.0
+2018-1,E01000739,Pavement /Footway Defects,2,1,2.0
+2018-1,E01000739,Street Lights,1,1,1.0
+2018-1,E01000739,Street Signs,1,1,1.0
+2018-1,E01000740,Abandoned Vehicles,2,2,1.0
+2018-1,E01000740,Blocked Drains,1,1,1.0
+2018-1,E01000740,Dumped Rubbish,2,2,1.0
+2018-1,E01000740,Graffiti,1,1,1.0
+2018-1,E01000740,Open Spaces/Parks,1,1,1.0
+2018-1,E01000740,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000740,Street Cleaning,1,1,1.0
+2018-1,E01000741,Dumped Rubbish,3,3,1.0
+2018-1,E01000741,Leafing,1,1,1.0
+2018-1,E01000741,Overgrown Vegetation,1,1,1.0
+2018-1,E01000741,Road Surface Defects,1,1,1.0
+2018-1,E01000741,Street Cleaning,3,3,1.0
+2018-1,E01000741,Street Signs,1,1,1.0
+2018-1,E01000742,Dumped Rubbish,5,4,1.25
+2018-1,E01000742,Obstruction,1,1,1.0
+2018-1,E01000742,Spillage on Raod,1,1,1.0
+2018-1,E01000743,Blocked Drains,1,1,1.0
+2018-1,E01000743,Dumped Rubbish,1,1,1.0
+2018-1,E01000744,Dumped Rubbish,3,2,1.5
+2018-1,E01000744,Street Cleaning,1,1,1.0
+2018-1,E01000744,Street Signs,1,1,1.0
+2018-1,E01000745,Blocked Drains,1,1,1.0
+2018-1,E01000745,Dumped Rubbish,5,4,1.25
+2018-1,E01000745,Leafing,1,1,1.0
+2018-1,E01000745,Street Cleaning,1,1,1.0
+2018-1,E01000745,Street Lights,2,2,1.0
+2018-1,E01000746,Abandoned Vehicles,1,1,1.0
+2018-1,E01000746,Dead Animals,1,1,1.0
+2018-1,E01000746,Dumped Rubbish,2,1,2.0
+2018-1,E01000746,Graffiti,1,1,1.0
+2018-1,E01000746,Street Cleaning,2,2,1.0
+2018-1,E01000746,Street Lights,1,1,1.0
+2018-1,E01000747,Abandoned Vehicles,2,2,1.0
+2018-1,E01000747,Dead Animals,1,1,1.0
+2018-1,E01000747,Dumped Rubbish,3,2,1.5
+2018-1,E01000747,Graffiti,2,1,2.0
+2018-1,E01000747,Overgrown Vegetation,1,1,1.0
+2018-1,E01000747,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000747,Road Surface Defects,10,9,1.1111111111111112
+2018-1,E01000747,Street Lights,3,3,1.0
+2018-1,E01000748,Dead Animals,1,1,1.0
+2018-1,E01000748,Dumped Rubbish,1,1,1.0
+2018-1,E01000748,Overgrown Vegetation,3,3,1.0
+2018-1,E01000748,Road Surface Defects,6,5,1.2
+2018-1,E01000748,Street Lights,2,2,1.0
+2018-1,E01000749,Dead Animals,1,1,1.0
+2018-1,E01000749,Dumped Rubbish,1,1,1.0
+2018-1,E01000749,Litter/Litter Bin,1,1,1.0
+2018-1,E01000749,Open Spaces/Parks,1,1,1.0
+2018-1,E01000749,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000749,Road Surface Defects,10,9,1.1111111111111112
+2018-1,E01000750,Overgrown Vegetation,1,1,1.0
+2018-1,E01000750,Street Cleaning,1,1,1.0
+2018-1,E01000751,Dumped Rubbish,1,1,1.0
+2018-1,E01000751,Overgrown Vegetation,1,1,1.0
+2018-1,E01000751,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000751,Road Surface Defects,1,1,1.0
+2018-1,E01000751,Street Lights,1,1,1.0
+2018-1,E01000752,Blocked Drains,1,1,1.0
+2018-1,E01000752,Dumped Rubbish,2,2,1.0
+2018-1,E01000752,Overgrown Vegetation,1,1,1.0
+2018-1,E01000752,Road Surface Defects,2,2,1.0
+2018-1,E01000752,Street Cleaning,3,2,1.5
+2018-1,E01000753,Dumped Rubbish,1,1,1.0
+2018-1,E01000753,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000753,Road Surface Defects,2,2,1.0
+2018-1,E01000753,Street Signs,1,1,1.0
+2018-1,E01000754,Dumped Rubbish,1,1,1.0
+2018-1,E01000754,Overgrown Vegetation,1,1,1.0
+2018-1,E01000754,Road Surface Defects,2,2,1.0
+2018-1,E01000754,Street Cleaning,2,2,1.0
+2018-1,E01000754,Street Lights,2,2,1.0
+2018-1,E01000755,Abandoned Vehicles,1,1,1.0
+2018-1,E01000755,Dumped Rubbish,2,2,1.0
+2018-1,E01000755,Overgrown Vegetation,2,2,1.0
+2018-1,E01000755,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000755,Road Surface Defects,4,4,1.0
+2018-1,E01000755,Street Signs,1,1,1.0
+2018-1,E01000756,Dead Animals,1,1,1.0
+2018-1,E01000756,Obstruction,1,1,1.0
+2018-1,E01000756,Overgrown Vegetation,1,1,1.0
+2018-1,E01000756,Road Surface Defects,1,1,1.0
+2018-1,E01000756,Street Signs,1,1,1.0
+2018-1,E01000757,Dumped Rubbish,1,1,1.0
+2018-1,E01000757,Overgrown Vegetation,1,1,1.0
+2018-1,E01000758,Blocked Drains,1,1,1.0
+2018-1,E01000758,Dumped Rubbish,2,2,1.0
+2018-1,E01000758,Graffiti,1,1,1.0
+2018-1,E01000758,Obstruction,1,1,1.0
+2018-1,E01000758,Overgrown Vegetation,1,1,1.0
+2018-1,E01000758,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000758,Spillage on Raod,1,1,1.0
+2018-1,E01000758,Street Lights,3,3,1.0
+2018-1,E01000759,Dumped Rubbish,4,4,1.0
+2018-1,E01000759,Obstruction,1,1,1.0
+2018-1,E01000759,Overgrown Vegetation,2,2,1.0
+2018-1,E01000759,Road Surface Defects,5,5,1.0
+2018-1,E01000759,Street Cleaning,2,1,2.0
+2018-1,E01000760,Road Surface Defects,3,3,1.0
+2018-1,E01000761,Overgrown Vegetation,1,1,1.0
+2018-1,E01000762,Dumped Rubbish,1,1,1.0
+2018-1,E01000762,Graffiti,2,1,2.0
+2018-1,E01000762,Litter/Litter Bin,1,1,1.0
+2018-1,E01000762,Overgrown Vegetation,1,1,1.0
+2018-1,E01000762,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000762,Road Surface Defects,2,2,1.0
+2018-1,E01000762,Street Cleaning,1,1,1.0
+2018-1,E01000762,Street Lights,1,1,1.0
+2018-1,E01000763,Blocked Drains,1,1,1.0
+2018-1,E01000763,Dumped Rubbish,2,2,1.0
+2018-1,E01000763,Open Spaces/Parks,1,1,1.0
+2018-1,E01000763,Overgrown Vegetation,1,1,1.0
+2018-1,E01000763,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000763,Street Cleaning,1,1,1.0
+2018-1,E01000763,Street Lights,2,2,1.0
+2018-1,E01000764,Dumped Rubbish,3,2,1.5
+2018-1,E01000764,Litter/Litter Bin,1,1,1.0
+2018-1,E01000764,Pavement /Footway Defects,3,2,1.5
+2018-1,E01000764,Street Cleaning,4,1,4.0
+2018-1,E01000765,Abandoned Vehicles,2,2,1.0
+2018-1,E01000765,Dumped Rubbish,5,5,1.0
+2018-1,E01000765,Litter/Litter Bin,2,2,1.0
+2018-1,E01000765,Open Spaces/Parks,1,1,1.0
+2018-1,E01000765,Road Surface Defects,1,1,1.0
+2018-1,E01000765,Spillage on Raod,1,1,1.0
+2018-1,E01000765,Street Cleaning,1,1,1.0
+2018-1,E01000765,Street Lights,1,1,1.0
+2018-1,E01000766,Abandoned Vehicles,3,3,1.0
+2018-1,E01000766,Street Lights,2,2,1.0
+2018-1,E01000767,Dumped Rubbish,1,1,1.0
+2018-1,E01000767,Leafing,1,1,1.0
+2018-1,E01000767,Obstruction,1,1,1.0
+2018-1,E01000767,Open Spaces/Parks,1,1,1.0
+2018-1,E01000767,Road Surface Defects,1,1,1.0
+2018-1,E01000767,Street Cleaning,2,2,1.0
+2018-1,E01000767,Street Signs,1,1,1.0
+2018-1,E01000768,Abandoned Vehicles,1,1,1.0
+2018-1,E01000768,Leafing,1,1,1.0
+2018-1,E01000768,Road Surface Defects,2,2,1.0
+2018-1,E01000768,Street Lights,1,1,1.0
+2018-1,E01000769,Dumped Rubbish,1,1,1.0
+2018-1,E01000769,Overgrown Vegetation,1,1,1.0
+2018-1,E01000769,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000769,Road Surface Defects,1,1,1.0
+2018-1,E01000769,Street Cleaning,2,2,1.0
+2018-1,E01000769,Street Lights,1,1,1.0
+2018-1,E01000770,Dumped Rubbish,1,1,1.0
+2018-1,E01000770,Open Spaces/Parks,1,1,1.0
+2018-1,E01000770,Pavement /Footway Defects,3,3,1.0
+2018-1,E01000770,Road Surface Defects,1,1,1.0
+2018-1,E01000770,Street Lights,1,1,1.0
+2018-1,E01000770,Street Signs,2,2,1.0
+2018-1,E01000771,Abandoned Vehicles,2,2,1.0
+2018-1,E01000771,Blocked Drains,1,1,1.0
+2018-1,E01000771,Dumped Rubbish,2,2,1.0
+2018-1,E01000771,Graffiti,1,1,1.0
+2018-1,E01000771,Open Spaces/Parks,2,2,1.0
+2018-1,E01000771,Road Surface Defects,1,1,1.0
+2018-1,E01000771,Street Cleaning,1,1,1.0
+2018-1,E01000772,Abandoned Vehicles,1,1,1.0
+2018-1,E01000772,Blocked Drains,1,1,1.0
+2018-1,E01000772,Overgrown Vegetation,1,1,1.0
+2018-1,E01000772,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000772,Road Surface Defects,1,1,1.0
+2018-1,E01000773,Dead Animals,2,2,1.0
+2018-1,E01000773,Litter/Litter Bin,1,1,1.0
+2018-1,E01000773,Road Surface Defects,1,1,1.0
+2018-1,E01000773,Street Cleaning,1,1,1.0
+2018-1,E01000774,Dead Animals,1,1,1.0
+2018-1,E01000774,Dumped Rubbish,2,1,2.0
+2018-1,E01000774,Obstruction,1,1,1.0
+2018-1,E01000774,Street Cleaning,3,2,1.5
+2018-1,E01000774,Street Lights,1,1,1.0
+2018-1,E01000775,Abandoned Vehicles,1,1,1.0
+2018-1,E01000775,Dead Animals,1,1,1.0
+2018-1,E01000775,Dumped Rubbish,1,1,1.0
+2018-1,E01000775,Open Spaces/Parks,1,1,1.0
+2018-1,E01000775,Road Surface Defects,2,1,2.0
+2018-1,E01000775,Spillage on Raod,1,1,1.0
+2018-1,E01000777,Abandoned Vehicles,1,1,1.0
+2018-1,E01000777,Blocked Drains,1,1,1.0
+2018-1,E01000777,Dead Animals,1,1,1.0
+2018-1,E01000777,Dumped Rubbish,1,1,1.0
+2018-1,E01000777,Overgrown Vegetation,2,2,1.0
+2018-1,E01000777,Street Cleaning,1,1,1.0
+2018-1,E01000778,Dead Animals,4,4,1.0
+2018-1,E01000778,Dumped Rubbish,2,1,2.0
+2018-1,E01000778,Overgrown Vegetation,1,1,1.0
+2018-1,E01000778,Street Cleaning,2,2,1.0
+2018-1,E01000778,Street Lights,1,1,1.0
+2018-1,E01000778,Street Signs,1,1,1.0
+2018-1,E01000779,Blocked Drains,1,1,1.0
+2018-1,E01000779,Dead Animals,1,1,1.0
+2018-1,E01000779,Dumped Rubbish,1,1,1.0
+2018-1,E01000779,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000779,Road Surface Defects,1,1,1.0
+2018-1,E01000779,Street Cleaning,1,1,1.0
+2018-1,E01000780,Dead Animals,1,1,1.0
+2018-1,E01000780,Litter/Litter Bin,1,1,1.0
+2018-1,E01000780,Overgrown Vegetation,1,1,1.0
+2018-1,E01000781,Dead Animals,1,1,1.0
+2018-1,E01000781,Dumped Rubbish,3,3,1.0
+2018-1,E01000782,Dumped Rubbish,3,3,1.0
+2018-1,E01000782,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000783,Dead Animals,1,1,1.0
+2018-1,E01000783,Dumped Rubbish,2,2,1.0
+2018-1,E01000783,Obstruction,3,2,1.5
+2018-1,E01000783,Road Surface Defects,2,2,1.0
+2018-1,E01000784,Dead Animals,1,1,1.0
+2018-1,E01000784,Dumped Rubbish,1,1,1.0
+2018-1,E01000784,Pavement /Footway Defects,4,3,1.3333333333333333
+2018-1,E01000784,Road Surface Defects,3,3,1.0
+2018-1,E01000784,Street Cleaning,1,1,1.0
+2018-1,E01000785,Abandoned Vehicles,1,1,1.0
+2018-1,E01000785,Dumped Rubbish,5,4,1.25
+2018-1,E01000785,Road Surface Defects,1,1,1.0
+2018-1,E01000785,Street Cleaning,4,3,1.3333333333333333
+2018-1,E01000786,Blocked Drains,2,1,2.0
+2018-1,E01000786,Dumped Rubbish,1,1,1.0
+2018-1,E01000786,Leafing,1,1,1.0
+2018-1,E01000786,Open Spaces/Parks,2,2,1.0
+2018-1,E01000786,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000786,Road Surface Defects,3,3,1.0
+2018-1,E01000786,Street Signs,1,1,1.0
+2018-1,E01000787,Overgrown Vegetation,2,1,2.0
+2018-1,E01000787,Street Cleaning,2,1,2.0
+2018-1,E01000788,Dumped Rubbish,1,1,1.0
+2018-1,E01000788,Graffiti,1,1,1.0
+2018-1,E01000788,Leafing,1,1,1.0
+2018-1,E01000788,Open Spaces/Parks,1,1,1.0
+2018-1,E01000788,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000788,Road Surface Defects,1,1,1.0
+2018-1,E01000788,Street Cleaning,3,3,1.0
+2018-1,E01000789,Abandoned Vehicles,1,1,1.0
+2018-1,E01000789,Dumped Rubbish,2,2,1.0
+2018-1,E01000789,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000790,Blocked Drains,2,2,1.0
+2018-1,E01000790,Graffiti,1,1,1.0
+2018-1,E01000790,Obstruction,1,1,1.0
+2018-1,E01000790,Overgrown Vegetation,1,1,1.0
+2018-1,E01000790,Road Surface Defects,5,5,1.0
+2018-1,E01000790,Street Lights,2,1,2.0
+2018-1,E01000790,Street Signs,1,1,1.0
+2018-1,E01000791,Open Spaces/Parks,1,1,1.0
+2018-1,E01000791,Overgrown Vegetation,2,2,1.0
+2018-1,E01000791,Street Cleaning,3,3,1.0
+2018-1,E01000791,Street Lights,1,1,1.0
+2018-1,E01000792,Dumped Rubbish,4,3,1.3333333333333333
+2018-1,E01000792,Obstruction,1,1,1.0
+2018-1,E01000792,Overgrown Vegetation,1,1,1.0
+2018-1,E01000792,Road Surface Defects,1,1,1.0
+2018-1,E01000792,Street Cleaning,1,1,1.0
+2018-1,E01000793,Obstruction,1,1,1.0
+2018-1,E01000793,Street Lights,4,4,1.0
+2018-1,E01000794,Abandoned Vehicles,4,3,1.3333333333333333
+2018-1,E01000794,Dumped Rubbish,1,1,1.0
+2018-1,E01000795,Dead Animals,1,1,1.0
+2018-1,E01000796,Abandoned Vehicles,1,1,1.0
+2018-1,E01000796,Dumped Rubbish,1,1,1.0
+2018-1,E01000797,Abandoned Vehicles,1,1,1.0
+2018-1,E01000797,Dumped Rubbish,1,1,1.0
+2018-1,E01000797,Graffiti,1,1,1.0
+2018-1,E01000797,Litter/Litter Bin,1,1,1.0
+2018-1,E01000797,Overgrown Vegetation,1,1,1.0
+2018-1,E01000797,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000797,Road Surface Defects,1,1,1.0
+2018-1,E01000797,Street Cleaning,4,2,2.0
+2018-1,E01000797,Street Lights,2,2,1.0
+2018-1,E01000798,Abandoned Vehicles,1,1,1.0
+2018-1,E01000798,Dumped Rubbish,1,1,1.0
+2018-1,E01000798,Litter/Litter Bin,1,1,1.0
+2018-1,E01000798,Overgrown Vegetation,1,1,1.0
+2018-1,E01000798,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000799,,1,1,1.0
+2018-1,E01000799,Dead Animals,1,1,1.0
+2018-1,E01000799,Dumped Rubbish,7,6,1.1666666666666667
+2018-1,E01000799,Pavement /Footway Defects,2,1,2.0
+2018-1,E01000799,Road Surface Defects,3,3,1.0
+2018-1,E01000799,Street Cleaning,3,3,1.0
+2018-1,E01000800,Dumped Rubbish,3,3,1.0
+2018-1,E01000800,Graffiti,1,1,1.0
+2018-1,E01000800,Street Cleaning,1,1,1.0
+2018-1,E01000801,Dumped Rubbish,6,5,1.2
+2018-1,E01000802,Dumped Rubbish,3,3,1.0
+2018-1,E01000802,Leafing,1,1,1.0
+2018-1,E01000802,Street Cleaning,2,2,1.0
+2018-1,E01000802,Street Lights,1,1,1.0
+2018-1,E01000803,Dumped Rubbish,2,2,1.0
+2018-1,E01000803,Street Cleaning,1,1,1.0
+2018-1,E01000803,Street Lights,1,1,1.0
+2018-1,E01000804,Abandoned Vehicles,4,4,1.0
+2018-1,E01000804,Dead Animals,1,1,1.0
+2018-1,E01000804,Dumped Rubbish,2,2,1.0
+2018-1,E01000804,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000804,Road Surface Defects,1,1,1.0
+2018-1,E01000804,Spillage on Raod,1,1,1.0
+2018-1,E01000804,Street Lights,1,1,1.0
+2018-1,E01000804,Street Signs,1,1,1.0
+2018-1,E01000805,Dead Animals,2,2,1.0
+2018-1,E01000805,Dumped Rubbish,3,3,1.0
+2018-1,E01000805,Obstruction,1,1,1.0
+2018-1,E01000805,Street Cleaning,3,3,1.0
+2018-1,E01000806,Dumped Rubbish,4,3,1.3333333333333333
+2018-1,E01000806,Street Cleaning,2,2,1.0
+2018-1,E01000807,Abandoned Vehicles,1,1,1.0
+2018-1,E01000807,Obstruction,1,1,1.0
+2018-1,E01000807,Road Surface Defects,3,2,1.5
+2018-1,E01000807,Street Cleaning,1,1,1.0
+2018-1,E01000807,Street Lights,1,1,1.0
+2018-1,E01000807,Street Signs,1,1,1.0
+2018-1,E01000808,Dumped Rubbish,3,2,1.5
+2018-1,E01000808,Road Surface Defects,1,1,1.0
+2018-1,E01000808,Street Cleaning,2,1,2.0
+2018-1,E01000809,Abandoned Vehicles,1,1,1.0
+2018-1,E01000809,Dumped Rubbish,1,1,1.0
+2018-1,E01000809,Obstruction,1,1,1.0
+2018-1,E01000809,Overgrown Vegetation,2,1,2.0
+2018-1,E01000809,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000809,Road Surface Defects,3,3,1.0
+2018-1,E01000809,Street Cleaning,2,2,1.0
+2018-1,E01000809,Street Lights,1,1,1.0
+2018-1,E01000810,Obstruction,1,1,1.0
+2018-1,E01000810,Street Cleaning,1,1,1.0
+2018-1,E01000810,Street Lights,2,2,1.0
+2018-1,E01000811,Blocked Drains,3,2,1.5
+2018-1,E01000811,Dumped Rubbish,1,1,1.0
+2018-1,E01000811,Overgrown Vegetation,1,1,1.0
+2018-1,E01000811,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000811,Street Cleaning,1,1,1.0
+2018-1,E01000811,Street Lights,1,1,1.0
+2018-1,E01000812,Dead Animals,1,1,1.0
+2018-1,E01000812,Dumped Rubbish,3,2,1.5
+2018-1,E01000812,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000812,Street Lights,3,3,1.0
+2018-1,E01000812,Street Signs,1,1,1.0
+2018-1,E01000813,Dumped Rubbish,1,1,1.0
+2018-1,E01000813,Obstruction,1,1,1.0
+2018-1,E01000813,Overgrown Vegetation,1,1,1.0
+2018-1,E01000813,Pavement /Footway Defects,3,3,1.0
+2018-1,E01000813,Road Surface Defects,2,1,2.0
+2018-1,E01000813,Street Lights,2,2,1.0
+2018-1,E01000814,Abandoned Vehicles,1,1,1.0
+2018-1,E01000814,Blocked Drains,1,1,1.0
+2018-1,E01000814,Road Surface Defects,1,1,1.0
+2018-1,E01000814,Spillage on Raod,1,1,1.0
+2018-1,E01000815,Blocked Drains,1,1,1.0
+2018-1,E01000815,Obstruction,1,1,1.0
+2018-1,E01000815,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000815,Road Surface Defects,1,1,1.0
+2018-1,E01000815,Street Lights,2,2,1.0
+2018-1,E01000815,Street Signs,1,1,1.0
+2018-1,E01000816,Dumped Rubbish,3,2,1.5
+2018-1,E01000816,Obstruction,1,1,1.0
+2018-1,E01000818,Road Surface Defects,1,1,1.0
+2018-1,E01000819,Dumped Rubbish,2,1,2.0
+2018-1,E01000819,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000819,Street Cleaning,1,1,1.0
+2018-1,E01000819,Street Lights,2,2,1.0
+2018-1,E01000820,Abandoned Vehicles,1,1,1.0
+2018-1,E01000820,Dead Animals,2,2,1.0
+2018-1,E01000820,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000820,Street Cleaning,1,1,1.0
+2018-1,E01000820,Street Lights,1,1,1.0
+2018-1,E01000822,Dumped Rubbish,2,2,1.0
+2018-1,E01000822,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000822,Street Cleaning,1,1,1.0
+2018-1,E01000823,Blocked Drains,1,1,1.0
+2018-1,E01000823,Dumped Rubbish,2,2,1.0
+2018-1,E01000823,Road Surface Defects,1,1,1.0
+2018-1,E01000823,Street Cleaning,1,1,1.0
+2018-1,E01000824,Dead Animals,1,1,1.0
+2018-1,E01000824,Dumped Rubbish,4,4,1.0
+2018-1,E01000824,Overgrown Vegetation,1,1,1.0
+2018-1,E01000824,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000824,Street Cleaning,1,1,1.0
+2018-1,E01000825,Dead Animals,2,2,1.0
+2018-1,E01000825,Dumped Rubbish,1,1,1.0
+2018-1,E01000825,Street Lights,1,1,1.0
+2018-1,E01000826,Dead Animals,1,1,1.0
+2018-1,E01000826,Dumped Rubbish,1,1,1.0
+2018-1,E01000826,Street Lights,1,1,1.0
+2018-1,E01000827,Abandoned Vehicles,1,1,1.0
+2018-1,E01000827,Spillage on Raod,1,1,1.0
+2018-1,E01000828,Abandoned Vehicles,1,1,1.0
+2018-1,E01000828,Blocked Drains,1,1,1.0
+2018-1,E01000828,Dumped Rubbish,1,1,1.0
+2018-1,E01000828,Leafing,1,1,1.0
+2018-1,E01000828,Litter/Litter Bin,3,2,1.5
+2018-1,E01000828,Obstruction,1,1,1.0
+2018-1,E01000828,Road Surface Defects,1,1,1.0
+2018-1,E01000828,Street Cleaning,5,2,2.5
+2018-1,E01000828,Street Lights,1,1,1.0
+2018-1,E01000829,Blocked Drains,1,1,1.0
+2018-1,E01000829,Dumped Rubbish,2,2,1.0
+2018-1,E01000829,Open Spaces/Parks,1,1,1.0
+2018-1,E01000829,Pavement /Footway Defects,3,2,1.5
+2018-1,E01000829,Street Cleaning,1,1,1.0
+2018-1,E01000830,Abandoned Vehicles,1,1,1.0
+2018-1,E01000830,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000830,Street Cleaning,1,1,1.0
+2018-1,E01000830,Street Lights,1,1,1.0
+2018-1,E01000831,Abandoned Vehicles,1,1,1.0
+2018-1,E01000831,Blocked Drains,1,1,1.0
+2018-1,E01000831,Dumped Rubbish,1,1,1.0
+2018-1,E01000831,Obstruction,1,1,1.0
+2018-1,E01000831,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000831,Road Surface Defects,1,1,1.0
+2018-1,E01000831,Street Cleaning,2,2,1.0
+2018-1,E01000831,Street Lights,2,2,1.0
+2018-1,E01000832,Blocked Drains,1,1,1.0
+2018-1,E01000832,Dumped Rubbish,3,1,3.0
+2018-1,E01000832,Leafing,1,1,1.0
+2018-1,E01000832,Litter/Litter Bin,2,1,2.0
+2018-1,E01000832,Overgrown Vegetation,1,1,1.0
+2018-1,E01000832,Pavement /Footway Defects,3,3,1.0
+2018-1,E01000832,Street Cleaning,2,1,2.0
+2018-1,E01000832,Street Signs,1,1,1.0
+2018-1,E01000833,Overgrown Vegetation,1,1,1.0
+2018-1,E01000833,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000834,Blocked Drains,1,1,1.0
+2018-1,E01000834,Dumped Rubbish,2,2,1.0
+2018-1,E01000834,Litter/Litter Bin,3,1,3.0
+2018-1,E01000834,Overgrown Vegetation,2,2,1.0
+2018-1,E01000834,Street Cleaning,4,1,4.0
+2018-1,E01000834,Street Lights,1,1,1.0
+2018-1,E01000834,Street Signs,1,1,1.0
+2018-1,E01000835,Dumped Rubbish,4,4,1.0
+2018-1,E01000835,Obstruction,1,1,1.0
+2018-1,E01000835,Pavement /Footway Defects,2,2,1.0
+2018-1,E01000835,Street Cleaning,1,1,1.0
+2018-1,E01000835,Street Lights,1,1,1.0
+2018-1,E01000836,Dumped Rubbish,1,1,1.0
+2018-1,E01000836,Litter/Litter Bin,1,1,1.0
+2018-1,E01000836,Obstruction,1,1,1.0
+2018-1,E01000836,Pavement /Footway Defects,1,1,1.0
+2018-1,E01000836,Spillage on Raod,1,1,1.0
+2018-1,E01000836,Street Lights,3,2,1.5
+2018-1,E01000837,Dumped Rubbish,2,2,1.0
+2018-1,E01000837,Open Spaces/Parks,2,2,1.0
+2018-1,E01000837,Overgrown Vegetation,1,1,1.0
+2018-1,E01000837,Street Cleaning,2,1,2.0
+2018-1,E01000837,Street Lights,1,1,1.0
+2018-1,E01000838,Abandoned Vehicles,2,2,1.0
+2018-1,E01000838,Dead Animals,1,1,1.0
+2018-1,E01000838,Dumped Rubbish,1,1,1.0
+2018-1,E01000838,Pavement /Footway Defects,6,2,3.0
+2018-1,E01000838,Street Cleaning,1,1,1.0
+2018-1,E01000839,Abandoned Vehicles,4,2,2.0
+2018-1,E01000839,Overgrown Vegetation,2,2,1.0
+2018-1,E01000840,Abandoned Vehicles,2,2,1.0
+2018-1,E01000840,Open Spaces/Parks,1,1,1.0
+2018-1,E01000840,Overgrown Vegetation,1,1,1.0
+2018-1,E01000840,Road Surface Defects,1,1,1.0
+2018-1,E01000840,Street Lights,1,1,1.0
+2018-1,E01000841,Blocked Drains,1,1,1.0
+2018-1,E01000841,Litter/Litter Bin,1,1,1.0
+2018-1,E01000841,Overgrown Vegetation,2,2,1.0
+2018-1,E01000841,Road Surface Defects,1,1,1.0
+2018-1,E01000841,Street Signs,2,2,1.0
+2018-1,E01001571,Dog Fouling,1,1,1.0
+2018-1,E01001572,Fly-tipping,3,1,3.0
+2018-1,E01001572,Parking,1,1,1.0
+2018-1,E01001572,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001572,Street Lights,1,1,1.0
+2018-1,E01001574,Dog Fouling,1,1,1.0
+2018-1,E01001578,Abandoned Vehicles,1,1,1.0
+2018-1,E01001578,Dog Fouling,1,1,1.0
+2018-1,E01001578,Fly-tipping,1,1,1.0
+2018-1,E01001578,Other,1,1,1.0
+2018-1,E01001580,Abandoned Vehicles,1,1,1.0
+2018-1,E01001581,Parking,1,1,1.0
+2018-1,E01001583,Dead Animals,2,2,1.0
+2018-1,E01001583,Fly-tipping,2,1,2.0
+2018-1,E01001585,Abandoned Vehicles,2,2,1.0
+2018-1,E01001585,Rubbish,1,1,1.0
+2018-1,E01001586,Rubbish,1,1,1.0
+2018-1,E01001587,Dead Animals,1,1,1.0
+2018-1,E01001587,Fly-tipping,1,1,1.0
+2018-1,E01001587,Street Cleaning,1,1,1.0
+2018-1,E01001588,Street Lights,1,1,1.0
+2018-1,E01001590,Fly-tipping,1,1,1.0
+2018-1,E01001591,Abandoned Vehicles,1,1,1.0
+2018-1,E01001591,Dog Fouling,1,1,1.0
+2018-1,E01001591,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001592,Fly-tipping,1,1,1.0
+2018-1,E01001592,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001592,Rubbish,1,1,1.0
+2018-1,E01001592,Street Cleaning,1,1,1.0
+2018-1,E01001593,Abandoned Vehicles,1,1,1.0
+2018-1,E01001593,Dead Animals,1,1,1.0
+2018-1,E01001593,Other,1,1,1.0
+2018-1,E01001595,Abandoned Vehicles,1,1,1.0
+2018-1,E01001595,Fly-tipping,1,1,1.0
+2018-1,E01001595,Street Cleaning,1,1,1.0
+2018-1,E01001596,Abandoned Vehicles,1,1,1.0
+2018-1,E01001596,Highway Condition,1,1,1.0
+2018-1,E01001596,Potholes,1,1,1.0
+2018-1,E01001597,Other,1,1,1.0
+2018-1,E01001598,Abandoned Vehicles,1,1,1.0
+2018-1,E01001598,Dead Animals,1,1,1.0
+2018-1,E01001598,Fly-tipping,1,1,1.0
+2018-1,E01001599,Abandoned Vehicles,1,1,1.0
+2018-1,E01001599,Fly-tipping,1,1,1.0
+2018-1,E01001600,Fly-tipping,2,2,1.0
+2018-1,E01001601,Rubbish,1,1,1.0
+2018-1,E01001601,Street Cleaning,1,1,1.0
+2018-1,E01001602,Dead Animals,1,1,1.0
+2018-1,E01001603,Abandoned Vehicles,1,1,1.0
+2018-1,E01001604,Abandoned Vehicles,1,1,1.0
+2018-1,E01001604,Potholes,1,1,1.0
+2018-1,E01001604,Rubbish,3,1,3.0
+2018-1,E01001605,Abandoned Vehicles,1,1,1.0
+2018-1,E01001608,Fly-tipping,1,1,1.0
+2018-1,E01001608,Other,1,1,1.0
+2018-1,E01001609,Fly-tipping,1,1,1.0
+2018-1,E01001609,Parking,1,1,1.0
+2018-1,E01001610,Fly-tipping,1,1,1.0
+2018-1,E01001613,Abandoned Vehicles,2,2,1.0
+2018-1,E01001614,Dead Animals,1,1,1.0
+2018-1,E01001614,Highway Condition,1,1,1.0
+2018-1,E01001615,Dead Animals,1,1,1.0
+2018-1,E01001615,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01001615,Fly-tipping,1,1,1.0
+2018-1,E01001615,Other,1,1,1.0
+2018-1,E01001615,Street Cleaning,1,1,1.0
+2018-1,E01001617,Abandoned Vehicles,1,1,1.0
+2018-1,E01001617,Fly-tipping,3,1,3.0
+2018-1,E01001618,Fly-tipping,1,1,1.0
+2018-1,E01001619,Abandoned Vehicles,1,1,1.0
+2018-1,E01001619,Graffiti,1,1,1.0
+2018-1,E01001619,Other,1,1,1.0
+2018-1,E01001619,Street Cleaning,1,1,1.0
+2018-1,E01001621,Abandoned Vehicles,1,1,1.0
+2018-1,E01001621,Dead Animals,1,1,1.0
+2018-1,E01001623,Other,1,1,1.0
+2018-1,E01001624,Fly-tipping,1,1,1.0
+2018-1,E01001625,Abandoned Vehicles,3,2,1.5
+2018-1,E01001629,Abandoned Vehicles,1,1,1.0
+2018-1,E01001632,Fly-tipping,1,1,1.0
+2018-1,E01001632,Parking,1,1,1.0
+2018-1,E01001632,Street Cleaning,2,2,1.0
+2018-1,E01001633,Abandoned Vehicles,1,1,1.0
+2018-1,E01001633,Fly-tipping,1,1,1.0
+2018-1,E01001633,Street Cleaning,1,1,1.0
+2018-1,E01001635,Abandoned Vehicles,1,1,1.0
+2018-1,E01001635,Dog Fouling,1,1,1.0
+2018-1,E01001635,Fly-tipping,3,1,3.0
+2018-1,E01001635,Other,3,1,3.0
+2018-1,E01001635,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001635,Potholes,1,1,1.0
+2018-1,E01001637,Abandoned Vehicles,2,2,1.0
+2018-1,E01001637,Fly-tipping,1,1,1.0
+2018-1,E01001637,Street Cleaning,2,1,2.0
+2018-1,E01001638,Fly-tipping,1,1,1.0
+2018-1,E01001640,Rubbish,1,1,1.0
+2018-1,E01001642,Street Cleaning,2,2,1.0
+2018-1,E01001644,Dead Animals,1,1,1.0
+2018-1,E01001644,Open Spaces/Parks,1,1,1.0
+2018-1,E01001644,Rubbish,1,1,1.0
+2018-1,E01001645,Dead Animals,2,2,1.0
+2018-1,E01001645,Highway Condition,1,1,1.0
+2018-1,E01001645,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001645,Rubbish,1,1,1.0
+2018-1,E01001646,Abandoned Vehicles,1,1,1.0
+2018-1,E01001646,Blocked Drains,1,1,1.0
+2018-1,E01001646,Other,1,1,1.0
+2018-1,E01001646,Street Cleaning,1,1,1.0
+2018-1,E01001646,Street Lights,1,1,1.0
+2018-1,E01001647,Abandoned Vehicles,1,1,1.0
+2018-1,E01001647,Dead Animals,1,1,1.0
+2018-1,E01001647,Other,1,1,1.0
+2018-1,E01001648,Other,1,1,1.0
+2018-1,E01001649,Fly-tipping,1,1,1.0
+2018-1,E01001649,Parking,1,1,1.0
+2018-1,E01001650,Abandoned Vehicles,1,1,1.0
+2018-1,E01001650,Fly-tipping,1,1,1.0
+2018-1,E01001651,Fly-tipping,1,1,1.0
+2018-1,E01001652,Abandoned Vehicles,1,1,1.0
+2018-1,E01001652,Dead Animals,1,1,1.0
+2018-1,E01001652,Fly-tipping,1,1,1.0
+2018-1,E01001652,Other,1,1,1.0
+2018-1,E01001652,Rubbish,1,1,1.0
+2018-1,E01001653,Fly-tipping,1,1,1.0
+2018-1,E01001654,Rubbish,1,1,1.0
+2018-1,E01001655,Blocked Drains,1,1,1.0
+2018-1,E01001655,Fly-tipping,1,1,1.0
+2018-1,E01001655,Street Cleaning,1,1,1.0
+2018-1,E01001656,Fly-tipping,1,1,1.0
+2018-1,E01001657,Fly-tipping,2,2,1.0
+2018-1,E01001658,Fly-tipping,1,1,1.0
+2018-1,E01001658,Highway Condition,1,1,1.0
+2018-1,E01001658,Other,1,1,1.0
+2018-1,E01001658,Street Lights,2,2,1.0
+2018-1,E01001659,Fly-tipping,2,2,1.0
+2018-1,E01001659,Potholes,1,1,1.0
+2018-1,E01001659,Street Cleaning,1,1,1.0
+2018-1,E01001660,Abandoned Vehicles,1,1,1.0
+2018-1,E01001660,Fly-tipping,1,1,1.0
+2018-1,E01001660,Street Cleaning,1,1,1.0
+2018-1,E01001661,Other,1,1,1.0
+2018-1,E01001662,Dog Fouling,1,1,1.0
+2018-1,E01001664,Fly-tipping,2,1,2.0
+2018-1,E01001665,Abandoned Vehicles,1,1,1.0
+2018-1,E01001665,Fly-tipping,4,1,4.0
+2018-1,E01001665,Highway Condition,1,1,1.0
+2018-1,E01001665,Street Cleaning,1,1,1.0
+2018-1,E01001666,Fly-tipping,1,1,1.0
+2018-1,E01001666,Other,1,1,1.0
+2018-1,E01001667,Dog Fouling,1,1,1.0
+2018-1,E01001667,Fly-tipping,1,1,1.0
+2018-1,E01001667,Rubbish,1,1,1.0
+2018-1,E01001668,Dog Fouling,1,1,1.0
+2018-1,E01001668,Fly-tipping,1,1,1.0
+2018-1,E01001669,Dog Fouling,1,1,1.0
+2018-1,E01001669,Fly-tipping,3,2,1.5
+2018-1,E01001671,Abandoned Vehicles,1,1,1.0
+2018-1,E01001671,Dog Fouling,4,1,4.0
+2018-1,E01001675,Fly-tipping,2,2,1.0
+2018-1,E01001675,Parking,1,1,1.0
+2018-1,E01001675,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001676,Street Cleaning,1,1,1.0
+2018-1,E01001677,Abandoned Vehicles,2,2,1.0
+2018-1,E01001677,Open Spaces/Parks,1,1,1.0
+2018-1,E01001678,Abandoned Vehicles,1,1,1.0
+2018-1,E01001679,Abandoned Vehicles,1,1,1.0
+2018-1,E01001679,Dog Fouling,2,2,1.0
+2018-1,E01001680,Abandoned Vehicles,1,1,1.0
+2018-1,E01001680,Dead Animals,1,1,1.0
+2018-1,E01001680,Open Spaces/Parks,1,1,1.0
+2018-1,E01001681,Fly-tipping,1,1,1.0
+2018-1,E01001681,Other,1,1,1.0
+2018-1,E01001682,Open Spaces/Parks,1,1,1.0
+2018-1,E01001682,Other,1,1,1.0
+2018-1,E01001683,Dog Fouling,1,1,1.0
+2018-1,E01001684,Dog Fouling,1,1,1.0
+2018-1,E01001684,Fly-tipping,1,1,1.0
+2018-1,E01001685,Fly-tipping,1,1,1.0
+2018-1,E01001686,Abandoned Vehicles,1,1,1.0
+2018-1,E01001686,Dog Fouling,2,2,1.0
+2018-1,E01001686,Fly-tipping,1,1,1.0
+2018-1,E01001686,Other,1,1,1.0
+2018-1,E01001686,Potholes,1,1,1.0
+2018-1,E01001687,Abandoned Vehicles,1,1,1.0
+2018-1,E01001687,Fly-tipping,1,1,1.0
+2018-1,E01001687,Rubbish,1,1,1.0
+2018-1,E01001688,Fly-tipping,1,1,1.0
+2018-1,E01001694,Abandoned Vehicles,1,1,1.0
+2018-1,E01001694,Fly-tipping,2,2,1.0
+2018-1,E01001696,Dead Animals,1,1,1.0
+2018-1,E01001696,Street Cleaning,1,1,1.0
+2018-1,E01001697,Abandoned Vehicles,2,1,2.0
+2018-1,E01001697,Rubbish,1,1,1.0
+2018-1,E01001697,Street Cleaning,1,1,1.0
+2018-1,E01001697,Street Lights,1,1,1.0
+2018-1,E01001699,Dead Animals,1,1,1.0
+2018-1,E01001700,Abandoned Vehicles,2,1,2.0
+2018-1,E01001701,Dead Animals,1,1,1.0
+2018-1,E01001701,Other,2,1,2.0
+2018-1,E01001701,Potholes,1,1,1.0
+2018-1,E01001703,Fly-tipping,2,2,1.0
+2018-1,E01001704,Fly-tipping,1,1,1.0
+2018-1,E01001704,Street Cleaning,1,1,1.0
+2018-1,E01001705,Other,1,1,1.0
+2018-1,E01001706,Dog Fouling,2,1,2.0
+2018-1,E01001706,Other,1,1,1.0
+2018-1,E01001706,Pavement /Footway Defects,1,1,1.0
+2018-1,E01001708,Abandoned Vehicles,2,2,1.0
+2018-1,E01001709,Fly-tipping,2,2,1.0
+2018-1,E01001709,Parking,1,1,1.0
+2018-1,E01001709,Rubbish,1,1,1.0
+2018-1,E01001709,Street Lights,1,1,1.0
+2018-1,E01001710,Dog Fouling,1,1,1.0
+2018-1,E01001712,Dead Animals,1,1,1.0
+2018-1,E01001712,Dog Fouling,1,1,1.0
+2018-1,E01001712,Fly-tipping,1,1,1.0
+2018-1,E01001712,Rubbish,1,1,1.0
+2018-1,E01001712,Street Cleaning,1,1,1.0
+2018-1,E01014485,Gullies,3,3,1.0
+2018-1,E01014485,Street Signs,1,1,1.0
+2018-1,E01014486,Obstruction,2,2,1.0
+2018-1,E01014487,Gullies,2,2,1.0
+2018-1,E01014488,Gullies,1,1,1.0
+2018-1,E01014489,Gullies,2,2,1.0
+2018-1,E01014489,Obstruction,2,2,1.0
+2018-1,E01014491,Gullies,1,1,1.0
+2018-1,E01014491,Obstruction,1,1,1.0
+2018-1,E01014493,General Highways Enquiries,1,1,1.0
+2018-1,E01014493,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014495,Gullies,1,1,1.0
+2018-1,E01014495,Obstruction,1,1,1.0
+2018-1,E01014496,Gullies,2,2,1.0
+2018-1,E01014496,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014496,Road Surface Defects,3,3,1.0
+2018-1,E01014496,Utility Works,1,1,1.0
+2018-1,E01014498,Road Surface Defects,3,2,1.5
+2018-1,E01014499,Obstruction,2,1,2.0
+2018-1,E01014499,Road Surface Defects,3,1,3.0
+2018-1,E01014500,Road Surface Defects,1,1,1.0
+2018-1,E01014501,General Highways Enquiries,1,1,1.0
+2018-1,E01014501,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014502,Gullies,1,1,1.0
+2018-1,E01014502,Road Surface Defects,1,1,1.0
+2018-1,E01014502,Street Name Plates,1,1,1.0
+2018-1,E01014502,Street Signs,1,1,1.0
+2018-1,E01014506,Gullies,1,1,1.0
+2018-1,E01014506,Utility Works,1,1,1.0
+2018-1,E01014507,Road Surface Defects,1,1,1.0
+2018-1,E01014508,Gullies,3,3,1.0
+2018-1,E01014509,Street Signs,1,1,1.0
+2018-1,E01014510,Gullies,1,1,1.0
+2018-1,E01014510,Road Surface Defects,2,2,1.0
+2018-1,E01014510,Street Signs,1,1,1.0
+2018-1,E01014511,Gullies,1,1,1.0
+2018-1,E01014511,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014512,Gullies,2,2,1.0
+2018-1,E01014512,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014513,Gullies,2,2,1.0
+2018-1,E01014513,Obstruction,1,1,1.0
+2018-1,E01014513,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014514,Utility Works,1,1,1.0
+2018-1,E01014515,Obstruction,1,1,1.0
+2018-1,E01014515,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014516,Road Surface Defects,1,1,1.0
+2018-1,E01014517,Gullies,1,1,1.0
+2018-1,E01014518,General Highways Enquiries,2,1,2.0
+2018-1,E01014518,Gullies,2,2,1.0
+2018-1,E01014520,Pavement /Footway Defects,3,3,1.0
+2018-1,E01014520,Road Surface Defects,1,1,1.0
+2018-1,E01014521,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014523,Utility Works,1,1,1.0
+2018-1,E01014524,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014525,Gullies,2,1,2.0
+2018-1,E01014527,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014527,Road Surface Defects,1,1,1.0
+2018-1,E01014528,General Highways Enquiries,1,1,1.0
+2018-1,E01014528,Road Surface Defects,1,1,1.0
+2018-1,E01014529,Gullies,1,1,1.0
+2018-1,E01014533,Road Surface Defects,1,1,1.0
+2018-1,E01014533,Street Signs,1,1,1.0
+2018-1,E01014534,Road Surface Defects,1,1,1.0
+2018-1,E01014535,General Highways Enquiries,1,1,1.0
+2018-1,E01014535,Gullies,2,2,1.0
+2018-1,E01014535,Street Signs,1,1,1.0
+2018-1,E01014536,Road Surface Defects,1,1,1.0
+2018-1,E01014538,Gullies,1,1,1.0
+2018-1,E01014538,Road Surface Defects,1,1,1.0
+2018-1,E01014539,Gullies,1,1,1.0
+2018-1,E01014539,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014540,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01014540,Gullies,2,2,1.0
+2018-1,E01014540,Obstruction,1,1,1.0
+2018-1,E01014540,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014540,Road Surface Defects,1,1,1.0
+2018-1,E01014540,Street Furniture,1,1,1.0
+2018-1,E01014540,Street Signs,1,1,1.0
+2018-1,E01014542,General Highways Enquiries,1,1,1.0
+2018-1,E01014542,Obstruction,2,2,1.0
+2018-1,E01014542,Pavement /Footway Defects,8,5,1.6
+2018-1,E01014542,Road Surface Defects,1,1,1.0
+2018-1,E01014542,Street Signs,1,1,1.0
+2018-1,E01014544,Gullies,1,1,1.0
+2018-1,E01014544,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014544,Retaining Wall,1,1,1.0
+2018-1,E01014544,Road Surface Defects,2,2,1.0
+2018-1,E01014545,Gullies,1,1,1.0
+2018-1,E01014545,Street Furniture,1,1,1.0
+2018-1,E01014546,General Highways Enquiries,1,1,1.0
+2018-1,E01014546,Gullies,2,2,1.0
+2018-1,E01014547,General Highways Enquiries,1,1,1.0
+2018-1,E01014547,Gullies,2,2,1.0
+2018-1,E01014548,General Highways Enquiries,1,1,1.0
+2018-1,E01014548,Gullies,1,1,1.0
+2018-1,E01014548,Road Surface Defects,3,3,1.0
+2018-1,E01014549,Obstruction,2,1,2.0
+2018-1,E01014549,Road Surface Defects,1,1,1.0
+2018-1,E01014550,Gullies,3,2,1.5
+2018-1,E01014550,Obstruction,1,1,1.0
+2018-1,E01014552,Gullies,1,1,1.0
+2018-1,E01014552,Street Name Plates,1,1,1.0
+2018-1,E01014553,Gullies,1,1,1.0
+2018-1,E01014553,Obstruction,1,1,1.0
+2018-1,E01014554,Gullies,2,2,1.0
+2018-1,E01014554,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014554,Road Surface Defects,1,1,1.0
+2018-1,E01014555,Gullies,1,1,1.0
+2018-1,E01014555,Obstruction,1,1,1.0
+2018-1,E01014555,Road Surface Defects,1,1,1.0
+2018-1,E01014556,Gullies,2,2,1.0
+2018-1,E01014556,Obstruction,1,1,1.0
+2018-1,E01014556,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014556,Road Surface Defects,1,1,1.0
+2018-1,E01014557,Gullies,1,1,1.0
+2018-1,E01014557,Obstruction,1,1,1.0
+2018-1,E01014557,Retaining Wall,1,1,1.0
+2018-1,E01014558,Gullies,1,1,1.0
+2018-1,E01014558,Obstruction,1,1,1.0
+2018-1,E01014559,Obstruction,3,3,1.0
+2018-1,E01014559,Road Surface Defects,1,1,1.0
+2018-1,E01014559,Street Signs,1,1,1.0
+2018-1,E01014560,Gullies,1,1,1.0
+2018-1,E01014561,Gullies,1,1,1.0
+2018-1,E01014561,Obstruction,2,2,1.0
+2018-1,E01014562,Gullies,2,2,1.0
+2018-1,E01014564,Gullies,1,1,1.0
+2018-1,E01014564,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014564,Retaining Wall,2,2,1.0
+2018-1,E01014564,Road Surface Defects,1,1,1.0
+2018-1,E01014565,General Highways Enquiries,1,1,1.0
+2018-1,E01014567,Road Surface Defects,1,1,1.0
+2018-1,E01014567,Street Furniture,1,1,1.0
+2018-1,E01014568,General Highways Enquiries,1,1,1.0
+2018-1,E01014568,Gullies,1,1,1.0
+2018-1,E01014569,Gullies,1,1,1.0
+2018-1,E01014570,Obstruction,1,1,1.0
+2018-1,E01014571,General Highways Enquiries,1,1,1.0
+2018-1,E01014571,Street Furniture,1,1,1.0
+2018-1,E01014572,Gullies,1,1,1.0
+2018-1,E01014572,Road Surface Defects,1,1,1.0
+2018-1,E01014575,Gullies,2,2,1.0
+2018-1,E01014575,Obstruction,1,1,1.0
+2018-1,E01014575,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014575,Street Furniture,1,1,1.0
+2018-1,E01014576,Gullies,2,2,1.0
+2018-1,E01014577,Obstruction,2,2,1.0
+2018-1,E01014578,Road Surface Defects,3,3,1.0
+2018-1,E01014580,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01014580,General Highways Enquiries,2,1,2.0
+2018-1,E01014580,Obstruction,1,1,1.0
+2018-1,E01014580,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014583,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014583,Road Surface Defects,1,1,1.0
+2018-1,E01014585,Road Surface Defects,1,1,1.0
+2018-1,E01014586,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014586,Road Surface Defects,1,1,1.0
+2018-1,E01014587,Road Surface Defects,2,2,1.0
+2018-1,E01014590,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014590,Street Signs,1,1,1.0
+2018-1,E01014591,Grit Bins,1,1,1.0
+2018-1,E01014591,Gullies,1,1,1.0
+2018-1,E01014591,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014591,Street Furniture,1,1,1.0
+2018-1,E01014592,Road Surface Defects,1,1,1.0
+2018-1,E01014593,Obstruction,1,1,1.0
+2018-1,E01014593,Pavement /Footway Defects,2,2,1.0
+2018-1,E01014594,Obstruction,1,1,1.0
+2018-1,E01014597,Obstruction,1,1,1.0
+2018-1,E01014598,Road Surface Defects,2,2,1.0
+2018-1,E01014600,General Highways Enquiries,1,1,1.0
+2018-1,E01014600,Obstruction,1,1,1.0
+2018-1,E01014600,Road Surface Defects,4,4,1.0
+2018-1,E01014601,Obstruction,2,2,1.0
+2018-1,E01014601,Road Surface Defects,1,1,1.0
+2018-1,E01014602,General Highways Enquiries,1,1,1.0
+2018-1,E01014602,Pavement /Footway Defects,2,1,2.0
+2018-1,E01014602,Road Surface Defects,1,1,1.0
+2018-1,E01014603,Obstruction,1,1,1.0
+2018-1,E01014605,Gullies,1,1,1.0
+2018-1,E01014605,Street Furniture,1,1,1.0
+2018-1,E01014607,General Highways Enquiries,1,1,1.0
+2018-1,E01014607,Road Surface Defects,1,1,1.0
+2018-1,E01014608,Road Surface Defects,1,1,1.0
+2018-1,E01014610,Gullies,1,1,1.0
+2018-1,E01014610,Obstruction,1,1,1.0
+2018-1,E01014610,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014610,Utility Works,2,1,2.0
+2018-1,E01014611,Gullies,1,1,1.0
+2018-1,E01014611,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014611,Road Surface Defects,2,2,1.0
+2018-1,E01014612,Road Surface Defects,1,1,1.0
+2018-1,E01014613,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014614,Gullies,1,1,1.0
+2018-1,E01014615,Gullies,1,1,1.0
+2018-1,E01014615,Road Surface Defects,1,1,1.0
+2018-1,E01014617,Obstruction,1,1,1.0
+2018-1,E01014618,Obstruction,1,1,1.0
+2018-1,E01014618,Road Surface Defects,1,1,1.0
+2018-1,E01014618,Street Signs,1,1,1.0
+2018-1,E01014619,Road Surface Defects,2,2,1.0
+2018-1,E01014620,Gullies,2,2,1.0
+2018-1,E01014620,Road Surface Defects,1,1,1.0
+2018-1,E01014621,Utility Works,1,1,1.0
+2018-1,E01014623,Obstruction,1,1,1.0
+2018-1,E01014623,Road Surface Defects,1,1,1.0
+2018-1,E01014624,Gullies,2,2,1.0
+2018-1,E01014626,Gullies,1,1,1.0
+2018-1,E01014629,Obstruction,1,1,1.0
+2018-1,E01014629,Road Surface Defects,1,1,1.0
+2018-1,E01014631,Gullies,1,1,1.0
+2018-1,E01014631,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014632,Gullies,1,1,1.0
+2018-1,E01014632,Obstruction,1,1,1.0
+2018-1,E01014632,Road Surface Defects,1,1,1.0
+2018-1,E01014632,Street Signs,1,1,1.0
+2018-1,E01014635,Utility Works,1,1,1.0
+2018-1,E01014636,Obstruction,2,2,1.0
+2018-1,E01014637,Gullies,1,1,1.0
+2018-1,E01014638,Road Surface Defects,1,1,1.0
+2018-1,E01014639,Gullies,1,1,1.0
+2018-1,E01014640,General Highways Enquiries,1,1,1.0
+2018-1,E01014640,Gullies,2,2,1.0
+2018-1,E01014640,Road Surface Defects,1,1,1.0
+2018-1,E01014641,Road Surface Defects,1,1,1.0
+2018-1,E01014642,Obstruction,2,1,2.0
+2018-1,E01014643,Gullies,1,1,1.0
+2018-1,E01014644,Gullies,1,1,1.0
+2018-1,E01014644,Road Surface Defects,1,1,1.0
+2018-1,E01014645,Gullies,1,1,1.0
+2018-1,E01014646,Gullies,1,1,1.0
+2018-1,E01014646,Obstruction,1,1,1.0
+2018-1,E01014646,Road Surface Defects,1,1,1.0
+2018-1,E01014650,General Highways Enquiries,1,1,1.0
+2018-1,E01014651,Gullies,1,1,1.0
+2018-1,E01014651,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014653,Gullies,2,2,1.0
+2018-1,E01014654,Gullies,3,3,1.0
+2018-1,E01014654,Road Surface Defects,1,1,1.0
+2018-1,E01014655,Gullies,3,3,1.0
+2018-1,E01014655,Road Surface Defects,1,1,1.0
+2018-1,E01014655,Utility Works,1,1,1.0
+2018-1,E01014658,Road Surface Defects,1,1,1.0
+2018-1,E01014660,General Highways Enquiries,1,1,1.0
+2018-1,E01014660,Obstruction,2,2,1.0
+2018-1,E01014661,Road Surface Defects,3,3,1.0
+2018-1,E01014662,Gullies,1,1,1.0
+2018-1,E01014664,Road Surface Defects,1,1,1.0
+2018-1,E01014665,Gullies,1,1,1.0
+2018-1,E01014665,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014665,Road Surface Defects,2,2,1.0
+2018-1,E01014665,Street Signs,1,1,1.0
+2018-1,E01014665,Utility Works,1,1,1.0
+2018-1,E01014666,Gullies,1,1,1.0
+2018-1,E01014667,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014671,Obstruction,1,1,1.0
+2018-1,E01014671,Street Name Plates,1,1,1.0
+2018-1,E01014673,General Highways Enquiries,1,1,1.0
+2018-1,E01014673,Gullies,1,1,1.0
+2018-1,E01014673,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014673,Road Surface Defects,2,1,2.0
+2018-1,E01014674,Gullies,3,1,3.0
+2018-1,E01014675,Gullies,1,1,1.0
+2018-1,E01014675,Street Signs,1,1,1.0
+2018-1,E01014676,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014676,Road Surface Defects,3,3,1.0
+2018-1,E01014676,Street Signs,1,1,1.0
+2018-1,E01014677,General Highways Enquiries,1,1,1.0
+2018-1,E01014677,Obstruction,1,1,1.0
+2018-1,E01014678,Street Furniture,1,1,1.0
+2018-1,E01014679,Obstruction,1,1,1.0
+2018-1,E01014679,Retaining Wall,1,1,1.0
+2018-1,E01014679,Road Surface Defects,1,1,1.0
+2018-1,E01014681,Street Name Plates,1,1,1.0
+2018-1,E01014684,Gullies,1,1,1.0
+2018-1,E01014684,Road Surface Defects,1,1,1.0
+2018-1,E01014685,General Highways Enquiries,1,1,1.0
+2018-1,E01014687,Road Surface Defects,1,1,1.0
+2018-1,E01014690,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014691,Gullies,1,1,1.0
+2018-1,E01014693,Street Signs,1,1,1.0
+2018-1,E01014694,Street Furniture,1,1,1.0
+2018-1,E01014695,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01014695,Road Surface Defects,2,2,1.0
+2018-1,E01014696,Gullies,1,1,1.0
+2018-1,E01014696,Utility Works,1,1,1.0
+2018-1,E01014698,Gullies,5,4,1.25
+2018-1,E01014698,Obstruction,1,1,1.0
+2018-1,E01014698,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014699,Gullies,1,1,1.0
+2018-1,E01014701,Gullies,1,1,1.0
+2018-1,E01014701,Obstruction,2,2,1.0
+2018-1,E01014705,Gullies,1,1,1.0
+2018-1,E01014706,Road Surface Defects,1,1,1.0
+2018-1,E01014708,Gullies,1,1,1.0
+2018-1,E01014709,Obstruction,1,1,1.0
+2018-1,E01014709,Road Surface Defects,11,10,1.1
+2018-1,E01014711,Road Surface Defects,1,1,1.0
+2018-1,E01014711,Utility Works,1,1,1.0
+2018-1,E01014713,Pavement /Footway Defects,2,2,1.0
+2018-1,E01014713,Road Surface Defects,1,1,1.0
+2018-1,E01014714,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014715,Gullies,1,1,1.0
+2018-1,E01014716,Road Surface Defects,2,2,1.0
+2018-1,E01014717,Gullies,1,1,1.0
+2018-1,E01014717,Road Surface Defects,1,1,1.0
+2018-1,E01014718,Utility Works,1,1,1.0
+2018-1,E01014719,Gullies,1,1,1.0
+2018-1,E01014719,Pavement /Footway Defects,2,2,1.0
+2018-1,E01014719,Road Surface Defects,1,1,1.0
+2018-1,E01014720,Gullies,1,1,1.0
+2018-1,E01014723,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014723,Utility Works,1,1,1.0
+2018-1,E01014727,Road Surface Defects,1,1,1.0
+2018-1,E01014729,Gullies,1,1,1.0
+2018-1,E01014729,Road Surface Defects,1,1,1.0
+2018-1,E01014730,General Highways Enquiries,1,1,1.0
+2018-1,E01014730,Obstruction,1,1,1.0
+2018-1,E01014730,Pavement /Footway Defects,1,1,1.0
+2018-1,E01014731,Gullies,1,1,1.0
+2018-1,E01014732,Road Surface Defects,1,1,1.0
+2018-1,E01014734,Obstruction,1,1,1.0
+2018-1,E01014735,Gullies,1,1,1.0
+2018-1,E01014735,Road Surface Defects,1,1,1.0
+2018-1,E01014736,Road Surface Defects,5,4,1.25
+2018-1,E01022178,Potholes,1,1,1.0
+2018-1,E01022846,Fly-tipping,1,1,1.0
+2018-1,E01022847,Abandoned Vehicles,1,1,1.0
+2018-1,E01022847,Other,1,1,1.0
+2018-1,E01022847,Parking,2,2,1.0
+2018-1,E01022847,Pavement /Footway Defects,1,1,1.0
+2018-1,E01022847,Street Lights,1,1,1.0
+2018-1,E01022848,Parking,1,1,1.0
+2018-1,E01022848,Rubbish,1,1,1.0
+2018-1,E01022849,Fly-tipping,1,1,1.0
+2018-1,E01022849,Rubbish,1,1,1.0
+2018-1,E01022850,Highway Condition,1,1,1.0
+2018-1,E01022850,Rubbish,2,2,1.0
+2018-1,E01022851,Abandoned Vehicles,1,1,1.0
+2018-1,E01022851,Parking,1,1,1.0
+2018-1,E01022851,Rubbish,2,2,1.0
+2018-1,E01022852,Other,1,1,1.0
+2018-1,E01022853,Parking,1,1,1.0
+2018-1,E01022854,Abandoned Vehicles,1,1,1.0
+2018-1,E01022854,Parking,1,1,1.0
+2018-1,E01022855,Highway Condition,1,1,1.0
+2018-1,E01022856,Fly-tipping,3,3,1.0
+2018-1,E01022856,Highway Condition,1,1,1.0
+2018-1,E01022856,Other,1,1,1.0
+2018-1,E01022856,Potholes,1,1,1.0
+2018-1,E01022857,Abandoned Vehicles,1,1,1.0
+2018-1,E01022857,Fly-tipping,1,1,1.0
+2018-1,E01022857,Other,1,1,1.0
+2018-1,E01022858,Fly-tipping,2,2,1.0
+2018-1,E01022859,Fly-tipping,1,1,1.0
+2018-1,E01022861,Rubbish,1,1,1.0
+2018-1,E01022863,Potholes,1,1,1.0
+2018-1,E01022864,Potholes,1,1,1.0
+2018-1,E01022864,Rubbish,1,1,1.0
+2018-1,E01022865,Other,1,1,1.0
+2018-1,E01022867,Other,1,1,1.0
+2018-1,E01022868,Pavement /Footway Defects,1,1,1.0
+2018-1,E01022868,Rubbish,1,1,1.0
+2018-1,E01022869,Pavement /Footway Defects,2,1,2.0
+2018-1,E01022870,Pavement /Footway Defects,1,1,1.0
+2018-1,E01022870,Traffic Lights,1,1,1.0
+2018-1,E01022871,Fly-tipping,1,1,1.0
+2018-1,E01022873,Other,1,1,1.0
+2018-1,E01022873,Rubbish,1,1,1.0
+2018-1,E01022874,Other,1,1,1.0
+2018-1,E01022874,Rubbish,1,1,1.0
+2018-1,E01022875,Rubbish,2,2,1.0
+2018-1,E01022876,Other,2,1,2.0
+2018-1,E01022876,Parking,1,1,1.0
+2018-1,E01022877,Other,1,1,1.0
+2018-1,E01022878,Other,1,1,1.0
+2018-1,E01022878,Rubbish,1,1,1.0
+2018-1,E01022879,Fly-tipping,4,4,1.0
+2018-1,E01022879,Highway Condition,1,1,1.0
+2018-1,E01022879,Other,2,1,2.0
+2018-1,E01022879,Rubbish,1,1,1.0
+2018-1,E01022880,Other,1,1,1.0
+2018-1,E01022880,Potholes,1,1,1.0
+2018-1,E01022881,Abandoned Vehicles,1,1,1.0
+2018-1,E01022881,Fly-tipping,2,2,1.0
+2018-1,E01022881,Highway Condition,1,1,1.0
+2018-1,E01022881,Other,1,1,1.0
+2018-1,E01022881,Right of Way,1,1,1.0
+2018-1,E01022882,Dog Fouling,1,1,1.0
+2018-1,E01022882,Fly-tipping,1,1,1.0
+2018-1,E01022882,Potholes,1,1,1.0
+2018-1,E01022884,Rubbish,1,1,1.0
+2018-1,E01022884,Street Lights,2,2,1.0
+2018-1,E01022885,Abandoned Vehicles,1,1,1.0
+2018-1,E01022887,Fly-tipping,1,1,1.0
+2018-1,E01022887,Potholes,1,1,1.0
+2018-1,E01022888,Pavement /Footway Defects,2,2,1.0
+2018-1,E01022888,Right of Way,1,1,1.0
+2018-1,E01022888,Street Lights,2,1,2.0
+2018-1,E01022889,Street Cleaning,1,1,1.0
+2018-1,E01022890,Other,1,1,1.0
+2018-1,E01022890,Potholes,1,1,1.0
+2018-1,E01022891,Other,2,2,1.0
+2018-1,E01022891,Potholes,2,1,2.0
+2018-1,E01022891,Rubbish,2,2,1.0
+2018-1,E01022892,Pavement /Footway Defects,1,1,1.0
+2018-1,E01022892,Potholes,1,1,1.0
+2018-1,E01022893,Highway Condition,1,1,1.0
+2018-1,E01022894,Other,1,1,1.0
+2018-1,E01022894,Street Signs,1,1,1.0
+2018-1,E01022895,Abandoned Vehicles,1,1,1.0
+2018-1,E01022895,Highway Condition,1,1,1.0
+2018-1,E01022895,Other,1,1,1.0
+2018-1,E01022895,Rubbish,1,1,1.0
+2018-1,E01022896,Fly-tipping,1,1,1.0
+2018-1,E01022896,Potholes,1,1,1.0
+2018-1,E01022896,Street Lights,1,1,1.0
+2018-1,E01022897,Abandoned Vehicles,1,1,1.0
+2018-1,E01022897,Highway Condition,1,1,1.0
+2018-1,E01022897,Other,1,1,1.0
+2018-1,E01022897,Parking,1,1,1.0
+2018-1,E01022897,Rubbish,1,1,1.0
+2018-1,E01022898,Potholes,1,1,1.0
+2018-1,E01023442,Abandoned Vehicles,1,1,1.0
+2018-1,E01023446,Fly-tipping,1,1,1.0
+2018-1,E01023450,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023451,Litter/Litter Bin,1,1,1.0
+2018-1,E01023453,Fly-tipping,1,1,1.0
+2018-1,E01023454,Dog Fouling,1,1,1.0
+2018-1,E01023454,Street Cleaning,1,1,1.0
+2018-1,E01023460,Dog Fouling,1,1,1.0
+2018-1,E01023462,Street Cleaning,1,1,1.0
+2018-1,E01023463,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01023463,Fly-tipping,1,1,1.0
+2018-1,E01023463,Other,1,1,1.0
+2018-1,E01023464,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023467,Potholes,1,1,1.0
+2018-1,E01023467,Street Cleaning,1,1,1.0
+2018-1,E01023469,Fly-tipping,1,1,1.0
+2018-1,E01023470,Highway Condition,1,1,1.0
+2018-1,E01023470,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023473,Fly-tipping,1,1,1.0
+2018-1,E01023474,Other,1,1,1.0
+2018-1,E01023477,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023478,Fly-tipping,1,1,1.0
+2018-1,E01023478,Street Lights,1,1,1.0
+2018-1,E01023478,Traffic Lights,2,1,2.0
+2018-1,E01023484,Fly-tipping,1,1,1.0
+2018-1,E01023485,Street Cleaning,1,1,1.0
+2018-1,E01023486,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01023486,Fly-tipping,3,3,1.0
+2018-1,E01023486,Litter/Litter Bin,1,1,1.0
+2018-1,E01023491,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023491,Potholes,1,1,1.0
+2018-1,E01023491,Street Cleaning,1,1,1.0
+2018-1,E01023492,Fly-tipping,3,2,1.5
+2018-1,E01023493,Fly-tipping,1,1,1.0
+2018-1,E01023493,Highway Condition,1,1,1.0
+2018-1,E01023493,Potholes,1,1,1.0
+2018-1,E01023494,Litter/Litter Bin,1,1,1.0
+2018-1,E01023496,Fly-tipping,1,1,1.0
+2018-1,E01023499,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023506,Fly-tipping,1,1,1.0
+2018-1,E01023506,Other,1,1,1.0
+2018-1,E01023508,Fly-tipping,1,1,1.0
+2018-1,E01023510,Street Signs,1,1,1.0
+2018-1,E01023512,Dog Fouling,1,1,1.0
+2018-1,E01023513,Fly-tipping,1,1,1.0
+2018-1,E01023514,Litter/Litter Bin,1,1,1.0
+2018-1,E01023518,Litter/Litter Bin,1,1,1.0
+2018-1,E01023518,Other,1,1,1.0
+2018-1,E01023520,Fly-tipping,1,1,1.0
+2018-1,E01023750,Abandoned Vehicles,1,1,1.0
+2018-1,E01023750,Fly-tipping,5,2,2.5
+2018-1,E01023750,Street Cleaning,3,2,1.5
+2018-1,E01023751,Abandoned Vehicles,1,1,1.0
+2018-1,E01023751,Fly-tipping,5,4,1.25
+2018-1,E01023751,Other,1,1,1.0
+2018-1,E01023751,Pavement /Footway Defects,2,1,2.0
+2018-1,E01023752,Abandoned Vehicles,1,1,1.0
+2018-1,E01023752,Fly-tipping,1,1,1.0
+2018-1,E01023752,Street Cleaning,4,1,4.0
+2018-1,E01023753,Abandoned Vehicles,3,3,1.0
+2018-1,E01023753,Dog Fouling,1,1,1.0
+2018-1,E01023753,Street Cleaning,3,3,1.0
+2018-1,E01023754,Dog Fouling,2,1,2.0
+2018-1,E01023754,Fly-tipping,1,1,1.0
+2018-1,E01023754,Street Cleaning,2,2,1.0
+2018-1,E01023755,Fly-tipping,6,4,1.5
+2018-1,E01023755,Potholes,2,2,1.0
+2018-1,E01023755,Street Cleaning,5,2,2.5
+2018-1,E01023756,Fly-tipping,13,5,2.6
+2018-1,E01023756,Other,1,1,1.0
+2018-1,E01023756,Street Cleaning,2,1,2.0
+2018-1,E01023757,Abandoned Vehicles,1,1,1.0
+2018-1,E01023757,Fly-tipping,8,4,2.0
+2018-1,E01023757,Other,1,1,1.0
+2018-1,E01023757,Potholes,1,1,1.0
+2018-1,E01023757,Street Cleaning,6,2,3.0
+2018-1,E01023758,Discarded Syringes,1,1,1.0
+2018-1,E01023758,Fly-tipping,13,5,2.6
+2018-1,E01023758,Graffiti,1,1,1.0
+2018-1,E01023758,Street Cleaning,5,2,2.5
+2018-1,E01023758,Trees on RoW,1,1,1.0
+2018-1,E01023759,Abandoned Vehicles,2,2,1.0
+2018-1,E01023759,Fly-tipping,8,4,2.0
+2018-1,E01023759,Other,1,1,1.0
+2018-1,E01023759,Street Cleaning,3,2,1.5
+2018-1,E01023760,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023761,Fly-tipping,4,1,4.0
+2018-1,E01023761,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023761,Street Cleaning,6,3,2.0
+2018-1,E01023761,Street Lights,1,1,1.0
+2018-1,E01023762,Abandoned Vehicles,2,2,1.0
+2018-1,E01023762,Fly-tipping,1,1,1.0
+2018-1,E01023762,Other,1,1,1.0
+2018-1,E01023762,Potholes,2,1,2.0
+2018-1,E01023763,Abandoned Vehicles,1,1,1.0
+2018-1,E01023763,Fly-tipping,3,3,1.0
+2018-1,E01023763,Street Cleaning,1,1,1.0
+2018-1,E01023764,Fly-tipping,2,2,1.0
+2018-1,E01023764,Other,2,2,1.0
+2018-1,E01023764,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023764,Street Cleaning,3,2,1.5
+2018-1,E01023765,Dog Fouling,1,1,1.0
+2018-1,E01023765,Fly-tipping,1,1,1.0
+2018-1,E01023765,Other,1,1,1.0
+2018-1,E01023765,Street Cleaning,3,2,1.5
+2018-1,E01023766,Fly-tipping,3,3,1.0
+2018-1,E01023766,Potholes,1,1,1.0
+2018-1,E01023766,Street Cleaning,5,1,5.0
+2018-1,E01023766,Street Lights,1,1,1.0
+2018-1,E01023767,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01023767,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023768,Abandoned Vehicles,2,2,1.0
+2018-1,E01023768,Dead Animals,1,1,1.0
+2018-1,E01023768,Fly-tipping,3,2,1.5
+2018-1,E01023768,Street Cleaning,1,1,1.0
+2018-1,E01023769,Abandoned Vehicles,1,1,1.0
+2018-1,E01023769,Fly-tipping,5,4,1.25
+2018-1,E01023769,Street Cleaning,1,1,1.0
+2018-1,E01023769,Street Lights,1,1,1.0
+2018-1,E01023770,Abandoned Vehicles,3,3,1.0
+2018-1,E01023770,Street Cleaning,1,1,1.0
+2018-1,E01023771,Fly-tipping,2,2,1.0
+2018-1,E01023771,Street Cleaning,6,2,3.0
+2018-1,E01023772,Abandoned Vehicles,2,1,2.0
+2018-1,E01023772,Street Cleaning,1,1,1.0
+2018-1,E01023773,Fly-tipping,1,1,1.0
+2018-1,E01023773,Street Cleaning,1,1,1.0
+2018-1,E01023774,Abandoned Vehicles,2,2,1.0
+2018-1,E01023774,Dog Fouling,1,1,1.0
+2018-1,E01023774,Fly-tipping,6,4,1.5
+2018-1,E01023774,Potholes,1,1,1.0
+2018-1,E01023774,Street Cleaning,3,1,3.0
+2018-1,E01023774,Traffic Lights,1,1,1.0
+2018-1,E01023775,Abandoned Vehicles,1,1,1.0
+2018-1,E01023775,Fly-tipping,5,3,1.6666666666666667
+2018-1,E01023775,Street Cleaning,3,2,1.5
+2018-1,E01023776,Dead Animals,1,1,1.0
+2018-1,E01023776,Fly-tipping,1,1,1.0
+2018-1,E01023776,Other,1,1,1.0
+2018-1,E01023776,Street Cleaning,2,1,2.0
+2018-1,E01023776,Street Lights,1,1,1.0
+2018-1,E01023777,Discarded Syringes,1,1,1.0
+2018-1,E01023777,Street Cleaning,5,2,2.5
+2018-1,E01023778,Abandoned Vehicles,1,1,1.0
+2018-1,E01023778,Fly-tipping,2,1,2.0
+2018-1,E01023778,Other,1,1,1.0
+2018-1,E01023778,Street Cleaning,2,2,1.0
+2018-1,E01023779,Abandoned Vehicles,1,1,1.0
+2018-1,E01023779,Discarded Syringes,1,1,1.0
+2018-1,E01023779,Fly-tipping,9,4,2.25
+2018-1,E01023779,Other,1,1,1.0
+2018-1,E01023779,Street Cleaning,1,1,1.0
+2018-1,E01023780,Abandoned Vehicles,1,1,1.0
+2018-1,E01023780,Fly-tipping,2,2,1.0
+2018-1,E01023780,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023780,Street Cleaning,4,2,2.0
+2018-1,E01023780,Trees on RoW,1,1,1.0
+2018-1,E01023781,Abandoned Vehicles,4,4,1.0
+2018-1,E01023781,Fly-tipping,10,7,1.4285714285714286
+2018-1,E01023781,Other,1,1,1.0
+2018-1,E01023781,Trees on RoW,1,1,1.0
+2018-1,E01023782,Abandoned Vehicles,1,1,1.0
+2018-1,E01023782,Fly-tipping,5,2,2.5
+2018-1,E01023782,Street Cleaning,2,2,1.0
+2018-1,E01023782,Trees on RoW,1,1,1.0
+2018-1,E01023783,Abandoned Vehicles,2,2,1.0
+2018-1,E01023783,Fly-tipping,8,4,2.0
+2018-1,E01023783,Other,1,1,1.0
+2018-1,E01023783,Pavement /Footway Defects,2,1,2.0
+2018-1,E01023783,Street Cleaning,1,1,1.0
+2018-1,E01023784,Abandoned Vehicles,1,1,1.0
+2018-1,E01023784,Fly-tipping,3,1,3.0
+2018-1,E01023784,Other,1,1,1.0
+2018-1,E01023784,Street Cleaning,2,2,1.0
+2018-1,E01023785,Abandoned Vehicles,1,1,1.0
+2018-1,E01023785,Fly-tipping,5,3,1.6666666666666667
+2018-1,E01023785,Other,1,1,1.0
+2018-1,E01023785,Street Cleaning,5,2,2.5
+2018-1,E01023786,Trees on RoW,1,1,1.0
+2018-1,E01023787,Abandoned Vehicles,2,2,1.0
+2018-1,E01023787,Dog Fouling,1,1,1.0
+2018-1,E01023787,Fly-tipping,4,3,1.3333333333333333
+2018-1,E01023787,Other,1,1,1.0
+2018-1,E01023787,Street Cleaning,7,2,3.5
+2018-1,E01023788,Fly-tipping,4,2,2.0
+2018-1,E01023788,Street Cleaning,4,2,2.0
+2018-1,E01023789,Abandoned Vehicles,3,3,1.0
+2018-1,E01023789,Fly-tipping,14,8,1.75
+2018-1,E01023789,Street Cleaning,4,2,2.0
+2018-1,E01023790,Fly-tipping,2,2,1.0
+2018-1,E01023790,Other,1,1,1.0
+2018-1,E01023790,Street Cleaning,5,3,1.6666666666666667
+2018-1,E01023791,Fly-tipping,6,3,2.0
+2018-1,E01023791,Potholes,1,1,1.0
+2018-1,E01023791,Street Cleaning,3,1,3.0
+2018-1,E01023792,Abandoned Vehicles,1,1,1.0
+2018-1,E01023792,Fly-tipping,3,3,1.0
+2018-1,E01023792,Highway Condition,1,1,1.0
+2018-1,E01023792,Other,1,1,1.0
+2018-1,E01023792,Pavement /Footway Defects,1,1,1.0
+2018-1,E01023792,Street Cleaning,2,1,2.0
+2018-1,E01023793,Abandoned Vehicles,3,2,1.5
+2018-1,E01023793,Dog Fouling,3,2,1.5
+2018-1,E01023793,Fly-tipping,4,2,2.0
+2018-1,E01023793,Other,2,2,1.0
+2018-1,E01023793,Street Cleaning,3,1,3.0
+2018-1,E01023794,Dead Animals,1,1,1.0
+2018-1,E01023794,Dog Fouling,1,1,1.0
+2018-1,E01023794,Fly-tipping,3,2,1.5
+2018-1,E01023794,Other,1,1,1.0
+2018-1,E01023794,Street Cleaning,6,2,3.0
+2018-1,E01023795,Abandoned Vehicles,3,3,1.0
+2018-1,E01023795,Fly-tipping,4,3,1.3333333333333333
+2018-1,E01023795,Street Cleaning,1,1,1.0
+2018-1,E01023796,Fly-tipping,5,1,5.0
+2018-1,E01023796,Other,1,1,1.0
+2018-1,E01023796,Street Cleaning,1,1,1.0
+2018-1,E01023797,Fly-tipping,6,3,2.0
+2018-1,E01023797,Other,1,1,1.0
+2018-1,E01023797,Street Lights,1,1,1.0
+2018-1,E01023798,Abandoned Vehicles,3,3,1.0
+2018-1,E01023798,Fly-tipping,8,3,2.6666666666666665
+2018-1,E01023798,Other,1,1,1.0
+2018-1,E01023798,Street Cleaning,1,1,1.0
+2018-1,E01023798,Trees on RoW,1,1,1.0
+2018-1,E01023799,Abandoned Vehicles,1,1,1.0
+2018-1,E01023799,Other,1,1,1.0
+2018-1,E01023799,Street Cleaning,4,2,2.0
+2018-1,E01023800,Fly-tipping,2,2,1.0
+2018-1,E01023800,Street Cleaning,4,2,2.0
+2018-1,E01023801,Abandoned Vehicles,2,2,1.0
+2018-1,E01023801,Dog Fouling,1,1,1.0
+2018-1,E01023801,Fly-tipping,1,1,1.0
+2018-1,E01023801,Street Cleaning,3,2,1.5
+2018-1,E01028422,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028422,Highway Condition,1,1,1.0
+2018-1,E01028422,Potholes,6,6,1.0
+2018-1,E01028422,Street Signs,1,1,1.0
+2018-1,E01028423,Highway Condition,1,1,1.0
+2018-1,E01028423,Other,1,1,1.0
+2018-1,E01028423,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028423,Potholes,5,5,1.0
+2018-1,E01028423,Street Lights,1,1,1.0
+2018-1,E01028424,Blocked Drains,1,1,1.0
+2018-1,E01028424,Highway Condition,1,1,1.0
+2018-1,E01028424,Other,2,2,1.0
+2018-1,E01028424,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028424,Potholes,10,8,1.25
+2018-1,E01028424,Street Signs,2,2,1.0
+2018-1,E01028425,Blocked Drains,2,2,1.0
+2018-1,E01028425,General Highways Enquiries,1,1,1.0
+2018-1,E01028425,Highway Condition,1,1,1.0
+2018-1,E01028425,Potholes,12,8,1.5
+2018-1,E01028425,Street Signs,2,2,1.0
+2018-1,E01028426,Dog Fouling,1,1,1.0
+2018-1,E01028426,Potholes,20,7,2.857142857142857
+2018-1,E01028427,Blocked Drains,1,1,1.0
+2018-1,E01028427,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028427,Potholes,1,1,1.0
+2018-1,E01028428,Potholes,5,2,2.5
+2018-1,E01028429,Blocked Drains,1,1,1.0
+2018-1,E01028429,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028429,Highway Condition,1,1,1.0
+2018-1,E01028429,Potholes,2,2,1.0
+2018-1,E01028429,Street Signs,2,2,1.0
+2018-1,E01028430,Blocked Drains,1,1,1.0
+2018-1,E01028430,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028430,Potholes,6,3,2.0
+2018-1,E01028430,Traffic Lights,1,1,1.0
+2018-1,E01028431,,1,1,1.0
+2018-1,E01028431,Blocked Drains,5,4,1.25
+2018-1,E01028431,Highway Condition,1,1,1.0
+2018-1,E01028431,Other,1,1,1.0
+2018-1,E01028431,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028431,Potholes,18,10,1.8
+2018-1,E01028431,Street Lights,1,1,1.0
+2018-1,E01028432,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028432,Highway Condition,1,1,1.0
+2018-1,E01028432,Other,1,1,1.0
+2018-1,E01028432,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028432,Potholes,18,7,2.5714285714285716
+2018-1,E01028433,Fallen/Dangerous Trees,2,1,2.0
+2018-1,E01028433,Grass/Weed Control,1,1,1.0
+2018-1,E01028433,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028433,Potholes,8,4,2.0
+2018-1,E01028433,Street Lights,2,2,1.0
+2018-1,E01028434,,1,1,1.0
+2018-1,E01028434,Blocked Drains,1,1,1.0
+2018-1,E01028434,Highway Condition,1,1,1.0
+2018-1,E01028434,Other,1,1,1.0
+2018-1,E01028434,Potholes,24,9,2.6666666666666665
+2018-1,E01028434,Street Lights,1,1,1.0
+2018-1,E01028435,Blocked Drains,3,3,1.0
+2018-1,E01028435,Pavement /Footway Defects,7,2,3.5
+2018-1,E01028435,Potholes,3,3,1.0
+2018-1,E01028435,Street Lights,3,3,1.0
+2018-1,E01028435,Street Signs,1,1,1.0
+2018-1,E01028437,Blocked Drains,1,1,1.0
+2018-1,E01028437,Grass/Weed Control,1,1,1.0
+2018-1,E01028437,Potholes,27,7,3.857142857142857
+2018-1,E01028437,Street Signs,1,1,1.0
+2018-1,E01028437,Traffic Lights,1,1,1.0
+2018-1,E01028438,Blocked Drains,1,1,1.0
+2018-1,E01028438,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028438,Fly-tipping,1,1,1.0
+2018-1,E01028438,Highway Condition,1,1,1.0
+2018-1,E01028438,Potholes,2,2,1.0
+2018-1,E01028438,Street Lights,1,1,1.0
+2018-1,E01028438,Street Signs,2,2,1.0
+2018-1,E01028439,Potholes,18,11,1.6363636363636365
+2018-1,E01028439,Street Lights,1,1,1.0
+2018-1,E01028440,Highway Condition,1,1,1.0
+2018-1,E01028440,Potholes,6,3,2.0
+2018-1,E01028440,Traffic Lights,1,1,1.0
+2018-1,E01028441,Potholes,7,2,3.5
+2018-1,E01028441,Street Signs,1,1,1.0
+2018-1,E01028443,Other,1,1,1.0
+2018-1,E01028443,Potholes,4,3,1.3333333333333333
+2018-1,E01028444,Street Signs,1,1,1.0
+2018-1,E01028445,Blocked Drains,1,1,1.0
+2018-1,E01028445,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028445,Potholes,4,4,1.0
+2018-1,E01028445,Street Signs,1,1,1.0
+2018-1,E01028446,,1,1,1.0
+2018-1,E01028446,Blocked Drains,1,1,1.0
+2018-1,E01028446,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028446,Highway Condition,3,3,1.0
+2018-1,E01028446,Other,1,1,1.0
+2018-1,E01028446,Potholes,9,5,1.8
+2018-1,E01028446,Street Signs,1,1,1.0
+2018-1,E01028447,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028447,Potholes,3,2,1.5
+2018-1,E01028448,Highway Condition,1,1,1.0
+2018-1,E01028448,Potholes,1,1,1.0
+2018-1,E01028449,Other,1,1,1.0
+2018-1,E01028449,Potholes,20,8,2.5
+2018-1,E01028449,Street Signs,1,1,1.0
+2018-1,E01028450,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028450,Potholes,3,2,1.5
+2018-1,E01028451,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028451,Grass/Weed Control,2,2,1.0
+2018-1,E01028451,Potholes,3,1,3.0
+2018-1,E01028451,Street Lights,3,1,3.0
+2018-1,E01028452,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028452,Grass/Weed Control,1,1,1.0
+2018-1,E01028452,Potholes,5,3,1.6666666666666667
+2018-1,E01028453,Potholes,3,3,1.0
+2018-1,E01028454,Potholes,5,5,1.0
+2018-1,E01028455,Potholes,18,4,4.5
+2018-1,E01028455,Street Lights,1,1,1.0
+2018-1,E01028456,Blocked Drains,2,2,1.0
+2018-1,E01028456,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028456,Highway Condition,1,1,1.0
+2018-1,E01028456,Other,1,1,1.0
+2018-1,E01028456,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028456,Potholes,11,9,1.2222222222222223
+2018-1,E01028456,Street Lights,2,2,1.0
+2018-1,E01028457,Highway Condition,1,1,1.0
+2018-1,E01028457,Potholes,4,4,1.0
+2018-1,E01028457,Street Lights,1,1,1.0
+2018-1,E01028457,Street Signs,2,1,2.0
+2018-1,E01028458,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028458,Potholes,2,2,1.0
+2018-1,E01028458,Street Lights,1,1,1.0
+2018-1,E01028459,Street Lights,1,1,1.0
+2018-1,E01028459,Street Signs,1,1,1.0
+2018-1,E01028461,Highway Condition,1,1,1.0
+2018-1,E01028461,Other,1,1,1.0
+2018-1,E01028461,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028461,Potholes,1,1,1.0
+2018-1,E01028462,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028462,Potholes,1,1,1.0
+2018-1,E01028462,Street Lights,2,2,1.0
+2018-1,E01028463,Blocked Drains,1,1,1.0
+2018-1,E01028463,Street Lights,1,1,1.0
+2018-1,E01028464,Blocked Drains,1,1,1.0
+2018-1,E01028464,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028464,Highway Condition,1,1,1.0
+2018-1,E01028464,Other,1,1,1.0
+2018-1,E01028464,Potholes,3,3,1.0
+2018-1,E01028464,Street Lights,1,1,1.0
+2018-1,E01028465,Blocked Drains,1,1,1.0
+2018-1,E01028465,Street Lights,1,1,1.0
+2018-1,E01028466,Highway Condition,2,2,1.0
+2018-1,E01028466,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028466,Potholes,18,9,2.0
+2018-1,E01028466,Street Cleaning,1,1,1.0
+2018-1,E01028466,Street Lights,5,4,1.25
+2018-1,E01028467,Blocked Drains,1,1,1.0
+2018-1,E01028467,Other,1,1,1.0
+2018-1,E01028467,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028467,Potholes,11,6,1.8333333333333333
+2018-1,E01028467,Street Lights,3,3,1.0
+2018-1,E01028468,Blocked Drains,1,1,1.0
+2018-1,E01028468,Fallen/Dangerous Trees,3,3,1.0
+2018-1,E01028468,Highway Condition,2,2,1.0
+2018-1,E01028468,Other,2,2,1.0
+2018-1,E01028468,Pavement /Footway Defects,4,3,1.3333333333333333
+2018-1,E01028468,Potholes,15,8,1.875
+2018-1,E01028468,Street Lights,3,3,1.0
+2018-1,E01028468,Street Signs,2,2,1.0
+2018-1,E01028469,Highway Condition,1,1,1.0
+2018-1,E01028469,Other,1,1,1.0
+2018-1,E01028469,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028469,Potholes,10,5,2.0
+2018-1,E01028469,Street Lights,3,3,1.0
+2018-1,E01028469,Street Signs,1,1,1.0
+2018-1,E01028470,Blocked Drains,1,1,1.0
+2018-1,E01028470,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028470,Potholes,2,2,1.0
+2018-1,E01028470,Street Lights,2,2,1.0
+2018-1,E01028470,Street Signs,1,1,1.0
+2018-1,E01028471,Blocked Drains,1,1,1.0
+2018-1,E01028471,Potholes,4,3,1.3333333333333333
+2018-1,E01028471,Street Lights,2,2,1.0
+2018-1,E01028473,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028473,Grass/Weed Control,1,1,1.0
+2018-1,E01028473,Potholes,2,2,1.0
+2018-1,E01028473,Street Lights,3,3,1.0
+2018-1,E01028474,Blocked Drains,6,3,2.0
+2018-1,E01028474,Grass/Weed Control,1,1,1.0
+2018-1,E01028474,Highway Condition,2,2,1.0
+2018-1,E01028474,Potholes,13,6,2.1666666666666665
+2018-1,E01028474,Street Lights,3,3,1.0
+2018-1,E01028475,Blocked Drains,8,3,2.6666666666666665
+2018-1,E01028475,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028475,Graffiti,1,1,1.0
+2018-1,E01028475,Highway Condition,4,3,1.3333333333333333
+2018-1,E01028475,Potholes,14,5,2.8
+2018-1,E01028475,Street Lights,1,1,1.0
+2018-1,E01028475,Street Signs,2,2,1.0
+2018-1,E01028476,Blocked Drains,2,2,1.0
+2018-1,E01028476,Highway Condition,1,1,1.0
+2018-1,E01028476,Other,1,1,1.0
+2018-1,E01028476,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028476,Potholes,9,6,1.5
+2018-1,E01028477,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028477,Fly-tipping,1,1,1.0
+2018-1,E01028477,Other,2,2,1.0
+2018-1,E01028477,Potholes,34,6,5.666666666666667
+2018-1,E01028477,Street Signs,1,1,1.0
+2018-1,E01028477,Traffic Lights,1,1,1.0
+2018-1,E01028479,Blocked Drains,2,2,1.0
+2018-1,E01028479,Highway Condition,3,2,1.5
+2018-1,E01028479,Potholes,10,7,1.4285714285714286
+2018-1,E01028479,Street Lights,2,2,1.0
+2018-1,E01028480,Blocked Drains,1,1,1.0
+2018-1,E01028480,Fallen/Dangerous Trees,3,3,1.0
+2018-1,E01028480,Highway Condition,4,3,1.3333333333333333
+2018-1,E01028480,Potholes,20,9,2.2222222222222223
+2018-1,E01028480,Street Signs,1,1,1.0
+2018-1,E01028481,Pavement /Footway Defects,4,2,2.0
+2018-1,E01028481,Potholes,12,5,2.4
+2018-1,E01028481,Traffic Lights,2,2,1.0
+2018-1,E01028482,Blocked Drains,7,7,1.0
+2018-1,E01028482,Potholes,24,9,2.6666666666666665
+2018-1,E01028482,Traffic Lights,1,1,1.0
+2018-1,E01028483,Abandoned Vehicles,1,1,1.0
+2018-1,E01028483,Other,1,1,1.0
+2018-1,E01028483,Potholes,19,6,3.1666666666666665
+2018-1,E01028484,Blocked Drains,1,1,1.0
+2018-1,E01028484,Potholes,4,4,1.0
+2018-1,E01028484,Street Signs,1,1,1.0
+2018-1,E01028485,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028485,Potholes,1,1,1.0
+2018-1,E01028485,Street Lights,1,1,1.0
+2018-1,E01028485,Street Signs,1,1,1.0
+2018-1,E01028486,Blocked Drains,1,1,1.0
+2018-1,E01028486,Other,2,2,1.0
+2018-1,E01028486,Potholes,57,20,2.85
+2018-1,E01028487,Fly-tipping,1,1,1.0
+2018-1,E01028487,Potholes,2,2,1.0
+2018-1,E01028488,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028488,Highway Condition,1,1,1.0
+2018-1,E01028488,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028488,Potholes,7,5,1.4
+2018-1,E01028488,Street Signs,2,2,1.0
+2018-1,E01028488,Traffic Lights,1,1,1.0
+2018-1,E01028489,Highway Condition,1,1,1.0
+2018-1,E01028489,Other,1,1,1.0
+2018-1,E01028489,Potholes,1,1,1.0
+2018-1,E01028490,Grass/Weed Control,1,1,1.0
+2018-1,E01028490,Potholes,1,1,1.0
+2018-1,E01028491,Blocked Drains,1,1,1.0
+2018-1,E01028491,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028491,Highway Condition,1,1,1.0
+2018-1,E01028491,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028491,Potholes,4,2,2.0
+2018-1,E01028492,,1,1,1.0
+2018-1,E01028492,Highway Condition,1,1,1.0
+2018-1,E01028492,Other,1,1,1.0
+2018-1,E01028492,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028492,Potholes,9,9,1.0
+2018-1,E01028493,Blocked Drains,1,1,1.0
+2018-1,E01028493,Highway Condition,3,3,1.0
+2018-1,E01028493,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028493,Potholes,4,3,1.3333333333333333
+2018-1,E01028493,Street Lights,10,9,1.1111111111111112
+2018-1,E01028494,Potholes,1,1,1.0
+2018-1,E01028494,Street Lights,1,1,1.0
+2018-1,E01028495,Potholes,1,1,1.0
+2018-1,E01028495,Street Lights,2,2,1.0
+2018-1,E01028496,Blocked Drains,1,1,1.0
+2018-1,E01028496,Potholes,1,1,1.0
+2018-1,E01028497,Blocked Drains,1,1,1.0
+2018-1,E01028497,Fallen/Dangerous Trees,3,3,1.0
+2018-1,E01028497,Highway Condition,3,3,1.0
+2018-1,E01028497,Other,2,2,1.0
+2018-1,E01028497,Potholes,3,3,1.0
+2018-1,E01028498,Blocked Drains,2,2,1.0
+2018-1,E01028498,Highway Condition,2,2,1.0
+2018-1,E01028498,Potholes,7,6,1.1666666666666667
+2018-1,E01028498,Street Lights,1,1,1.0
+2018-1,E01028499,Abandoned Vehicles,1,1,1.0
+2018-1,E01028499,Blocked Drains,11,5,2.2
+2018-1,E01028499,Highway Condition,2,1,2.0
+2018-1,E01028499,Other,2,2,1.0
+2018-1,E01028499,Pavement /Footway Defects,5,4,1.25
+2018-1,E01028499,Potholes,22,8,2.75
+2018-1,E01028499,Street Lights,1,1,1.0
+2018-1,E01028499,Street Signs,3,2,1.5
+2018-1,E01028500,Blocked Drains,1,1,1.0
+2018-1,E01028500,Highway Condition,1,1,1.0
+2018-1,E01028500,Potholes,2,2,1.0
+2018-1,E01028500,Street Signs,1,1,1.0
+2018-1,E01028501,Blocked Drains,1,1,1.0
+2018-1,E01028501,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028501,Other,1,1,1.0
+2018-1,E01028501,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028501,Potholes,8,7,1.1428571428571428
+2018-1,E01028502,Blocked Drains,1,1,1.0
+2018-1,E01028502,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028502,Highway Condition,1,1,1.0
+2018-1,E01028502,Potholes,24,14,1.7142857142857142
+2018-1,E01028503,Potholes,14,6,2.3333333333333335
+2018-1,E01028503,Street Signs,1,1,1.0
+2018-1,E01028504,Blocked Drains,2,2,1.0
+2018-1,E01028504,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028504,Fly-tipping,1,1,1.0
+2018-1,E01028504,Highway Condition,1,1,1.0
+2018-1,E01028504,Potholes,38,6,6.333333333333333
+2018-1,E01028505,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01028505,Highway Condition,1,1,1.0
+2018-1,E01028505,Potholes,8,4,2.0
+2018-1,E01028505,Street Name Plates,1,1,1.0
+2018-1,E01028506,Abandoned Vehicles,1,1,1.0
+2018-1,E01028506,Highway Condition,1,1,1.0
+2018-1,E01028506,Other,1,1,1.0
+2018-1,E01028506,Potholes,27,8,3.375
+2018-1,E01028507,Blocked Drains,3,2,1.5
+2018-1,E01028507,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028507,Highway Condition,1,1,1.0
+2018-1,E01028507,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028507,Potholes,7,4,1.75
+2018-1,E01028507,Street Signs,1,1,1.0
+2018-1,E01028508,Blocked Drains,1,1,1.0
+2018-1,E01028508,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028508,Potholes,9,3,3.0
+2018-1,E01028509,Fly-tipping,1,1,1.0
+2018-1,E01028509,Highway Condition,1,1,1.0
+2018-1,E01028509,Potholes,39,7,5.571428571428571
+2018-1,E01028509,Street Lights,1,1,1.0
+2018-1,E01028509,Street Signs,2,2,1.0
+2018-1,E01028510,Highway Condition,2,2,1.0
+2018-1,E01028510,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028510,Potholes,16,1,16.0
+2018-1,E01028510,Street Lights,1,1,1.0
+2018-1,E01028510,Traffic Lights,1,1,1.0
+2018-1,E01028511,Abandoned Vehicles,1,1,1.0
+2018-1,E01028511,Blocked Drains,1,1,1.0
+2018-1,E01028511,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028511,General Highways Enquiries,1,1,1.0
+2018-1,E01028511,Highway Condition,3,3,1.0
+2018-1,E01028511,Other,3,3,1.0
+2018-1,E01028511,Potholes,11,6,1.8333333333333333
+2018-1,E01028511,Rubbish,2,2,1.0
+2018-1,E01028511,Street Lights,2,2,1.0
+2018-1,E01028511,Street Signs,1,1,1.0
+2018-1,E01028512,Abandoned Vehicles,1,1,1.0
+2018-1,E01028512,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028512,Potholes,1,1,1.0
+2018-1,E01028512,Street Lights,2,2,1.0
+2018-1,E01028513,Highway Condition,1,1,1.0
+2018-1,E01028513,Potholes,1,1,1.0
+2018-1,E01028513,Street Signs,1,1,1.0
+2018-1,E01028514,Highway Condition,1,1,1.0
+2018-1,E01028514,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028514,Street Lights,5,5,1.0
+2018-1,E01028514,Street Signs,1,1,1.0
+2018-1,E01028515,Blocked Drains,1,1,1.0
+2018-1,E01028515,Potholes,1,1,1.0
+2018-1,E01028515,Street Lights,2,2,1.0
+2018-1,E01028516,Other,1,1,1.0
+2018-1,E01028516,Street Lights,1,1,1.0
+2018-1,E01028516,Street Signs,1,1,1.0
+2018-1,E01028517,Other,1,1,1.0
+2018-1,E01028518,Highway Condition,1,1,1.0
+2018-1,E01028519,Potholes,1,1,1.0
+2018-1,E01028520,Potholes,1,1,1.0
+2018-1,E01028521,Benches/Bicycle Racks,1,1,1.0
+2018-1,E01028521,Blocked Drains,6,5,1.2
+2018-1,E01028521,Highway Condition,1,1,1.0
+2018-1,E01028521,Manhole Covers,1,1,1.0
+2018-1,E01028521,Pavement /Footway Defects,100,7,14.285714285714286
+2018-1,E01028521,Potholes,31,9,3.4444444444444446
+2018-1,E01028521,Road Surface Defects,1,1,1.0
+2018-1,E01028521,Street Lights,10,4,2.5
+2018-1,E01028521,Street Signs,2,2,1.0
+2018-1,E01028522,Highway Condition,1,1,1.0
+2018-1,E01028522,Other,1,1,1.0
+2018-1,E01028522,Pavement /Footway Defects,6,4,1.5
+2018-1,E01028522,Potholes,1,1,1.0
+2018-1,E01028522,Street Lights,1,1,1.0
+2018-1,E01028522,Street Signs,1,1,1.0
+2018-1,E01028523,Blocked Drains,3,2,1.5
+2018-1,E01028523,General Highways Enquiries,1,1,1.0
+2018-1,E01028523,Potholes,1,1,1.0
+2018-1,E01028524,Street Signs,1,1,1.0
+2018-1,E01028525,General Highways Enquiries,1,1,1.0
+2018-1,E01028525,Road Surface Defects,1,1,1.0
+2018-1,E01028525,Street Signs,1,1,1.0
+2018-1,E01028526,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01028526,General Highways Enquiries,1,1,1.0
+2018-1,E01028526,Highway Condition,1,1,1.0
+2018-1,E01028526,Manhole Covers,1,1,1.0
+2018-1,E01028526,Other,1,1,1.0
+2018-1,E01028526,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028526,Potholes,13,3,4.333333333333333
+2018-1,E01028526,Street Lights,1,1,1.0
+2018-1,E01028527,Potholes,1,1,1.0
+2018-1,E01028527,Street Lights,2,2,1.0
+2018-1,E01028528,Highway Condition,2,2,1.0
+2018-1,E01028528,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028528,Potholes,1,1,1.0
+2018-1,E01028528,Street Signs,1,1,1.0
+2018-1,E01028529,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028529,Road Surface Defects,1,1,1.0
+2018-1,E01028529,Street Lights,1,1,1.0
+2018-1,E01028530,Other,1,1,1.0
+2018-1,E01028530,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028530,Potholes,1,1,1.0
+2018-1,E01028530,Road Surface Defects,3,1,3.0
+2018-1,E01028531,Potholes,1,1,1.0
+2018-1,E01028532,Other,1,1,1.0
+2018-1,E01028532,Potholes,2,2,1.0
+2018-1,E01028533,Blocked Drains,1,1,1.0
+2018-1,E01028533,Potholes,7,4,1.75
+2018-1,E01028533,Street Lights,1,1,1.0
+2018-1,E01028534,Potholes,2,2,1.0
+2018-1,E01028535,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028535,Potholes,5,5,1.0
+2018-1,E01028536,Blocked Drains,2,2,1.0
+2018-1,E01028536,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028536,Grass/Weed Control,1,1,1.0
+2018-1,E01028537,Manhole Covers,1,1,1.0
+2018-1,E01028537,Other,1,1,1.0
+2018-1,E01028537,Pavement /Footway Defects,6,1,6.0
+2018-1,E01028537,Potholes,1,1,1.0
+2018-1,E01028537,Street Lights,1,1,1.0
+2018-1,E01028537,Traffic Lights,2,2,1.0
+2018-1,E01028538,Street Lights,1,1,1.0
+2018-1,E01028539,Highway Condition,1,1,1.0
+2018-1,E01028539,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028539,Potholes,7,2,3.5
+2018-1,E01028539,Street Signs,1,1,1.0
+2018-1,E01028539,Traffic Lights,1,1,1.0
+2018-1,E01028540,Benches/Bicycle Racks,1,1,1.0
+2018-1,E01028540,Bus Stops Damage,1,1,1.0
+2018-1,E01028540,Manhole Covers,1,1,1.0
+2018-1,E01028540,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028540,Potholes,3,2,1.5
+2018-1,E01028540,Street Signs,2,2,1.0
+2018-1,E01028541,Other,1,1,1.0
+2018-1,E01028541,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028542,Blocked Drains,1,1,1.0
+2018-1,E01028542,Highway Condition,1,1,1.0
+2018-1,E01028542,Pavement /Footway Defects,13,2,6.5
+2018-1,E01028543,Abandoned Vehicles,1,1,1.0
+2018-1,E01028545,Blocked Drains,20,2,10.0
+2018-1,E01028545,Other,1,1,1.0
+2018-1,E01028545,Pavement /Footway Defects,5,1,5.0
+2018-1,E01028545,Potholes,2,1,2.0
+2018-1,E01028546,Highway Condition,1,1,1.0
+2018-1,E01028546,Other,3,2,1.5
+2018-1,E01028546,Pavement /Footway Defects,6,2,3.0
+2018-1,E01028546,Potholes,5,4,1.25
+2018-1,E01028546,Street Lights,1,1,1.0
+2018-1,E01028547,Potholes,2,1,2.0
+2018-1,E01028547,Street Lights,1,1,1.0
+2018-1,E01028548,Blocked Drains,1,1,1.0
+2018-1,E01028548,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028548,Grass/Weed Control,1,1,1.0
+2018-1,E01028548,Potholes,3,3,1.0
+2018-1,E01028548,Traffic Lights,1,1,1.0
+2018-1,E01028549,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028549,Potholes,1,1,1.0
+2018-1,E01028550,Blocked Drains,1,1,1.0
+2018-1,E01028550,Potholes,1,1,1.0
+2018-1,E01028550,Street Lights,1,1,1.0
+2018-1,E01028551,Blocked Drains,2,2,1.0
+2018-1,E01028551,Gullies,1,1,1.0
+2018-1,E01028551,Manhole Covers,1,1,1.0
+2018-1,E01028551,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028551,Potholes,1,1,1.0
+2018-1,E01028551,Street Lights,1,1,1.0
+2018-1,E01028552,Graffiti,1,1,1.0
+2018-1,E01028552,Grass/Weed Control,1,1,1.0
+2018-1,E01028552,Street Lights,2,1,2.0
+2018-1,E01028553,Fly-tipping,1,1,1.0
+2018-1,E01028553,Grass/Weed Control,1,1,1.0
+2018-1,E01028553,Potholes,3,2,1.5
+2018-1,E01028553,Street Lights,1,1,1.0
+2018-1,E01028553,Street Signs,1,1,1.0
+2018-1,E01028554,Street Signs,1,1,1.0
+2018-1,E01028555,Bus Stops Damage,1,1,1.0
+2018-1,E01028555,Highway Condition,1,1,1.0
+2018-1,E01028555,Street Cleaning,1,1,1.0
+2018-1,E01028556,Blocked Drains,1,1,1.0
+2018-1,E01028556,General Highways Enquiries,1,1,1.0
+2018-1,E01028556,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028556,Potholes,8,4,2.0
+2018-1,E01028556,Road Surface Defects,1,1,1.0
+2018-1,E01028557,Blocked Drains,3,1,3.0
+2018-1,E01028557,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028557,Highway Condition,1,1,1.0
+2018-1,E01028557,Pavement /Footway Defects,5,3,1.6666666666666667
+2018-1,E01028557,Potholes,4,2,2.0
+2018-1,E01028557,Street Lights,1,1,1.0
+2018-1,E01028557,Street Signs,2,2,1.0
+2018-1,E01028558,Blocked Drains,1,1,1.0
+2018-1,E01028558,Highway Condition,1,1,1.0
+2018-1,E01028558,Pavement /Footway Defects,4,1,4.0
+2018-1,E01028558,Potholes,2,2,1.0
+2018-1,E01028558,Street Lights,1,1,1.0
+2018-1,E01028558,Street Signs,1,1,1.0
+2018-1,E01028559,General Highways Enquiries,1,1,1.0
+2018-1,E01028560,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028560,Fly-tipping,1,1,1.0
+2018-1,E01028560,Highway Condition,1,1,1.0
+2018-1,E01028560,Other,1,1,1.0
+2018-1,E01028560,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028560,Potholes,1,1,1.0
+2018-1,E01028560,Street Lights,1,1,1.0
+2018-1,E01028561,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028561,Potholes,9,4,2.25
+2018-1,E01028561,Street Lights,1,1,1.0
+2018-1,E01028562,Highway Condition,1,1,1.0
+2018-1,E01028562,Other,1,1,1.0
+2018-1,E01028562,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028562,Potholes,6,1,6.0
+2018-1,E01028563,Blocked Drains,1,1,1.0
+2018-1,E01028563,Bus Stops Damage,2,1,2.0
+2018-1,E01028563,Potholes,1,1,1.0
+2018-1,E01028567,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028567,Street Lights,1,1,1.0
+2018-1,E01028568,Potholes,1,1,1.0
+2018-1,E01028571,Potholes,1,1,1.0
+2018-1,E01028571,Street Lights,1,1,1.0
+2018-1,E01028571,Street Signs,1,1,1.0
+2018-1,E01028572,Potholes,5,5,1.0
+2018-1,E01028573,Abandoned Vehicles,1,1,1.0
+2018-1,E01028573,Blocked Drains,1,1,1.0
+2018-1,E01028573,Potholes,2,2,1.0
+2018-1,E01028573,Street Name Plates,1,1,1.0
+2018-1,E01028574,Blocked Drains,1,1,1.0
+2018-1,E01028574,Manhole Covers,3,1,3.0
+2018-1,E01028574,Potholes,3,3,1.0
+2018-1,E01028575,Blocked Drains,4,2,2.0
+2018-1,E01028575,Other,1,1,1.0
+2018-1,E01028575,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028575,Potholes,1,1,1.0
+2018-1,E01028576,Traffic Lights,1,1,1.0
+2018-1,E01028577,Street Lights,1,1,1.0
+2018-1,E01028578,Pavement /Footway Defects,5,2,2.5
+2018-1,E01028579,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028579,Potholes,3,3,1.0
+2018-1,E01028580,Grass/Weed Control,1,1,1.0
+2018-1,E01028580,Pavement /Footway Defects,8,2,4.0
+2018-1,E01028580,Street Signs,1,1,1.0
+2018-1,E01028581,Pavement /Footway Defects,7,1,7.0
+2018-1,E01028581,Street Signs,1,1,1.0
+2018-1,E01028582,Blocked Drains,1,1,1.0
+2018-1,E01028582,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028582,Potholes,2,2,1.0
+2018-1,E01028582,Street Lights,1,1,1.0
+2018-1,E01028583,Bus Stops Damage,2,1,2.0
+2018-1,E01028583,Manhole Covers,1,1,1.0
+2018-1,E01028583,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028583,Potholes,3,2,1.5
+2018-1,E01028583,Street Lights,1,1,1.0
+2018-1,E01028583,Street Signs,2,1,2.0
+2018-1,E01028584,Potholes,1,1,1.0
+2018-1,E01028585,Blocked Drains,1,1,1.0
+2018-1,E01028585,Pavement /Footway Defects,3,2,1.5
+2018-1,E01028585,Potholes,3,1,3.0
+2018-1,E01028585,Street Signs,2,2,1.0
+2018-1,E01028586,Blocked Drains,7,1,7.0
+2018-1,E01028586,Manhole Covers,1,1,1.0
+2018-1,E01028586,Pavement /Footway Defects,6,1,6.0
+2018-1,E01028586,Potholes,1,1,1.0
+2018-1,E01028587,Pavement /Footway Defects,3,2,1.5
+2018-1,E01028587,Street Lights,2,2,1.0
+2018-1,E01028587,Street Signs,1,1,1.0
+2018-1,E01028588,Blocked Drains,1,1,1.0
+2018-1,E01028588,Other,1,1,1.0
+2018-1,E01028588,Pavement /Footway Defects,11,1,11.0
+2018-1,E01028588,Potholes,6,3,2.0
+2018-1,E01028588,Street Lights,2,1,2.0
+2018-1,E01028588,Street Signs,1,1,1.0
+2018-1,E01028591,Blocked Drains,1,1,1.0
+2018-1,E01028591,Other,1,1,1.0
+2018-1,E01028591,Potholes,2,2,1.0
+2018-1,E01028591,Street Signs,1,1,1.0
+2018-1,E01028592,Highway Condition,1,1,1.0
+2018-1,E01028592,Other,1,1,1.0
+2018-1,E01028592,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028592,Potholes,5,2,2.5
+2018-1,E01028594,Potholes,6,5,1.2
+2018-1,E01028594,Street Lights,1,1,1.0
+2018-1,E01028595,Potholes,2,2,1.0
+2018-1,E01028595,Street Lights,1,1,1.0
+2018-1,E01028595,Street Signs,1,1,1.0
+2018-1,E01028596,Other,1,1,1.0
+2018-1,E01028596,Potholes,7,7,1.0
+2018-1,E01028598,Blocked Drains,1,1,1.0
+2018-1,E01028598,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01028598,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028598,Highway Condition,1,1,1.0
+2018-1,E01028598,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028598,Potholes,14,9,1.5555555555555556
+2018-1,E01028598,Street Signs,4,3,1.3333333333333333
+2018-1,E01028599,Blocked Drains,2,1,2.0
+2018-1,E01028599,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028599,Highway Condition,1,1,1.0
+2018-1,E01028599,Other,1,1,1.0
+2018-1,E01028599,Pavement /Footway Defects,7,2,3.5
+2018-1,E01028599,Potholes,15,6,2.5
+2018-1,E01028599,Street Lights,1,1,1.0
+2018-1,E01028599,Street Signs,2,2,1.0
+2018-1,E01028600,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028600,Potholes,18,7,2.5714285714285716
+2018-1,E01028601,,1,1,1.0
+2018-1,E01028601,Blocked Drains,1,1,1.0
+2018-1,E01028601,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028601,Highway Condition,1,1,1.0
+2018-1,E01028601,Potholes,31,7,4.428571428571429
+2018-1,E01028602,Street Signs,1,1,1.0
+2018-1,E01028603,Blocked Drains,1,1,1.0
+2018-1,E01028603,Fallen/Dangerous Trees,3,3,1.0
+2018-1,E01028603,Grass/Weed Control,1,1,1.0
+2018-1,E01028603,Highway Condition,1,1,1.0
+2018-1,E01028603,Other,1,1,1.0
+2018-1,E01028603,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028603,Potholes,36,5,7.2
+2018-1,E01028603,Street Cleaning,1,1,1.0
+2018-1,E01028604,Blocked Drains,1,1,1.0
+2018-1,E01028604,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028604,Potholes,11,1,11.0
+2018-1,E01028605,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028605,Highway Condition,1,1,1.0
+2018-1,E01028605,Pavement /Footway Defects,3,2,1.5
+2018-1,E01028605,Potholes,24,2,12.0
+2018-1,E01028605,Street Name Plates,1,1,1.0
+2018-1,E01028606,Blocked Drains,1,1,1.0
+2018-1,E01028606,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028606,Potholes,85,2,42.5
+2018-1,E01028607,Blocked Drains,1,1,1.0
+2018-1,E01028607,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028607,Highway Condition,2,2,1.0
+2018-1,E01028607,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028607,Potholes,4,2,2.0
+2018-1,E01028607,Street Lights,1,1,1.0
+2018-1,E01028608,Blocked Drains,3,1,3.0
+2018-1,E01028608,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028608,Highway Condition,1,1,1.0
+2018-1,E01028608,Potholes,1,1,1.0
+2018-1,E01028608,Street Lights,1,1,1.0
+2018-1,E01028608,Street Signs,1,1,1.0
+2018-1,E01028609,Potholes,3,1,3.0
+2018-1,E01028609,Street Cleaning,1,1,1.0
+2018-1,E01028610,Blocked Drains,2,2,1.0
+2018-1,E01028610,Other,2,2,1.0
+2018-1,E01028610,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028610,Potholes,2,2,1.0
+2018-1,E01028611,Blocked Drains,3,2,1.5
+2018-1,E01028611,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028611,Other,1,1,1.0
+2018-1,E01028611,Potholes,10,2,5.0
+2018-1,E01028611,Street Signs,2,1,2.0
+2018-1,E01028612,Blocked Drains,3,3,1.0
+2018-1,E01028612,Fallen/Dangerous Trees,4,4,1.0
+2018-1,E01028612,Potholes,10,8,1.25
+2018-1,E01028613,Blocked Drains,1,1,1.0
+2018-1,E01028613,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028613,Highway Condition,2,1,2.0
+2018-1,E01028613,Other,1,1,1.0
+2018-1,E01028613,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028613,Potholes,6,4,1.5
+2018-1,E01028614,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028614,Highway Condition,6,5,1.2
+2018-1,E01028614,Potholes,13,3,4.333333333333333
+2018-1,E01028614,Street Lights,1,1,1.0
+2018-1,E01028615,Bridge/Culvert Defects,2,2,1.0
+2018-1,E01028615,Potholes,7,5,1.4
+2018-1,E01028615,Street Lights,1,1,1.0
+2018-1,E01028616,Abandoned Vehicles,1,1,1.0
+2018-1,E01028616,Blocked Drains,1,1,1.0
+2018-1,E01028616,Grass/Weed Control,1,1,1.0
+2018-1,E01028616,Other,1,1,1.0
+2018-1,E01028616,Potholes,21,4,5.25
+2018-1,E01028616,Street Signs,2,2,1.0
+2018-1,E01028617,Blocked Drains,2,1,2.0
+2018-1,E01028617,Grass/Weed Control,1,1,1.0
+2018-1,E01028617,Highway Condition,1,1,1.0
+2018-1,E01028617,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028617,Potholes,10,8,1.25
+2018-1,E01028617,Street Lights,2,2,1.0
+2018-1,E01028617,Street Signs,1,1,1.0
+2018-1,E01028618,Blocked Drains,1,1,1.0
+2018-1,E01028618,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028618,Other,1,1,1.0
+2018-1,E01028618,Pavement /Footway Defects,10,1,10.0
+2018-1,E01028618,Potholes,15,5,3.0
+2018-1,E01028618,Street Lights,2,2,1.0
+2018-1,E01028618,Street Signs,1,1,1.0
+2018-1,E01028619,Potholes,3,2,1.5
+2018-1,E01028619,Street Lights,1,1,1.0
+2018-1,E01028620,Blocked Drains,9,5,1.8
+2018-1,E01028620,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028620,Grass/Weed Control,1,1,1.0
+2018-1,E01028620,Highway Condition,2,2,1.0
+2018-1,E01028620,Other,1,1,1.0
+2018-1,E01028620,Pavement /Footway Defects,8,1,8.0
+2018-1,E01028620,Potholes,22,9,2.4444444444444446
+2018-1,E01028621,Highway Condition,1,1,1.0
+2018-1,E01028621,Potholes,2,2,1.0
+2018-1,E01028621,Street Lights,4,3,1.3333333333333333
+2018-1,E01028621,Street Signs,1,1,1.0
+2018-1,E01028622,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028622,Potholes,2,2,1.0
+2018-1,E01028623,Blocked Drains,6,2,3.0
+2018-1,E01028623,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028623,Highway Condition,2,2,1.0
+2018-1,E01028623,Other,1,1,1.0
+2018-1,E01028623,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028623,Potholes,2,2,1.0
+2018-1,E01028623,Street Cleaning,1,1,1.0
+2018-1,E01028624,Blocked Drains,1,1,1.0
+2018-1,E01028624,Other,1,1,1.0
+2018-1,E01028624,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028624,Potholes,6,1,6.0
+2018-1,E01028624,Street Cleaning,1,1,1.0
+2018-1,E01028624,Street Lights,2,2,1.0
+2018-1,E01028625,Abandoned Vehicles,1,1,1.0
+2018-1,E01028625,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028625,Highway Condition,3,3,1.0
+2018-1,E01028625,Other,1,1,1.0
+2018-1,E01028625,Potholes,1,1,1.0
+2018-1,E01028625,Street Lights,3,3,1.0
+2018-1,E01028626,Street Lights,1,1,1.0
+2018-1,E01028627,Potholes,3,3,1.0
+2018-1,E01028628,Potholes,3,3,1.0
+2018-1,E01028628,Street Signs,1,1,1.0
+2018-1,E01028628,Traffic Lights,1,1,1.0
+2018-1,E01028629,Highway Condition,1,1,1.0
+2018-1,E01028629,Potholes,3,3,1.0
+2018-1,E01028630,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028630,Other,1,1,1.0
+2018-1,E01028630,Potholes,1,1,1.0
+2018-1,E01028630,Street Lights,1,1,1.0
+2018-1,E01028631,Blocked Drains,2,1,2.0
+2018-1,E01028631,Potholes,5,1,5.0
+2018-1,E01028631,Street Lights,1,1,1.0
+2018-1,E01028632,Blocked Drains,1,1,1.0
+2018-1,E01028632,Street Signs,1,1,1.0
+2018-1,E01028633,Blocked Drains,1,1,1.0
+2018-1,E01028633,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028633,Potholes,9,4,2.25
+2018-1,E01028633,Street Lights,2,2,1.0
+2018-1,E01028634,Blocked Drains,1,1,1.0
+2018-1,E01028634,Potholes,10,3,3.3333333333333335
+2018-1,E01028635,Potholes,1,1,1.0
+2018-1,E01028635,Street Cleaning,1,1,1.0
+2018-1,E01028635,Street Lights,3,3,1.0
+2018-1,E01028636,Abandoned Vehicles,1,1,1.0
+2018-1,E01028636,Blocked Drains,3,2,1.5
+2018-1,E01028636,Grass/Weed Control,1,1,1.0
+2018-1,E01028636,Street Signs,1,1,1.0
+2018-1,E01028637,Blocked Drains,1,1,1.0
+2018-1,E01028637,Fallen/Dangerous Trees,2,1,2.0
+2018-1,E01028637,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028637,Potholes,2,1,2.0
+2018-1,E01028637,Street Lights,3,2,1.5
+2018-1,E01028638,Blocked Drains,3,2,1.5
+2018-1,E01028638,Highway Condition,1,1,1.0
+2018-1,E01028638,Potholes,33,7,4.714285714285714
+2018-1,E01028638,Street Signs,4,4,1.0
+2018-1,E01028639,Blocked Drains,1,1,1.0
+2018-1,E01028639,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028639,Fly-tipping,1,1,1.0
+2018-1,E01028639,Grass/Weed Control,1,1,1.0
+2018-1,E01028639,Potholes,16,5,3.2
+2018-1,E01028640,Blocked Drains,1,1,1.0
+2018-1,E01028640,Potholes,8,1,8.0
+2018-1,E01028640,Street Lights,1,1,1.0
+2018-1,E01028641,Blocked Drains,5,4,1.25
+2018-1,E01028641,Potholes,27,3,9.0
+2018-1,E01028641,Street Signs,1,1,1.0
+2018-1,E01028642,Other,1,1,1.0
+2018-1,E01028642,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028642,Potholes,5,3,1.6666666666666667
+2018-1,E01028643,Blocked Drains,4,4,1.0
+2018-1,E01028643,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028643,Potholes,12,9,1.3333333333333333
+2018-1,E01028644,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028644,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028644,Potholes,2,2,1.0
+2018-1,E01028644,Street Signs,1,1,1.0
+2018-1,E01028645,Blocked Drains,1,1,1.0
+2018-1,E01028645,Potholes,3,3,1.0
+2018-1,E01028646,,1,1,1.0
+2018-1,E01028646,Fly-tipping,1,1,1.0
+2018-1,E01028646,Highway Condition,1,1,1.0
+2018-1,E01028646,Potholes,16,4,4.0
+2018-1,E01028647,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01028647,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028647,Potholes,41,7,5.857142857142857
+2018-1,E01028647,Street Lights,1,1,1.0
+2018-1,E01028647,Street Signs,2,2,1.0
+2018-1,E01028648,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028648,Highway Condition,1,1,1.0
+2018-1,E01028648,Other,1,1,1.0
+2018-1,E01028648,Potholes,10,6,1.6666666666666667
+2018-1,E01028648,Street Lights,2,2,1.0
+2018-1,E01028649,Blocked Drains,1,1,1.0
+2018-1,E01028649,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028649,Highway Condition,1,1,1.0
+2018-1,E01028649,Potholes,7,7,1.0
+2018-1,E01028649,Street Signs,1,1,1.0
+2018-1,E01028650,Blocked Drains,16,2,8.0
+2018-1,E01028650,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028650,Highway Condition,1,1,1.0
+2018-1,E01028650,Pavement /Footway Defects,12,3,4.0
+2018-1,E01028650,Potholes,15,1,15.0
+2018-1,E01028651,Blocked Drains,1,1,1.0
+2018-1,E01028651,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028651,Potholes,23,3,7.666666666666667
+2018-1,E01028651,Street Cleaning,1,1,1.0
+2018-1,E01028652,Blocked Drains,12,2,6.0
+2018-1,E01028652,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028652,Highway Condition,1,1,1.0
+2018-1,E01028652,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028652,Potholes,12,3,4.0
+2018-1,E01028653,Blocked Drains,2,2,1.0
+2018-1,E01028653,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028653,Other,2,2,1.0
+2018-1,E01028653,Potholes,5,2,2.5
+2018-1,E01028653,Street Cleaning,1,1,1.0
+2018-1,E01028653,Street Lights,1,1,1.0
+2018-1,E01028653,Street Signs,1,1,1.0
+2018-1,E01028654,Blocked Drains,1,1,1.0
+2018-1,E01028654,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028654,Potholes,3,3,1.0
+2018-1,E01028654,Street Lights,1,1,1.0
+2018-1,E01028655,Blocked Drains,1,1,1.0
+2018-1,E01028655,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028655,Potholes,8,2,4.0
+2018-1,E01028655,Street Signs,1,1,1.0
+2018-1,E01028656,Blocked Drains,2,1,2.0
+2018-1,E01028656,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028656,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028656,Street Lights,1,1,1.0
+2018-1,E01028657,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028657,Potholes,17,2,8.5
+2018-1,E01028657,Street Lights,1,1,1.0
+2018-1,E01028658,Other,2,2,1.0
+2018-1,E01028658,Potholes,2,1,2.0
+2018-1,E01028658,Street Signs,1,1,1.0
+2018-1,E01028658,Traffic Lights,1,1,1.0
+2018-1,E01028659,Blocked Drains,3,1,3.0
+2018-1,E01028659,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028659,Potholes,5,5,1.0
+2018-1,E01028659,Street Signs,7,3,2.3333333333333335
+2018-1,E01028660,Blocked Drains,4,4,1.0
+2018-1,E01028660,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028660,Grass/Weed Control,1,1,1.0
+2018-1,E01028660,Other,2,2,1.0
+2018-1,E01028660,Potholes,11,5,2.2
+2018-1,E01028660,Street Cleaning,1,1,1.0
+2018-1,E01028661,Blocked Drains,1,1,1.0
+2018-1,E01028661,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028661,Grass/Weed Control,1,1,1.0
+2018-1,E01028661,Highway Condition,1,1,1.0
+2018-1,E01028661,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028661,Potholes,7,7,1.0
+2018-1,E01028661,Street Signs,2,1,2.0
+2018-1,E01028662,Blocked Drains,4,4,1.0
+2018-1,E01028662,Potholes,4,3,1.3333333333333333
+2018-1,E01028663,Blocked Drains,7,4,1.75
+2018-1,E01028663,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028663,Other,1,1,1.0
+2018-1,E01028663,Potholes,6,5,1.2
+2018-1,E01028664,Blocked Drains,9,1,9.0
+2018-1,E01028664,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028664,Highway Condition,2,2,1.0
+2018-1,E01028664,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028664,Potholes,7,4,1.75
+2018-1,E01028665,Street Lights,1,1,1.0
+2018-1,E01028666,Blocked Drains,2,2,1.0
+2018-1,E01028666,Potholes,4,3,1.3333333333333333
+2018-1,E01028666,Street Lights,1,1,1.0
+2018-1,E01028667,Highway Condition,1,1,1.0
+2018-1,E01028667,Potholes,3,3,1.0
+2018-1,E01028667,Street Lights,1,1,1.0
+2018-1,E01028668,Highway Condition,1,1,1.0
+2018-1,E01028668,Other,1,1,1.0
+2018-1,E01028668,Potholes,2,2,1.0
+2018-1,E01028669,Blocked Drains,2,1,2.0
+2018-1,E01028669,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028669,Potholes,2,1,2.0
+2018-1,E01028669,Street Signs,2,2,1.0
+2018-1,E01028670,Blocked Drains,3,2,1.5
+2018-1,E01028670,Grass/Weed Control,1,1,1.0
+2018-1,E01028670,Potholes,4,2,2.0
+2018-1,E01028670,Street Lights,1,1,1.0
+2018-1,E01028671,Blocked Drains,6,5,1.2
+2018-1,E01028671,Fly-tipping,1,1,1.0
+2018-1,E01028671,Highway Condition,1,1,1.0
+2018-1,E01028671,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028671,Potholes,13,1,13.0
+2018-1,E01028671,Street Lights,1,1,1.0
+2018-1,E01028672,Blocked Drains,6,5,1.2
+2018-1,E01028672,Other,1,1,1.0
+2018-1,E01028672,Potholes,19,8,2.375
+2018-1,E01028672,Street Lights,2,2,1.0
+2018-1,E01028672,Street Signs,1,1,1.0
+2018-1,E01028673,Blocked Drains,1,1,1.0
+2018-1,E01028673,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028673,Potholes,11,2,5.5
+2018-1,E01028674,Potholes,1,1,1.0
+2018-1,E01028675,Potholes,9,4,2.25
+2018-1,E01028676,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028676,Grass/Weed Control,1,1,1.0
+2018-1,E01028676,Potholes,10,5,2.0
+2018-1,E01028677,Highway Condition,1,1,1.0
+2018-1,E01028677,Pavement /Footway Defects,12,2,6.0
+2018-1,E01028677,Potholes,4,3,1.3333333333333333
+2018-1,E01028677,Street Lights,1,1,1.0
+2018-1,E01028677,Street Signs,1,1,1.0
+2018-1,E01028678,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028678,Highway Condition,2,2,1.0
+2018-1,E01028678,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028678,Potholes,53,10,5.3
+2018-1,E01028678,Traffic Lights,1,1,1.0
+2018-1,E01028679,Blocked Drains,3,3,1.0
+2018-1,E01028679,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028679,Other,2,2,1.0
+2018-1,E01028679,Potholes,20,6,3.3333333333333335
+2018-1,E01028679,Street Lights,1,1,1.0
+2018-1,E01028680,Blocked Drains,5,3,1.6666666666666667
+2018-1,E01028680,Highway Condition,1,1,1.0
+2018-1,E01028680,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028680,Potholes,24,6,4.0
+2018-1,E01028680,Street Lights,1,1,1.0
+2018-1,E01028680,Street Signs,2,2,1.0
+2018-1,E01028681,Blocked Drains,2,1,2.0
+2018-1,E01028681,Highway Condition,1,1,1.0
+2018-1,E01028681,Potholes,5,4,1.25
+2018-1,E01028681,Street Lights,2,2,1.0
+2018-1,E01028682,Highway Condition,1,1,1.0
+2018-1,E01028682,Potholes,7,2,3.5
+2018-1,E01028682,Street Signs,1,1,1.0
+2018-1,E01028683,Blocked Drains,3,3,1.0
+2018-1,E01028683,Highway Condition,1,1,1.0
+2018-1,E01028683,Potholes,4,2,2.0
+2018-1,E01028683,Street Cleaning,1,1,1.0
+2018-1,E01028684,Blocked Drains,7,1,7.0
+2018-1,E01028684,Fallen/Dangerous Trees,2,1,2.0
+2018-1,E01028684,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028684,Potholes,11,2,5.5
+2018-1,E01028684,Street Signs,1,1,1.0
+2018-1,E01028685,Blocked Drains,2,2,1.0
+2018-1,E01028685,Potholes,1,1,1.0
+2018-1,E01028686,Blocked Drains,4,4,1.0
+2018-1,E01028686,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028686,Other,2,2,1.0
+2018-1,E01028686,Potholes,1,1,1.0
+2018-1,E01028686,Rubbish,1,1,1.0
+2018-1,E01028686,Street Lights,1,1,1.0
+2018-1,E01028686,Street Signs,2,2,1.0
+2018-1,E01028688,Street Lights,2,2,1.0
+2018-1,E01028688,Street Signs,1,1,1.0
+2018-1,E01028689,Highway Condition,1,1,1.0
+2018-1,E01028689,Street Lights,2,1,2.0
+2018-1,E01028690,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028690,Highway Condition,1,1,1.0
+2018-1,E01028690,Street Lights,1,1,1.0
+2018-1,E01028690,Street Signs,1,1,1.0
+2018-1,E01028691,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028691,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028692,Fly-tipping,1,1,1.0
+2018-1,E01028692,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028692,Street Lights,2,2,1.0
+2018-1,E01028693,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028693,Potholes,1,1,1.0
+2018-1,E01028693,Street Lights,2,2,1.0
+2018-1,E01028694,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028695,Street Lights,2,2,1.0
+2018-1,E01028696,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028696,Potholes,2,2,1.0
+2018-1,E01028696,Street Lights,1,1,1.0
+2018-1,E01028696,Traffic Lights,1,1,1.0
+2018-1,E01028697,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028697,Potholes,1,1,1.0
+2018-1,E01028697,Street Signs,1,1,1.0
+2018-1,E01028698,Highway Condition,1,1,1.0
+2018-1,E01028698,Other,1,1,1.0
+2018-1,E01028698,Street Lights,2,2,1.0
+2018-1,E01028699,,1,1,1.0
+2018-1,E01028699,Blocked Drains,2,2,1.0
+2018-1,E01028699,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028699,Other,1,1,1.0
+2018-1,E01028699,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028699,Potholes,4,3,1.3333333333333333
+2018-1,E01028700,Potholes,6,2,3.0
+2018-1,E01028700,Street Lights,2,1,2.0
+2018-1,E01028701,Highway Condition,1,1,1.0
+2018-1,E01028701,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028701,Street Lights,1,1,1.0
+2018-1,E01028702,Blocked Drains,2,2,1.0
+2018-1,E01028702,Street Signs,1,1,1.0
+2018-1,E01028702,Traffic Lights,1,1,1.0
+2018-1,E01028703,Highway Condition,1,1,1.0
+2018-1,E01028703,Potholes,1,1,1.0
+2018-1,E01028704,Highway Condition,1,1,1.0
+2018-1,E01028704,Street Lights,3,3,1.0
+2018-1,E01028705,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028705,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028706,Highway Condition,1,1,1.0
+2018-1,E01028706,Potholes,1,1,1.0
+2018-1,E01028706,Street Lights,4,4,1.0
+2018-1,E01028707,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028707,Street Lights,3,3,1.0
+2018-1,E01028708,Blocked Drains,1,1,1.0
+2018-1,E01028708,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028708,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028708,Potholes,7,5,1.4
+2018-1,E01028708,Street Lights,1,1,1.0
+2018-1,E01028709,Blocked Drains,3,3,1.0
+2018-1,E01028709,Potholes,2,1,2.0
+2018-1,E01028709,Street Lights,2,2,1.0
+2018-1,E01028710,Blocked Drains,2,1,2.0
+2018-1,E01028710,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028710,Potholes,21,3,7.0
+2018-1,E01028711,Highway Condition,2,2,1.0
+2018-1,E01028711,Other,1,1,1.0
+2018-1,E01028711,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028711,Potholes,14,2,7.0
+2018-1,E01028712,Blocked Drains,2,2,1.0
+2018-1,E01028712,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028712,Other,5,5,1.0
+2018-1,E01028712,Potholes,21,12,1.75
+2018-1,E01028713,Blocked Drains,1,1,1.0
+2018-1,E01028713,Highway Condition,3,2,1.5
+2018-1,E01028713,Potholes,38,12,3.1666666666666665
+2018-1,E01028713,Street Signs,2,2,1.0
+2018-1,E01028714,Blocked Drains,3,3,1.0
+2018-1,E01028714,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028714,Potholes,12,2,6.0
+2018-1,E01028714,Street Cleaning,1,1,1.0
+2018-1,E01028714,Street Lights,2,2,1.0
+2018-1,E01028715,Blocked Drains,5,4,1.25
+2018-1,E01028715,Highway Condition,3,3,1.0
+2018-1,E01028715,Potholes,6,4,1.5
+2018-1,E01028715,Street Lights,2,2,1.0
+2018-1,E01028715,Street Signs,1,1,1.0
+2018-1,E01028716,Other,2,2,1.0
+2018-1,E01028716,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028716,Potholes,3,3,1.0
+2018-1,E01028716,Street Lights,2,2,1.0
+2018-1,E01028717,Blocked Drains,1,1,1.0
+2018-1,E01028717,Potholes,6,5,1.2
+2018-1,E01028717,Street Lights,1,1,1.0
+2018-1,E01028717,Street Signs,1,1,1.0
+2018-1,E01028718,Highway Condition,2,2,1.0
+2018-1,E01028718,Other,1,1,1.0
+2018-1,E01028718,Rubbish,1,1,1.0
+2018-1,E01028718,Street Lights,2,2,1.0
+2018-1,E01028719,Potholes,2,2,1.0
+2018-1,E01028719,Street Lights,3,1,3.0
+2018-1,E01028720,,1,1,1.0
+2018-1,E01028720,Blocked Drains,4,4,1.0
+2018-1,E01028720,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028720,Potholes,15,9,1.6666666666666667
+2018-1,E01028720,Street Lights,2,2,1.0
+2018-1,E01028720,Street Signs,2,2,1.0
+2018-1,E01028721,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028721,Highway Condition,1,1,1.0
+2018-1,E01028722,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028722,Highway Condition,1,1,1.0
+2018-1,E01028722,Other,1,1,1.0
+2018-1,E01028722,Potholes,3,3,1.0
+2018-1,E01028722,Street Lights,1,1,1.0
+2018-1,E01028723,Potholes,9,3,3.0
+2018-1,E01028723,Street Lights,2,2,1.0
+2018-1,E01028724,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028724,Potholes,19,4,4.75
+2018-1,E01028725,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028725,Highway Condition,1,1,1.0
+2018-1,E01028725,Other,1,1,1.0
+2018-1,E01028725,Potholes,5,3,1.6666666666666667
+2018-1,E01028725,Street Lights,1,1,1.0
+2018-1,E01028726,Blocked Drains,2,2,1.0
+2018-1,E01028726,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01028726,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028726,Other,1,1,1.0
+2018-1,E01028726,Potholes,7,6,1.1666666666666667
+2018-1,E01028727,Blocked Drains,2,2,1.0
+2018-1,E01028727,Fallen/Dangerous Trees,4,4,1.0
+2018-1,E01028727,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028727,Potholes,38,15,2.533333333333333
+2018-1,E01028727,Street Lights,2,2,1.0
+2018-1,E01028727,Street Signs,1,1,1.0
+2018-1,E01028728,Blocked Drains,2,2,1.0
+2018-1,E01028728,General Highways Enquiries,1,1,1.0
+2018-1,E01028728,Highway Condition,1,1,1.0
+2018-1,E01028728,Potholes,6,6,1.0
+2018-1,E01028728,Street Lights,3,3,1.0
+2018-1,E01028728,Street Signs,1,1,1.0
+2018-1,E01028729,Other,1,1,1.0
+2018-1,E01028729,Potholes,5,1,5.0
+2018-1,E01028730,Blocked Drains,2,2,1.0
+2018-1,E01028730,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028730,Highway Condition,1,1,1.0
+2018-1,E01028730,Potholes,14,7,2.0
+2018-1,E01028730,Traffic Lights,1,1,1.0
+2018-1,E01028731,Blocked Drains,4,2,2.0
+2018-1,E01028731,Highway Condition,6,5,1.2
+2018-1,E01028731,Other,2,1,2.0
+2018-1,E01028731,Potholes,25,13,1.9230769230769231
+2018-1,E01028731,Street Lights,2,2,1.0
+2018-1,E01028731,Street Signs,1,1,1.0
+2018-1,E01028731,Traffic Lights,26,21,1.2380952380952381
+2018-1,E01028732,Blocked Drains,1,1,1.0
+2018-1,E01028732,Dog Fouling,1,1,1.0
+2018-1,E01028732,Potholes,4,4,1.0
+2018-1,E01028732,Traffic Lights,1,1,1.0
+2018-1,E01028733,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028733,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028733,Potholes,7,6,1.1666666666666667
+2018-1,E01028733,Street Lights,1,1,1.0
+2018-1,E01028733,Street Signs,1,1,1.0
+2018-1,E01028734,Blocked Drains,6,1,6.0
+2018-1,E01028734,Other,1,1,1.0
+2018-1,E01028734,Potholes,25,11,2.272727272727273
+2018-1,E01028734,Street Lights,1,1,1.0
+2018-1,E01028735,,1,1,1.0
+2018-1,E01028735,Blocked Drains,1,1,1.0
+2018-1,E01028735,Highway Condition,1,1,1.0
+2018-1,E01028735,Other,1,1,1.0
+2018-1,E01028735,Potholes,8,4,2.0
+2018-1,E01028735,Street Lights,1,1,1.0
+2018-1,E01028736,Blocked Drains,1,1,1.0
+2018-1,E01028736,Fly-tipping,1,1,1.0
+2018-1,E01028736,Potholes,6,5,1.2
+2018-1,E01028737,Blocked Drains,3,3,1.0
+2018-1,E01028737,Highway Condition,1,1,1.0
+2018-1,E01028737,Other,1,1,1.0
+2018-1,E01028737,Potholes,38,21,1.8095238095238095
+2018-1,E01028737,Street Lights,3,1,3.0
+2018-1,E01028737,Street Signs,1,1,1.0
+2018-1,E01028738,Potholes,7,5,1.4
+2018-1,E01028739,Blocked Drains,1,1,1.0
+2018-1,E01028739,Fly-tipping,1,1,1.0
+2018-1,E01028739,Highway Condition,2,2,1.0
+2018-1,E01028739,Potholes,24,5,4.8
+2018-1,E01028739,Street Lights,2,2,1.0
+2018-1,E01028739,Street Name Plates,1,1,1.0
+2018-1,E01028739,Street Signs,1,1,1.0
+2018-1,E01028739,Traffic Lights,1,1,1.0
+2018-1,E01028740,Grass/Weed Control,1,1,1.0
+2018-1,E01028740,Highway Condition,1,1,1.0
+2018-1,E01028740,Potholes,2,2,1.0
+2018-1,E01028740,Street Lights,2,2,1.0
+2018-1,E01028741,Highway Condition,1,1,1.0
+2018-1,E01028741,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028741,Potholes,1,1,1.0
+2018-1,E01028742,Blocked Drains,2,2,1.0
+2018-1,E01028742,Flyposting,1,1,1.0
+2018-1,E01028742,Highway Condition,1,1,1.0
+2018-1,E01028742,Potholes,12,10,1.2
+2018-1,E01028743,Blocked Drains,1,1,1.0
+2018-1,E01028743,Other,1,1,1.0
+2018-1,E01028743,Potholes,1,1,1.0
+2018-1,E01028744,Grass/Weed Control,1,1,1.0
+2018-1,E01028744,Highway Condition,1,1,1.0
+2018-1,E01028744,Potholes,11,4,2.75
+2018-1,E01028744,Street Lights,2,2,1.0
+2018-1,E01028745,Pavement /Footway Defects,3,2,1.5
+2018-1,E01028745,Potholes,10,4,2.5
+2018-1,E01028745,Street Lights,1,1,1.0
+2018-1,E01028746,Blocked Drains,3,3,1.0
+2018-1,E01028746,Highway Condition,1,1,1.0
+2018-1,E01028746,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028746,Potholes,3,2,1.5
+2018-1,E01028746,Rubbish,1,1,1.0
+2018-1,E01028747,Highway Condition,1,1,1.0
+2018-1,E01028747,Other,1,1,1.0
+2018-1,E01028747,Potholes,6,2,3.0
+2018-1,E01028747,Street Cleaning,2,2,1.0
+2018-1,E01028747,Street Lights,2,2,1.0
+2018-1,E01028748,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028748,Grass/Weed Control,1,1,1.0
+2018-1,E01028748,Pavement /Footway Defects,4,3,1.3333333333333333
+2018-1,E01028748,Potholes,1,1,1.0
+2018-1,E01028748,Street Lights,1,1,1.0
+2018-1,E01028748,Street Signs,1,1,1.0
+2018-1,E01028749,Other,1,1,1.0
+2018-1,E01028749,Potholes,12,5,2.4
+2018-1,E01028749,Traffic Lights,1,1,1.0
+2018-1,E01028750,Highway Condition,1,1,1.0
+2018-1,E01028750,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028750,Potholes,2,1,2.0
+2018-1,E01028751,Fallen/Dangerous Trees,3,3,1.0
+2018-1,E01028751,Highway Condition,2,1,2.0
+2018-1,E01028751,Potholes,3,3,1.0
+2018-1,E01028752,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028752,Fly-tipping,1,1,1.0
+2018-1,E01028752,Highway Condition,1,1,1.0
+2018-1,E01028752,Other,2,2,1.0
+2018-1,E01028752,Potholes,4,2,2.0
+2018-1,E01028752,Street Lights,1,1,1.0
+2018-1,E01028753,Other,1,1,1.0
+2018-1,E01028753,Potholes,1,1,1.0
+2018-1,E01028753,Street Lights,2,1,2.0
+2018-1,E01028754,,1,1,1.0
+2018-1,E01028754,Blocked Drains,3,3,1.0
+2018-1,E01028754,Highway Condition,1,1,1.0
+2018-1,E01028754,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028754,Potholes,5,5,1.0
+2018-1,E01028754,Street Signs,2,1,2.0
+2018-1,E01028754,Traffic Lights,1,1,1.0
+2018-1,E01028755,Blocked Drains,1,1,1.0
+2018-1,E01028755,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028755,General Highways Enquiries,1,1,1.0
+2018-1,E01028755,Highway Condition,1,1,1.0
+2018-1,E01028755,Potholes,10,5,2.0
+2018-1,E01028755,Street Signs,1,1,1.0
+2018-1,E01028755,Traffic Lights,1,1,1.0
+2018-1,E01028756,Blocked Drains,1,1,1.0
+2018-1,E01028756,Highway Condition,1,1,1.0
+2018-1,E01028756,Other,2,2,1.0
+2018-1,E01028756,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028756,Potholes,9,3,3.0
+2018-1,E01028756,Street Lights,2,1,2.0
+2018-1,E01028756,Street Signs,1,1,1.0
+2018-1,E01028756,Traffic Lights,1,1,1.0
+2018-1,E01028757,Blocked Drains,2,2,1.0
+2018-1,E01028757,Potholes,4,4,1.0
+2018-1,E01028757,Street Lights,2,2,1.0
+2018-1,E01028758,Blocked Drains,1,1,1.0
+2018-1,E01028758,General Highways Enquiries,1,1,1.0
+2018-1,E01028758,Potholes,1,1,1.0
+2018-1,E01028759,Potholes,7,2,3.5
+2018-1,E01028760,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028760,Other,2,2,1.0
+2018-1,E01028760,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028760,Potholes,4,3,1.3333333333333333
+2018-1,E01028760,Street Lights,4,4,1.0
+2018-1,E01028761,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028761,Other,2,1,2.0
+2018-1,E01028761,Street Lights,1,1,1.0
+2018-1,E01028762,Blocked Drains,1,1,1.0
+2018-1,E01028762,Grass/Weed Control,1,1,1.0
+2018-1,E01028762,Other,1,1,1.0
+2018-1,E01028762,Potholes,31,24,1.2916666666666667
+2018-1,E01028762,Street Lights,1,1,1.0
+2018-1,E01028762,Street Signs,3,2,1.5
+2018-1,E01028763,Blocked Drains,3,3,1.0
+2018-1,E01028763,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028763,Potholes,14,11,1.2727272727272727
+2018-1,E01028763,Street Lights,4,4,1.0
+2018-1,E01028764,Fallen/Dangerous Trees,3,3,1.0
+2018-1,E01028764,Other,1,1,1.0
+2018-1,E01028764,Potholes,11,8,1.375
+2018-1,E01028764,Street Lights,2,2,1.0
+2018-1,E01028765,Abandoned Vehicles,1,1,1.0
+2018-1,E01028765,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01028765,Grass/Weed Control,1,1,1.0
+2018-1,E01028765,Highway Condition,1,1,1.0
+2018-1,E01028765,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028765,Potholes,29,16,1.8125
+2018-1,E01028766,Blocked Drains,2,2,1.0
+2018-1,E01028766,Highway Condition,1,1,1.0
+2018-1,E01028766,Other,2,2,1.0
+2018-1,E01028766,Potholes,28,20,1.4
+2018-1,E01028766,Street Signs,2,2,1.0
+2018-1,E01028767,Blocked Drains,2,2,1.0
+2018-1,E01028767,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028767,Grass/Weed Control,1,1,1.0
+2018-1,E01028767,Highway Condition,4,4,1.0
+2018-1,E01028767,Parking,3,1,3.0
+2018-1,E01028767,Potholes,38,21,1.8095238095238095
+2018-1,E01028771,Blocked Drains,1,1,1.0
+2018-1,E01028771,Potholes,3,3,1.0
+2018-1,E01028772,Bridge/Culvert Defects,2,1,2.0
+2018-1,E01028772,Street Lights,1,1,1.0
+2018-1,E01028773,Highway Condition,1,1,1.0
+2018-1,E01028773,Potholes,4,4,1.0
+2018-1,E01028773,Street Lights,2,2,1.0
+2018-1,E01028774,Blocked Drains,1,1,1.0
+2018-1,E01028774,Other,1,1,1.0
+2018-1,E01028774,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028774,Potholes,3,3,1.0
+2018-1,E01028774,Street Lights,1,1,1.0
+2018-1,E01028774,Street Signs,1,1,1.0
+2018-1,E01028775,Highway Condition,1,1,1.0
+2018-1,E01028775,Potholes,5,5,1.0
+2018-1,E01028775,Street Lights,1,1,1.0
+2018-1,E01028776,Abandoned Vehicles,1,1,1.0
+2018-1,E01028776,Fly-tipping,1,1,1.0
+2018-1,E01028776,Grass/Weed Control,1,1,1.0
+2018-1,E01028776,Highway Condition,1,1,1.0
+2018-1,E01028776,Other,1,1,1.0
+2018-1,E01028776,Potholes,25,21,1.1904761904761905
+2018-1,E01028776,Street Lights,1,1,1.0
+2018-1,E01028776,Street Signs,1,1,1.0
+2018-1,E01028777,Blocked Drains,2,2,1.0
+2018-1,E01028777,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028777,Other,1,1,1.0
+2018-1,E01028777,Potholes,2,2,1.0
+2018-1,E01028777,Street Lights,1,1,1.0
+2018-1,E01028778,Potholes,5,3,1.6666666666666667
+2018-1,E01028779,Potholes,7,7,1.0
+2018-1,E01028779,Street Lights,1,1,1.0
+2018-1,E01028780,Blocked Drains,2,2,1.0
+2018-1,E01028780,Grass/Weed Control,1,1,1.0
+2018-1,E01028780,Highway Condition,1,1,1.0
+2018-1,E01028780,Pavement /Footway Defects,3,3,1.0
+2018-1,E01028780,Potholes,5,3,1.6666666666666667
+2018-1,E01028780,Street Lights,2,2,1.0
+2018-1,E01028780,Street Signs,1,1,1.0
+2018-1,E01028780,Traffic Lights,3,3,1.0
+2018-1,E01028781,Potholes,6,4,1.5
+2018-1,E01028782,Blocked Drains,2,2,1.0
+2018-1,E01028782,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028782,Highway Condition,2,2,1.0
+2018-1,E01028782,Other,1,1,1.0
+2018-1,E01028782,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028782,Potholes,9,4,2.25
+2018-1,E01028782,Street Lights,1,1,1.0
+2018-1,E01028782,Street Signs,1,1,1.0
+2018-1,E01028783,Highway Condition,1,1,1.0
+2018-1,E01028783,Potholes,6,4,1.5
+2018-1,E01028783,Street Lights,4,4,1.0
+2018-1,E01028784,Blocked Drains,1,1,1.0
+2018-1,E01028784,General Highways Enquiries,1,1,1.0
+2018-1,E01028784,Grass/Weed Control,1,1,1.0
+2018-1,E01028784,Highway Condition,5,5,1.0
+2018-1,E01028784,Other,1,1,1.0
+2018-1,E01028784,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028784,Potholes,84,34,2.4705882352941178
+2018-1,E01028784,Street Signs,2,2,1.0
+2018-1,E01028785,Other,1,1,1.0
+2018-1,E01028785,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028785,Potholes,1,1,1.0
+2018-1,E01028785,Street Lights,1,1,1.0
+2018-1,E01028786,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028786,Potholes,13,4,3.25
+2018-1,E01028787,Blocked Drains,1,1,1.0
+2018-1,E01028787,Potholes,44,19,2.3157894736842106
+2018-1,E01028787,Street Cleaning,1,1,1.0
+2018-1,E01028788,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028788,Highway Condition,1,1,1.0
+2018-1,E01028788,Other,2,2,1.0
+2018-1,E01028788,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028788,Potholes,39,11,3.5454545454545454
+2018-1,E01028788,Street Lights,1,1,1.0
+2018-1,E01028789,Blocked Drains,1,1,1.0
+2018-1,E01028789,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028789,Highway Condition,3,3,1.0
+2018-1,E01028789,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028789,Potholes,1,1,1.0
+2018-1,E01028789,Street Lights,1,1,1.0
+2018-1,E01028790,Blocked Drains,3,2,1.5
+2018-1,E01028790,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028790,Highway Condition,1,1,1.0
+2018-1,E01028790,Potholes,26,13,2.0
+2018-1,E01028790,Street Signs,1,1,1.0
+2018-1,E01028790,Traffic Lights,1,1,1.0
+2018-1,E01028791,Highway Condition,1,1,1.0
+2018-1,E01028791,Potholes,1,1,1.0
+2018-1,E01028792,Highway Condition,2,2,1.0
+2018-1,E01028792,Other,1,1,1.0
+2018-1,E01028792,Potholes,21,15,1.4
+2018-1,E01028793,Blocked Drains,3,3,1.0
+2018-1,E01028793,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028793,Highway Condition,1,1,1.0
+2018-1,E01028793,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028793,Potholes,39,11,3.5454545454545454
+2018-1,E01028793,Street Cleaning,1,1,1.0
+2018-1,E01028794,Other,1,1,1.0
+2018-1,E01028794,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028794,Potholes,5,3,1.6666666666666667
+2018-1,E01028794,Street Lights,1,1,1.0
+2018-1,E01028795,Fly-tipping,1,1,1.0
+2018-1,E01028795,Highway Condition,1,1,1.0
+2018-1,E01028795,Other,1,1,1.0
+2018-1,E01028795,Potholes,27,17,1.588235294117647
+2018-1,E01028795,Street Cleaning,1,1,1.0
+2018-1,E01028796,Other,2,2,1.0
+2018-1,E01028796,Potholes,23,8,2.875
+2018-1,E01028796,Rubbish,1,1,1.0
+2018-1,E01028796,Street Signs,1,1,1.0
+2018-1,E01028797,Blocked Drains,3,1,3.0
+2018-1,E01028797,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01028797,Highway Condition,3,1,3.0
+2018-1,E01028797,Other,2,2,1.0
+2018-1,E01028797,Pavement /Footway Defects,2,2,1.0
+2018-1,E01028797,Potholes,28,18,1.5555555555555556
+2018-1,E01028797,Street Signs,1,1,1.0
+2018-1,E01028798,Blocked Drains,1,1,1.0
+2018-1,E01028798,Potholes,14,12,1.1666666666666667
+2018-1,E01028799,,1,1,1.0
+2018-1,E01028799,Blocked Drains,1,1,1.0
+2018-1,E01028799,Highway Condition,1,1,1.0
+2018-1,E01028799,Other,1,1,1.0
+2018-1,E01028799,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028799,Potholes,13,8,1.625
+2018-1,E01028800,Potholes,12,6,2.0
+2018-1,E01028800,Traffic Lights,1,1,1.0
+2018-1,E01028801,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028801,Potholes,40,10,4.0
+2018-1,E01028801,Street Cleaning,1,1,1.0
+2018-1,E01028801,Traffic Lights,1,1,1.0
+2018-1,E01028802,Grass/Weed Control,2,2,1.0
+2018-1,E01028802,Highway Condition,2,2,1.0
+2018-1,E01028802,Parking,1,1,1.0
+2018-1,E01028802,Potholes,4,4,1.0
+2018-1,E01028804,Blocked Drains,1,1,1.0
+2018-1,E01028804,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028804,Potholes,7,5,1.4
+2018-1,E01028806,Blocked Drains,3,3,1.0
+2018-1,E01028806,Other,1,1,1.0
+2018-1,E01028806,Potholes,56,14,4.0
+2018-1,E01028806,Street Name Plates,1,1,1.0
+2018-1,E01028807,Other,2,2,1.0
+2018-1,E01028807,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028807,Potholes,10,9,1.1111111111111112
+2018-1,E01028807,Street Lights,1,1,1.0
+2018-1,E01028807,Traffic Lights,1,1,1.0
+2018-1,E01028808,Grass/Weed Control,2,2,1.0
+2018-1,E01028808,Potholes,3,3,1.0
+2018-1,E01028808,Street Signs,1,1,1.0
+2018-1,E01028809,Blocked Drains,1,1,1.0
+2018-1,E01028809,Potholes,2,2,1.0
+2018-1,E01028809,Street Lights,1,1,1.0
+2018-1,E01028810,Other,1,1,1.0
+2018-1,E01028810,Street Lights,2,2,1.0
+2018-1,E01028811,Blocked Drains,1,1,1.0
+2018-1,E01028811,Other,1,1,1.0
+2018-1,E01028811,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028811,Potholes,5,5,1.0
+2018-1,E01028813,Blocked Drains,1,1,1.0
+2018-1,E01028813,Grass/Weed Control,1,1,1.0
+2018-1,E01028813,Potholes,13,5,2.6
+2018-1,E01028814,Other,2,2,1.0
+2018-1,E01028814,Potholes,5,4,1.25
+2018-1,E01028815,Blocked Drains,1,1,1.0
+2018-1,E01028815,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028815,Highway Condition,1,1,1.0
+2018-1,E01028815,Potholes,4,2,2.0
+2018-1,E01028815,Street Name Plates,1,1,1.0
+2018-1,E01028816,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028816,Potholes,1,1,1.0
+2018-1,E01028816,Street Lights,1,1,1.0
+2018-1,E01028817,Other,2,2,1.0
+2018-1,E01028817,Potholes,1,1,1.0
+2018-1,E01028817,Street Lights,1,1,1.0
+2018-1,E01028817,Street Signs,1,1,1.0
+2018-1,E01028818,Highway Condition,1,1,1.0
+2018-1,E01028818,Open Spaces/Parks,2,1,2.0
+2018-1,E01028818,Pavement /Footway Defects,5,4,1.25
+2018-1,E01028818,Potholes,11,8,1.375
+2018-1,E01028818,Street Name Plates,1,1,1.0
+2018-1,E01028818,Street Signs,1,1,1.0
+2018-1,E01028819,Blocked Drains,1,1,1.0
+2018-1,E01028819,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028819,Potholes,7,6,1.1666666666666667
+2018-1,E01028819,Street Lights,2,2,1.0
+2018-1,E01028819,Street Signs,1,1,1.0
+2018-1,E01028820,Highway Condition,1,1,1.0
+2018-1,E01028820,Potholes,9,5,1.8
+2018-1,E01028821,Pavement /Footway Defects,2,1,2.0
+2018-1,E01028821,Street Lights,1,1,1.0
+2018-1,E01028822,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028822,Potholes,2,2,1.0
+2018-1,E01028823,Blocked Drains,1,1,1.0
+2018-1,E01028823,Other,2,1,2.0
+2018-1,E01028823,Pavement /Footway Defects,3,1,3.0
+2018-1,E01028823,Potholes,4,4,1.0
+2018-1,E01028823,Street Signs,1,1,1.0
+2018-1,E01028823,Traffic Lights,1,1,1.0
+2018-1,E01028824,Highway Condition,2,2,1.0
+2018-1,E01028824,Pavement /Footway Defects,1,1,1.0
+2018-1,E01028824,Potholes,4,2,2.0
+2018-1,E01028824,Street Lights,3,2,1.5
+2018-1,E01028825,Blocked Drains,1,1,1.0
+2018-1,E01028825,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01028825,Highway Condition,1,1,1.0
+2018-1,E01028825,Other,1,1,1.0
+2018-1,E01028825,Potholes,8,4,2.0
+2018-1,E01031006,Potholes,1,1,1.0
+2018-1,E01031007,Other,2,2,1.0
+2018-1,E01031007,Potholes,1,1,1.0
+2018-1,E01031007,Street Signs,1,1,1.0
+2018-1,E01031013,Flooding,1,1,1.0
+2018-1,E01031014,Obstruction,1,1,1.0
+2018-1,E01031016,Other,2,2,1.0
+2018-1,E01031018,Other,1,1,1.0
+2018-1,E01031020,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031021,Potholes,1,1,1.0
+2018-1,E01031022,Street Signs,1,1,1.0
+2018-1,E01031027,Flooding,1,1,1.0
+2018-1,E01031027,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031027,Obstruction,3,2,1.5
+2018-1,E01031027,Potholes,2,1,2.0
+2018-1,E01031027,Street Cleaning,1,1,1.0
+2018-1,E01031028,Other,1,1,1.0
+2018-1,E01031028,Trees and Hedges RoW,3,3,1.0
+2018-1,E01031029,Abandoned Vehicles,1,1,1.0
+2018-1,E01031030,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031036,Street Signs,1,1,1.0
+2018-1,E01031039,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031041,Other,1,1,1.0
+2018-1,E01031043,Other,1,1,1.0
+2018-1,E01031045,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031048,Flooding,1,1,1.0
+2018-1,E01031049,Flooding,1,1,1.0
+2018-1,E01031049,Potholes,1,1,1.0
+2018-1,E01031050,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031050,Potholes,1,1,1.0
+2018-1,E01031055,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031066,Street Lights,1,1,1.0
+2018-1,E01031067,Flooding,1,1,1.0
+2018-1,E01031070,Obstruction,1,1,1.0
+2018-1,E01031075,Road Markings,1,1,1.0
+2018-1,E01031086,Other,1,1,1.0
+2018-1,E01031087,Gully/Manhole Defects,2,1,2.0
+2018-1,E01031088,Gully/Manhole Defects,2,1,2.0
+2018-1,E01031089,Obstruction,1,1,1.0
+2018-1,E01031089,Other,1,1,1.0
+2018-1,E01031091,Obstruction,1,1,1.0
+2018-1,E01031096,Other,1,1,1.0
+2018-1,E01031097,Potholes,1,1,1.0
+2018-1,E01031100,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031101,Road Works,1,1,1.0
+2018-1,E01031102,Road Works,1,1,1.0
+2018-1,E01031103,Street Cleaning,1,1,1.0
+2018-1,E01031105,Potholes,1,1,1.0
+2018-1,E01031106,Other,1,1,1.0
+2018-1,E01031106,Potholes,1,1,1.0
+2018-1,E01031106,Street Cleaning,1,1,1.0
+2018-1,E01031107,Potholes,1,1,1.0
+2018-1,E01031107,Road Markings,1,1,1.0
+2018-1,E01031108,Other,2,2,1.0
+2018-1,E01031108,Road Markings,1,1,1.0
+2018-1,E01031109,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031116,Street Cleaning,1,1,1.0
+2018-1,E01031119,Road Markings,1,1,1.0
+2018-1,E01031120,Flooding,1,1,1.0
+2018-1,E01031120,Road Works,1,1,1.0
+2018-1,E01031122,Rubbish,1,1,1.0
+2018-1,E01031123,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031124,Flooding,1,1,1.0
+2018-1,E01031124,Street Name Plates,1,1,1.0
+2018-1,E01031125,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031129,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031132,Other,1,1,1.0
+2018-1,E01031134,Other,1,1,1.0
+2018-1,E01031136,Flooding,1,1,1.0
+2018-1,E01031136,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031137,Street Cleaning,1,1,1.0
+2018-1,E01031141,Obstruction,1,1,1.0
+2018-1,E01031141,Road Markings,1,1,1.0
+2018-1,E01031146,Road Markings,1,1,1.0
+2018-1,E01031147,Street Signs,1,1,1.0
+2018-1,E01031147,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031148,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031149,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031149,Flooding,1,1,1.0
+2018-1,E01031150,Flooding,1,1,1.0
+2018-1,E01031150,Obstruction,1,1,1.0
+2018-1,E01031150,Street Cleaning,1,1,1.0
+2018-1,E01031150,Trees and Hedges RoW,2,2,1.0
+2018-1,E01031152,Potholes,1,1,1.0
+2018-1,E01031156,Rubbish,1,1,1.0
+2018-1,E01031159,Flooding,1,1,1.0
+2018-1,E01031159,Other,1,1,1.0
+2018-1,E01031159,Trees and Hedges RoW,2,2,1.0
+2018-1,E01031163,Flooding,1,1,1.0
+2018-1,E01031166,Potholes,1,1,1.0
+2018-1,E01031167,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031168,Flooding,1,1,1.0
+2018-1,E01031168,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031168,Other,1,1,1.0
+2018-1,E01031173,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031173,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031174,Fly-tipping,1,1,1.0
+2018-1,E01031181,Flooding,1,1,1.0
+2018-1,E01031181,Other,1,1,1.0
+2018-1,E01031181,Potholes,1,1,1.0
+2018-1,E01031182,Flooding,1,1,1.0
+2018-1,E01031182,Street Signs,1,1,1.0
+2018-1,E01031183,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031184,Flooding,1,1,1.0
+2018-1,E01031184,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031184,Potholes,1,1,1.0
+2018-1,E01031187,Gully/Manhole Defects,2,2,1.0
+2018-1,E01031187,Potholes,1,1,1.0
+2018-1,E01031188,Flooding,1,1,1.0
+2018-1,E01031188,Other,1,1,1.0
+2018-1,E01031188,Street Signs,2,1,2.0
+2018-1,E01031188,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031189,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031193,Obstruction,1,1,1.0
+2018-1,E01031193,Street Signs,1,1,1.0
+2018-1,E01031193,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031195,Fallen/Dangerous Trees,2,2,1.0
+2018-1,E01031195,Other,1,1,1.0
+2018-1,E01031195,Potholes,1,1,1.0
+2018-1,E01031195,Street Signs,1,1,1.0
+2018-1,E01031195,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031196,Flooding,2,2,1.0
+2018-1,E01031196,Gully/Manhole Defects,2,1,2.0
+2018-1,E01031196,Obstruction,1,1,1.0
+2018-1,E01031196,Other,2,2,1.0
+2018-1,E01031196,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031198,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031198,Street Signs,1,1,1.0
+2018-1,E01031199,Flooding,1,1,1.0
+2018-1,E01031199,Obstruction,1,1,1.0
+2018-1,E01031201,Potholes,2,2,1.0
+2018-1,E01031202,Street Cleaning,1,1,1.0
+2018-1,E01031203,Flooding,1,1,1.0
+2018-1,E01031203,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031204,Street Cleaning,1,1,1.0
+2018-1,E01031205,Street Signs,1,1,1.0
+2018-1,E01031206,Other,1,1,1.0
+2018-1,E01031208,Flooding,1,1,1.0
+2018-1,E01031209,Flooding,2,2,1.0
+2018-1,E01031209,Other,1,1,1.0
+2018-1,E01031209,Potholes,1,1,1.0
+2018-1,E01031211,Obstruction,1,1,1.0
+2018-1,E01031212,Obstruction,1,1,1.0
+2018-1,E01031212,Other,1,1,1.0
+2018-1,E01031213,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031213,Flooding,2,2,1.0
+2018-1,E01031213,Other,1,1,1.0
+2018-1,E01031213,Potholes,1,1,1.0
+2018-1,E01031213,Road Works,1,1,1.0
+2018-1,E01031215,Other,1,1,1.0
+2018-1,E01031217,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031217,Other,1,1,1.0
+2018-1,E01031219,Road Markings,1,1,1.0
+2018-1,E01031220,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031222,Flooding,1,1,1.0
+2018-1,E01031222,Street Signs,1,1,1.0
+2018-1,E01031224,Flooding,1,1,1.0
+2018-1,E01031224,Other,2,1,2.0
+2018-1,E01031227,Flooding,1,1,1.0
+2018-1,E01031228,Road Works,1,1,1.0
+2018-1,E01031234,Other,1,1,1.0
+2018-1,E01031234,Street Signs,2,2,1.0
+2018-1,E01031235,Potholes,2,2,1.0
+2018-1,E01031241,Flooding,1,1,1.0
+2018-1,E01031243,Flooding,1,1,1.0
+2018-1,E01031244,Flooding,1,1,1.0
+2018-1,E01031244,Street Cleaning,1,1,1.0
+2018-1,E01031246,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031246,Potholes,1,1,1.0
+2018-1,E01031246,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031247,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031248,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031248,Obstruction,1,1,1.0
+2018-1,E01031249,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031250,Flooding,1,1,1.0
+2018-1,E01031250,Street Signs,1,1,1.0
+2018-1,E01031254,Flooding,1,1,1.0
+2018-1,E01031259,Other,2,2,1.0
+2018-1,E01031259,Potholes,1,1,1.0
+2018-1,E01031260,Obstruction,1,1,1.0
+2018-1,E01031263,Flooding,1,1,1.0
+2018-1,E01031266,Road Works,1,1,1.0
+2018-1,E01031267,Other,1,1,1.0
+2018-1,E01031268,Obstruction,1,1,1.0
+2018-1,E01031269,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031269,Obstruction,1,1,1.0
+2018-1,E01031269,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031271,Obstruction,1,1,1.0
+2018-1,E01031272,Flooding,2,1,2.0
+2018-1,E01031272,Other,1,1,1.0
+2018-1,E01031277,Right of Way,1,1,1.0
+2018-1,E01031278,Parking,1,1,1.0
+2018-1,E01031279,Flooding,1,1,1.0
+2018-1,E01031282,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031284,Obstruction,1,1,1.0
+2018-1,E01031284,Other,1,1,1.0
+2018-1,E01031284,Road Works,1,1,1.0
+2018-1,E01031285,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031285,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031290,Flooding,1,1,1.0
+2018-1,E01031290,Other,1,1,1.0
+2018-1,E01031291,Flooding,1,1,1.0
+2018-1,E01031291,Gully/Manhole Defects,2,2,1.0
+2018-1,E01031294,Road Markings,1,1,1.0
+2018-1,E01031294,Street Signs,1,1,1.0
+2018-1,E01031294,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031298,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031299,Open Spaces/Parks,1,1,1.0
+2018-1,E01031301,Road Works,1,1,1.0
+2018-1,E01031307,Trees and Hedges RoW,2,1,2.0
+2018-1,E01031308,Obstruction,1,1,1.0
+2018-1,E01031309,Street Lights,1,1,1.0
+2018-1,E01031310,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031311,Potholes,1,1,1.0
+2018-1,E01031315,Other,1,1,1.0
+2018-1,E01031317,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031318,Obstruction,1,1,1.0
+2018-1,E01031322,Street Lights,1,1,1.0
+2018-1,E01031324,Trees and Hedges RoW,1,1,1.0
+2018-1,E01031333,Traffic Lights,1,1,1.0
+2018-1,E01031336,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01031336,Gully/Manhole Defects,1,1,1.0
+2018-1,E01031337,Flooding,1,1,1.0
+2018-1,E01032514,General Highways Enquiries,1,1,1.0
+2018-1,E01032514,Obstruction,1,1,1.0
+2018-1,E01032514,Road Surface Defects,1,1,1.0
+2018-1,E01032515,Gullies,1,1,1.0
+2018-1,E01032515,Obstruction,1,1,1.0
+2018-1,E01032515,Road Surface Defects,1,1,1.0
+2018-1,E01032516,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032519,General Highways Enquiries,1,1,1.0
+2018-1,E01032519,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032519,Street Signs,1,1,1.0
+2018-1,E01032554,Blocked Drains,1,1,1.0
+2018-1,E01032554,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032554,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032554,Potholes,8,5,1.6
+2018-1,E01032554,Street Lights,2,2,1.0
+2018-1,E01032555,Blocked Drains,1,1,1.0
+2018-1,E01032555,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032555,Ice & Snow,1,1,1.0
+2018-1,E01032555,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032555,Potholes,3,1,3.0
+2018-1,E01032555,Street Signs,1,1,1.0
+2018-1,E01032562,Abandoned Vehicles,1,1,1.0
+2018-1,E01032562,Dumped Rubbish,2,2,1.0
+2018-1,E01032562,Street Cleaning,1,1,1.0
+2018-1,E01032563,Abandoned Vehicles,1,1,1.0
+2018-1,E01032563,Dumped Rubbish,4,4,1.0
+2018-1,E01032563,Overgrown Vegetation,1,1,1.0
+2018-1,E01032563,Road Surface Defects,1,1,1.0
+2018-1,E01032567,Abandoned Vehicles,1,1,1.0
+2018-1,E01032567,Dead Animals,1,1,1.0
+2018-1,E01032567,Dog Fouling,2,2,1.0
+2018-1,E01032568,Abandoned Vehicles,1,1,1.0
+2018-1,E01032568,Dead Animals,1,1,1.0
+2018-1,E01032568,Dumped Rubbish,3,3,1.0
+2018-1,E01032568,Graffiti,4,1,4.0
+2018-1,E01032568,Street Cleaning,3,2,1.5
+2018-1,E01032568,Street Lights,2,2,1.0
+2018-1,E01032570,Blocked Drains,1,1,1.0
+2018-1,E01032570,Open Spaces/Parks,1,1,1.0
+2018-1,E01032570,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032570,Road Surface Defects,2,2,1.0
+2018-1,E01032853,Abandoned Vehicles,1,1,1.0
+2018-1,E01032853,Potholes,1,1,1.0
+2018-1,E01032854,Other,1,1,1.0
+2018-1,E01032856,Highway Condition,1,1,1.0
+2018-1,E01032857,Abandoned Vehicles,2,2,1.0
+2018-1,E01032857,Fly-tipping,1,1,1.0
+2018-1,E01032857,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032857,Potholes,2,2,1.0
+2018-1,E01032890,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032891,Gully/Manhole Defects,1,1,1.0
+2018-1,E01032892,Gully/Manhole Defects,1,1,1.0
+2018-1,E01032892,Street Signs,1,1,1.0
+2018-1,E01032895,Obstruction,1,1,1.0
+2018-1,E01032941,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032941,Potholes,20,5,4.0
+2018-1,E01032941,Street Signs,1,1,1.0
+2018-1,E01032942,Other,1,1,1.0
+2018-1,E01032942,Potholes,1,1,1.0
+2018-1,E01032943,Potholes,1,1,1.0
+2018-1,E01032944,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032944,Potholes,2,2,1.0
+2018-1,E01032944,Street Signs,1,1,1.0
+2018-1,E01032947,Potholes,1,1,1.0
+2018-1,E01032948,Highway Condition,1,1,1.0
+2018-1,E01032948,Potholes,1,1,1.0
+2018-1,E01032948,Street Lights,2,2,1.0
+2018-1,E01032949,Other,1,1,1.0
+2018-1,E01032949,Potholes,1,1,1.0
+2018-1,E01032950,Blocked Drains,1,1,1.0
+2018-1,E01032950,Highway Condition,1,1,1.0
+2018-1,E01032950,Street Lights,2,2,1.0
+2018-1,E01032951,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032951,Pavement /Footway Defects,1,1,1.0
+2018-1,E01032951,Potholes,14,11,1.2727272727272727
+2018-1,E01032951,Street Lights,3,3,1.0
+2018-1,E01032952,Grass/Weed Control,1,1,1.0
+2018-1,E01032952,Other,1,1,1.0
+2018-1,E01032953,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032953,Potholes,5,5,1.0
+2018-1,E01032953,Street Lights,1,1,1.0
+2018-1,E01032954,Blocked Drains,2,2,1.0
+2018-1,E01032954,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01032954,Fly-tipping,1,1,1.0
+2018-1,E01032954,Highway Condition,3,3,1.0
+2018-1,E01032954,Open Spaces/Parks,1,1,1.0
+2018-1,E01032954,Potholes,20,14,1.4285714285714286
+2018-1,E01032954,Traffic Lights,1,1,1.0
+2018-1,E01033253,Flooding,2,2,1.0
+2018-1,E01033253,Gully/Manhole Defects,1,1,1.0
+2018-1,E01033253,Obstruction,1,1,1.0
+2018-1,E01033255,Street Lights,1,1,1.0
+2018-1,E01033255,Street Signs,1,1,1.0
+2018-1,E01033256,Other,1,1,1.0
+2018-1,E01033282,Blocked Drains,2,2,1.0
+2018-1,E01033282,Bridge/Culvert Defects,1,1,1.0
+2018-1,E01033282,Other,1,1,1.0
+2018-1,E01033282,Pavement /Footway Defects,2,2,1.0
+2018-1,E01033282,Potholes,12,7,1.7142857142857142
+2018-1,E01033282,Road Surface Defects,2,2,1.0
+2018-1,E01033282,Street Lights,1,1,1.0
+2018-1,E01033305,,1,1,1.0
+2018-1,E01033305,Potholes,3,1,3.0
+2018-1,E01033305,Rubbish,1,1,1.0
+2018-1,E01033306,Fallen/Dangerous Trees,1,1,1.0
+2018-1,E01033306,Highway Condition,3,1,3.0
+2018-1,E01033306,Parking,2,1,2.0
+2018-1,E01033306,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033306,Potholes,4,2,2.0
+2018-1,E01033306,Street Lights,4,4,1.0
+2018-1,E01033306,Traffic Lights,1,1,1.0
+2018-1,E01033342,Gullies,1,1,1.0
+2018-1,E01033344,Pavement /Footway Defects,3,3,1.0
+2018-1,E01033344,Road Surface Defects,2,1,2.0
+2018-1,E01033345,Gullies,2,2,1.0
+2018-1,E01033345,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033347,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033348,Gullies,3,2,1.5
+2018-1,E01033350,Road Surface Defects,1,1,1.0
+2018-1,E01033350,Street Signs,1,1,1.0
+2018-1,E01033350,Utility Works,2,2,1.0
+2018-1,E01033352,Road Surface Defects,1,1,1.0
+2018-1,E01033353,Gullies,2,2,1.0
+2018-1,E01033353,Obstruction,2,2,1.0
+2018-1,E01033353,Pavement /Footway Defects,2,2,1.0
+2018-1,E01033353,Road Surface Defects,1,1,1.0
+2018-1,E01033355,General Highways Enquiries,1,1,1.0
+2018-1,E01033355,Obstruction,1,1,1.0
+2018-1,E01033356,Gullies,1,1,1.0
+2018-1,E01033356,Road Surface Defects,1,1,1.0
+2018-1,E01033356,Street Signs,1,1,1.0
+2018-1,E01033358,Street Furniture,1,1,1.0
+2018-1,E01033359,Road Surface Defects,1,1,1.0
+2018-1,E01033359,Street Signs,1,1,1.0
+2018-1,E01033361,Gullies,2,2,1.0
+2018-1,E01033361,Obstruction,1,1,1.0
+2018-1,E01033361,Road Surface Defects,1,1,1.0
+2018-1,E01033362,General Highways Enquiries,1,1,1.0
+2018-1,E01033362,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033362,Retaining Wall,1,1,1.0
+2018-1,E01033364,Obstruction,2,2,1.0
+2018-1,E01033364,Road Surface Defects,1,1,1.0
+2018-1,E01033367,Gullies,1,1,1.0
+2018-1,E01033369,Road Surface Defects,1,1,1.0
+2018-1,E01033369,Street Furniture,1,1,1.0
+2018-1,E01033609,Fly-tipping,2,2,1.0
+2018-1,E01033609,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033726,Abandoned Vehicles,1,1,1.0
+2018-1,E01033726,Fly-tipping,1,1,1.0
+2018-1,E01033726,Parking,1,1,1.0
+2018-1,E01033726,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033726,Rubbish,2,2,1.0
+2018-1,E01033726,Street Cleaning,2,2,1.0
+2018-1,E01033727,Dog Fouling,1,1,1.0
+2018-1,E01033727,Rubbish,1,1,1.0
+2018-1,E01033729,Abandoned Vehicles,1,1,1.0
+2018-1,E01033729,Open Spaces/Parks,1,1,1.0
+2018-1,E01033730,Rubbish,1,1,1.0
+2018-1,E01033733,Fly-tipping,1,1,1.0
+2018-1,E01033735,Rubbish,1,1,1.0
+2018-1,E01033738,Other,2,2,1.0
+2018-1,E01033740,Abandoned Vehicles,1,1,1.0
+2018-1,E01033740,Fly-tipping,2,1,2.0
+2018-1,E01033741,Fly-tipping,1,1,1.0
+2018-1,E01033741,Parking,4,3,1.3333333333333333
+2018-1,E01033741,Pavement /Footway Defects,3,1,3.0
+2018-1,E01033742,Street Signs,1,1,1.0
+2018-1,E01033743,Abandoned Vehicles,1,1,1.0
+2018-1,E01033743,Fly-tipping,3,1,3.0
+2018-1,E01033743,Open Spaces/Parks,1,1,1.0
+2018-1,E01033743,Pavement /Footway Defects,1,1,1.0
+2018-1,E01033743,Rubbish,1,1,1.0
+2018-1,E01033744,Abandoned Vehicles,2,2,1.0
+2018-1,E01033745,Fly-tipping,1,1,1.0
+2018-1,E01033745,Pavement /Footway Defects,2,2,1.0
+2018-1,E01033746,Blocked Drains,1,1,1.0
+2018-1,E01033746,Potholes,1,1,1.0
+2018-1,S01007142,Street Lights,1,1,1.0
+2018-1,S01007145,Street Lights,1,1,1.0
+2018-1,S01007151,Street Lights,1,1,1.0
+2018-1,S01007165,Street Lights,1,1,1.0
+2018-1,S01007167,Street Lights,1,1,1.0
+2018-1,S01007168,Street Cleaning,1,1,1.0
+2018-1,S01007186,Street Lights,1,1,1.0
+2018-1,S01007199,Potholes,1,1,1.0
+2018-1,S01007201,Street Lights,1,1,1.0
+2018-1,S01007208,Street Lights,1,1,1.0
+2018-1,S01007209,Street Lights,1,1,1.0
+2018-1,S01007221,Street Lights,1,1,1.0
+2018-1,S01007226,Rubbish,1,1,1.0
+2018-1,S01007227,Highway Condition,1,1,1.0
+2018-1,S01007244,Graffiti,1,1,1.0
+2018-1,S01007244,Street Lights,1,1,1.0
+2018-1,S01007246,Street Lights,1,1,1.0
+2018-1,S01007248,Street Lights,1,1,1.0
+2018-1,S01007256,Street Lights,2,2,1.0
+2018-1,S01007257,Pavement /Footway Defects,1,1,1.0
+2018-1,S01007257,Rubbish,1,1,1.0
+2018-1,S01007258,Street Lights,1,1,1.0
+2018-1,S01007259,Street Lights,1,1,1.0
+2018-1,S01007266,Street Lights,1,1,1.0
+2018-1,S01007274,Parking,1,1,1.0
+2018-1,S01007274,Street Signs,1,1,1.0

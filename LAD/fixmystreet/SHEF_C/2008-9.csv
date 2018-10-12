@@ -1,0 +1,813 @@
+period,LAD,SHEF_C,report_count,user_count,average
+2008-9,E06000002,Environmental Health,2,1,2.0
+2008-9,E06000002,Road Safety & Defects,2,2,1.0
+2008-9,E06000002,Vehicles,1,1,1.0
+2008-9,E06000003,Road Safety & Defects,3,1,3.0
+2008-9,E06000004,Environmental Disruptions,1,1,1.0
+2008-9,E06000004,Road Safety & Defects,2,2,1.0
+2008-9,E06000006,Environmental Health,1,1,1.0
+2008-9,E06000007,Environmental Health,1,1,1.0
+2008-9,E06000007,Incivilities,1,1,1.0
+2008-9,E06000007,Other,2,2,1.0
+2008-9,E06000007,Road Safety & Defects,3,3,1.0
+2008-9,E06000008,Environmental Health,1,1,1.0
+2008-9,E06000008,Public Space,1,1,1.0
+2008-9,E06000008,Road Safety & Defects,2,2,1.0
+2008-9,E06000009,Other,2,2,1.0
+2008-9,E06000009,Road Safety & Defects,1,1,1.0
+2008-9,E06000010,Environmental Health,2,2,1.0
+2008-9,E06000010,Other,1,1,1.0
+2008-9,E06000010,Vehicles,1,1,1.0
+2008-9,E06000011,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000011,Environmental Health,1,1,1.0
+2008-9,E06000011,Other,3,2,1.5
+2008-9,E06000011,Road Safety & Defects,11,2,5.5
+2008-9,E06000012,Road Safety & Defects,1,1,1.0
+2008-9,E06000013,Environmental Health,1,1,1.0
+2008-9,E06000013,Other,1,1,1.0
+2008-9,E06000013,Road Safety & Defects,1,1,1.0
+2008-9,E06000014,Road Safety & Defects,1,1,1.0
+2008-9,E06000014,Vehicles,1,1,1.0
+2008-9,E06000015,Environmental Health,1,1,1.0
+2008-9,E06000015,Other,1,1,1.0
+2008-9,E06000015,Road Safety & Defects,2,2,1.0
+2008-9,E06000016,Environmental Disruptions,2,1,2.0
+2008-9,E06000016,Environmental Health,5,3,1.6666666666666667
+2008-9,E06000016,Other,2,2,1.0
+2008-9,E06000016,Road Safety & Defects,4,1,4.0
+2008-9,E06000018,Environmental Health,3,3,1.0
+2008-9,E06000018,Incivilities,1,1,1.0
+2008-9,E06000018,Other,2,2,1.0
+2008-9,E06000018,Road Safety & Defects,6,3,2.0
+2008-9,E06000019,Road Safety & Defects,1,1,1.0
+2008-9,E06000020,Environmental Health,1,1,1.0
+2008-9,E06000020,Road Safety & Defects,5,3,1.6666666666666667
+2008-9,E06000021,Environmental Disruptions,1,1,1.0
+2008-9,E06000021,Environmental Health,9,2,4.5
+2008-9,E06000021,Other,9,3,3.0
+2008-9,E06000022,Environmental Health,1,1,1.0
+2008-9,E06000022,Other,2,1,2.0
+2008-9,E06000023,Environmental Health,2,2,1.0
+2008-9,E06000023,Incivilities,1,1,1.0
+2008-9,E06000023,Other,2,2,1.0
+2008-9,E06000023,Road Safety & Defects,8,7,1.1428571428571428
+2008-9,E06000026,Environmental Health,2,1,2.0
+2008-9,E06000026,Road Safety & Defects,3,2,1.5
+2008-9,E06000028,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000028,Environmental Health,1,1,1.0
+2008-9,E06000028,Road Safety & Defects,2,2,1.0
+2008-9,E06000028,Vehicles,1,1,1.0
+2008-9,E06000029,Vehicles,1,1,1.0
+2008-9,E06000030,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000030,Environmental Health,2,2,1.0
+2008-9,E06000030,Other,1,1,1.0
+2008-9,E06000030,Road Safety & Defects,1,1,1.0
+2008-9,E06000030,Vehicles,1,1,1.0
+2008-9,E06000031,Environmental Health,1,1,1.0
+2008-9,E06000031,Incivilities,16,1,16.0
+2008-9,E06000031,Other,1,1,1.0
+2008-9,E06000031,Public Space,3,1,3.0
+2008-9,E06000031,Road Safety & Defects,3,3,1.0
+2008-9,E06000032,Environmental Disruptions,2,1,2.0
+2008-9,E06000032,Incivilities,1,1,1.0
+2008-9,E06000032,Other,1,1,1.0
+2008-9,E06000032,Road Safety & Defects,3,3,1.0
+2008-9,E06000032,Vehicles,1,1,1.0
+2008-9,E06000033,Other,3,3,1.0
+2008-9,E06000035,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000036,Environmental Health,1,1,1.0
+2008-9,E06000036,Incivilities,1,1,1.0
+2008-9,E06000037,Environmental Disruptions,1,1,1.0
+2008-9,E06000037,Incivilities,1,1,1.0
+2008-9,E06000037,Other,1,1,1.0
+2008-9,E06000037,Road Safety & Defects,1,1,1.0
+2008-9,E06000038,Environmental Health,2,2,1.0
+2008-9,E06000038,Incivilities,2,1,2.0
+2008-9,E06000038,Other,1,1,1.0
+2008-9,E06000038,Road Safety & Defects,2,2,1.0
+2008-9,E06000039,Other,1,1,1.0
+2008-9,E06000039,Road Safety & Defects,2,2,1.0
+2008-9,E06000040,Incivilities,1,1,1.0
+2008-9,E06000040,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,E06000041,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000041,Environmental Health,2,1,2.0
+2008-9,E06000041,Road Safety & Defects,7,4,1.75
+2008-9,E06000042,Environmental Disruptions,2,2,1.0
+2008-9,E06000042,Environmental Health,2,1,2.0
+2008-9,E06000042,Other,2,2,1.0
+2008-9,E06000042,Road Safety & Defects,9,6,1.5
+2008-9,E06000042,Vehicles,3,3,1.0
+2008-9,E06000043,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000043,Environmental Disruptions,1,1,1.0
+2008-9,E06000043,Environmental Health,5,4,1.25
+2008-9,E06000043,Other,4,4,1.0
+2008-9,E06000043,Road Safety & Defects,7,5,1.4
+2008-9,E06000043,Vehicles,2,2,1.0
+2008-9,E06000044,Other,1,1,1.0
+2008-9,E06000044,Road Safety & Defects,1,1,1.0
+2008-9,E06000044,Vehicles,2,2,1.0
+2008-9,E06000045,Abandoned Vehicles & Parking,2,1,2.0
+2008-9,E06000045,Environmental Health,2,2,1.0
+2008-9,E06000045,Road Safety & Defects,3,3,1.0
+2008-9,E06000046,Environmental Health,1,1,1.0
+2008-9,E06000046,Other,1,1,1.0
+2008-9,E06000047,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E06000047,Environmental Disruptions,1,1,1.0
+2008-9,E06000047,Environmental Health,2,2,1.0
+2008-9,E06000047,Other,2,2,1.0
+2008-9,E06000047,Road Safety & Defects,6,4,1.5
+2008-9,E06000049,Incivilities,1,1,1.0
+2008-9,E06000049,Public Space,1,1,1.0
+2008-9,E06000049,Road Safety & Defects,5,5,1.0
+2008-9,E06000049,Vehicles,1,1,1.0
+2008-9,E06000050,Other,3,2,1.5
+2008-9,E06000050,Road Safety & Defects,3,3,1.0
+2008-9,E06000051,Road Safety & Defects,1,1,1.0
+2008-9,E06000052,Environmental Disruptions,1,1,1.0
+2008-9,E06000052,Environmental Health,2,2,1.0
+2008-9,E06000052,Road Safety & Defects,7,7,1.0
+2008-9,E06000054,Environmental Disruptions,1,1,1.0
+2008-9,E06000054,Environmental Health,1,1,1.0
+2008-9,E06000054,Other,3,3,1.0
+2008-9,E06000054,Road Safety & Defects,8,8,1.0
+2008-9,E06000055,Other,1,1,1.0
+2008-9,E06000055,Road Safety & Defects,1,1,1.0
+2008-9,E06000055,Vehicles,1,1,1.0
+2008-9,E06000056,Environmental Health,3,1,3.0
+2008-9,E06000056,Incivilities,1,1,1.0
+2008-9,E06000056,Other,1,1,1.0
+2008-9,E06000056,Road Safety & Defects,1,1,1.0
+2008-9,E06000056,Vehicles,2,2,1.0
+2008-9,E06000057,Environmental Health,4,3,1.3333333333333333
+2008-9,E06000057,Other,2,2,1.0
+2008-9,E06000057,Road Safety & Defects,4,4,1.0
+2008-9,E07000004,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000004,Environmental Health,1,1,1.0
+2008-9,E07000004,Incivilities,1,1,1.0
+2008-9,E07000004,Road Safety & Defects,2,2,1.0
+2008-9,E07000005,Incivilities,1,1,1.0
+2008-9,E07000005,Other,1,1,1.0
+2008-9,E07000005,Road Safety & Defects,3,3,1.0
+2008-9,E07000006,Environmental Health,3,3,1.0
+2008-9,E07000006,Other,1,1,1.0
+2008-9,E07000006,Road Safety & Defects,1,1,1.0
+2008-9,E07000007,Environmental Health,1,1,1.0
+2008-9,E07000007,Road Safety & Defects,3,3,1.0
+2008-9,E07000007,Vehicles,1,1,1.0
+2008-9,E07000008,Environmental Disruptions,2,2,1.0
+2008-9,E07000008,Environmental Health,1,1,1.0
+2008-9,E07000008,Incivilities,2,2,1.0
+2008-9,E07000008,Other,2,2,1.0
+2008-9,E07000008,Public Space,1,1,1.0
+2008-9,E07000008,Road Safety & Defects,14,10,1.4
+2008-9,E07000009,Environmental Health,2,1,2.0
+2008-9,E07000009,Road Safety & Defects,1,1,1.0
+2008-9,E07000010,Road Safety & Defects,1,1,1.0
+2008-9,E07000011,Environmental Health,1,1,1.0
+2008-9,E07000011,Road Safety & Defects,3,3,1.0
+2008-9,E07000012,Other,3,3,1.0
+2008-9,E07000012,Road Safety & Defects,9,7,1.2857142857142858
+2008-9,E07000027,Road Safety & Defects,1,1,1.0
+2008-9,E07000028,Environmental Health,2,1,2.0
+2008-9,E07000028,Road Safety & Defects,3,1,3.0
+2008-9,E07000031,Other,1,1,1.0
+2008-9,E07000031,Road Safety & Defects,3,3,1.0
+2008-9,E07000032,Environmental Disruptions,1,1,1.0
+2008-9,E07000032,Environmental Health,1,1,1.0
+2008-9,E07000032,Other,1,1,1.0
+2008-9,E07000033,Environmental Disruptions,1,1,1.0
+2008-9,E07000033,Environmental Health,1,1,1.0
+2008-9,E07000033,Road Safety & Defects,1,1,1.0
+2008-9,E07000035,Environmental Disruptions,2,2,1.0
+2008-9,E07000035,Other,3,2,1.5
+2008-9,E07000035,Road Safety & Defects,7,5,1.4
+2008-9,E07000036,Environmental Health,2,1,2.0
+2008-9,E07000036,Road Safety & Defects,2,2,1.0
+2008-9,E07000037,Road Safety & Defects,1,1,1.0
+2008-9,E07000038,Environmental Health,2,2,1.0
+2008-9,E07000038,Other,1,1,1.0
+2008-9,E07000038,Road Safety & Defects,2,2,1.0
+2008-9,E07000038,Vehicles,1,1,1.0
+2008-9,E07000039,Environmental Health,1,1,1.0
+2008-9,E07000039,Road Safety & Defects,2,2,1.0
+2008-9,E07000040,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000040,Environmental Health,2,2,1.0
+2008-9,E07000040,Incivilities,1,1,1.0
+2008-9,E07000040,Road Safety & Defects,3,3,1.0
+2008-9,E07000040,Vehicles,1,1,1.0
+2008-9,E07000041,Environmental Health,2,1,2.0
+2008-9,E07000042,Road Safety & Defects,1,1,1.0
+2008-9,E07000043,Environmental Health,2,1,2.0
+2008-9,E07000044,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000044,Environmental Health,3,2,1.5
+2008-9,E07000044,Road Safety & Defects,2,2,1.0
+2008-9,E07000045,Environmental Health,1,1,1.0
+2008-9,E07000045,Road Safety & Defects,2,2,1.0
+2008-9,E07000049,Environmental Health,1,1,1.0
+2008-9,E07000049,Road Safety & Defects,1,1,1.0
+2008-9,E07000050,Environmental Disruptions,1,1,1.0
+2008-9,E07000052,Road Safety & Defects,6,5,1.2
+2008-9,E07000061,Environmental Health,2,2,1.0
+2008-9,E07000062,Environmental Health,1,1,1.0
+2008-9,E07000064,Road Safety & Defects,2,1,2.0
+2008-9,E07000065,Environmental Health,1,1,1.0
+2008-9,E07000065,Other,1,1,1.0
+2008-9,E07000065,Road Safety & Defects,1,1,1.0
+2008-9,E07000066,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000066,Other,2,2,1.0
+2008-9,E07000066,Road Safety & Defects,2,2,1.0
+2008-9,E07000066,Vehicles,1,1,1.0
+2008-9,E07000067,Road Safety & Defects,3,1,3.0
+2008-9,E07000068,Road Safety & Defects,2,2,1.0
+2008-9,E07000070,Environmental Health,1,1,1.0
+2008-9,E07000070,Road Safety & Defects,2,1,2.0
+2008-9,E07000070,Vehicles,1,1,1.0
+2008-9,E07000071,Environmental Disruptions,1,1,1.0
+2008-9,E07000071,Environmental Health,2,2,1.0
+2008-9,E07000071,Other,2,1,2.0
+2008-9,E07000071,Road Safety & Defects,5,5,1.0
+2008-9,E07000072,Abandoned Vehicles & Parking,2,2,1.0
+2008-9,E07000072,Road Safety & Defects,4,4,1.0
+2008-9,E07000073,Road Safety & Defects,1,1,1.0
+2008-9,E07000073,Vehicles,1,1,1.0
+2008-9,E07000074,Environmental Health,1,1,1.0
+2008-9,E07000077,Environmental Health,1,1,1.0
+2008-9,E07000077,Road Safety & Defects,1,1,1.0
+2008-9,E07000078,Environmental Disruptions,2,2,1.0
+2008-9,E07000078,Environmental Health,1,1,1.0
+2008-9,E07000078,Incivilities,2,2,1.0
+2008-9,E07000078,Other,6,6,1.0
+2008-9,E07000078,Public Space,1,1,1.0
+2008-9,E07000078,Road Safety & Defects,16,14,1.1428571428571428
+2008-9,E07000080,Road Safety & Defects,1,1,1.0
+2008-9,E07000081,Environmental Health,1,1,1.0
+2008-9,E07000081,Other,1,1,1.0
+2008-9,E07000081,Road Safety & Defects,1,1,1.0
+2008-9,E07000081,Vehicles,1,1,1.0
+2008-9,E07000082,Environmental Health,1,1,1.0
+2008-9,E07000082,Other,1,1,1.0
+2008-9,E07000082,Road Safety & Defects,2,2,1.0
+2008-9,E07000083,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000083,Environmental Health,1,1,1.0
+2008-9,E07000083,Other,1,1,1.0
+2008-9,E07000083,Road Safety & Defects,4,2,2.0
+2008-9,E07000084,Environmental Disruptions,3,1,3.0
+2008-9,E07000084,Environmental Health,8,5,1.6
+2008-9,E07000084,Incivilities,61,3,20.333333333333332
+2008-9,E07000084,Other,2,2,1.0
+2008-9,E07000084,Road Safety & Defects,15,5,3.0
+2008-9,E07000085,Environmental Disruptions,2,2,1.0
+2008-9,E07000085,Environmental Health,1,1,1.0
+2008-9,E07000085,Other,2,2,1.0
+2008-9,E07000085,Road Safety & Defects,10,7,1.4285714285714286
+2008-9,E07000086,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000086,Road Safety & Defects,2,1,2.0
+2008-9,E07000087,Environmental Disruptions,3,3,1.0
+2008-9,E07000087,Environmental Health,1,1,1.0
+2008-9,E07000087,Public Space,1,1,1.0
+2008-9,E07000089,Environmental Health,1,1,1.0
+2008-9,E07000089,Road Safety & Defects,2,2,1.0
+2008-9,E07000090,Environmental Health,2,2,1.0
+2008-9,E07000090,Road Safety & Defects,1,1,1.0
+2008-9,E07000091,Environmental Health,1,1,1.0
+2008-9,E07000091,Road Safety & Defects,5,5,1.0
+2008-9,E07000092,Environmental Health,1,1,1.0
+2008-9,E07000092,Other,2,2,1.0
+2008-9,E07000093,Environmental Health,1,1,1.0
+2008-9,E07000093,Other,1,1,1.0
+2008-9,E07000093,Road Safety & Defects,3,2,1.5
+2008-9,E07000094,Environmental Health,2,2,1.0
+2008-9,E07000094,Incivilities,1,1,1.0
+2008-9,E07000094,Other,1,1,1.0
+2008-9,E07000094,Public Space,1,1,1.0
+2008-9,E07000094,Road Safety & Defects,8,7,1.1428571428571428
+2008-9,E07000096,Other,1,1,1.0
+2008-9,E07000096,Road Safety & Defects,1,1,1.0
+2008-9,E07000099,Environmental Health,4,4,1.0
+2008-9,E07000099,Incivilities,1,1,1.0
+2008-9,E07000099,Other,1,1,1.0
+2008-9,E07000099,Vehicles,1,1,1.0
+2008-9,E07000102,Public Space,1,1,1.0
+2008-9,E07000102,Road Safety & Defects,2,2,1.0
+2008-9,E07000103,Environmental Health,1,1,1.0
+2008-9,E07000105,Road Safety & Defects,3,3,1.0
+2008-9,E07000106,Environmental Health,1,1,1.0
+2008-9,E07000106,Road Safety & Defects,5,5,1.0
+2008-9,E07000107,Environmental Health,1,1,1.0
+2008-9,E07000107,Road Safety & Defects,1,1,1.0
+2008-9,E07000108,Road Safety & Defects,1,1,1.0
+2008-9,E07000108,Vehicles,1,1,1.0
+2008-9,E07000110,Environmental Disruptions,1,1,1.0
+2008-9,E07000110,Road Safety & Defects,5,3,1.6666666666666667
+2008-9,E07000111,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,E07000112,Incivilities,1,1,1.0
+2008-9,E07000112,Other,2,1,2.0
+2008-9,E07000113,Road Safety & Defects,2,2,1.0
+2008-9,E07000114,Environmental Health,5,4,1.25
+2008-9,E07000114,Incivilities,1,1,1.0
+2008-9,E07000114,Other,1,1,1.0
+2008-9,E07000114,Road Safety & Defects,5,3,1.6666666666666667
+2008-9,E07000114,Vehicles,2,2,1.0
+2008-9,E07000115,Environmental Health,1,1,1.0
+2008-9,E07000117,Other,1,1,1.0
+2008-9,E07000118,Road Safety & Defects,1,1,1.0
+2008-9,E07000119,Road Safety & Defects,2,1,2.0
+2008-9,E07000120,Environmental Health,1,1,1.0
+2008-9,E07000120,Incivilities,1,1,1.0
+2008-9,E07000122,Environmental Health,1,1,1.0
+2008-9,E07000122,Other,1,1,1.0
+2008-9,E07000122,Road Safety & Defects,1,1,1.0
+2008-9,E07000125,Road Safety & Defects,1,1,1.0
+2008-9,E07000126,Environmental Health,1,1,1.0
+2008-9,E07000128,Road Safety & Defects,1,1,1.0
+2008-9,E07000130,Environmental Health,2,2,1.0
+2008-9,E07000130,Other,1,1,1.0
+2008-9,E07000130,Road Safety & Defects,1,1,1.0
+2008-9,E07000131,Road Safety & Defects,1,1,1.0
+2008-9,E07000132,Road Safety & Defects,1,1,1.0
+2008-9,E07000134,Road Safety & Defects,1,1,1.0
+2008-9,E07000135,Other,1,1,1.0
+2008-9,E07000135,Road Safety & Defects,2,1,2.0
+2008-9,E07000136,Other,1,1,1.0
+2008-9,E07000137,Road Safety & Defects,4,4,1.0
+2008-9,E07000138,Other,3,3,1.0
+2008-9,E07000138,Road Safety & Defects,1,1,1.0
+2008-9,E07000139,Road Safety & Defects,2,2,1.0
+2008-9,E07000139,Vehicles,1,1,1.0
+2008-9,E07000140,Road Safety & Defects,2,2,1.0
+2008-9,E07000141,Environmental Disruptions,2,2,1.0
+2008-9,E07000141,Incivilities,1,1,1.0
+2008-9,E07000141,Road Safety & Defects,14,7,2.0
+2008-9,E07000141,Vehicles,2,2,1.0
+2008-9,E07000142,Road Safety & Defects,2,2,1.0
+2008-9,E07000143,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000143,Environmental Health,1,1,1.0
+2008-9,E07000143,Incivilities,1,1,1.0
+2008-9,E07000143,Other,3,3,1.0
+2008-9,E07000143,Public Space,1,1,1.0
+2008-9,E07000143,Road Safety & Defects,3,1,3.0
+2008-9,E07000143,Vehicles,2,1,2.0
+2008-9,E07000144,Incivilities,1,1,1.0
+2008-9,E07000144,Road Safety & Defects,1,1,1.0
+2008-9,E07000145,Environmental Health,4,2,2.0
+2008-9,E07000145,Incivilities,2,2,1.0
+2008-9,E07000145,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,E07000146,Environmental Health,8,3,2.6666666666666665
+2008-9,E07000146,Road Safety & Defects,1,1,1.0
+2008-9,E07000147,Access,1,1,1.0
+2008-9,E07000147,Environmental Disruptions,2,1,2.0
+2008-9,E07000147,Environmental Health,1,1,1.0
+2008-9,E07000147,Incivilities,1,1,1.0
+2008-9,E07000147,Other,1,1,1.0
+2008-9,E07000147,Road Safety & Defects,2,2,1.0
+2008-9,E07000148,Environmental Disruptions,1,1,1.0
+2008-9,E07000149,Environmental Disruptions,1,1,1.0
+2008-9,E07000149,Environmental Health,1,1,1.0
+2008-9,E07000149,Other,1,1,1.0
+2008-9,E07000149,Vehicles,1,1,1.0
+2008-9,E07000152,Environmental Health,1,1,1.0
+2008-9,E07000152,Incivilities,1,1,1.0
+2008-9,E07000153,Road Safety & Defects,2,1,2.0
+2008-9,E07000154,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000154,Environmental Health,2,1,2.0
+2008-9,E07000154,Road Safety & Defects,1,1,1.0
+2008-9,E07000154,Vehicles,2,2,1.0
+2008-9,E07000155,Environmental Health,1,1,1.0
+2008-9,E07000155,Other,1,1,1.0
+2008-9,E07000155,Road Safety & Defects,2,2,1.0
+2008-9,E07000156,Environmental Health,1,1,1.0
+2008-9,E07000156,Other,1,1,1.0
+2008-9,E07000163,Road Safety & Defects,2,2,1.0
+2008-9,E07000164,Other,1,1,1.0
+2008-9,E07000164,Road Safety & Defects,1,1,1.0
+2008-9,E07000165,Environmental Health,4,4,1.0
+2008-9,E07000165,Other,1,1,1.0
+2008-9,E07000166,Road Safety & Defects,2,1,2.0
+2008-9,E07000167,Road Safety & Defects,2,1,2.0
+2008-9,E07000169,Road Safety & Defects,2,2,1.0
+2008-9,E07000171,Environmental Disruptions,2,2,1.0
+2008-9,E07000171,Environmental Health,2,2,1.0
+2008-9,E07000171,Other,1,1,1.0
+2008-9,E07000171,Road Safety & Defects,1,1,1.0
+2008-9,E07000173,Other,1,1,1.0
+2008-9,E07000173,Road Safety & Defects,2,2,1.0
+2008-9,E07000174,Road Safety & Defects,1,1,1.0
+2008-9,E07000175,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000175,Road Safety & Defects,1,1,1.0
+2008-9,E07000177,Road Safety & Defects,3,1,3.0
+2008-9,E07000178,Environmental Health,2,2,1.0
+2008-9,E07000178,Other,1,1,1.0
+2008-9,E07000178,Road Safety & Defects,7,7,1.0
+2008-9,E07000178,Vehicles,1,1,1.0
+2008-9,E07000179,Environmental Health,3,3,1.0
+2008-9,E07000179,Incivilities,1,1,1.0
+2008-9,E07000179,Other,1,1,1.0
+2008-9,E07000179,Road Safety & Defects,8,4,2.0
+2008-9,E07000180,Road Safety & Defects,1,1,1.0
+2008-9,E07000181,Other,1,1,1.0
+2008-9,E07000181,Public Space,1,1,1.0
+2008-9,E07000181,Road Safety & Defects,1,1,1.0
+2008-9,E07000187,Environmental Health,1,1,1.0
+2008-9,E07000187,Road Safety & Defects,5,2,2.5
+2008-9,E07000188,Environmental Health,2,1,2.0
+2008-9,E07000188,Road Safety & Defects,1,1,1.0
+2008-9,E07000189,Environmental Health,1,1,1.0
+2008-9,E07000189,Road Safety & Defects,3,2,1.5
+2008-9,E07000190,Environmental Health,1,1,1.0
+2008-9,E07000192,Environmental Health,3,2,1.5
+2008-9,E07000193,Vehicles,1,1,1.0
+2008-9,E07000194,Vehicles,1,1,1.0
+2008-9,E07000195,Environmental Disruptions,1,1,1.0
+2008-9,E07000197,Road Safety & Defects,1,1,1.0
+2008-9,E07000198,Road Safety & Defects,1,1,1.0
+2008-9,E07000199,Incivilities,1,1,1.0
+2008-9,E07000199,Other,1,1,1.0
+2008-9,E07000200,Environmental Health,1,1,1.0
+2008-9,E07000200,Other,2,1,2.0
+2008-9,E07000201,Environmental Health,8,2,4.0
+2008-9,E07000201,Incivilities,2,1,2.0
+2008-9,E07000201,Other,1,1,1.0
+2008-9,E07000202,Environmental Disruptions,1,1,1.0
+2008-9,E07000202,Environmental Health,5,2,2.5
+2008-9,E07000202,Incivilities,17,3,5.666666666666667
+2008-9,E07000202,Other,1,1,1.0
+2008-9,E07000202,Road Safety & Defects,23,8,2.875
+2008-9,E07000203,Environmental Health,1,1,1.0
+2008-9,E07000203,Other,1,1,1.0
+2008-9,E07000204,Road Safety & Defects,2,2,1.0
+2008-9,E07000205,Other,1,1,1.0
+2008-9,E07000205,Road Safety & Defects,1,1,1.0
+2008-9,E07000206,Other,1,1,1.0
+2008-9,E07000207,Other,1,1,1.0
+2008-9,E07000207,Road Safety & Defects,1,1,1.0
+2008-9,E07000207,Vehicles,1,1,1.0
+2008-9,E07000208,Road Safety & Defects,3,2,1.5
+2008-9,E07000209,Environmental Disruptions,2,1,2.0
+2008-9,E07000209,Environmental Health,1,1,1.0
+2008-9,E07000209,Road Safety & Defects,17,7,2.4285714285714284
+2008-9,E07000210,Environmental Health,1,1,1.0
+2008-9,E07000210,Road Safety & Defects,5,4,1.25
+2008-9,E07000211,Environmental Disruptions,1,1,1.0
+2008-9,E07000211,Environmental Health,1,1,1.0
+2008-9,E07000211,Other,2,2,1.0
+2008-9,E07000211,Public Space,1,1,1.0
+2008-9,E07000211,Road Safety & Defects,4,4,1.0
+2008-9,E07000211,Vehicles,1,1,1.0
+2008-9,E07000212,Environmental Health,1,1,1.0
+2008-9,E07000212,Other,1,1,1.0
+2008-9,E07000213,Environmental Disruptions,2,2,1.0
+2008-9,E07000213,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,E07000214,Other,1,1,1.0
+2008-9,E07000214,Road Safety & Defects,2,2,1.0
+2008-9,E07000215,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E07000215,Environmental Health,1,1,1.0
+2008-9,E07000215,Road Safety & Defects,5,3,1.6666666666666667
+2008-9,E07000216,Road Safety & Defects,9,7,1.2857142857142858
+2008-9,E07000217,Other,3,3,1.0
+2008-9,E07000217,Road Safety & Defects,3,3,1.0
+2008-9,E07000217,Vehicles,1,1,1.0
+2008-9,E07000219,Other,1,1,1.0
+2008-9,E07000221,Environmental Health,2,2,1.0
+2008-9,E07000221,Road Safety & Defects,2,2,1.0
+2008-9,E07000222,Environmental Health,2,2,1.0
+2008-9,E07000222,Other,1,1,1.0
+2008-9,E07000222,Road Safety & Defects,1,1,1.0
+2008-9,E07000223,Environmental Health,1,1,1.0
+2008-9,E07000223,Vehicles,1,1,1.0
+2008-9,E07000224,Environmental Health,1,1,1.0
+2008-9,E07000225,Road Safety & Defects,1,1,1.0
+2008-9,E07000225,Vehicles,1,1,1.0
+2008-9,E07000226,Other,2,2,1.0
+2008-9,E07000226,Road Safety & Defects,1,1,1.0
+2008-9,E07000227,Road Safety & Defects,2,1,2.0
+2008-9,E07000228,Road Safety & Defects,2,2,1.0
+2008-9,E07000229,Environmental Health,2,2,1.0
+2008-9,E07000236,Road Safety & Defects,3,3,1.0
+2008-9,E07000237,Environmental Health,1,1,1.0
+2008-9,E07000238,Road Safety & Defects,1,1,1.0
+2008-9,E07000239,Environmental Health,1,1,1.0
+2008-9,E07000239,Road Safety & Defects,1,1,1.0
+2008-9,E07000240,Other,1,1,1.0
+2008-9,E07000241,Environmental Disruptions,1,1,1.0
+2008-9,E07000241,Incivilities,1,1,1.0
+2008-9,E07000241,Road Safety & Defects,1,1,1.0
+2008-9,E07000242,Environmental Health,2,2,1.0
+2008-9,E07000242,Incivilities,1,1,1.0
+2008-9,E07000242,Other,1,1,1.0
+2008-9,E07000242,Road Safety & Defects,1,1,1.0
+2008-9,E07000243,Environmental Health,2,2,1.0
+2008-9,E07000243,Incivilities,1,1,1.0
+2008-9,E08000001,Other,2,2,1.0
+2008-9,E08000001,Vehicles,1,1,1.0
+2008-9,E08000002,Environmental Health,1,1,1.0
+2008-9,E08000002,Road Safety & Defects,4,4,1.0
+2008-9,E08000003,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E08000003,Environmental Disruptions,1,1,1.0
+2008-9,E08000003,Environmental Health,3,3,1.0
+2008-9,E08000003,Other,6,1,6.0
+2008-9,E08000003,Road Safety & Defects,11,10,1.1
+2008-9,E08000004,Environmental Disruptions,1,1,1.0
+2008-9,E08000004,Road Safety & Defects,1,1,1.0
+2008-9,E08000005,Incivilities,1,1,1.0
+2008-9,E08000005,Other,1,1,1.0
+2008-9,E08000006,Environmental Disruptions,2,2,1.0
+2008-9,E08000006,Environmental Health,2,2,1.0
+2008-9,E08000006,Incivilities,5,4,1.25
+2008-9,E08000006,Other,3,3,1.0
+2008-9,E08000006,Road Safety & Defects,17,8,2.125
+2008-9,E08000006,Vehicles,1,1,1.0
+2008-9,E08000007,Environmental Disruptions,1,1,1.0
+2008-9,E08000007,Environmental Health,2,2,1.0
+2008-9,E08000007,Incivilities,1,1,1.0
+2008-9,E08000007,Other,2,2,1.0
+2008-9,E08000007,Road Safety & Defects,3,3,1.0
+2008-9,E08000008,Road Safety & Defects,1,1,1.0
+2008-9,E08000009,Environmental Health,1,1,1.0
+2008-9,E08000009,Other,5,4,1.25
+2008-9,E08000009,Public Space,1,1,1.0
+2008-9,E08000009,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,E08000010,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E08000010,Environmental Disruptions,2,2,1.0
+2008-9,E08000010,Environmental Health,1,1,1.0
+2008-9,E08000010,Other,2,1,2.0
+2008-9,E08000010,Road Safety & Defects,3,2,1.5
+2008-9,E08000010,Vehicles,2,2,1.0
+2008-9,E08000011,Environmental Health,1,1,1.0
+2008-9,E08000011,Other,1,1,1.0
+2008-9,E08000011,Road Safety & Defects,1,1,1.0
+2008-9,E08000012,Environmental Health,4,3,1.3333333333333333
+2008-9,E08000012,Road Safety & Defects,1,1,1.0
+2008-9,E08000014,Road Safety & Defects,6,5,1.2
+2008-9,E08000015,Road Safety & Defects,2,2,1.0
+2008-9,E08000016,Environmental Health,3,3,1.0
+2008-9,E08000016,Other,1,1,1.0
+2008-9,E08000016,Road Safety & Defects,1,1,1.0
+2008-9,E08000017,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E08000017,Road Safety & Defects,8,7,1.1428571428571428
+2008-9,E08000018,Environmental Disruptions,1,1,1.0
+2008-9,E08000018,Environmental Health,5,4,1.25
+2008-9,E08000018,Other,11,4,2.75
+2008-9,E08000018,Public Space,4,1,4.0
+2008-9,E08000018,Road Safety & Defects,7,5,1.4
+2008-9,E08000019,Abandoned Vehicles & Parking,3,3,1.0
+2008-9,E08000019,Environmental Disruptions,4,4,1.0
+2008-9,E08000019,Environmental Health,6,5,1.2
+2008-9,E08000019,Incivilities,2,2,1.0
+2008-9,E08000019,Other,11,9,1.2222222222222223
+2008-9,E08000019,Road Safety & Defects,50,19,2.6315789473684212
+2008-9,E08000019,Vehicles,1,1,1.0
+2008-9,E08000021,Road Safety & Defects,5,5,1.0
+2008-9,E08000022,Other,2,2,1.0
+2008-9,E08000022,Public Space,1,1,1.0
+2008-9,E08000022,Road Safety & Defects,1,1,1.0
+2008-9,E08000023,Environmental Health,1,1,1.0
+2008-9,E08000023,Other,1,1,1.0
+2008-9,E08000023,Road Safety & Defects,1,1,1.0
+2008-9,E08000024,Environmental Disruptions,1,1,1.0
+2008-9,E08000024,Environmental Health,1,1,1.0
+2008-9,E08000024,Road Safety & Defects,2,2,1.0
+2008-9,E08000025,Environmental Disruptions,1,1,1.0
+2008-9,E08000025,Environmental Health,8,6,1.3333333333333333
+2008-9,E08000025,Other,7,5,1.4
+2008-9,E08000025,Road Safety & Defects,15,15,1.0
+2008-9,E08000025,Vehicles,2,2,1.0
+2008-9,E08000026,Other,1,1,1.0
+2008-9,E08000027,Environmental Health,1,1,1.0
+2008-9,E08000027,Road Safety & Defects,5,3,1.6666666666666667
+2008-9,E08000028,Environmental Health,1,1,1.0
+2008-9,E08000028,Road Safety & Defects,2,1,2.0
+2008-9,E08000029,Environmental Health,2,2,1.0
+2008-9,E08000029,Public Space,1,1,1.0
+2008-9,E08000029,Road Safety & Defects,2,2,1.0
+2008-9,E08000030,Road Safety & Defects,1,1,1.0
+2008-9,E08000032,Environmental Health,1,1,1.0
+2008-9,E08000032,Road Safety & Defects,5,5,1.0
+2008-9,E08000033,Environmental Health,3,3,1.0
+2008-9,E08000033,Other,1,1,1.0
+2008-9,E08000033,Road Safety & Defects,2,2,1.0
+2008-9,E08000034,Environmental Health,1,1,1.0
+2008-9,E08000034,Incivilities,1,1,1.0
+2008-9,E08000034,Other,1,1,1.0
+2008-9,E08000034,Road Safety & Defects,2,2,1.0
+2008-9,E08000035,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E08000035,Environmental Disruptions,2,2,1.0
+2008-9,E08000035,Environmental Health,2,2,1.0
+2008-9,E08000035,Incivilities,2,2,1.0
+2008-9,E08000035,Other,3,3,1.0
+2008-9,E08000035,Public Space,1,1,1.0
+2008-9,E08000035,Road Safety & Defects,10,10,1.0
+2008-9,E08000036,Environmental Health,1,1,1.0
+2008-9,E08000036,Other,2,2,1.0
+2008-9,E08000036,Road Safety & Defects,2,2,1.0
+2008-9,E08000037,Environmental Health,1,1,1.0
+2008-9,E09000001,Road Safety & Defects,1,1,1.0
+2008-9,E09000003,Abandoned Vehicles & Parking,2,2,1.0
+2008-9,E09000003,Environmental Health,2,2,1.0
+2008-9,E09000003,Incivilities,3,3,1.0
+2008-9,E09000003,Other,4,4,1.0
+2008-9,E09000003,Road Safety & Defects,8,6,1.3333333333333333
+2008-9,E09000004,Environmental Health,1,1,1.0
+2008-9,E09000004,Road Safety & Defects,2,2,1.0
+2008-9,E09000005,Environmental Health,2,2,1.0
+2008-9,E09000005,Other,2,2,1.0
+2008-9,E09000005,Road Safety & Defects,1,1,1.0
+2008-9,E09000006,Abandoned Vehicles & Parking,3,3,1.0
+2008-9,E09000006,Environmental Disruptions,1,1,1.0
+2008-9,E09000006,Incivilities,1,1,1.0
+2008-9,E09000006,Other,1,1,1.0
+2008-9,E09000006,Road Safety & Defects,1,1,1.0
+2008-9,E09000006,Vehicles,1,1,1.0
+2008-9,E09000007,Environmental Health,1,1,1.0
+2008-9,E09000007,Incivilities,1,1,1.0
+2008-9,E09000007,Other,1,1,1.0
+2008-9,E09000007,Road Safety & Defects,7,7,1.0
+2008-9,E09000008,Environmental Health,4,4,1.0
+2008-9,E09000008,Road Safety & Defects,1,1,1.0
+2008-9,E09000009,Environmental Disruptions,1,1,1.0
+2008-9,E09000009,Environmental Health,2,2,1.0
+2008-9,E09000009,Incivilities,2,2,1.0
+2008-9,E09000009,Road Safety & Defects,8,8,1.0
+2008-9,E09000010,Environmental Health,2,2,1.0
+2008-9,E09000010,Road Safety & Defects,4,4,1.0
+2008-9,E09000010,Vehicles,2,2,1.0
+2008-9,E09000011,Environmental Health,1,1,1.0
+2008-9,E09000011,Other,1,1,1.0
+2008-9,E09000011,Road Safety & Defects,4,4,1.0
+2008-9,E09000011,Vehicles,1,1,1.0
+2008-9,E09000012,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E09000012,Environmental Health,2,2,1.0
+2008-9,E09000012,Other,2,2,1.0
+2008-9,E09000012,Road Safety & Defects,3,3,1.0
+2008-9,E09000012,Vehicles,1,1,1.0
+2008-9,E09000013,Environmental Health,3,3,1.0
+2008-9,E09000013,Incivilities,1,1,1.0
+2008-9,E09000013,Other,1,1,1.0
+2008-9,E09000014,Environmental Health,3,3,1.0
+2008-9,E09000014,Other,4,4,1.0
+2008-9,E09000014,Road Safety & Defects,1,1,1.0
+2008-9,E09000014,Vehicles,1,1,1.0
+2008-9,E09000015,Environmental Health,2,2,1.0
+2008-9,E09000015,Other,1,1,1.0
+2008-9,E09000015,Road Safety & Defects,3,3,1.0
+2008-9,E09000016,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E09000016,Environmental Disruptions,3,2,1.5
+2008-9,E09000016,Environmental Health,1,1,1.0
+2008-9,E09000016,Other,1,1,1.0
+2008-9,E09000016,Road Safety & Defects,3,3,1.0
+2008-9,E09000017,Environmental Health,2,1,2.0
+2008-9,E09000017,Public Space,1,1,1.0
+2008-9,E09000017,Road Safety & Defects,3,2,1.5
+2008-9,E09000017,Vehicles,2,2,1.0
+2008-9,E09000018,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E09000018,Incivilities,1,1,1.0
+2008-9,E09000018,Other,2,2,1.0
+2008-9,E09000018,Road Safety & Defects,2,2,1.0
+2008-9,E09000018,Vehicles,3,3,1.0
+2008-9,E09000019,Environmental Health,5,3,1.6666666666666667
+2008-9,E09000019,Incivilities,2,2,1.0
+2008-9,E09000019,Road Safety & Defects,3,3,1.0
+2008-9,E09000020,Environmental Health,1,1,1.0
+2008-9,E09000020,Other,1,1,1.0
+2008-9,E09000020,Road Safety & Defects,8,4,2.0
+2008-9,E09000021,Environmental Health,1,1,1.0
+2008-9,E09000021,Other,2,2,1.0
+2008-9,E09000022,Environmental Disruptions,1,1,1.0
+2008-9,E09000022,Environmental Health,3,3,1.0
+2008-9,E09000022,Incivilities,1,1,1.0
+2008-9,E09000022,Other,2,2,1.0
+2008-9,E09000022,Road Safety & Defects,10,10,1.0
+2008-9,E09000023,Environmental Disruptions,1,1,1.0
+2008-9,E09000023,Environmental Health,4,4,1.0
+2008-9,E09000023,Other,1,1,1.0
+2008-9,E09000023,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,E09000023,Vehicles,1,1,1.0
+2008-9,E09000024,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E09000024,Environmental Health,2,2,1.0
+2008-9,E09000024,Incivilities,1,1,1.0
+2008-9,E09000024,Other,1,1,1.0
+2008-9,E09000024,Road Safety & Defects,2,2,1.0
+2008-9,E09000025,Environmental Health,2,2,1.0
+2008-9,E09000025,Other,1,1,1.0
+2008-9,E09000025,Road Safety & Defects,1,1,1.0
+2008-9,E09000026,Abandoned Vehicles & Parking,2,1,2.0
+2008-9,E09000026,Environmental Disruptions,2,2,1.0
+2008-9,E09000026,Environmental Health,2,2,1.0
+2008-9,E09000026,Other,1,1,1.0
+2008-9,E09000026,Road Safety & Defects,5,5,1.0
+2008-9,E09000026,Vehicles,1,1,1.0
+2008-9,E09000027,Environmental Disruptions,1,1,1.0
+2008-9,E09000027,Other,1,1,1.0
+2008-9,E09000027,Road Safety & Defects,2,2,1.0
+2008-9,E09000028,Environmental Health,1,1,1.0
+2008-9,E09000028,Other,1,1,1.0
+2008-9,E09000028,Road Safety & Defects,7,6,1.1666666666666667
+2008-9,E09000029,Environmental Health,1,1,1.0
+2008-9,E09000029,Road Safety & Defects,1,1,1.0
+2008-9,E09000030,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,E09000030,Environmental Disruptions,2,1,2.0
+2008-9,E09000030,Environmental Health,3,3,1.0
+2008-9,E09000030,Incivilities,2,1,2.0
+2008-9,E09000030,Road Safety & Defects,3,3,1.0
+2008-9,E09000031,Environmental Health,9,6,1.5
+2008-9,E09000031,Incivilities,1,1,1.0
+2008-9,E09000031,Other,4,4,1.0
+2008-9,E09000031,Public Space,1,1,1.0
+2008-9,E09000031,Vehicles,1,1,1.0
+2008-9,E09000032,Environmental Health,6,5,1.2
+2008-9,E09000032,Incivilities,1,1,1.0
+2008-9,E09000032,Other,7,3,2.3333333333333335
+2008-9,E09000032,Road Safety & Defects,8,8,1.0
+2008-9,E09000032,Vehicles,2,2,1.0
+2008-9,E09000033,Environmental Health,2,2,1.0
+2008-9,E09000033,Incivilities,1,1,1.0
+2008-9,E09000033,Road Safety & Defects,9,8,1.125
+2008-9,S12000010,Environmental Health,3,1,3.0
+2008-9,S12000010,Other,1,1,1.0
+2008-9,S12000011,Road Safety & Defects,1,1,1.0
+2008-9,S12000014,Abandoned Vehicles & Parking,2,1,2.0
+2008-9,S12000014,Environmental Disruptions,5,4,1.25
+2008-9,S12000014,Environmental Health,4,4,1.0
+2008-9,S12000014,Other,3,2,1.5
+2008-9,S12000014,Road Safety & Defects,22,16,1.375
+2008-9,S12000015,Environmental Health,2,2,1.0
+2008-9,S12000015,Other,2,2,1.0
+2008-9,S12000015,Road Safety & Defects,10,8,1.25
+2008-9,S12000015,Vehicles,2,2,1.0
+2008-9,S12000017,Environmental Health,1,1,1.0
+2008-9,S12000017,Other,1,1,1.0
+2008-9,S12000017,Road Safety & Defects,1,1,1.0
+2008-9,S12000018,Other,1,1,1.0
+2008-9,S12000018,Road Safety & Defects,2,2,1.0
+2008-9,S12000019,Public Space,1,1,1.0
+2008-9,S12000019,Road Safety & Defects,1,1,1.0
+2008-9,S12000020,Environmental Disruptions,1,1,1.0
+2008-9,S12000020,Environmental Health,1,1,1.0
+2008-9,S12000021,Environmental Health,1,1,1.0
+2008-9,S12000021,Other,1,1,1.0
+2008-9,S12000021,Road Safety & Defects,2,2,1.0
+2008-9,S12000024,Environmental Health,2,2,1.0
+2008-9,S12000028,Road Safety & Defects,6,5,1.2
+2008-9,S12000029,Abandoned Vehicles & Parking,2,2,1.0
+2008-9,S12000029,Environmental Health,4,4,1.0
+2008-9,S12000029,Incivilities,2,1,2.0
+2008-9,S12000029,Other,1,1,1.0
+2008-9,S12000029,Road Safety & Defects,6,6,1.0
+2008-9,S12000030,Other,1,1,1.0
+2008-9,S12000030,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,S12000033,Environmental Health,1,1,1.0
+2008-9,S12000033,Incivilities,1,1,1.0
+2008-9,S12000033,Road Safety & Defects,10,2,5.0
+2008-9,S12000033,Vehicles,1,1,1.0
+2008-9,S12000034,Public Space,1,1,1.0
+2008-9,S12000034,Road Safety & Defects,1,1,1.0
+2008-9,S12000035,Road Safety & Defects,1,1,1.0
+2008-9,S12000036,Abandoned Vehicles & Parking,1,1,1.0
+2008-9,S12000036,Environmental Health,7,6,1.1666666666666667
+2008-9,S12000036,Incivilities,2,2,1.0
+2008-9,S12000036,Other,5,4,1.25
+2008-9,S12000036,Public Space,2,1,2.0
+2008-9,S12000036,Road Safety & Defects,12,11,1.0909090909090908
+2008-9,S12000036,Vehicles,3,3,1.0
+2008-9,S12000038,Environmental Health,1,1,1.0
+2008-9,S12000038,Other,1,1,1.0
+2008-9,S12000038,Road Safety & Defects,13,6,2.1666666666666665
+2008-9,S12000039,Road Safety & Defects,1,1,1.0
+2008-9,S12000040,Road Safety & Defects,3,3,1.0
+2008-9,S12000042,Incivilities,1,1,1.0
+2008-9,S12000044,Environmental Health,1,1,1.0
+2008-9,S12000044,Road Safety & Defects,2,2,1.0
+2008-9,S12000045,Environmental Health,1,1,1.0
+2008-9,S12000045,Incivilities,1,1,1.0
+2008-9,S12000045,Other,2,2,1.0
+2008-9,S12000045,Public Space,2,1,2.0
+2008-9,S12000045,Road Safety & Defects,6,3,2.0
+2008-9,S12000046,Abandoned Vehicles & Parking,2,2,1.0
+2008-9,S12000046,Environmental Disruptions,2,1,2.0
+2008-9,S12000046,Environmental Health,5,4,1.25
+2008-9,S12000046,Incivilities,2,2,1.0
+2008-9,S12000046,Other,5,5,1.0
+2008-9,S12000046,Road Safety & Defects,12,8,1.5
+2008-9,W06000002,Environmental Health,1,1,1.0
+2008-9,W06000003,Environmental Health,2,2,1.0
+2008-9,W06000003,Road Safety & Defects,6,5,1.2
+2008-9,W06000005,Other,1,1,1.0
+2008-9,W06000008,Environmental Health,1,1,1.0
+2008-9,W06000009,Vehicles,1,1,1.0
+2008-9,W06000010,Other,1,1,1.0
+2008-9,W06000010,Road Safety & Defects,1,1,1.0
+2008-9,W06000011,Abandoned Vehicles & Parking,2,1,2.0
+2008-9,W06000011,Environmental Health,3,3,1.0
+2008-9,W06000011,Other,3,3,1.0
+2008-9,W06000011,Road Safety & Defects,2,2,1.0
+2008-9,W06000012,Vehicles,1,1,1.0
+2008-9,W06000013,Other,1,1,1.0
+2008-9,W06000015,Incivilities,1,1,1.0
+2008-9,W06000015,Other,1,1,1.0
+2008-9,W06000015,Road Safety & Defects,4,4,1.0
+2008-9,W06000016,Environmental Health,3,3,1.0
+2008-9,W06000016,Other,2,2,1.0
+2008-9,W06000016,Road Safety & Defects,4,3,1.3333333333333333
+2008-9,W06000018,Other,1,1,1.0
+2008-9,W06000020,Road Safety & Defects,1,1,1.0
+2008-9,W06000021,Road Safety & Defects,5,4,1.25
+2008-9,W06000024,Other,2,2,1.0

@@ -1,0 +1,651 @@
+period,LAD,SHEF_A,report_count,user_count,average
+2007-8,E06000001,Other,1,1,1.0
+2007-8,E06000002,Other,1,1,1.0
+2007-8,E06000003,Other,1,1,1.0
+2007-8,E06000004,Bus Stops Damage,1,1,1.0
+2007-8,E06000004,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000004,Street Cleaning,1,1,1.0
+2007-8,E06000005,Other,2,2,1.0
+2007-8,E06000005,Potholes,1,1,1.0
+2007-8,E06000006,Parking,1,1,1.0
+2007-8,E06000008,Abandoned Vehicles,1,1,1.0
+2007-8,E06000009,Abandoned Vehicles,1,1,1.0
+2007-8,E06000010,Other,1,1,1.0
+2007-8,E06000010,Potholes,1,1,1.0
+2007-8,E06000010,Traffic Lights,1,1,1.0
+2007-8,E06000011,Other,1,1,1.0
+2007-8,E06000012,Dog Fouling,1,1,1.0
+2007-8,E06000012,Highway Condition,1,1,1.0
+2007-8,E06000012,Street Cleaning,1,1,1.0
+2007-8,E06000012,Street Lights,1,1,1.0
+2007-8,E06000013,Other,1,1,1.0
+2007-8,E06000013,Rubbish,1,1,1.0
+2007-8,E06000014,Abandoned Vehicles,1,1,1.0
+2007-8,E06000014,Open Spaces/Parks,1,1,1.0
+2007-8,E06000014,Street Cleaning,1,1,1.0
+2007-8,E06000015,Abandoned Vehicles,2,2,1.0
+2007-8,E06000015,Graffiti,1,1,1.0
+2007-8,E06000016,Dog Fouling,1,1,1.0
+2007-8,E06000016,Highway Condition,1,1,1.0
+2007-8,E06000018,Abandoned Vehicles,1,1,1.0
+2007-8,E06000018,Dog Fouling,1,1,1.0
+2007-8,E06000018,Fly-tipping,1,1,1.0
+2007-8,E06000018,Graffiti,1,1,1.0
+2007-8,E06000018,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000019,Abandoned Vehicles,3,2,1.5
+2007-8,E06000019,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E06000019,Fly-tipping,2,1,2.0
+2007-8,E06000019,Graffiti,8,3,2.6666666666666665
+2007-8,E06000019,Highway Condition,2,2,1.0
+2007-8,E06000019,Other,3,3,1.0
+2007-8,E06000019,Parking,1,1,1.0
+2007-8,E06000019,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000019,Potholes,3,3,1.0
+2007-8,E06000020,Rubbish,1,1,1.0
+2007-8,E06000021,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E06000021,Fly-tipping,2,1,2.0
+2007-8,E06000021,Rubbish,1,1,1.0
+2007-8,E06000022,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000023,Dog Fouling,1,1,1.0
+2007-8,E06000023,Fly-tipping,3,3,1.0
+2007-8,E06000023,Graffiti,1,1,1.0
+2007-8,E06000023,Highway Condition,1,1,1.0
+2007-8,E06000023,Other,1,1,1.0
+2007-8,E06000023,Rubbish,1,1,1.0
+2007-8,E06000023,Street Cleaning,1,1,1.0
+2007-8,E06000026,Dog Fouling,1,1,1.0
+2007-8,E06000026,Fly-tipping,2,2,1.0
+2007-8,E06000026,Potholes,1,1,1.0
+2007-8,E06000027,Abandoned Vehicles,1,1,1.0
+2007-8,E06000027,Street Cleaning,1,1,1.0
+2007-8,E06000029,Abandoned Vehicles,1,1,1.0
+2007-8,E06000030,Abandoned Vehicles,2,2,1.0
+2007-8,E06000030,Fly-tipping,2,2,1.0
+2007-8,E06000030,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000030,Street Cleaning,1,1,1.0
+2007-8,E06000031,Dog Fouling,2,2,1.0
+2007-8,E06000031,Fallen/Dangerous Trees,3,3,1.0
+2007-8,E06000031,Fly-tipping,1,1,1.0
+2007-8,E06000031,Graffiti,3,1,3.0
+2007-8,E06000031,Highway Condition,2,2,1.0
+2007-8,E06000031,Open Spaces/Parks,5,4,1.25
+2007-8,E06000031,Other,3,2,1.5
+2007-8,E06000031,Pavement /Footway Defects,6,4,1.5
+2007-8,E06000031,Potholes,1,1,1.0
+2007-8,E06000031,Street Cleaning,1,1,1.0
+2007-8,E06000031,Street Lights,4,4,1.0
+2007-8,E06000032,Abandoned Vehicles,2,2,1.0
+2007-8,E06000034,Abandoned Vehicles,1,1,1.0
+2007-8,E06000034,Other,1,1,1.0
+2007-8,E06000035,Abandoned Vehicles,2,2,1.0
+2007-8,E06000035,Fly-tipping,1,1,1.0
+2007-8,E06000037,Abandoned Vehicles,1,1,1.0
+2007-8,E06000038,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E06000038,Graffiti,4,3,1.3333333333333333
+2007-8,E06000038,Highway Condition,1,1,1.0
+2007-8,E06000038,Other,1,1,1.0
+2007-8,E06000038,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000038,Rubbish,1,1,1.0
+2007-8,E06000039,Fly-tipping,1,1,1.0
+2007-8,E06000039,Potholes,1,1,1.0
+2007-8,E06000041,Bus Stops Damage,1,1,1.0
+2007-8,E06000041,Street Name Plates,1,1,1.0
+2007-8,E06000042,Abandoned Vehicles,1,1,1.0
+2007-8,E06000042,Dog Fouling,1,1,1.0
+2007-8,E06000042,Fly-tipping,3,2,1.5
+2007-8,E06000043,Abandoned Vehicles,2,2,1.0
+2007-8,E06000043,Graffiti,2,2,1.0
+2007-8,E06000043,Other,1,1,1.0
+2007-8,E06000043,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000043,Recycling,1,1,1.0
+2007-8,E06000044,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000045,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000045,Potholes,4,2,2.0
+2007-8,E06000046,Parking,2,2,1.0
+2007-8,E06000047,Highway Condition,2,1,2.0
+2007-8,E06000047,Potholes,1,1,1.0
+2007-8,E06000049,Highway Condition,1,1,1.0
+2007-8,E06000049,Other,2,2,1.0
+2007-8,E06000049,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000049,Potholes,3,2,1.5
+2007-8,E06000049,Street Lights,2,2,1.0
+2007-8,E06000050,Dog Fouling,1,1,1.0
+2007-8,E06000050,Pavement /Footway Defects,1,1,1.0
+2007-8,E06000051,Other,1,1,1.0
+2007-8,E06000052,Dog Fouling,1,1,1.0
+2007-8,E06000054,Abandoned Vehicles,4,4,1.0
+2007-8,E06000054,Dog Fouling,3,3,1.0
+2007-8,E06000054,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E06000054,Fly-tipping,3,2,1.5
+2007-8,E06000054,Open Spaces/Parks,2,1,2.0
+2007-8,E06000054,Other,2,2,1.0
+2007-8,E06000054,Potholes,1,1,1.0
+2007-8,E06000054,Rubbish,1,1,1.0
+2007-8,E06000054,Street Cleaning,1,1,1.0
+2007-8,E06000054,Street Signs,1,1,1.0
+2007-8,E06000055,Fly-tipping,1,1,1.0
+2007-8,E06000055,Open Spaces/Parks,1,1,1.0
+2007-8,E06000055,Street Lights,1,1,1.0
+2007-8,E06000056,Abandoned Vehicles,1,1,1.0
+2007-8,E06000057,Abandoned Vehicles,1,1,1.0
+2007-8,E06000057,Dog Fouling,1,1,1.0
+2007-8,E06000057,Fallen/Dangerous Trees,2,2,1.0
+2007-8,E06000057,Highway Condition,4,1,4.0
+2007-8,E06000057,Other,2,2,1.0
+2007-8,E06000057,Potholes,2,1,2.0
+2007-8,E06000057,Street Signs,1,1,1.0
+2007-8,E07000004,Abandoned Vehicles,1,1,1.0
+2007-8,E07000004,Other,1,1,1.0
+2007-8,E07000004,Parking,1,1,1.0
+2007-8,E07000004,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000005,Abandoned Vehicles,1,1,1.0
+2007-8,E07000006,Open Spaces/Parks,1,1,1.0
+2007-8,E07000007,Graffiti,1,1,1.0
+2007-8,E07000007,Parking,1,1,1.0
+2007-8,E07000008,Highway Condition,2,2,1.0
+2007-8,E07000008,Other,2,2,1.0
+2007-8,E07000008,Pavement /Footway Defects,3,3,1.0
+2007-8,E07000008,Street Signs,1,1,1.0
+2007-8,E07000008,Traffic Lights,1,1,1.0
+2007-8,E07000010,Dog Fouling,1,1,1.0
+2007-8,E07000011,Highway Condition,1,1,1.0
+2007-8,E07000011,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000011,Street Signs,1,1,1.0
+2007-8,E07000012,Graffiti,1,1,1.0
+2007-8,E07000012,Other,1,1,1.0
+2007-8,E07000012,Rubbish,1,1,1.0
+2007-8,E07000012,Street Signs,2,2,1.0
+2007-8,E07000026,Fly-tipping,1,1,1.0
+2007-8,E07000036,Fly-tipping,2,1,2.0
+2007-8,E07000038,Abandoned Vehicles,1,1,1.0
+2007-8,E07000040,Abandoned Vehicles,1,1,1.0
+2007-8,E07000040,Fly-tipping,1,1,1.0
+2007-8,E07000040,Other,1,1,1.0
+2007-8,E07000040,Parking,1,1,1.0
+2007-8,E07000041,Abandoned Vehicles,1,1,1.0
+2007-8,E07000041,Highway Condition,1,1,1.0
+2007-8,E07000041,Potholes,1,1,1.0
+2007-8,E07000042,Street Lights,1,1,1.0
+2007-8,E07000043,Dog Fouling,1,1,1.0
+2007-8,E07000044,Abandoned Vehicles,1,1,1.0
+2007-8,E07000044,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000044,Potholes,1,1,1.0
+2007-8,E07000044,Street Signs,1,1,1.0
+2007-8,E07000045,Dog Fouling,1,1,1.0
+2007-8,E07000045,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000050,Dog Fouling,1,1,1.0
+2007-8,E07000052,Dog Fouling,1,1,1.0
+2007-8,E07000052,Highway Condition,1,1,1.0
+2007-8,E07000052,Other,1,1,1.0
+2007-8,E07000053,Other,1,1,1.0
+2007-8,E07000062,Rubbish,2,2,1.0
+2007-8,E07000065,Abandoned Vehicles,2,2,1.0
+2007-8,E07000066,Abandoned Vehicles,1,1,1.0
+2007-8,E07000066,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000066,Graffiti,1,1,1.0
+2007-8,E07000066,Highway Condition,1,1,1.0
+2007-8,E07000066,Rubbish,2,2,1.0
+2007-8,E07000066,Street Cleaning,1,1,1.0
+2007-8,E07000067,Other,1,1,1.0
+2007-8,E07000067,Street Signs,1,1,1.0
+2007-8,E07000071,Dog Fouling,1,1,1.0
+2007-8,E07000071,Graffiti,3,3,1.0
+2007-8,E07000072,Abandoned Vehicles,1,1,1.0
+2007-8,E07000072,Highway Condition,1,1,1.0
+2007-8,E07000072,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000072,Potholes,2,1,2.0
+2007-8,E07000072,Street Lights,2,1,2.0
+2007-8,E07000072,Street Name Plates,1,1,1.0
+2007-8,E07000072,Street Signs,1,1,1.0
+2007-8,E07000074,Dog Fouling,1,1,1.0
+2007-8,E07000075,Abandoned Vehicles,1,1,1.0
+2007-8,E07000078,Bus Stops Damage,1,1,1.0
+2007-8,E07000078,Dog Fouling,1,1,1.0
+2007-8,E07000078,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000078,Fly-tipping,4,3,1.3333333333333333
+2007-8,E07000078,Highway Condition,1,1,1.0
+2007-8,E07000078,Open Spaces/Parks,2,2,1.0
+2007-8,E07000078,Parking,1,1,1.0
+2007-8,E07000078,Pavement /Footway Defects,4,4,1.0
+2007-8,E07000078,Potholes,2,2,1.0
+2007-8,E07000078,Street Cleaning,1,1,1.0
+2007-8,E07000078,Street Lights,4,4,1.0
+2007-8,E07000078,Street Name Plates,1,1,1.0
+2007-8,E07000081,Other,2,1,2.0
+2007-8,E07000082,Other,1,1,1.0
+2007-8,E07000083,Potholes,1,1,1.0
+2007-8,E07000083,Street Lights,1,1,1.0
+2007-8,E07000084,Abandoned Vehicles,1,1,1.0
+2007-8,E07000084,Dog Fouling,1,1,1.0
+2007-8,E07000085,Graffiti,1,1,1.0
+2007-8,E07000085,Other,1,1,1.0
+2007-8,E07000086,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000088,Highway Condition,1,1,1.0
+2007-8,E07000089,Highway Condition,1,1,1.0
+2007-8,E07000091,Abandoned Vehicles,1,1,1.0
+2007-8,E07000092,Potholes,1,1,1.0
+2007-8,E07000093,Abandoned Vehicles,1,1,1.0
+2007-8,E07000094,Fallen/Dangerous Trees,2,1,2.0
+2007-8,E07000095,Rubbish,1,1,1.0
+2007-8,E07000095,Street Lights,1,1,1.0
+2007-8,E07000096,Fly-tipping,1,1,1.0
+2007-8,E07000096,Parking,1,1,1.0
+2007-8,E07000096,Potholes,1,1,1.0
+2007-8,E07000096,Rubbish,2,2,1.0
+2007-8,E07000098,Graffiti,1,1,1.0
+2007-8,E07000098,Highway Condition,1,1,1.0
+2007-8,E07000099,Abandoned Vehicles,3,3,1.0
+2007-8,E07000099,Open Spaces/Parks,1,1,1.0
+2007-8,E07000099,Other,1,1,1.0
+2007-8,E07000099,Rubbish,1,1,1.0
+2007-8,E07000103,Dog Fouling,2,2,1.0
+2007-8,E07000103,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000106,Street Lights,1,1,1.0
+2007-8,E07000107,Abandoned Vehicles,2,1,2.0
+2007-8,E07000107,Potholes,1,1,1.0
+2007-8,E07000107,Street Lights,2,2,1.0
+2007-8,E07000107,Street Name Plates,1,1,1.0
+2007-8,E07000107,Street Signs,1,1,1.0
+2007-8,E07000108,Abandoned Vehicles,2,2,1.0
+2007-8,E07000108,Street Lights,1,1,1.0
+2007-8,E07000109,Fly-tipping,1,1,1.0
+2007-8,E07000110,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000110,Highway Condition,2,2,1.0
+2007-8,E07000113,Dog Fouling,1,1,1.0
+2007-8,E07000113,Fly-tipping,1,1,1.0
+2007-8,E07000113,Graffiti,1,1,1.0
+2007-8,E07000114,Dog Fouling,1,1,1.0
+2007-8,E07000114,Highway Condition,1,1,1.0
+2007-8,E07000115,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000116,Abandoned Vehicles,1,1,1.0
+2007-8,E07000117,Fly-tipping,1,1,1.0
+2007-8,E07000117,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000117,Rubbish,1,1,1.0
+2007-8,E07000118,Dog Fouling,1,1,1.0
+2007-8,E07000118,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000118,Rubbish,1,1,1.0
+2007-8,E07000119,Abandoned Vehicles,1,1,1.0
+2007-8,E07000120,Dog Fouling,1,1,1.0
+2007-8,E07000120,Rubbish,1,1,1.0
+2007-8,E07000120,Street Signs,1,1,1.0
+2007-8,E07000121,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000122,Abandoned Vehicles,1,1,1.0
+2007-8,E07000123,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000124,Dog Fouling,1,1,1.0
+2007-8,E07000127,Highway Condition,1,1,1.0
+2007-8,E07000128,Street Signs,1,1,1.0
+2007-8,E07000129,Potholes,1,1,1.0
+2007-8,E07000135,Street Lights,1,1,1.0
+2007-8,E07000136,Potholes,1,1,1.0
+2007-8,E07000137,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000137,Street Cleaning,1,1,1.0
+2007-8,E07000137,Street Lights,1,1,1.0
+2007-8,E07000138,Fly-tipping,1,1,1.0
+2007-8,E07000138,Rubbish,1,1,1.0
+2007-8,E07000138,Street Cleaning,1,1,1.0
+2007-8,E07000141,Potholes,1,1,1.0
+2007-8,E07000144,Street Cleaning,1,1,1.0
+2007-8,E07000145,Highway Condition,1,1,1.0
+2007-8,E07000145,Rubbish,1,1,1.0
+2007-8,E07000145,Street Lights,1,1,1.0
+2007-8,E07000147,Graffiti,2,1,2.0
+2007-8,E07000147,Street Name Plates,1,1,1.0
+2007-8,E07000147,Street Signs,1,1,1.0
+2007-8,E07000148,Abandoned Vehicles,1,1,1.0
+2007-8,E07000148,Flyposting,1,1,1.0
+2007-8,E07000148,Graffiti,1,1,1.0
+2007-8,E07000149,Abandoned Vehicles,1,1,1.0
+2007-8,E07000150,Abandoned Vehicles,1,1,1.0
+2007-8,E07000154,Abandoned Vehicles,1,1,1.0
+2007-8,E07000154,Parking,1,1,1.0
+2007-8,E07000154,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000155,Flyposting,1,1,1.0
+2007-8,E07000164,Other,1,1,1.0
+2007-8,E07000165,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000165,Fly-tipping,1,1,1.0
+2007-8,E07000165,Potholes,1,1,1.0
+2007-8,E07000166,Highway Condition,1,1,1.0
+2007-8,E07000168,Potholes,1,1,1.0
+2007-8,E07000170,Abandoned Vehicles,1,1,1.0
+2007-8,E07000170,Fly-tipping,1,1,1.0
+2007-8,E07000170,Other,1,1,1.0
+2007-8,E07000172,Fly-tipping,1,1,1.0
+2007-8,E07000172,Street Lights,1,1,1.0
+2007-8,E07000176,Graffiti,1,1,1.0
+2007-8,E07000178,Fly-tipping,5,1,5.0
+2007-8,E07000178,Flyposting,1,1,1.0
+2007-8,E07000178,Graffiti,1,1,1.0
+2007-8,E07000178,Highway Condition,1,1,1.0
+2007-8,E07000178,Open Spaces/Parks,2,1,2.0
+2007-8,E07000178,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000178,Potholes,2,2,1.0
+2007-8,E07000178,Rubbish,1,1,1.0
+2007-8,E07000179,Graffiti,1,1,1.0
+2007-8,E07000179,Potholes,1,1,1.0
+2007-8,E07000179,Street Lights,1,1,1.0
+2007-8,E07000181,Other,1,1,1.0
+2007-8,E07000181,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000181,Rubbish,1,1,1.0
+2007-8,E07000187,Highway Condition,1,1,1.0
+2007-8,E07000187,Potholes,1,1,1.0
+2007-8,E07000190,Fly-tipping,1,1,1.0
+2007-8,E07000195,Highway Condition,2,2,1.0
+2007-8,E07000195,Potholes,1,1,1.0
+2007-8,E07000196,Dog Fouling,1,1,1.0
+2007-8,E07000197,Abandoned Vehicles,1,1,1.0
+2007-8,E07000197,Dog Fouling,1,1,1.0
+2007-8,E07000197,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000199,Abandoned Vehicles,1,1,1.0
+2007-8,E07000199,Highway Condition,1,1,1.0
+2007-8,E07000199,Pavement /Footway Defects,2,1,2.0
+2007-8,E07000199,Potholes,1,1,1.0
+2007-8,E07000202,Potholes,1,1,1.0
+2007-8,E07000203,Other,1,1,1.0
+2007-8,E07000206,Highway Condition,1,1,1.0
+2007-8,E07000206,Other,1,1,1.0
+2007-8,E07000206,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000207,Graffiti,2,2,1.0
+2007-8,E07000207,Highway Condition,1,1,1.0
+2007-8,E07000207,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000208,Abandoned Vehicles,1,1,1.0
+2007-8,E07000209,Other,1,1,1.0
+2007-8,E07000209,Rubbish,1,1,1.0
+2007-8,E07000211,Potholes,1,1,1.0
+2007-8,E07000214,Fly-tipping,1,1,1.0
+2007-8,E07000214,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000215,Potholes,2,2,1.0
+2007-8,E07000215,Street Lights,1,1,1.0
+2007-8,E07000215,Street Name Plates,1,1,1.0
+2007-8,E07000216,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000217,Abandoned Vehicles,1,1,1.0
+2007-8,E07000217,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E07000219,Other,1,1,1.0
+2007-8,E07000219,Parking,1,1,1.0
+2007-8,E07000220,Abandoned Vehicles,1,1,1.0
+2007-8,E07000220,Highway Condition,2,1,2.0
+2007-8,E07000221,Potholes,2,2,1.0
+2007-8,E07000222,Potholes,2,1,2.0
+2007-8,E07000224,Abandoned Vehicles,1,1,1.0
+2007-8,E07000225,Fly-tipping,2,2,1.0
+2007-8,E07000226,Abandoned Vehicles,1,1,1.0
+2007-8,E07000226,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000227,Highway Condition,1,1,1.0
+2007-8,E07000228,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000228,Potholes,1,1,1.0
+2007-8,E07000229,Abandoned Vehicles,1,1,1.0
+2007-8,E07000236,Fly-tipping,1,1,1.0
+2007-8,E07000236,Parking,1,1,1.0
+2007-8,E07000238,Dog Fouling,1,1,1.0
+2007-8,E07000238,Potholes,1,1,1.0
+2007-8,E07000240,Fly-tipping,1,1,1.0
+2007-8,E07000240,Open Spaces/Parks,1,1,1.0
+2007-8,E07000240,Other,1,1,1.0
+2007-8,E07000240,Pavement /Footway Defects,1,1,1.0
+2007-8,E07000241,Abandoned Vehicles,1,1,1.0
+2007-8,E07000241,Highway Condition,1,1,1.0
+2007-8,E07000241,Open Spaces/Parks,1,1,1.0
+2007-8,E07000241,Parking,1,1,1.0
+2007-8,E07000242,Highway Condition,1,1,1.0
+2007-8,E07000243,Other,1,1,1.0
+2007-8,E07000243,Parking,3,2,1.5
+2007-8,E08000001,Open Spaces/Parks,1,1,1.0
+2007-8,E08000001,Other,1,1,1.0
+2007-8,E08000001,Pavement /Footway Defects,3,3,1.0
+2007-8,E08000001,Potholes,1,1,1.0
+2007-8,E08000002,Abandoned Vehicles,1,1,1.0
+2007-8,E08000002,Dog Fouling,1,1,1.0
+2007-8,E08000003,Abandoned Vehicles,1,1,1.0
+2007-8,E08000003,Dog Fouling,1,1,1.0
+2007-8,E08000003,Graffiti,2,2,1.0
+2007-8,E08000004,Fly-tipping,1,1,1.0
+2007-8,E08000004,Graffiti,1,1,1.0
+2007-8,E08000005,Dog Fouling,1,1,1.0
+2007-8,E08000005,Rubbish,1,1,1.0
+2007-8,E08000006,Dog Fouling,1,1,1.0
+2007-8,E08000007,Abandoned Vehicles,1,1,1.0
+2007-8,E08000007,Highway Condition,1,1,1.0
+2007-8,E08000007,Other,2,2,1.0
+2007-8,E08000007,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000007,Potholes,1,1,1.0
+2007-8,E08000007,Rubbish,1,1,1.0
+2007-8,E08000008,Parking,1,1,1.0
+2007-8,E08000009,Dog Fouling,1,1,1.0
+2007-8,E08000009,Other,1,1,1.0
+2007-8,E08000009,Street Cleaning,1,1,1.0
+2007-8,E08000010,Dog Fouling,1,1,1.0
+2007-8,E08000010,Fly-tipping,2,2,1.0
+2007-8,E08000010,Highway Condition,1,1,1.0
+2007-8,E08000010,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000011,Abandoned Vehicles,1,1,1.0
+2007-8,E08000011,Dog Fouling,1,1,1.0
+2007-8,E08000012,Dog Fouling,1,1,1.0
+2007-8,E08000012,Fly-tipping,1,1,1.0
+2007-8,E08000012,Potholes,1,1,1.0
+2007-8,E08000013,Highway Condition,1,1,1.0
+2007-8,E08000015,Fly-tipping,1,1,1.0
+2007-8,E08000015,Highway Condition,1,1,1.0
+2007-8,E08000016,Bus Stops Damage,1,1,1.0
+2007-8,E08000016,Parking,1,1,1.0
+2007-8,E08000016,Rubbish,1,1,1.0
+2007-8,E08000016,Street Name Plates,1,1,1.0
+2007-8,E08000017,Fly-tipping,1,1,1.0
+2007-8,E08000017,Open Spaces/Parks,1,1,1.0
+2007-8,E08000017,Street Cleaning,1,1,1.0
+2007-8,E08000018,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E08000018,Open Spaces/Parks,1,1,1.0
+2007-8,E08000018,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000018,Street Name Plates,1,1,1.0
+2007-8,E08000019,Dog Fouling,2,2,1.0
+2007-8,E08000019,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E08000019,Other,3,3,1.0
+2007-8,E08000019,Parking,1,1,1.0
+2007-8,E08000019,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000019,Potholes,1,1,1.0
+2007-8,E08000019,Rubbish,2,2,1.0
+2007-8,E08000019,Street Lights,1,1,1.0
+2007-8,E08000021,Rubbish,1,1,1.0
+2007-8,E08000023,Dog Fouling,1,1,1.0
+2007-8,E08000023,Rubbish,1,1,1.0
+2007-8,E08000024,Open Spaces/Parks,1,1,1.0
+2007-8,E08000025,Abandoned Vehicles,2,2,1.0
+2007-8,E08000025,Fly-tipping,1,1,1.0
+2007-8,E08000025,Graffiti,1,1,1.0
+2007-8,E08000025,Potholes,1,1,1.0
+2007-8,E08000025,Rubbish,2,2,1.0
+2007-8,E08000026,Potholes,1,1,1.0
+2007-8,E08000026,Rubbish,1,1,1.0
+2007-8,E08000027,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000028,Potholes,1,1,1.0
+2007-8,E08000029,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000030,Fly-tipping,1,1,1.0
+2007-8,E08000030,Highway Condition,1,1,1.0
+2007-8,E08000030,Potholes,1,1,1.0
+2007-8,E08000030,Rubbish,1,1,1.0
+2007-8,E08000031,Fly-tipping,1,1,1.0
+2007-8,E08000032,Dog Fouling,3,3,1.0
+2007-8,E08000032,Fly-tipping,3,3,1.0
+2007-8,E08000032,Highway Condition,1,1,1.0
+2007-8,E08000032,Open Spaces/Parks,1,1,1.0
+2007-8,E08000032,Other,3,3,1.0
+2007-8,E08000032,Parking,1,1,1.0
+2007-8,E08000032,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000032,Potholes,2,2,1.0
+2007-8,E08000032,Rubbish,2,1,2.0
+2007-8,E08000033,Fly-tipping,2,1,2.0
+2007-8,E08000034,Dog Fouling,1,1,1.0
+2007-8,E08000034,Potholes,1,1,1.0
+2007-8,E08000035,Abandoned Vehicles,3,3,1.0
+2007-8,E08000035,Fly-tipping,1,1,1.0
+2007-8,E08000035,Graffiti,1,1,1.0
+2007-8,E08000035,Highway Condition,1,1,1.0
+2007-8,E08000035,Other,1,1,1.0
+2007-8,E08000035,Parking,1,1,1.0
+2007-8,E08000035,Pavement /Footway Defects,1,1,1.0
+2007-8,E08000035,Potholes,4,4,1.0
+2007-8,E08000036,Abandoned Vehicles,1,1,1.0
+2007-8,E08000037,Abandoned Vehicles,1,1,1.0
+2007-8,E08000037,Fly-tipping,1,1,1.0
+2007-8,E08000037,Highway Condition,1,1,1.0
+2007-8,E08000037,Street Lights,1,1,1.0
+2007-8,E09000001,Abandoned Vehicles,1,1,1.0
+2007-8,E09000001,Graffiti,4,1,4.0
+2007-8,E09000001,Highway Condition,1,1,1.0
+2007-8,E09000001,Pavement /Footway Defects,3,1,3.0
+2007-8,E09000001,Rubbish,1,1,1.0
+2007-8,E09000001,Street Lights,2,1,2.0
+2007-8,E09000003,Abandoned Vehicles,2,2,1.0
+2007-8,E09000003,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E09000003,Graffiti,1,1,1.0
+2007-8,E09000003,Pavement /Footway Defects,2,1,2.0
+2007-8,E09000003,Rubbish,1,1,1.0
+2007-8,E09000004,Other,1,1,1.0
+2007-8,E09000005,Abandoned Vehicles,2,2,1.0
+2007-8,E09000005,Fly-tipping,1,1,1.0
+2007-8,E09000005,Graffiti,1,1,1.0
+2007-8,E09000005,Other,1,1,1.0
+2007-8,E09000005,Rubbish,1,1,1.0
+2007-8,E09000006,Abandoned Vehicles,2,2,1.0
+2007-8,E09000006,Other,1,1,1.0
+2007-8,E09000006,Parking,1,1,1.0
+2007-8,E09000007,Pavement /Footway Defects,1,1,1.0
+2007-8,E09000007,Traffic Lights,1,1,1.0
+2007-8,E09000008,Highway Condition,1,1,1.0
+2007-8,E09000008,Potholes,1,1,1.0
+2007-8,E09000008,Rubbish,1,1,1.0
+2007-8,E09000009,Fly-tipping,3,3,1.0
+2007-8,E09000009,Graffiti,4,1,4.0
+2007-8,E09000009,Other,2,2,1.0
+2007-8,E09000009,Parking,1,1,1.0
+2007-8,E09000009,Pavement /Footway Defects,1,1,1.0
+2007-8,E09000009,Rubbish,1,1,1.0
+2007-8,E09000009,Street Signs,1,1,1.0
+2007-8,E09000010,Abandoned Vehicles,2,2,1.0
+2007-8,E09000010,Fly-tipping,2,2,1.0
+2007-8,E09000010,Graffiti,1,1,1.0
+2007-8,E09000010,Highway Condition,1,1,1.0
+2007-8,E09000010,Potholes,1,1,1.0
+2007-8,E09000010,Street Lights,1,1,1.0
+2007-8,E09000011,Abandoned Vehicles,1,1,1.0
+2007-8,E09000012,Dog Fouling,1,1,1.0
+2007-8,E09000012,Graffiti,2,2,1.0
+2007-8,E09000012,Highway Condition,1,1,1.0
+2007-8,E09000012,Other,1,1,1.0
+2007-8,E09000012,Rubbish,2,2,1.0
+2007-8,E09000012,Street Lights,2,2,1.0
+2007-8,E09000013,Fly-tipping,1,1,1.0
+2007-8,E09000013,Parking,1,1,1.0
+2007-8,E09000014,Abandoned Vehicles,1,1,1.0
+2007-8,E09000014,Highway Condition,1,1,1.0
+2007-8,E09000015,Graffiti,1,1,1.0
+2007-8,E09000015,Other,1,1,1.0
+2007-8,E09000015,Street Name Plates,1,1,1.0
+2007-8,E09000017,Dog Fouling,1,1,1.0
+2007-8,E09000018,Abandoned Vehicles,2,2,1.0
+2007-8,E09000018,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E09000018,Fly-tipping,2,1,2.0
+2007-8,E09000018,Pavement /Footway Defects,1,1,1.0
+2007-8,E09000018,Potholes,1,1,1.0
+2007-8,E09000018,Traffic Lights,1,1,1.0
+2007-8,E09000019,Abandoned Vehicles,1,1,1.0
+2007-8,E09000019,Fallen/Dangerous Trees,2,2,1.0
+2007-8,E09000019,Fly-tipping,12,3,4.0
+2007-8,E09000019,Graffiti,20,2,10.0
+2007-8,E09000019,Highway Condition,1,1,1.0
+2007-8,E09000019,Open Spaces/Parks,1,1,1.0
+2007-8,E09000019,Other,3,1,3.0
+2007-8,E09000019,Pavement /Footway Defects,4,3,1.3333333333333333
+2007-8,E09000019,Potholes,2,1,2.0
+2007-8,E09000019,Rubbish,2,1,2.0
+2007-8,E09000019,Street Lights,3,1,3.0
+2007-8,E09000019,Street Signs,2,1,2.0
+2007-8,E09000021,Abandoned Vehicles,1,1,1.0
+2007-8,E09000021,Rubbish,1,1,1.0
+2007-8,E09000021,Traffic Lights,1,1,1.0
+2007-8,E09000022,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E09000022,Fly-tipping,3,2,1.5
+2007-8,E09000022,Other,1,1,1.0
+2007-8,E09000022,Pavement /Footway Defects,3,2,1.5
+2007-8,E09000022,Potholes,3,2,1.5
+2007-8,E09000022,Rubbish,3,2,1.5
+2007-8,E09000022,Street Cleaning,4,2,2.0
+2007-8,E09000022,Street Name Plates,1,1,1.0
+2007-8,E09000023,Abandoned Vehicles,5,5,1.0
+2007-8,E09000023,Graffiti,1,1,1.0
+2007-8,E09000023,Potholes,1,1,1.0
+2007-8,E09000024,Pavement /Footway Defects,1,1,1.0
+2007-8,E09000024,Potholes,1,1,1.0
+2007-8,E09000025,Abandoned Vehicles,1,1,1.0
+2007-8,E09000025,Rubbish,1,1,1.0
+2007-8,E09000026,Abandoned Vehicles,2,2,1.0
+2007-8,E09000026,Fly-tipping,1,1,1.0
+2007-8,E09000026,Graffiti,2,2,1.0
+2007-8,E09000026,Other,1,1,1.0
+2007-8,E09000026,Parking,1,1,1.0
+2007-8,E09000026,Rubbish,1,1,1.0
+2007-8,E09000026,Street Cleaning,1,1,1.0
+2007-8,E09000026,Street Signs,1,1,1.0
+2007-8,E09000028,Rubbish,1,1,1.0
+2007-8,E09000029,Dog Fouling,1,1,1.0
+2007-8,E09000030,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E09000030,Fly-tipping,1,1,1.0
+2007-8,E09000030,Highway Condition,1,1,1.0
+2007-8,E09000030,Potholes,1,1,1.0
+2007-8,E09000031,Fly-tipping,1,1,1.0
+2007-8,E09000031,Graffiti,2,2,1.0
+2007-8,E09000031,Potholes,1,1,1.0
+2007-8,E09000031,Rubbish,1,1,1.0
+2007-8,E09000032,Abandoned Vehicles,2,2,1.0
+2007-8,E09000032,Fallen/Dangerous Trees,1,1,1.0
+2007-8,E09000032,Fly-tipping,3,3,1.0
+2007-8,E09000032,Flyposting,1,1,1.0
+2007-8,E09000032,Graffiti,2,2,1.0
+2007-8,E09000032,Other,3,3,1.0
+2007-8,E09000032,Rubbish,2,1,2.0
+2007-8,E09000033,Bus Stops Damage,1,1,1.0
+2007-8,S12000008,Dog Fouling,1,1,1.0
+2007-8,S12000010,Dog Fouling,1,1,1.0
+2007-8,S12000014,Graffiti,1,1,1.0
+2007-8,S12000014,Highway Condition,3,3,1.0
+2007-8,S12000014,Other,3,3,1.0
+2007-8,S12000014,Parking,1,1,1.0
+2007-8,S12000014,Pavement /Footway Defects,5,5,1.0
+2007-8,S12000014,Potholes,1,1,1.0
+2007-8,S12000014,Street Lights,8,8,1.0
+2007-8,S12000014,Street Name Plates,2,2,1.0
+2007-8,S12000017,Abandoned Vehicles,1,1,1.0
+2007-8,S12000017,Rubbish,1,1,1.0
+2007-8,S12000017,Street Cleaning,1,1,1.0
+2007-8,S12000019,Fly-tipping,1,1,1.0
+2007-8,S12000021,Dog Fouling,1,1,1.0
+2007-8,S12000036,Abandoned Vehicles,1,1,1.0
+2007-8,S12000036,Bus Stops Damage,1,1,1.0
+2007-8,S12000036,Dog Fouling,1,1,1.0
+2007-8,S12000036,Graffiti,7,1,7.0
+2007-8,S12000036,Highway Condition,1,1,1.0
+2007-8,S12000036,Other,6,4,1.5
+2007-8,S12000036,Pavement /Footway Defects,6,2,3.0
+2007-8,S12000036,Rubbish,1,1,1.0
+2007-8,S12000038,Bus Stops Damage,1,1,1.0
+2007-8,S12000038,Fallen/Dangerous Trees,1,1,1.0
+2007-8,S12000038,Potholes,1,1,1.0
+2007-8,S12000039,Dog Fouling,1,1,1.0
+2007-8,S12000045,Fly-tipping,1,1,1.0
+2007-8,S12000045,Highway Condition,1,1,1.0
+2007-8,S12000045,Pavement /Footway Defects,1,1,1.0
+2007-8,S12000046,Dog Fouling,1,1,1.0
+2007-8,S12000046,Fly-tipping,1,1,1.0
+2007-8,S12000046,Open Spaces/Parks,1,1,1.0
+2007-8,S12000046,Pavement /Footway Defects,1,1,1.0
+2007-8,S12000046,Rubbish,6,3,2.0
+2007-8,S12000046,Street Cleaning,1,1,1.0
+2007-8,S12000046,Street Lights,1,1,1.0
+2007-8,W06000003,Dog Fouling,1,1,1.0
+2007-8,W06000009,Potholes,1,1,1.0
+2007-8,W06000010,Highway Condition,1,1,1.0
+2007-8,W06000011,Fly-tipping,2,2,1.0
+2007-8,W06000011,Street Lights,1,1,1.0
+2007-8,W06000015,Fly-tipping,1,1,1.0
+2007-8,W06000016,Abandoned Vehicles,1,1,1.0
+2007-8,W06000016,Street Lights,2,2,1.0
+2007-8,W06000018,Street Lights,1,1,1.0
+2007-8,W06000019,Open Spaces/Parks,1,1,1.0
