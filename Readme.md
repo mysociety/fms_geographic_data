@@ -1,8 +1,8 @@
 # FixMyStreet Geographic Count Data
 
-This creates a number of different files at different levels of aggregation. It uses Elvis Nyanzu‘s (University of Sheffield) levels of categorisation to create counts at different levels that can be compared across the country. 
+This creates a number of different files at different levels of aggregation. It uses Elvis Nyanzuâ€˜s (University of Sheffield) levels of categorisation to create counts at different levels that can be compared across the country. 
 
-It aggregates counts of reports
+It aggregates counts of reports across several different metrics.
 
 Two kinds of interface aggregation:
 
