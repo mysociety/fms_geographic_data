@@ -1,8 +1,10 @@
 # FixMyStreet Geographic Count Data
 
-This creates a number of different files at different levels of aggregation. It uses Elvis Nyanzu‘s (University of Sheffield) levels of categorisation to create counts at different levels that can be compared across the country. 
+This data is updated at: https://github.com/mysociety/fms_geographic_data
 
-It aggregates counts of reports
+This creates a number of different files at different levels of aggregation. It uses Elvis Nyanzuâ€˜s (University of Sheffield) levels of categorisation to create counts at different levels that can be compared across the country. 
+
+It aggregates counts of reports across several different metrics.
 
 Two kinds of interface aggregation:
 
@@ -33,6 +35,6 @@ Counts are split between reports made on fixmystreet.com (inc apps) and those ma
 
 To generate using the fms export tool use 'process.py export geo'.
 
-Read more about the FMS Export process [here](https://docs.google.com/document/d/1caU_2Fh8tkhbw8Lw54ho5iCb248EnRz1v_O6ah_H7KU/edit#heading=h.2qy3r7t6u34b)
+Read more about the FMS Export process [here](https://docs.google.com/document/d/1caU_2Fh8tkhbw8Lw54ho5iCb248EnRz1v_O6ah_H7KU/edit#heading=h.2qy3r7t6u34b).
 
 This FMS Geographic Data is made available under the Open Data Commons Attribution License: [http://opendatacommons.org/licenses/by/1.0].
