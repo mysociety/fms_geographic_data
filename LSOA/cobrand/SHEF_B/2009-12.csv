@@ -1,4 +1,4 @@
-period,LSOA,SHEF_B,report_count,user_count,average
-2009-12,E01000121,Highways Enquiries,1,1,1.0
-2009-12,E01000121,Pavement /Footway Defects,1,1,1.0
-2009-12,E01000123,Road Surface Defects,1,1,1.0
+period,LSOA,SHEF_B_CODE,report_count,user_count,average
+2009-12,E01000121,B13,1,1,1.0
+2009-12,E01000121,B19,1,1,1.0
+2009-12,E01000123,B25,1,1,1.0

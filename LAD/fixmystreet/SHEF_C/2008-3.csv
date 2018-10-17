@@ -1,758 +1,745 @@
-period,LAD,SHEF_C,report_count,user_count,average
-2008-3,E06000002,Environmental Health,1,1,1.0
-2008-3,E06000002,Road Safety & Defects,2,2,1.0
-2008-3,E06000004,Other,1,1,1.0
-2008-3,E06000004,Road Safety & Defects,2,2,1.0
-2008-3,E06000005,Environmental Health,2,2,1.0
-2008-3,E06000005,Road Safety & Defects,3,3,1.0
-2008-3,E06000006,Environmental Health,3,2,1.5
-2008-3,E06000006,Other,1,1,1.0
-2008-3,E06000006,Road Safety & Defects,1,1,1.0
-2008-3,E06000007,Environmental Disruptions,1,1,1.0
-2008-3,E06000007,Environmental Health,1,1,1.0
-2008-3,E06000007,Other,2,2,1.0
-2008-3,E06000007,Road Safety & Defects,2,1,2.0
-2008-3,E06000008,Environmental Health,2,2,1.0
-2008-3,E06000009,Road Safety & Defects,2,2,1.0
-2008-3,E06000010,Environmental Health,1,1,1.0
-2008-3,E06000010,Road Safety & Defects,3,2,1.5
-2008-3,E06000011,Environmental Health,3,3,1.0
-2008-3,E06000011,Other,3,3,1.0
-2008-3,E06000011,Road Safety & Defects,2,2,1.0
-2008-3,E06000011,Vehicles,1,1,1.0
-2008-3,E06000012,Other,1,1,1.0
-2008-3,E06000012,Road Safety & Defects,1,1,1.0
-2008-3,E06000013,Road Safety & Defects,1,1,1.0
-2008-3,E06000014,Environmental Disruptions,1,1,1.0
-2008-3,E06000014,Road Safety & Defects,2,2,1.0
-2008-3,E06000014,Vehicles,1,1,1.0
-2008-3,E06000015,Environmental Health,1,1,1.0
-2008-3,E06000016,Environmental Health,1,1,1.0
-2008-3,E06000016,Public Space,1,1,1.0
-2008-3,E06000016,Road Safety & Defects,1,1,1.0
-2008-3,E06000016,Vehicles,3,1,3.0
-2008-3,E06000018,Environmental Health,3,2,1.5
-2008-3,E06000018,Incivilities,2,1,2.0
-2008-3,E06000018,Other,1,1,1.0
-2008-3,E06000018,Road Safety & Defects,3,3,1.0
-2008-3,E06000019,Environmental Health,1,1,1.0
-2008-3,E06000019,Incivilities,1,1,1.0
-2008-3,E06000020,Road Safety & Defects,10,1,10.0
-2008-3,E06000021,Other,1,1,1.0
-2008-3,E06000021,Road Safety & Defects,1,1,1.0
-2008-3,E06000021,Vehicles,1,1,1.0
-2008-3,E06000022,Road Safety & Defects,2,2,1.0
-2008-3,E06000023,Environmental Health,3,3,1.0
-2008-3,E06000023,Other,1,1,1.0
-2008-3,E06000023,Road Safety & Defects,5,5,1.0
-2008-3,E06000024,Environmental Health,2,2,1.0
-2008-3,E06000024,Road Safety & Defects,1,1,1.0
-2008-3,E06000025,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E06000025,Environmental Health,1,1,1.0
-2008-3,E06000025,Other,1,1,1.0
-2008-3,E06000025,Road Safety & Defects,2,2,1.0
-2008-3,E06000026,Environmental Health,4,4,1.0
-2008-3,E06000026,Road Safety & Defects,1,1,1.0
-2008-3,E06000027,Other,1,1,1.0
-2008-3,E06000028,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E06000028,Environmental Health,1,1,1.0
-2008-3,E06000028,Other,1,1,1.0
-2008-3,E06000030,Environmental Health,5,4,1.25
-2008-3,E06000030,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E06000031,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E06000031,Environmental Disruptions,1,1,1.0
-2008-3,E06000031,Other,2,1,2.0
-2008-3,E06000031,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E06000032,Road Safety & Defects,1,1,1.0
-2008-3,E06000032,Vehicles,1,1,1.0
-2008-3,E06000033,Other,1,1,1.0
-2008-3,E06000034,Road Safety & Defects,1,1,1.0
-2008-3,E06000035,Environmental Health,2,2,1.0
-2008-3,E06000035,Road Safety & Defects,2,2,1.0
-2008-3,E06000035,Vehicles,2,2,1.0
-2008-3,E06000037,Environmental Health,1,1,1.0
-2008-3,E06000037,Road Safety & Defects,1,1,1.0
-2008-3,E06000038,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E06000038,Environmental Disruptions,1,1,1.0
-2008-3,E06000038,Environmental Health,1,1,1.0
-2008-3,E06000038,Incivilities,1,1,1.0
-2008-3,E06000038,Other,1,1,1.0
-2008-3,E06000038,Road Safety & Defects,3,3,1.0
-2008-3,E06000038,Vehicles,2,2,1.0
-2008-3,E06000040,Other,1,1,1.0
-2008-3,E06000040,Road Safety & Defects,4,4,1.0
-2008-3,E06000041,Road Safety & Defects,2,2,1.0
-2008-3,E06000042,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E06000042,Environmental Health,2,2,1.0
-2008-3,E06000042,Road Safety & Defects,9,8,1.125
-2008-3,E06000043,Environmental Health,1,1,1.0
-2008-3,E06000043,Other,4,4,1.0
-2008-3,E06000043,Road Safety & Defects,5,4,1.25
-2008-3,E06000044,Environmental Health,1,1,1.0
-2008-3,E06000045,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E06000045,Other,1,1,1.0
-2008-3,E06000045,Public Space,1,1,1.0
-2008-3,E06000045,Road Safety & Defects,3,3,1.0
-2008-3,E06000045,Vehicles,1,1,1.0
-2008-3,E06000046,Other,1,1,1.0
-2008-3,E06000046,Vehicles,1,1,1.0
-2008-3,E06000047,Environmental Health,4,4,1.0
-2008-3,E06000047,Incivilities,1,1,1.0
-2008-3,E06000047,Road Safety & Defects,4,4,1.0
-2008-3,E06000049,Environmental Disruptions,2,2,1.0
-2008-3,E06000049,Environmental Health,2,1,2.0
-2008-3,E06000049,Incivilities,1,1,1.0
-2008-3,E06000049,Other,2,2,1.0
-2008-3,E06000049,Road Safety & Defects,7,7,1.0
-2008-3,E06000050,Environmental Health,3,2,1.5
-2008-3,E06000050,Road Safety & Defects,4,4,1.0
-2008-3,E06000051,Other,1,1,1.0
-2008-3,E06000051,Road Safety & Defects,5,3,1.6666666666666667
-2008-3,E06000052,Environmental Disruptions,2,2,1.0
-2008-3,E06000052,Environmental Health,2,2,1.0
-2008-3,E06000052,Road Safety & Defects,2,2,1.0
-2008-3,E06000054,Environmental Health,7,4,1.75
-2008-3,E06000054,Other,1,1,1.0
-2008-3,E06000054,Public Space,1,1,1.0
-2008-3,E06000054,Road Safety & Defects,5,5,1.0
-2008-3,E06000054,Vehicles,3,3,1.0
-2008-3,E06000055,Road Safety & Defects,1,1,1.0
-2008-3,E06000056,Incivilities,1,1,1.0
-2008-3,E06000056,Road Safety & Defects,2,2,1.0
-2008-3,E06000056,Vehicles,2,2,1.0
-2008-3,E06000057,Environmental Health,3,3,1.0
-2008-3,E06000057,Other,2,2,1.0
-2008-3,E07000004,Road Safety & Defects,1,1,1.0
-2008-3,E07000005,Environmental Health,1,1,1.0
-2008-3,E07000005,Incivilities,1,1,1.0
-2008-3,E07000005,Other,1,1,1.0
-2008-3,E07000005,Road Safety & Defects,2,2,1.0
-2008-3,E07000006,Road Safety & Defects,2,2,1.0
-2008-3,E07000007,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,E07000007,Road Safety & Defects,1,1,1.0
-2008-3,E07000008,Environmental Health,2,1,2.0
-2008-3,E07000008,Road Safety & Defects,7,5,1.4
-2008-3,E07000011,Environmental Health,1,1,1.0
-2008-3,E07000011,Road Safety & Defects,3,3,1.0
-2008-3,E07000011,Vehicles,1,1,1.0
-2008-3,E07000012,Environmental Disruptions,3,3,1.0
-2008-3,E07000012,Environmental Health,2,1,2.0
-2008-3,E07000012,Incivilities,1,1,1.0
-2008-3,E07000012,Other,2,1,2.0
-2008-3,E07000012,Road Safety & Defects,9,4,2.25
-2008-3,E07000026,Environmental Health,3,1,3.0
-2008-3,E07000026,Road Safety & Defects,1,1,1.0
-2008-3,E07000027,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000028,Environmental Health,1,1,1.0
-2008-3,E07000029,Road Safety & Defects,1,1,1.0
-2008-3,E07000031,Environmental Health,1,1,1.0
-2008-3,E07000032,Environmental Health,2,2,1.0
-2008-3,E07000034,Other,1,1,1.0
-2008-3,E07000036,Environmental Health,4,4,1.0
-2008-3,E07000036,Road Safety & Defects,1,1,1.0
-2008-3,E07000037,Road Safety & Defects,2,1,2.0
-2008-3,E07000038,Public Space,1,1,1.0
-2008-3,E07000040,Environmental Health,3,3,1.0
-2008-3,E07000040,Road Safety & Defects,3,3,1.0
-2008-3,E07000042,Road Safety & Defects,2,2,1.0
-2008-3,E07000043,Environmental Health,2,2,1.0
-2008-3,E07000043,Other,1,1,1.0
-2008-3,E07000044,Road Safety & Defects,1,1,1.0
-2008-3,E07000045,Other,1,1,1.0
-2008-3,E07000045,Road Safety & Defects,2,2,1.0
-2008-3,E07000049,Incivilities,1,1,1.0
-2008-3,E07000050,Road Safety & Defects,2,2,1.0
-2008-3,E07000052,Environmental Health,1,1,1.0
-2008-3,E07000052,Other,2,2,1.0
-2008-3,E07000052,Road Safety & Defects,6,2,3.0
-2008-3,E07000064,Road Safety & Defects,1,1,1.0
-2008-3,E07000065,Road Safety & Defects,1,1,1.0
-2008-3,E07000066,Road Safety & Defects,2,2,1.0
-2008-3,E07000067,Incivilities,2,1,2.0
-2008-3,E07000067,Road Safety & Defects,1,1,1.0
-2008-3,E07000068,Road Safety & Defects,3,3,1.0
-2008-3,E07000070,Environmental Disruptions,2,2,1.0
-2008-3,E07000070,Road Safety & Defects,1,1,1.0
-2008-3,E07000071,Vehicles,2,2,1.0
-2008-3,E07000072,Road Safety & Defects,2,1,2.0
-2008-3,E07000072,Vehicles,1,1,1.0
-2008-3,E07000073,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000073,Environmental Health,1,1,1.0
-2008-3,E07000074,Environmental Health,1,1,1.0
-2008-3,E07000074,Road Safety & Defects,1,1,1.0
-2008-3,E07000076,Environmental Health,1,1,1.0
-2008-3,E07000076,Road Safety & Defects,1,1,1.0
-2008-3,E07000076,Vehicles,1,1,1.0
-2008-3,E07000077,Road Safety & Defects,1,1,1.0
-2008-3,E07000078,Abandoned Vehicles & Parking,4,3,1.3333333333333333
-2008-3,E07000078,Environmental Disruptions,1,1,1.0
-2008-3,E07000078,Environmental Health,3,3,1.0
-2008-3,E07000078,Incivilities,3,3,1.0
-2008-3,E07000078,Road Safety & Defects,9,9,1.0
-2008-3,E07000081,Road Safety & Defects,2,2,1.0
-2008-3,E07000082,Environmental Disruptions,1,1,1.0
-2008-3,E07000082,Environmental Health,1,1,1.0
-2008-3,E07000082,Road Safety & Defects,4,4,1.0
-2008-3,E07000083,Road Safety & Defects,3,1,3.0
-2008-3,E07000084,Incivilities,1,1,1.0
-2008-3,E07000084,Other,1,1,1.0
-2008-3,E07000084,Road Safety & Defects,1,1,1.0
-2008-3,E07000085,Environmental Health,35,3,11.666666666666666
-2008-3,E07000085,Other,1,1,1.0
-2008-3,E07000085,Road Safety & Defects,1,1,1.0
-2008-3,E07000086,Environmental Disruptions,1,1,1.0
-2008-3,E07000086,Environmental Health,1,1,1.0
-2008-3,E07000087,Incivilities,2,1,2.0
-2008-3,E07000087,Other,1,1,1.0
-2008-3,E07000087,Vehicles,1,1,1.0
-2008-3,E07000088,Vehicles,3,3,1.0
-2008-3,E07000091,Abandoned Vehicles & Parking,2,1,2.0
-2008-3,E07000091,Other,1,1,1.0
-2008-3,E07000091,Road Safety & Defects,3,2,1.5
-2008-3,E07000091,Vehicles,2,1,2.0
-2008-3,E07000093,Vehicles,1,1,1.0
-2008-3,E07000094,Environmental Health,10,2,5.0
-2008-3,E07000094,Incivilities,3,2,1.5
-2008-3,E07000094,Road Safety & Defects,5,4,1.25
-2008-3,E07000094,Vehicles,1,1,1.0
-2008-3,E07000095,Environmental Health,2,1,2.0
-2008-3,E07000095,Road Safety & Defects,3,2,1.5
-2008-3,E07000096,Environmental Health,2,2,1.0
-2008-3,E07000096,Road Safety & Defects,3,3,1.0
-2008-3,E07000098,Road Safety & Defects,1,1,1.0
-2008-3,E07000099,Road Safety & Defects,2,2,1.0
-2008-3,E07000099,Vehicles,1,1,1.0
-2008-3,E07000102,Incivilities,1,1,1.0
-2008-3,E07000102,Road Safety & Defects,1,1,1.0
-2008-3,E07000103,Road Safety & Defects,1,1,1.0
-2008-3,E07000106,Road Safety & Defects,1,1,1.0
-2008-3,E07000107,Road Safety & Defects,1,1,1.0
-2008-3,E07000108,Other,1,1,1.0
-2008-3,E07000109,Environmental Health,1,1,1.0
-2008-3,E07000109,Vehicles,1,1,1.0
-2008-3,E07000110,Other,4,3,1.3333333333333333
-2008-3,E07000110,Road Safety & Defects,2,2,1.0
-2008-3,E07000111,Incivilities,1,1,1.0
-2008-3,E07000111,Road Safety & Defects,1,1,1.0
-2008-3,E07000112,Environmental Health,1,1,1.0
-2008-3,E07000112,Road Safety & Defects,2,2,1.0
-2008-3,E07000113,Environmental Health,1,1,1.0
-2008-3,E07000113,Vehicles,1,1,1.0
-2008-3,E07000114,Environmental Health,1,1,1.0
-2008-3,E07000115,Environmental Health,4,2,2.0
-2008-3,E07000115,Incivilities,1,1,1.0
-2008-3,E07000115,Public Space,2,1,2.0
-2008-3,E07000115,Road Safety & Defects,1,1,1.0
-2008-3,E07000116,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000116,Other,1,1,1.0
-2008-3,E07000116,Road Safety & Defects,1,1,1.0
-2008-3,E07000118,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000118,Environmental Health,1,1,1.0
-2008-3,E07000118,Road Safety & Defects,1,1,1.0
-2008-3,E07000119,Environmental Disruptions,1,1,1.0
-2008-3,E07000119,Other,1,1,1.0
-2008-3,E07000119,Road Safety & Defects,1,1,1.0
-2008-3,E07000119,Vehicles,1,1,1.0
-2008-3,E07000120,Environmental Health,3,3,1.0
-2008-3,E07000120,Road Safety & Defects,1,1,1.0
-2008-3,E07000121,Other,1,1,1.0
-2008-3,E07000124,Road Safety & Defects,9,2,4.5
-2008-3,E07000125,Environmental Health,1,1,1.0
-2008-3,E07000126,Environmental Health,1,1,1.0
-2008-3,E07000126,Other,1,1,1.0
-2008-3,E07000137,Road Safety & Defects,2,1,2.0
-2008-3,E07000138,Environmental Health,1,1,1.0
-2008-3,E07000139,Environmental Disruptions,1,1,1.0
-2008-3,E07000139,Environmental Health,1,1,1.0
-2008-3,E07000139,Road Safety & Defects,6,5,1.2
-2008-3,E07000140,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000140,Environmental Health,1,1,1.0
-2008-3,E07000141,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000141,Environmental Health,1,1,1.0
-2008-3,E07000141,Road Safety & Defects,2,2,1.0
-2008-3,E07000142,Environmental Health,2,1,2.0
-2008-3,E07000143,Environmental Health,1,1,1.0
-2008-3,E07000143,Other,3,3,1.0
-2008-3,E07000143,Road Safety & Defects,4,2,2.0
-2008-3,E07000145,Environmental Health,10,3,3.3333333333333335
-2008-3,E07000145,Other,3,2,1.5
-2008-3,E07000145,Road Safety & Defects,1,1,1.0
-2008-3,E07000146,Incivilities,1,1,1.0
-2008-3,E07000146,Road Safety & Defects,2,2,1.0
-2008-3,E07000146,Vehicles,1,1,1.0
-2008-3,E07000147,Environmental Health,1,1,1.0
-2008-3,E07000147,Other,3,1,3.0
-2008-3,E07000147,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E07000148,Environmental Disruptions,2,1,2.0
-2008-3,E07000148,Environmental Health,1,1,1.0
-2008-3,E07000148,Road Safety & Defects,3,2,1.5
-2008-3,E07000149,Environmental Health,2,1,2.0
-2008-3,E07000149,Road Safety & Defects,2,2,1.0
-2008-3,E07000151,Vehicles,1,1,1.0
-2008-3,E07000152,Road Safety & Defects,1,1,1.0
-2008-3,E07000153,Environmental Health,1,1,1.0
-2008-3,E07000153,Other,1,1,1.0
-2008-3,E07000154,Incivilities,1,1,1.0
-2008-3,E07000154,Road Safety & Defects,2,2,1.0
-2008-3,E07000156,Road Safety & Defects,1,1,1.0
-2008-3,E07000164,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000164,Road Safety & Defects,1,1,1.0
-2008-3,E07000164,Vehicles,1,1,1.0
-2008-3,E07000165,Environmental Health,1,1,1.0
-2008-3,E07000165,Incivilities,1,1,1.0
-2008-3,E07000165,Other,1,1,1.0
-2008-3,E07000165,Public Space,1,1,1.0
-2008-3,E07000165,Road Safety & Defects,1,1,1.0
-2008-3,E07000166,Environmental Health,1,1,1.0
-2008-3,E07000168,Road Safety & Defects,1,1,1.0
-2008-3,E07000169,Road Safety & Defects,1,1,1.0
-2008-3,E07000170,Environmental Health,2,1,2.0
-2008-3,E07000170,Road Safety & Defects,1,1,1.0
-2008-3,E07000172,Environmental Health,1,1,1.0
-2008-3,E07000174,Road Safety & Defects,1,1,1.0
-2008-3,E07000176,Road Safety & Defects,2,2,1.0
-2008-3,E07000177,Road Safety & Defects,2,2,1.0
-2008-3,E07000178,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000178,Road Safety & Defects,5,4,1.25
-2008-3,E07000179,Environmental Health,6,2,3.0
-2008-3,E07000179,Other,1,1,1.0
-2008-3,E07000179,Road Safety & Defects,10,6,1.6666666666666667
-2008-3,E07000180,Environmental Disruptions,1,1,1.0
-2008-3,E07000180,Environmental Health,1,1,1.0
-2008-3,E07000180,Road Safety & Defects,3,3,1.0
-2008-3,E07000181,Environmental Health,2,2,1.0
-2008-3,E07000181,Road Safety & Defects,2,2,1.0
-2008-3,E07000187,Environmental Health,1,1,1.0
-2008-3,E07000187,Vehicles,1,1,1.0
-2008-3,E07000188,Environmental Health,3,2,1.5
-2008-3,E07000188,Road Safety & Defects,1,1,1.0
-2008-3,E07000189,Environmental Health,1,1,1.0
-2008-3,E07000189,Other,1,1,1.0
-2008-3,E07000189,Public Space,1,1,1.0
-2008-3,E07000189,Road Safety & Defects,3,3,1.0
-2008-3,E07000192,Vehicles,1,1,1.0
-2008-3,E07000193,Road Safety & Defects,1,1,1.0
-2008-3,E07000195,Road Safety & Defects,3,3,1.0
-2008-3,E07000196,Environmental Health,1,1,1.0
-2008-3,E07000198,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000200,Road Safety & Defects,1,1,1.0
-2008-3,E07000201,Road Safety & Defects,1,1,1.0
-2008-3,E07000202,Environmental Health,1,1,1.0
-2008-3,E07000203,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E07000203,Other,1,1,1.0
-2008-3,E07000204,Vehicles,1,1,1.0
-2008-3,E07000205,Environmental Health,1,1,1.0
-2008-3,E07000205,Road Safety & Defects,1,1,1.0
-2008-3,E07000206,Vehicles,2,2,1.0
-2008-3,E07000207,Road Safety & Defects,1,1,1.0
-2008-3,E07000208,Environmental Disruptions,1,1,1.0
-2008-3,E07000208,Environmental Health,1,1,1.0
-2008-3,E07000209,Other,2,2,1.0
-2008-3,E07000209,Road Safety & Defects,8,4,2.0
-2008-3,E07000210,Environmental Health,1,1,1.0
-2008-3,E07000210,Other,1,1,1.0
-2008-3,E07000210,Road Safety & Defects,2,2,1.0
-2008-3,E07000211,Environmental Health,1,1,1.0
-2008-3,E07000211,Road Safety & Defects,8,4,2.0
-2008-3,E07000213,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E07000215,Environmental Disruptions,1,1,1.0
-2008-3,E07000215,Environmental Health,1,1,1.0
-2008-3,E07000215,Road Safety & Defects,1,1,1.0
-2008-3,E07000216,Environmental Health,2,2,1.0
-2008-3,E07000216,Road Safety & Defects,4,2,2.0
-2008-3,E07000217,Other,1,1,1.0
-2008-3,E07000217,Road Safety & Defects,10,3,3.3333333333333335
-2008-3,E07000218,Road Safety & Defects,1,1,1.0
-2008-3,E07000219,Environmental Disruptions,1,1,1.0
-2008-3,E07000219,Environmental Health,1,1,1.0
-2008-3,E07000220,Environmental Health,1,1,1.0
-2008-3,E07000221,Environmental Health,1,1,1.0
-2008-3,E07000221,Incivilities,1,1,1.0
-2008-3,E07000221,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E07000222,Public Space,1,1,1.0
-2008-3,E07000224,Environmental Health,1,1,1.0
-2008-3,E07000224,Road Safety & Defects,2,2,1.0
-2008-3,E07000224,Vehicles,1,1,1.0
-2008-3,E07000225,Road Safety & Defects,1,1,1.0
-2008-3,E07000226,Other,1,1,1.0
-2008-3,E07000226,Road Safety & Defects,2,2,1.0
-2008-3,E07000227,Environmental Health,3,3,1.0
-2008-3,E07000227,Road Safety & Defects,2,2,1.0
-2008-3,E07000227,Vehicles,1,1,1.0
-2008-3,E07000228,Environmental Health,1,1,1.0
-2008-3,E07000228,Other,1,1,1.0
-2008-3,E07000228,Road Safety & Defects,2,2,1.0
-2008-3,E07000228,Vehicles,1,1,1.0
-2008-3,E07000229,Environmental Disruptions,1,1,1.0
-2008-3,E07000229,Environmental Health,1,1,1.0
-2008-3,E07000229,Road Safety & Defects,2,2,1.0
-2008-3,E07000234,Environmental Health,1,1,1.0
-2008-3,E07000234,Road Safety & Defects,5,5,1.0
-2008-3,E07000235,Other,1,1,1.0
-2008-3,E07000236,Other,3,2,1.5
-2008-3,E07000236,Road Safety & Defects,6,2,3.0
-2008-3,E07000238,Road Safety & Defects,4,1,4.0
-2008-3,E07000239,Road Safety & Defects,3,3,1.0
-2008-3,E07000240,Environmental Disruptions,1,1,1.0
-2008-3,E07000240,Other,1,1,1.0
-2008-3,E07000240,Road Safety & Defects,3,3,1.0
-2008-3,E07000241,Public Space,1,1,1.0
-2008-3,E07000241,Road Safety & Defects,3,3,1.0
-2008-3,E07000242,Other,4,4,1.0
-2008-3,E07000242,Road Safety & Defects,7,4,1.75
-2008-3,E07000243,Vehicles,1,1,1.0
-2008-3,E08000001,Environmental Health,3,2,1.5
-2008-3,E08000001,Incivilities,1,1,1.0
-2008-3,E08000001,Other,2,2,1.0
-2008-3,E08000001,Road Safety & Defects,2,2,1.0
-2008-3,E08000002,Environmental Health,1,1,1.0
-2008-3,E08000002,Other,1,1,1.0
-2008-3,E08000002,Road Safety & Defects,3,3,1.0
-2008-3,E08000003,Environmental Disruptions,1,1,1.0
-2008-3,E08000003,Environmental Health,4,4,1.0
-2008-3,E08000003,Other,2,2,1.0
-2008-3,E08000003,Road Safety & Defects,7,6,1.1666666666666667
-2008-3,E08000004,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000004,Road Safety & Defects,5,1,5.0
-2008-3,E08000005,Environmental Health,2,2,1.0
-2008-3,E08000005,Road Safety & Defects,2,1,2.0
-2008-3,E08000006,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000006,Environmental Health,2,2,1.0
-2008-3,E08000006,Road Safety & Defects,3,2,1.5
-2008-3,E08000006,Vehicles,1,1,1.0
-2008-3,E08000007,Road Safety & Defects,3,3,1.0
-2008-3,E08000009,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000009,Environmental Health,1,1,1.0
-2008-3,E08000009,Other,1,1,1.0
-2008-3,E08000009,Public Space,2,1,2.0
-2008-3,E08000009,Road Safety & Defects,17,13,1.3076923076923077
-2008-3,E08000010,Environmental Disruptions,1,1,1.0
-2008-3,E08000010,Environmental Health,1,1,1.0
-2008-3,E08000010,Other,1,1,1.0
-2008-3,E08000010,Vehicles,2,2,1.0
-2008-3,E08000012,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000012,Environmental Health,2,2,1.0
-2008-3,E08000012,Vehicles,1,1,1.0
-2008-3,E08000013,Other,1,1,1.0
-2008-3,E08000014,Environmental Health,3,1,3.0
-2008-3,E08000014,Incivilities,1,1,1.0
-2008-3,E08000014,Other,1,1,1.0
-2008-3,E08000014,Road Safety & Defects,3,3,1.0
-2008-3,E08000015,Other,1,1,1.0
-2008-3,E08000016,Environmental Health,7,7,1.0
-2008-3,E08000016,Road Safety & Defects,3,3,1.0
-2008-3,E08000017,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000017,Environmental Disruptions,1,1,1.0
-2008-3,E08000017,Environmental Health,8,5,1.6
-2008-3,E08000017,Incivilities,1,1,1.0
-2008-3,E08000017,Other,1,1,1.0
-2008-3,E08000017,Road Safety & Defects,5,4,1.25
-2008-3,E08000018,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,E08000018,Environmental Disruptions,4,1,4.0
-2008-3,E08000018,Environmental Health,18,5,3.6
-2008-3,E08000018,Other,14,4,3.5
-2008-3,E08000018,Road Safety & Defects,14,4,3.5
-2008-3,E08000019,Abandoned Vehicles & Parking,4,2,2.0
-2008-3,E08000019,Environmental Disruptions,1,1,1.0
-2008-3,E08000019,Environmental Health,7,7,1.0
-2008-3,E08000019,Incivilities,16,7,2.2857142857142856
-2008-3,E08000019,Other,3,3,1.0
-2008-3,E08000019,Public Space,1,1,1.0
-2008-3,E08000019,Road Safety & Defects,12,9,1.3333333333333333
-2008-3,E08000019,Vehicles,2,1,2.0
-2008-3,E08000021,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000021,Environmental Health,2,2,1.0
-2008-3,E08000021,Road Safety & Defects,1,1,1.0
-2008-3,E08000022,Environmental Health,2,2,1.0
-2008-3,E08000022,Incivilities,1,1,1.0
-2008-3,E08000022,Other,1,1,1.0
-2008-3,E08000022,Road Safety & Defects,2,2,1.0
-2008-3,E08000023,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000025,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000025,Environmental Health,11,8,1.375
-2008-3,E08000025,Incivilities,2,2,1.0
-2008-3,E08000025,Other,1,1,1.0
-2008-3,E08000025,Road Safety & Defects,7,4,1.75
-2008-3,E08000025,Vehicles,1,1,1.0
-2008-3,E08000026,Incivilities,1,1,1.0
-2008-3,E08000026,Road Safety & Defects,4,4,1.0
-2008-3,E08000026,Vehicles,1,1,1.0
-2008-3,E08000027,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E08000027,Road Safety & Defects,2,2,1.0
-2008-3,E08000028,Environmental Health,4,4,1.0
-2008-3,E08000028,Incivilities,1,1,1.0
-2008-3,E08000028,Other,1,1,1.0
-2008-3,E08000028,Road Safety & Defects,2,2,1.0
-2008-3,E08000028,Vehicles,1,1,1.0
-2008-3,E08000029,Environmental Health,1,1,1.0
-2008-3,E08000029,Other,1,1,1.0
-2008-3,E08000029,Road Safety & Defects,1,1,1.0
-2008-3,E08000030,Environmental Health,2,2,1.0
-2008-3,E08000030,Other,1,1,1.0
-2008-3,E08000031,Environmental Disruptions,1,1,1.0
-2008-3,E08000031,Environmental Health,1,1,1.0
-2008-3,E08000031,Public Space,1,1,1.0
-2008-3,E08000032,Environmental Health,3,3,1.0
-2008-3,E08000032,Other,1,1,1.0
-2008-3,E08000032,Road Safety & Defects,2,2,1.0
-2008-3,E08000032,Vehicles,2,2,1.0
-2008-3,E08000033,Environmental Health,3,3,1.0
-2008-3,E08000033,Other,1,1,1.0
-2008-3,E08000033,Vehicles,1,1,1.0
-2008-3,E08000034,Environmental Health,2,2,1.0
-2008-3,E08000034,Road Safety & Defects,3,3,1.0
-2008-3,E08000035,Environmental Disruptions,1,1,1.0
-2008-3,E08000035,Environmental Health,8,8,1.0
-2008-3,E08000035,Other,3,3,1.0
-2008-3,E08000035,Road Safety & Defects,8,5,1.6
-2008-3,E08000035,Vehicles,1,1,1.0
-2008-3,E08000036,Road Safety & Defects,2,2,1.0
-2008-3,E08000037,Environmental Health,1,1,1.0
-2008-3,E08000037,Public Space,1,1,1.0
-2008-3,E08000037,Road Safety & Defects,3,3,1.0
-2008-3,E08000037,Vehicles,1,1,1.0
-2008-3,E09000001,Road Safety & Defects,1,1,1.0
-2008-3,E09000002,Environmental Health,1,1,1.0
-2008-3,E09000002,Other,1,1,1.0
-2008-3,E09000003,Abandoned Vehicles & Parking,3,3,1.0
-2008-3,E09000003,Environmental Health,2,2,1.0
-2008-3,E09000003,Incivilities,1,1,1.0
-2008-3,E09000003,Other,1,1,1.0
-2008-3,E09000003,Road Safety & Defects,5,3,1.6666666666666667
-2008-3,E09000004,Environmental Health,1,1,1.0
-2008-3,E09000004,Vehicles,2,2,1.0
-2008-3,E09000006,Environmental Health,1,1,1.0
-2008-3,E09000006,Other,1,1,1.0
-2008-3,E09000006,Road Safety & Defects,3,3,1.0
-2008-3,E09000006,Vehicles,1,1,1.0
-2008-3,E09000007,Environmental Health,1,1,1.0
-2008-3,E09000007,Road Safety & Defects,4,4,1.0
-2008-3,E09000008,Road Safety & Defects,3,3,1.0
-2008-3,E09000009,Environmental Health,2,2,1.0
-2008-3,E09000009,Incivilities,3,3,1.0
-2008-3,E09000009,Road Safety & Defects,5,3,1.6666666666666667
-2008-3,E09000009,Vehicles,2,2,1.0
-2008-3,E09000010,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E09000010,Environmental Health,1,1,1.0
-2008-3,E09000010,Incivilities,1,1,1.0
-2008-3,E09000010,Road Safety & Defects,15,5,3.0
-2008-3,E09000011,Environmental Health,2,2,1.0
-2008-3,E09000011,Road Safety & Defects,1,1,1.0
-2008-3,E09000011,Vehicles,1,1,1.0
-2008-3,E09000012,Environmental Disruptions,1,1,1.0
-2008-3,E09000012,Environmental Health,1,1,1.0
-2008-3,E09000012,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E09000013,Environmental Health,3,3,1.0
-2008-3,E09000014,Road Safety & Defects,3,2,1.5
-2008-3,E09000015,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E09000015,Incivilities,1,1,1.0
-2008-3,E09000015,Vehicles,1,1,1.0
-2008-3,E09000016,Environmental Health,1,1,1.0
-2008-3,E09000017,Environmental Health,1,1,1.0
-2008-3,E09000017,Other,1,1,1.0
-2008-3,E09000017,Road Safety & Defects,1,1,1.0
-2008-3,E09000018,Environmental Health,3,3,1.0
-2008-3,E09000018,Road Safety & Defects,6,5,1.2
-2008-3,E09000019,Environmental Health,6,5,1.2
-2008-3,E09000019,Incivilities,5,1,5.0
-2008-3,E09000019,Other,1,1,1.0
-2008-3,E09000019,Road Safety & Defects,6,4,1.5
-2008-3,E09000019,Vehicles,1,1,1.0
-2008-3,E09000020,Other,1,1,1.0
-2008-3,E09000020,Road Safety & Defects,1,1,1.0
-2008-3,E09000021,Other,1,1,1.0
-2008-3,E09000021,Road Safety & Defects,1,1,1.0
-2008-3,E09000022,Environmental Health,2,2,1.0
-2008-3,E09000022,Other,4,4,1.0
-2008-3,E09000022,Road Safety & Defects,4,4,1.0
-2008-3,E09000022,Vehicles,1,1,1.0
-2008-3,E09000023,Environmental Disruptions,1,1,1.0
-2008-3,E09000023,Environmental Health,5,4,1.25
-2008-3,E09000023,Other,2,2,1.0
-2008-3,E09000023,Road Safety & Defects,4,4,1.0
-2008-3,E09000023,Vehicles,2,2,1.0
-2008-3,E09000024,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E09000024,Environmental Disruptions,1,1,1.0
-2008-3,E09000024,Environmental Health,1,1,1.0
-2008-3,E09000024,Road Safety & Defects,5,4,1.25
-2008-3,E09000025,Vehicles,5,1,5.0
-2008-3,E09000026,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,E09000026,Environmental Health,1,1,1.0
-2008-3,E09000026,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E09000027,Environmental Health,3,3,1.0
-2008-3,E09000027,Incivilities,2,2,1.0
-2008-3,E09000027,Road Safety & Defects,4,4,1.0
-2008-3,E09000028,Environmental Disruptions,1,1,1.0
-2008-3,E09000028,Other,1,1,1.0
-2008-3,E09000028,Road Safety & Defects,6,4,1.5
-2008-3,E09000028,Vehicles,2,2,1.0
-2008-3,E09000029,Environmental Health,1,1,1.0
-2008-3,E09000029,Incivilities,1,1,1.0
-2008-3,E09000029,Other,1,1,1.0
-2008-3,E09000030,Environmental Health,4,3,1.3333333333333333
-2008-3,E09000030,Incivilities,1,1,1.0
-2008-3,E09000030,Road Safety & Defects,2,2,1.0
-2008-3,E09000031,Environmental Health,11,8,1.375
-2008-3,E09000031,Incivilities,4,4,1.0
-2008-3,E09000031,Road Safety & Defects,4,3,1.3333333333333333
-2008-3,E09000031,Vehicles,2,2,1.0
-2008-3,E09000032,Environmental Health,6,4,1.5
-2008-3,E09000032,Incivilities,1,1,1.0
-2008-3,E09000032,Other,4,4,1.0
-2008-3,E09000032,Road Safety & Defects,7,7,1.0
-2008-3,E09000033,Environmental Health,1,1,1.0
-2008-3,E09000033,Road Safety & Defects,1,1,1.0
-2008-3,S12000005,Environmental Health,1,1,1.0
-2008-3,S12000005,Other,1,1,1.0
-2008-3,S12000005,Road Safety & Defects,1,1,1.0
-2008-3,S12000006,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,S12000006,Environmental Health,2,2,1.0
-2008-3,S12000006,Road Safety & Defects,2,2,1.0
-2008-3,S12000008,Road Safety & Defects,1,1,1.0
-2008-3,S12000010,Abandoned Vehicles & Parking,3,2,1.5
-2008-3,S12000010,Environmental Health,5,3,1.6666666666666667
-2008-3,S12000010,Other,3,3,1.0
-2008-3,S12000010,Road Safety & Defects,12,4,3.0
-2008-3,S12000011,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,S12000011,Incivilities,1,1,1.0
-2008-3,S12000011,Other,1,1,1.0
-2008-3,S12000011,Road Safety & Defects,7,7,1.0
-2008-3,S12000013,Road Safety & Defects,2,1,2.0
-2008-3,S12000014,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,S12000014,Environmental Disruptions,1,1,1.0
-2008-3,S12000014,Environmental Health,11,10,1.1
-2008-3,S12000014,Other,8,8,1.0
-2008-3,S12000014,Road Safety & Defects,77,53,1.4528301886792452
-2008-3,S12000015,Abandoned Vehicles & Parking,3,3,1.0
-2008-3,S12000015,Environmental Disruptions,1,1,1.0
-2008-3,S12000015,Environmental Health,2,2,1.0
-2008-3,S12000015,Other,6,6,1.0
-2008-3,S12000015,Public Space,1,1,1.0
-2008-3,S12000015,Road Safety & Defects,10,9,1.1111111111111112
-2008-3,S12000017,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,S12000017,Environmental Disruptions,1,1,1.0
-2008-3,S12000017,Environmental Health,5,5,1.0
-2008-3,S12000017,Other,1,1,1.0
-2008-3,S12000017,Road Safety & Defects,16,14,1.1428571428571428
-2008-3,S12000017,Vehicles,1,1,1.0
-2008-3,S12000018,Road Safety & Defects,2,2,1.0
-2008-3,S12000018,Vehicles,1,1,1.0
-2008-3,S12000019,Environmental Disruptions,1,1,1.0
-2008-3,S12000019,Environmental Health,4,3,1.3333333333333333
-2008-3,S12000019,Public Space,1,1,1.0
-2008-3,S12000019,Road Safety & Defects,9,5,1.8
-2008-3,S12000019,Vehicles,1,1,1.0
-2008-3,S12000020,Other,3,3,1.0
-2008-3,S12000020,Road Safety & Defects,2,1,2.0
-2008-3,S12000021,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,S12000021,Environmental Health,4,4,1.0
-2008-3,S12000021,Other,1,1,1.0
-2008-3,S12000021,Road Safety & Defects,3,3,1.0
-2008-3,S12000021,Vehicles,1,1,1.0
-2008-3,S12000024,Environmental Health,4,4,1.0
-2008-3,S12000024,Road Safety & Defects,1,1,1.0
-2008-3,S12000026,Other,2,2,1.0
-2008-3,S12000028,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,S12000028,Environmental Disruptions,1,1,1.0
-2008-3,S12000028,Environmental Health,2,2,1.0
-2008-3,S12000028,Road Safety & Defects,6,5,1.2
-2008-3,S12000029,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,S12000029,Environmental Disruptions,2,2,1.0
-2008-3,S12000029,Environmental Health,3,3,1.0
-2008-3,S12000029,Other,1,1,1.0
-2008-3,S12000029,Road Safety & Defects,26,18,1.4444444444444444
-2008-3,S12000029,Vehicles,1,1,1.0
-2008-3,S12000030,Other,1,1,1.0
-2008-3,S12000030,Road Safety & Defects,4,4,1.0
-2008-3,S12000030,Vehicles,1,1,1.0
-2008-3,S12000033,Environmental Disruptions,1,1,1.0
-2008-3,S12000033,Environmental Health,4,4,1.0
-2008-3,S12000033,Other,1,1,1.0
-2008-3,S12000033,Road Safety & Defects,68,5,13.6
-2008-3,S12000033,Vehicles,1,1,1.0
-2008-3,S12000034,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,S12000034,Other,4,4,1.0
-2008-3,S12000034,Road Safety & Defects,6,6,1.0
-2008-3,S12000035,Environmental Health,1,1,1.0
-2008-3,S12000035,Other,1,1,1.0
-2008-3,S12000035,Road Safety & Defects,6,4,1.5
-2008-3,S12000036,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,S12000036,Environmental Disruptions,1,1,1.0
-2008-3,S12000036,Environmental Health,17,16,1.0625
-2008-3,S12000036,Incivilities,3,3,1.0
-2008-3,S12000036,Other,15,8,1.875
-2008-3,S12000036,Public Space,1,1,1.0
-2008-3,S12000036,Road Safety & Defects,38,30,1.2666666666666666
-2008-3,S12000038,Access,1,1,1.0
-2008-3,S12000038,Environmental Health,4,3,1.3333333333333333
-2008-3,S12000038,Incivilities,1,1,1.0
-2008-3,S12000038,Public Space,1,1,1.0
-2008-3,S12000038,Road Safety & Defects,54,22,2.4545454545454546
-2008-3,S12000039,Environmental Disruptions,1,1,1.0
-2008-3,S12000039,Environmental Health,1,1,1.0
-2008-3,S12000039,Other,1,1,1.0
-2008-3,S12000039,Road Safety & Defects,2,2,1.0
-2008-3,S12000040,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,S12000040,Environmental Health,2,2,1.0
-2008-3,S12000040,Other,2,2,1.0
-2008-3,S12000040,Road Safety & Defects,4,4,1.0
-2008-3,S12000041,Road Safety & Defects,4,4,1.0
-2008-3,S12000041,Vehicles,1,1,1.0
-2008-3,S12000042,Environmental Health,1,1,1.0
-2008-3,S12000042,Incivilities,1,1,1.0
-2008-3,S12000042,Other,1,1,1.0
-2008-3,S12000042,Road Safety & Defects,6,4,1.5
-2008-3,S12000044,Environmental Disruptions,2,2,1.0
-2008-3,S12000044,Environmental Health,8,7,1.1428571428571428
-2008-3,S12000044,Other,3,3,1.0
-2008-3,S12000044,Public Space,3,2,1.5
-2008-3,S12000044,Road Safety & Defects,19,13,1.4615384615384615
-2008-3,S12000044,Vehicles,1,1,1.0
-2008-3,S12000045,Environmental Health,1,1,1.0
-2008-3,S12000045,Other,1,1,1.0
-2008-3,S12000045,Public Space,4,2,2.0
-2008-3,S12000045,Road Safety & Defects,8,8,1.0
-2008-3,S12000046,Abandoned Vehicles & Parking,2,2,1.0
-2008-3,S12000046,Environmental Disruptions,1,1,1.0
-2008-3,S12000046,Environmental Health,20,19,1.0526315789473684
-2008-3,S12000046,Incivilities,2,2,1.0
-2008-3,S12000046,Other,11,11,1.0
-2008-3,S12000046,Public Space,1,1,1.0
-2008-3,S12000046,Road Safety & Defects,37,31,1.1935483870967742
-2008-3,S12000046,Vehicles,3,3,1.0
-2008-3,W06000002,Other,1,1,1.0
-2008-3,W06000003,Environmental Health,2,2,1.0
-2008-3,W06000004,Environmental Health,1,1,1.0
-2008-3,W06000005,Other,2,2,1.0
-2008-3,W06000006,Environmental Health,2,2,1.0
-2008-3,W06000006,Road Safety & Defects,2,2,1.0
-2008-3,W06000009,Abandoned Vehicles & Parking,1,1,1.0
-2008-3,W06000009,Environmental Health,1,1,1.0
-2008-3,W06000009,Road Safety & Defects,2,2,1.0
-2008-3,W06000010,Environmental Health,1,1,1.0
-2008-3,W06000011,Road Safety & Defects,1,1,1.0
-2008-3,W06000012,Environmental Health,1,1,1.0
-2008-3,W06000012,Road Safety & Defects,1,1,1.0
-2008-3,W06000013,Environmental Health,1,1,1.0
-2008-3,W06000014,Vehicles,1,1,1.0
-2008-3,W06000015,Environmental Health,3,3,1.0
-2008-3,W06000015,Incivilities,1,1,1.0
-2008-3,W06000015,Other,3,3,1.0
-2008-3,W06000015,Public Space,1,1,1.0
-2008-3,W06000015,Road Safety & Defects,9,4,2.25
-2008-3,W06000015,Vehicles,2,2,1.0
-2008-3,W06000016,Environmental Health,1,1,1.0
-2008-3,W06000016,Other,1,1,1.0
-2008-3,W06000016,Road Safety & Defects,3,2,1.5
-2008-3,W06000018,Vehicles,1,1,1.0
-2008-3,W06000019,Environmental Disruptions,1,1,1.0
-2008-3,W06000019,Environmental Health,1,1,1.0
-2008-3,W06000019,Other,1,1,1.0
-2008-3,W06000020,Environmental Health,1,1,1.0
-2008-3,W06000021,Environmental Disruptions,5,1,5.0
-2008-3,W06000021,Environmental Health,4,3,1.3333333333333333
-2008-3,W06000021,Other,2,2,1.0
-2008-3,W06000021,Road Safety & Defects,10,2,5.0
-2008-3,W06000022,Environmental Health,2,1,2.0
-2008-3,,Other,1,1,1.0
-2008-3,,Road Safety & Defects,2,2,1.0
+period,LAD,SHEF_C_CODE,report_count,user_count,average
+2008-3,,C5,1,1,1.0
+2008-3,,C7,2,2,1.0
+2008-3,E06000002,C3,1,1,1.0
+2008-3,E06000002,C7,2,2,1.0
+2008-3,E06000004,C5,1,1,1.0
+2008-3,E06000004,C7,2,2,1.0
+2008-3,E06000005,C3,2,2,1.0
+2008-3,E06000005,C7,3,3,1.0
+2008-3,E06000006,C3,3,2,1.5
+2008-3,E06000006,C5,1,1,1.0
+2008-3,E06000006,C7,1,1,1.0
+2008-3,E06000007,C2,1,1,1.0
+2008-3,E06000007,C3,1,1,1.0
+2008-3,E06000007,C5,2,2,1.0
+2008-3,E06000007,C7,2,1,2.0
+2008-3,E06000008,C3,2,2,1.0
+2008-3,E06000009,C7,2,2,1.0
+2008-3,E06000010,C3,1,1,1.0
+2008-3,E06000010,C7,3,2,1.5
+2008-3,E06000011,C3,3,3,1.0
+2008-3,E06000011,C5,3,3,1.0
+2008-3,E06000011,C7,2,2,1.0
+2008-3,E06000011,C8,1,1,1.0
+2008-3,E06000012,C5,1,1,1.0
+2008-3,E06000012,C7,1,1,1.0
+2008-3,E06000013,C7,1,1,1.0
+2008-3,E06000014,C2,1,1,1.0
+2008-3,E06000014,C7,2,2,1.0
+2008-3,E06000014,C8,1,1,1.0
+2008-3,E06000015,C3,1,1,1.0
+2008-3,E06000016,C3,1,1,1.0
+2008-3,E06000016,C6,1,1,1.0
+2008-3,E06000016,C7,1,1,1.0
+2008-3,E06000016,C8,3,1,3.0
+2008-3,E06000018,C3,3,2,1.5
+2008-3,E06000018,C4,2,1,2.0
+2008-3,E06000018,C5,1,1,1.0
+2008-3,E06000018,C7,3,3,1.0
+2008-3,E06000019,C3,1,1,1.0
+2008-3,E06000019,C4,1,1,1.0
+2008-3,E06000020,C7,10,1,10.0
+2008-3,E06000021,C5,1,1,1.0
+2008-3,E06000021,C7,1,1,1.0
+2008-3,E06000021,C8,1,1,1.0
+2008-3,E06000022,C7,2,2,1.0
+2008-3,E06000023,C3,3,3,1.0
+2008-3,E06000023,C5,1,1,1.0
+2008-3,E06000023,C7,5,5,1.0
+2008-3,E06000024,C3,2,2,1.0
+2008-3,E06000024,C7,1,1,1.0
+2008-3,E06000025,C3,1,1,1.0
+2008-3,E06000025,C5,1,1,1.0
+2008-3,E06000025,C7,2,2,1.0
+2008-3,E06000025,C8,1,1,1.0
+2008-3,E06000026,C3,4,4,1.0
+2008-3,E06000026,C7,1,1,1.0
+2008-3,E06000027,C5,1,1,1.0
+2008-3,E06000028,C3,1,1,1.0
+2008-3,E06000028,C5,1,1,1.0
+2008-3,E06000028,C8,1,1,1.0
+2008-3,E06000030,C3,5,4,1.25
+2008-3,E06000030,C7,4,3,1.3333333333333333
+2008-3,E06000031,C2,1,1,1.0
+2008-3,E06000031,C5,2,1,2.0
+2008-3,E06000031,C7,4,3,1.3333333333333333
+2008-3,E06000031,C8,1,1,1.0
+2008-3,E06000032,C7,1,1,1.0
+2008-3,E06000032,C8,1,1,1.0
+2008-3,E06000033,C5,1,1,1.0
+2008-3,E06000034,C7,1,1,1.0
+2008-3,E06000035,C3,2,2,1.0
+2008-3,E06000035,C7,2,2,1.0
+2008-3,E06000035,C8,2,2,1.0
+2008-3,E06000037,C3,1,1,1.0
+2008-3,E06000037,C7,1,1,1.0
+2008-3,E06000038,C2,1,1,1.0
+2008-3,E06000038,C3,1,1,1.0
+2008-3,E06000038,C4,1,1,1.0
+2008-3,E06000038,C5,1,1,1.0
+2008-3,E06000038,C7,3,3,1.0
+2008-3,E06000038,C8,3,3,1.0
+2008-3,E06000040,C5,1,1,1.0
+2008-3,E06000040,C7,4,4,1.0
+2008-3,E06000041,C7,2,2,1.0
+2008-3,E06000042,C3,2,2,1.0
+2008-3,E06000042,C7,9,8,1.125
+2008-3,E06000042,C8,1,1,1.0
+2008-3,E06000043,C3,1,1,1.0
+2008-3,E06000043,C5,4,4,1.0
+2008-3,E06000043,C7,5,4,1.25
+2008-3,E06000044,C3,1,1,1.0
+2008-3,E06000045,C5,1,1,1.0
+2008-3,E06000045,C6,1,1,1.0
+2008-3,E06000045,C7,3,3,1.0
+2008-3,E06000045,C8,2,2,1.0
+2008-3,E06000046,C5,1,1,1.0
+2008-3,E06000046,C8,1,1,1.0
+2008-3,E06000047,C3,4,4,1.0
+2008-3,E06000047,C4,1,1,1.0
+2008-3,E06000047,C7,4,4,1.0
+2008-3,E06000049,C2,2,2,1.0
+2008-3,E06000049,C3,2,1,2.0
+2008-3,E06000049,C4,1,1,1.0
+2008-3,E06000049,C5,2,2,1.0
+2008-3,E06000049,C7,7,7,1.0
+2008-3,E06000050,C3,3,2,1.5
+2008-3,E06000050,C7,4,4,1.0
+2008-3,E06000051,C5,1,1,1.0
+2008-3,E06000051,C7,5,3,1.6666666666666667
+2008-3,E06000052,C2,2,2,1.0
+2008-3,E06000052,C3,2,2,1.0
+2008-3,E06000052,C7,2,2,1.0
+2008-3,E06000054,C3,7,4,1.75
+2008-3,E06000054,C5,1,1,1.0
+2008-3,E06000054,C6,1,1,1.0
+2008-3,E06000054,C7,5,5,1.0
+2008-3,E06000054,C8,3,3,1.0
+2008-3,E06000055,C7,1,1,1.0
+2008-3,E06000056,C4,1,1,1.0
+2008-3,E06000056,C7,2,2,1.0
+2008-3,E06000056,C8,2,2,1.0
+2008-3,E06000057,C3,3,3,1.0
+2008-3,E06000057,C5,2,2,1.0
+2008-3,E07000004,C7,1,1,1.0
+2008-3,E07000005,C3,1,1,1.0
+2008-3,E07000005,C4,1,1,1.0
+2008-3,E07000005,C5,1,1,1.0
+2008-3,E07000005,C7,2,2,1.0
+2008-3,E07000006,C7,2,2,1.0
+2008-3,E07000007,C7,1,1,1.0
+2008-3,E07000007,C8,2,2,1.0
+2008-3,E07000008,C3,2,1,2.0
+2008-3,E07000008,C7,7,5,1.4
+2008-3,E07000011,C3,1,1,1.0
+2008-3,E07000011,C7,3,3,1.0
+2008-3,E07000011,C8,1,1,1.0
+2008-3,E07000012,C2,3,3,1.0
+2008-3,E07000012,C3,2,1,2.0
+2008-3,E07000012,C4,1,1,1.0
+2008-3,E07000012,C5,2,1,2.0
+2008-3,E07000012,C7,9,4,2.25
+2008-3,E07000026,C3,3,1,3.0
+2008-3,E07000026,C7,1,1,1.0
+2008-3,E07000027,C8,1,1,1.0
+2008-3,E07000028,C3,1,1,1.0
+2008-3,E07000029,C7,1,1,1.0
+2008-3,E07000031,C3,1,1,1.0
+2008-3,E07000032,C3,2,2,1.0
+2008-3,E07000034,C5,1,1,1.0
+2008-3,E07000036,C3,4,4,1.0
+2008-3,E07000036,C7,1,1,1.0
+2008-3,E07000037,C7,2,1,2.0
+2008-3,E07000038,C6,1,1,1.0
+2008-3,E07000040,C3,3,3,1.0
+2008-3,E07000040,C7,3,3,1.0
+2008-3,E07000042,C7,2,2,1.0
+2008-3,E07000043,C3,2,2,1.0
+2008-3,E07000043,C5,1,1,1.0
+2008-3,E07000044,C7,1,1,1.0
+2008-3,E07000045,C5,1,1,1.0
+2008-3,E07000045,C7,2,2,1.0
+2008-3,E07000049,C4,1,1,1.0
+2008-3,E07000050,C7,2,2,1.0
+2008-3,E07000052,C3,1,1,1.0
+2008-3,E07000052,C5,2,2,1.0
+2008-3,E07000052,C7,6,2,3.0
+2008-3,E07000064,C7,1,1,1.0
+2008-3,E07000065,C7,1,1,1.0
+2008-3,E07000066,C7,2,2,1.0
+2008-3,E07000067,C4,2,1,2.0
+2008-3,E07000067,C7,1,1,1.0
+2008-3,E07000068,C7,3,3,1.0
+2008-3,E07000070,C2,2,2,1.0
+2008-3,E07000070,C7,1,1,1.0
+2008-3,E07000071,C8,2,2,1.0
+2008-3,E07000072,C7,2,1,2.0
+2008-3,E07000072,C8,1,1,1.0
+2008-3,E07000073,C3,1,1,1.0
+2008-3,E07000073,C8,1,1,1.0
+2008-3,E07000074,C3,1,1,1.0
+2008-3,E07000074,C7,1,1,1.0
+2008-3,E07000076,C3,1,1,1.0
+2008-3,E07000076,C7,1,1,1.0
+2008-3,E07000076,C8,1,1,1.0
+2008-3,E07000077,C7,1,1,1.0
+2008-3,E07000078,C2,1,1,1.0
+2008-3,E07000078,C3,3,3,1.0
+2008-3,E07000078,C4,3,3,1.0
+2008-3,E07000078,C7,9,9,1.0
+2008-3,E07000078,C8,4,3,1.3333333333333333
+2008-3,E07000081,C7,2,2,1.0
+2008-3,E07000082,C2,1,1,1.0
+2008-3,E07000082,C3,1,1,1.0
+2008-3,E07000082,C7,4,4,1.0
+2008-3,E07000083,C7,3,1,3.0
+2008-3,E07000084,C4,1,1,1.0
+2008-3,E07000084,C5,1,1,1.0
+2008-3,E07000084,C7,1,1,1.0
+2008-3,E07000085,C3,35,3,11.666666666666666
+2008-3,E07000085,C5,1,1,1.0
+2008-3,E07000085,C7,1,1,1.0
+2008-3,E07000086,C2,1,1,1.0
+2008-3,E07000086,C3,1,1,1.0
+2008-3,E07000087,C4,2,1,2.0
+2008-3,E07000087,C5,1,1,1.0
+2008-3,E07000087,C8,1,1,1.0
+2008-3,E07000088,C8,3,3,1.0
+2008-3,E07000091,C5,1,1,1.0
+2008-3,E07000091,C7,3,2,1.5
+2008-3,E07000091,C8,4,1,4.0
+2008-3,E07000093,C8,1,1,1.0
+2008-3,E07000094,C3,10,2,5.0
+2008-3,E07000094,C4,3,2,1.5
+2008-3,E07000094,C7,5,4,1.25
+2008-3,E07000094,C8,1,1,1.0
+2008-3,E07000095,C3,2,1,2.0
+2008-3,E07000095,C7,3,2,1.5
+2008-3,E07000096,C3,2,2,1.0
+2008-3,E07000096,C7,3,3,1.0
+2008-3,E07000098,C7,1,1,1.0
+2008-3,E07000099,C7,2,2,1.0
+2008-3,E07000099,C8,1,1,1.0
+2008-3,E07000102,C4,1,1,1.0
+2008-3,E07000102,C7,1,1,1.0
+2008-3,E07000103,C7,1,1,1.0
+2008-3,E07000106,C7,1,1,1.0
+2008-3,E07000107,C7,1,1,1.0
+2008-3,E07000108,C5,1,1,1.0
+2008-3,E07000109,C3,1,1,1.0
+2008-3,E07000109,C8,1,1,1.0
+2008-3,E07000110,C5,4,3,1.3333333333333333
+2008-3,E07000110,C7,2,2,1.0
+2008-3,E07000111,C4,1,1,1.0
+2008-3,E07000111,C7,1,1,1.0
+2008-3,E07000112,C3,1,1,1.0
+2008-3,E07000112,C7,2,2,1.0
+2008-3,E07000113,C3,1,1,1.0
+2008-3,E07000113,C8,1,1,1.0
+2008-3,E07000114,C3,1,1,1.0
+2008-3,E07000115,C3,4,2,2.0
+2008-3,E07000115,C4,1,1,1.0
+2008-3,E07000115,C6,2,1,2.0
+2008-3,E07000115,C7,1,1,1.0
+2008-3,E07000116,C5,1,1,1.0
+2008-3,E07000116,C7,1,1,1.0
+2008-3,E07000116,C8,1,1,1.0
+2008-3,E07000118,C3,1,1,1.0
+2008-3,E07000118,C7,1,1,1.0
+2008-3,E07000118,C8,1,1,1.0
+2008-3,E07000119,C2,1,1,1.0
+2008-3,E07000119,C5,1,1,1.0
+2008-3,E07000119,C7,1,1,1.0
+2008-3,E07000119,C8,1,1,1.0
+2008-3,E07000120,C3,3,3,1.0
+2008-3,E07000120,C7,1,1,1.0
+2008-3,E07000121,C5,1,1,1.0
+2008-3,E07000124,C7,9,2,4.5
+2008-3,E07000125,C3,1,1,1.0
+2008-3,E07000126,C3,1,1,1.0
+2008-3,E07000126,C5,1,1,1.0
+2008-3,E07000137,C7,2,1,2.0
+2008-3,E07000138,C3,1,1,1.0
+2008-3,E07000139,C2,1,1,1.0
+2008-3,E07000139,C3,1,1,1.0
+2008-3,E07000139,C7,6,5,1.2
+2008-3,E07000140,C3,1,1,1.0
+2008-3,E07000140,C8,1,1,1.0
+2008-3,E07000141,C3,1,1,1.0
+2008-3,E07000141,C7,2,2,1.0
+2008-3,E07000141,C8,1,1,1.0
+2008-3,E07000142,C3,2,1,2.0
+2008-3,E07000143,C3,1,1,1.0
+2008-3,E07000143,C5,3,3,1.0
+2008-3,E07000143,C7,4,2,2.0
+2008-3,E07000145,C3,10,3,3.3333333333333335
+2008-3,E07000145,C5,3,2,1.5
+2008-3,E07000145,C7,1,1,1.0
+2008-3,E07000146,C4,1,1,1.0
+2008-3,E07000146,C7,2,2,1.0
+2008-3,E07000146,C8,1,1,1.0
+2008-3,E07000147,C3,1,1,1.0
+2008-3,E07000147,C5,3,1,3.0
+2008-3,E07000147,C7,4,3,1.3333333333333333
+2008-3,E07000148,C2,2,1,2.0
+2008-3,E07000148,C3,1,1,1.0
+2008-3,E07000148,C7,3,2,1.5
+2008-3,E07000149,C3,2,1,2.0
+2008-3,E07000149,C7,2,2,1.0
+2008-3,E07000151,C8,1,1,1.0
+2008-3,E07000152,C7,1,1,1.0
+2008-3,E07000153,C3,1,1,1.0
+2008-3,E07000153,C5,1,1,1.0
+2008-3,E07000154,C4,1,1,1.0
+2008-3,E07000154,C7,2,2,1.0
+2008-3,E07000156,C7,1,1,1.0
+2008-3,E07000164,C7,1,1,1.0
+2008-3,E07000164,C8,2,2,1.0
+2008-3,E07000165,C3,1,1,1.0
+2008-3,E07000165,C4,1,1,1.0
+2008-3,E07000165,C5,1,1,1.0
+2008-3,E07000165,C6,1,1,1.0
+2008-3,E07000165,C7,1,1,1.0
+2008-3,E07000166,C3,1,1,1.0
+2008-3,E07000168,C7,1,1,1.0
+2008-3,E07000169,C7,1,1,1.0
+2008-3,E07000170,C3,2,1,2.0
+2008-3,E07000170,C7,1,1,1.0
+2008-3,E07000172,C3,1,1,1.0
+2008-3,E07000174,C7,1,1,1.0
+2008-3,E07000176,C7,2,2,1.0
+2008-3,E07000177,C7,2,2,1.0
+2008-3,E07000178,C7,5,4,1.25
+2008-3,E07000178,C8,1,1,1.0
+2008-3,E07000179,C3,6,2,3.0
+2008-3,E07000179,C5,1,1,1.0
+2008-3,E07000179,C7,10,6,1.6666666666666667
+2008-3,E07000180,C2,1,1,1.0
+2008-3,E07000180,C3,1,1,1.0
+2008-3,E07000180,C7,3,3,1.0
+2008-3,E07000181,C3,2,2,1.0
+2008-3,E07000181,C7,2,2,1.0
+2008-3,E07000187,C3,1,1,1.0
+2008-3,E07000187,C8,1,1,1.0
+2008-3,E07000188,C3,3,2,1.5
+2008-3,E07000188,C7,1,1,1.0
+2008-3,E07000189,C3,1,1,1.0
+2008-3,E07000189,C5,1,1,1.0
+2008-3,E07000189,C6,1,1,1.0
+2008-3,E07000189,C7,3,3,1.0
+2008-3,E07000192,C8,1,1,1.0
+2008-3,E07000193,C7,1,1,1.0
+2008-3,E07000195,C7,3,3,1.0
+2008-3,E07000196,C3,1,1,1.0
+2008-3,E07000198,C8,1,1,1.0
+2008-3,E07000200,C7,1,1,1.0
+2008-3,E07000201,C7,1,1,1.0
+2008-3,E07000202,C3,1,1,1.0
+2008-3,E07000203,C5,1,1,1.0
+2008-3,E07000203,C8,1,1,1.0
+2008-3,E07000204,C8,1,1,1.0
+2008-3,E07000205,C3,1,1,1.0
+2008-3,E07000205,C7,1,1,1.0
+2008-3,E07000206,C8,2,2,1.0
+2008-3,E07000207,C7,1,1,1.0
+2008-3,E07000208,C2,1,1,1.0
+2008-3,E07000208,C3,1,1,1.0
+2008-3,E07000209,C5,2,2,1.0
+2008-3,E07000209,C7,8,4,2.0
+2008-3,E07000210,C3,1,1,1.0
+2008-3,E07000210,C5,1,1,1.0
+2008-3,E07000210,C7,2,2,1.0
+2008-3,E07000211,C3,1,1,1.0
+2008-3,E07000211,C7,8,4,2.0
+2008-3,E07000213,C7,4,3,1.3333333333333333
+2008-3,E07000215,C2,1,1,1.0
+2008-3,E07000215,C3,1,1,1.0
+2008-3,E07000215,C7,1,1,1.0
+2008-3,E07000216,C3,2,2,1.0
+2008-3,E07000216,C7,4,2,2.0
+2008-3,E07000217,C5,1,1,1.0
+2008-3,E07000217,C7,10,3,3.3333333333333335
+2008-3,E07000218,C7,1,1,1.0
+2008-3,E07000219,C2,1,1,1.0
+2008-3,E07000219,C3,1,1,1.0
+2008-3,E07000220,C3,1,1,1.0
+2008-3,E07000221,C3,1,1,1.0
+2008-3,E07000221,C4,1,1,1.0
+2008-3,E07000221,C7,4,3,1.3333333333333333
+2008-3,E07000222,C6,1,1,1.0
+2008-3,E07000224,C3,1,1,1.0
+2008-3,E07000224,C7,2,2,1.0
+2008-3,E07000224,C8,1,1,1.0
+2008-3,E07000225,C7,1,1,1.0
+2008-3,E07000226,C5,1,1,1.0
+2008-3,E07000226,C7,2,2,1.0
+2008-3,E07000227,C3,3,3,1.0
+2008-3,E07000227,C7,2,2,1.0
+2008-3,E07000227,C8,1,1,1.0
+2008-3,E07000228,C3,1,1,1.0
+2008-3,E07000228,C5,1,1,1.0
+2008-3,E07000228,C7,2,2,1.0
+2008-3,E07000228,C8,1,1,1.0
+2008-3,E07000229,C2,1,1,1.0
+2008-3,E07000229,C3,1,1,1.0
+2008-3,E07000229,C7,2,2,1.0
+2008-3,E07000234,C3,1,1,1.0
+2008-3,E07000234,C7,5,5,1.0
+2008-3,E07000235,C5,1,1,1.0
+2008-3,E07000236,C5,3,2,1.5
+2008-3,E07000236,C7,6,2,3.0
+2008-3,E07000238,C7,4,1,4.0
+2008-3,E07000239,C7,3,3,1.0
+2008-3,E07000240,C2,1,1,1.0
+2008-3,E07000240,C5,1,1,1.0
+2008-3,E07000240,C7,3,3,1.0
+2008-3,E07000241,C6,1,1,1.0
+2008-3,E07000241,C7,3,3,1.0
+2008-3,E07000242,C5,4,4,1.0
+2008-3,E07000242,C7,7,4,1.75
+2008-3,E07000243,C8,1,1,1.0
+2008-3,E08000001,C3,3,2,1.5
+2008-3,E08000001,C4,1,1,1.0
+2008-3,E08000001,C5,2,2,1.0
+2008-3,E08000001,C7,2,2,1.0
+2008-3,E08000002,C3,1,1,1.0
+2008-3,E08000002,C5,1,1,1.0
+2008-3,E08000002,C7,3,3,1.0
+2008-3,E08000003,C2,1,1,1.0
+2008-3,E08000003,C3,4,4,1.0
+2008-3,E08000003,C5,2,2,1.0
+2008-3,E08000003,C7,7,6,1.1666666666666667
+2008-3,E08000004,C7,5,1,5.0
+2008-3,E08000004,C8,1,1,1.0
+2008-3,E08000005,C3,2,2,1.0
+2008-3,E08000005,C7,2,1,2.0
+2008-3,E08000006,C3,2,2,1.0
+2008-3,E08000006,C7,3,2,1.5
+2008-3,E08000006,C8,2,2,1.0
+2008-3,E08000007,C7,3,3,1.0
+2008-3,E08000009,C3,1,1,1.0
+2008-3,E08000009,C5,1,1,1.0
+2008-3,E08000009,C6,2,1,2.0
+2008-3,E08000009,C7,17,13,1.3076923076923077
+2008-3,E08000009,C8,1,1,1.0
+2008-3,E08000010,C2,1,1,1.0
+2008-3,E08000010,C3,1,1,1.0
+2008-3,E08000010,C5,1,1,1.0
+2008-3,E08000010,C8,2,2,1.0
+2008-3,E08000012,C3,2,2,1.0
+2008-3,E08000012,C8,2,2,1.0
+2008-3,E08000013,C5,1,1,1.0
+2008-3,E08000014,C3,3,1,3.0
+2008-3,E08000014,C4,1,1,1.0
+2008-3,E08000014,C5,1,1,1.0
+2008-3,E08000014,C7,3,3,1.0
+2008-3,E08000015,C5,1,1,1.0
+2008-3,E08000016,C3,7,7,1.0
+2008-3,E08000016,C7,3,3,1.0
+2008-3,E08000017,C2,1,1,1.0
+2008-3,E08000017,C3,8,5,1.6
+2008-3,E08000017,C4,1,1,1.0
+2008-3,E08000017,C5,1,1,1.0
+2008-3,E08000017,C7,5,4,1.25
+2008-3,E08000017,C8,1,1,1.0
+2008-3,E08000018,C2,4,1,4.0
+2008-3,E08000018,C3,18,5,3.6
+2008-3,E08000018,C5,14,4,3.5
+2008-3,E08000018,C7,14,4,3.5
+2008-3,E08000018,C8,2,2,1.0
+2008-3,E08000019,C2,1,1,1.0
+2008-3,E08000019,C3,7,7,1.0
+2008-3,E08000019,C4,16,7,2.2857142857142856
+2008-3,E08000019,C5,3,3,1.0
+2008-3,E08000019,C6,1,1,1.0
+2008-3,E08000019,C7,12,9,1.3333333333333333
+2008-3,E08000019,C8,6,3,2.0
+2008-3,E08000021,C3,2,2,1.0
+2008-3,E08000021,C7,1,1,1.0
+2008-3,E08000021,C8,1,1,1.0
+2008-3,E08000022,C3,2,2,1.0
+2008-3,E08000022,C4,1,1,1.0
+2008-3,E08000022,C5,1,1,1.0
+2008-3,E08000022,C7,2,2,1.0
+2008-3,E08000023,C8,1,1,1.0
+2008-3,E08000025,C3,11,8,1.375
+2008-3,E08000025,C4,2,2,1.0
+2008-3,E08000025,C5,1,1,1.0
+2008-3,E08000025,C7,7,4,1.75
+2008-3,E08000025,C8,2,2,1.0
+2008-3,E08000026,C4,1,1,1.0
+2008-3,E08000026,C7,4,4,1.0
+2008-3,E08000026,C8,1,1,1.0
+2008-3,E08000027,C7,2,2,1.0
+2008-3,E08000027,C8,1,1,1.0
+2008-3,E08000028,C3,4,4,1.0
+2008-3,E08000028,C4,1,1,1.0
+2008-3,E08000028,C5,1,1,1.0
+2008-3,E08000028,C7,2,2,1.0
+2008-3,E08000028,C8,1,1,1.0
+2008-3,E08000029,C3,1,1,1.0
+2008-3,E08000029,C5,1,1,1.0
+2008-3,E08000029,C7,1,1,1.0
+2008-3,E08000030,C3,2,2,1.0
+2008-3,E08000030,C5,1,1,1.0
+2008-3,E08000031,C2,1,1,1.0
+2008-3,E08000031,C3,1,1,1.0
+2008-3,E08000031,C6,1,1,1.0
+2008-3,E08000032,C3,3,3,1.0
+2008-3,E08000032,C5,1,1,1.0
+2008-3,E08000032,C7,2,2,1.0
+2008-3,E08000032,C8,2,2,1.0
+2008-3,E08000033,C3,3,3,1.0
+2008-3,E08000033,C5,1,1,1.0
+2008-3,E08000033,C8,1,1,1.0
+2008-3,E08000034,C3,2,2,1.0
+2008-3,E08000034,C7,3,3,1.0
+2008-3,E08000035,C2,1,1,1.0
+2008-3,E08000035,C3,8,8,1.0
+2008-3,E08000035,C5,3,3,1.0
+2008-3,E08000035,C7,8,5,1.6
+2008-3,E08000035,C8,1,1,1.0
+2008-3,E08000036,C7,2,2,1.0
+2008-3,E08000037,C3,1,1,1.0
+2008-3,E08000037,C6,1,1,1.0
+2008-3,E08000037,C7,3,3,1.0
+2008-3,E08000037,C8,1,1,1.0
+2008-3,E09000001,C7,1,1,1.0
+2008-3,E09000002,C3,1,1,1.0
+2008-3,E09000002,C5,1,1,1.0
+2008-3,E09000003,C3,2,2,1.0
+2008-3,E09000003,C4,1,1,1.0
+2008-3,E09000003,C5,1,1,1.0
+2008-3,E09000003,C7,5,3,1.6666666666666667
+2008-3,E09000003,C8,3,3,1.0
+2008-3,E09000004,C3,1,1,1.0
+2008-3,E09000004,C8,2,2,1.0
+2008-3,E09000006,C3,1,1,1.0
+2008-3,E09000006,C5,1,1,1.0
+2008-3,E09000006,C7,3,3,1.0
+2008-3,E09000006,C8,1,1,1.0
+2008-3,E09000007,C3,1,1,1.0
+2008-3,E09000007,C7,4,4,1.0
+2008-3,E09000008,C7,3,3,1.0
+2008-3,E09000009,C3,2,2,1.0
+2008-3,E09000009,C4,3,3,1.0
+2008-3,E09000009,C7,5,3,1.6666666666666667
+2008-3,E09000009,C8,2,2,1.0
+2008-3,E09000010,C3,1,1,1.0
+2008-3,E09000010,C4,1,1,1.0
+2008-3,E09000010,C7,15,5,3.0
+2008-3,E09000010,C8,1,1,1.0
+2008-3,E09000011,C3,2,2,1.0
+2008-3,E09000011,C7,1,1,1.0
+2008-3,E09000011,C8,1,1,1.0
+2008-3,E09000012,C2,1,1,1.0
+2008-3,E09000012,C3,1,1,1.0
+2008-3,E09000012,C7,4,3,1.3333333333333333
+2008-3,E09000013,C3,3,3,1.0
+2008-3,E09000014,C7,3,2,1.5
+2008-3,E09000015,C4,1,1,1.0
+2008-3,E09000015,C8,2,2,1.0
+2008-3,E09000016,C3,1,1,1.0
+2008-3,E09000017,C3,1,1,1.0
+2008-3,E09000017,C5,1,1,1.0
+2008-3,E09000017,C7,1,1,1.0
+2008-3,E09000018,C3,3,3,1.0
+2008-3,E09000018,C7,6,5,1.2
+2008-3,E09000019,C3,6,5,1.2
+2008-3,E09000019,C4,5,1,5.0
+2008-3,E09000019,C5,1,1,1.0
+2008-3,E09000019,C7,6,4,1.5
+2008-3,E09000019,C8,1,1,1.0
+2008-3,E09000020,C5,1,1,1.0
+2008-3,E09000020,C7,1,1,1.0
+2008-3,E09000021,C5,1,1,1.0
+2008-3,E09000021,C7,1,1,1.0
+2008-3,E09000022,C3,2,2,1.0
+2008-3,E09000022,C5,4,4,1.0
+2008-3,E09000022,C7,4,4,1.0
+2008-3,E09000022,C8,1,1,1.0
+2008-3,E09000023,C2,1,1,1.0
+2008-3,E09000023,C3,5,4,1.25
+2008-3,E09000023,C5,2,2,1.0
+2008-3,E09000023,C7,4,4,1.0
+2008-3,E09000023,C8,2,2,1.0
+2008-3,E09000024,C2,1,1,1.0
+2008-3,E09000024,C3,1,1,1.0
+2008-3,E09000024,C7,5,4,1.25
+2008-3,E09000024,C8,1,1,1.0
+2008-3,E09000025,C8,5,1,5.0
+2008-3,E09000026,C3,1,1,1.0
+2008-3,E09000026,C7,4,3,1.3333333333333333
+2008-3,E09000026,C8,1,1,1.0
+2008-3,E09000027,C3,3,3,1.0
+2008-3,E09000027,C4,2,2,1.0
+2008-3,E09000027,C7,4,4,1.0
+2008-3,E09000028,C2,1,1,1.0
+2008-3,E09000028,C5,1,1,1.0
+2008-3,E09000028,C7,6,4,1.5
+2008-3,E09000028,C8,2,2,1.0
+2008-3,E09000029,C3,1,1,1.0
+2008-3,E09000029,C4,1,1,1.0
+2008-3,E09000029,C5,1,1,1.0
+2008-3,E09000030,C3,4,3,1.3333333333333333
+2008-3,E09000030,C4,1,1,1.0
+2008-3,E09000030,C7,2,2,1.0
+2008-3,E09000031,C3,11,8,1.375
+2008-3,E09000031,C4,4,4,1.0
+2008-3,E09000031,C7,4,3,1.3333333333333333
+2008-3,E09000031,C8,2,2,1.0
+2008-3,E09000032,C3,6,4,1.5
+2008-3,E09000032,C4,1,1,1.0
+2008-3,E09000032,C5,4,4,1.0
+2008-3,E09000032,C7,7,7,1.0
+2008-3,E09000033,C3,1,1,1.0
+2008-3,E09000033,C7,1,1,1.0
+2008-3,S12000005,C3,1,1,1.0
+2008-3,S12000005,C5,1,1,1.0
+2008-3,S12000005,C7,1,1,1.0
+2008-3,S12000006,C3,2,2,1.0
+2008-3,S12000006,C7,2,2,1.0
+2008-3,S12000006,C8,1,1,1.0
+2008-3,S12000008,C7,1,1,1.0
+2008-3,S12000010,C3,5,3,1.6666666666666667
+2008-3,S12000010,C5,3,3,1.0
+2008-3,S12000010,C7,12,4,3.0
+2008-3,S12000010,C8,3,2,1.5
+2008-3,S12000011,C4,1,1,1.0
+2008-3,S12000011,C5,1,1,1.0
+2008-3,S12000011,C7,7,7,1.0
+2008-3,S12000011,C8,1,1,1.0
+2008-3,S12000013,C7,2,1,2.0
+2008-3,S12000014,C2,1,1,1.0
+2008-3,S12000014,C3,11,10,1.1
+2008-3,S12000014,C5,8,8,1.0
+2008-3,S12000014,C7,77,53,1.4528301886792452
+2008-3,S12000014,C8,2,2,1.0
+2008-3,S12000015,C2,1,1,1.0
+2008-3,S12000015,C3,2,2,1.0
+2008-3,S12000015,C5,6,6,1.0
+2008-3,S12000015,C6,1,1,1.0
+2008-3,S12000015,C7,10,9,1.1111111111111112
+2008-3,S12000015,C8,3,3,1.0
+2008-3,S12000017,C2,1,1,1.0
+2008-3,S12000017,C3,5,5,1.0
+2008-3,S12000017,C5,1,1,1.0
+2008-3,S12000017,C7,16,14,1.1428571428571428
+2008-3,S12000017,C8,2,2,1.0
+2008-3,S12000018,C7,2,2,1.0
+2008-3,S12000018,C8,1,1,1.0
+2008-3,S12000019,C2,1,1,1.0
+2008-3,S12000019,C3,4,3,1.3333333333333333
+2008-3,S12000019,C6,1,1,1.0
+2008-3,S12000019,C7,9,5,1.8
+2008-3,S12000019,C8,1,1,1.0
+2008-3,S12000020,C5,3,3,1.0
+2008-3,S12000020,C7,2,1,2.0
+2008-3,S12000021,C3,4,4,1.0
+2008-3,S12000021,C5,1,1,1.0
+2008-3,S12000021,C7,3,3,1.0
+2008-3,S12000021,C8,3,3,1.0
+2008-3,S12000024,C3,4,4,1.0
+2008-3,S12000024,C7,1,1,1.0
+2008-3,S12000026,C5,2,2,1.0
+2008-3,S12000028,C2,1,1,1.0
+2008-3,S12000028,C3,2,2,1.0
+2008-3,S12000028,C7,6,5,1.2
+2008-3,S12000028,C8,1,1,1.0
+2008-3,S12000029,C2,2,2,1.0
+2008-3,S12000029,C3,3,3,1.0
+2008-3,S12000029,C5,1,1,1.0
+2008-3,S12000029,C7,26,18,1.4444444444444444
+2008-3,S12000029,C8,3,3,1.0
+2008-3,S12000030,C5,1,1,1.0
+2008-3,S12000030,C7,4,4,1.0
+2008-3,S12000030,C8,1,1,1.0
+2008-3,S12000033,C2,1,1,1.0
+2008-3,S12000033,C3,4,4,1.0
+2008-3,S12000033,C5,1,1,1.0
+2008-3,S12000033,C7,68,5,13.6
+2008-3,S12000033,C8,1,1,1.0
+2008-3,S12000034,C5,4,4,1.0
+2008-3,S12000034,C7,6,6,1.0
+2008-3,S12000034,C8,1,1,1.0
+2008-3,S12000035,C3,1,1,1.0
+2008-3,S12000035,C5,1,1,1.0
+2008-3,S12000035,C7,6,4,1.5
+2008-3,S12000036,C2,1,1,1.0
+2008-3,S12000036,C3,17,16,1.0625
+2008-3,S12000036,C4,3,3,1.0
+2008-3,S12000036,C5,15,8,1.875
+2008-3,S12000036,C6,1,1,1.0
+2008-3,S12000036,C7,38,30,1.2666666666666666
+2008-3,S12000036,C8,2,2,1.0
+2008-3,S12000038,C1,1,1,1.0
+2008-3,S12000038,C3,4,3,1.3333333333333333
+2008-3,S12000038,C4,1,1,1.0
+2008-3,S12000038,C6,1,1,1.0
+2008-3,S12000038,C7,54,22,2.4545454545454546
+2008-3,S12000039,C2,1,1,1.0
+2008-3,S12000039,C3,1,1,1.0
+2008-3,S12000039,C5,1,1,1.0
+2008-3,S12000039,C7,2,2,1.0
+2008-3,S12000040,C3,2,2,1.0
+2008-3,S12000040,C5,2,2,1.0
+2008-3,S12000040,C7,4,4,1.0
+2008-3,S12000040,C8,1,1,1.0
+2008-3,S12000041,C7,4,4,1.0
+2008-3,S12000041,C8,1,1,1.0
+2008-3,S12000042,C3,1,1,1.0
+2008-3,S12000042,C4,1,1,1.0
+2008-3,S12000042,C5,1,1,1.0
+2008-3,S12000042,C7,6,4,1.5
+2008-3,S12000044,C2,2,2,1.0
+2008-3,S12000044,C3,8,7,1.1428571428571428
+2008-3,S12000044,C5,3,3,1.0
+2008-3,S12000044,C6,3,2,1.5
+2008-3,S12000044,C7,19,13,1.4615384615384615
+2008-3,S12000044,C8,1,1,1.0
+2008-3,S12000045,C3,1,1,1.0
+2008-3,S12000045,C5,1,1,1.0
+2008-3,S12000045,C6,4,2,2.0
+2008-3,S12000045,C7,8,8,1.0
+2008-3,S12000046,C2,1,1,1.0
+2008-3,S12000046,C3,20,19,1.0526315789473684
+2008-3,S12000046,C4,2,2,1.0
+2008-3,S12000046,C5,11,11,1.0
+2008-3,S12000046,C6,1,1,1.0
+2008-3,S12000046,C7,37,31,1.1935483870967742
+2008-3,S12000046,C8,5,5,1.0
+2008-3,W06000002,C5,1,1,1.0
+2008-3,W06000003,C3,2,2,1.0
+2008-3,W06000004,C3,1,1,1.0
+2008-3,W06000005,C5,2,2,1.0
+2008-3,W06000006,C3,2,2,1.0
+2008-3,W06000006,C7,2,2,1.0
+2008-3,W06000009,C3,1,1,1.0
+2008-3,W06000009,C7,2,2,1.0
+2008-3,W06000009,C8,1,1,1.0
+2008-3,W06000010,C3,1,1,1.0
+2008-3,W06000011,C7,1,1,1.0
+2008-3,W06000012,C3,1,1,1.0
+2008-3,W06000012,C7,1,1,1.0
+2008-3,W06000013,C3,1,1,1.0
+2008-3,W06000014,C8,1,1,1.0
+2008-3,W06000015,C3,3,3,1.0
+2008-3,W06000015,C4,1,1,1.0
+2008-3,W06000015,C5,3,3,1.0
+2008-3,W06000015,C6,1,1,1.0
+2008-3,W06000015,C7,9,4,2.25
+2008-3,W06000015,C8,2,2,1.0
+2008-3,W06000016,C3,1,1,1.0
+2008-3,W06000016,C5,1,1,1.0
+2008-3,W06000016,C7,3,2,1.5
+2008-3,W06000018,C8,1,1,1.0
+2008-3,W06000019,C2,1,1,1.0
+2008-3,W06000019,C3,1,1,1.0
+2008-3,W06000019,C5,1,1,1.0
+2008-3,W06000020,C3,1,1,1.0
+2008-3,W06000021,C2,5,1,5.0
+2008-3,W06000021,C3,4,3,1.3333333333333333
+2008-3,W06000021,C5,2,2,1.0
+2008-3,W06000021,C7,10,2,5.0
+2008-3,W06000022,C3,2,1,2.0

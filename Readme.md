@@ -35,3 +35,4 @@ To generate using the fms export tool use 'process.py export geo'.
 
 Read more about the FMS Export process [here](https://docs.google.com/document/d/1caU_2Fh8tkhbw8Lw54ho5iCb248EnRz1v_O6ah_H7KU/edit#heading=h.2qy3r7t6u34b)
 
+This FMS Geographic Data is made available under the Open Data Commons Attribution License: [http://opendatacommons.org/licenses/by/1.0].

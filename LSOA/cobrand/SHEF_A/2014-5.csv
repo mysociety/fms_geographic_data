@@ -1,1843 +1,1843 @@
-period,LSOA,SHEF_A,report_count,user_count,average
-2014-5,E01000115,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000115,Potholes,2,1,2.0
-2014-5,E01000116,General Highways Enquiries,1,1,1.0
-2014-5,E01000116,Overgrown Vegetation,1,1,1.0
-2014-5,E01000116,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000116,Potholes,1,1,1.0
-2014-5,E01000117,Fly-tipping,1,1,1.0
-2014-5,E01000117,Overgrown Vegetation,1,1,1.0
-2014-5,E01000118,Fly-tipping,1,1,1.0
-2014-5,E01000118,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000118,Potholes,1,1,1.0
-2014-5,E01000119,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000121,General Highways Enquiries,1,1,1.0
-2014-5,E01000122,Fly-tipping,1,1,1.0
-2014-5,E01000122,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000123,Fly-tipping,1,1,1.0
-2014-5,E01000123,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000123,Potholes,1,1,1.0
-2014-5,E01000124,Fly-tipping,1,1,1.0
-2014-5,E01000124,General Highways Enquiries,2,2,1.0
-2014-5,E01000125,General Highways Enquiries,1,1,1.0
-2014-5,E01000125,Litter/Litter Bin,1,1,1.0
-2014-5,E01000126,Blocked Drains,1,1,1.0
-2014-5,E01000126,General Highways Enquiries,1,1,1.0
-2014-5,E01000128,Overgrown Vegetation,1,1,1.0
-2014-5,E01000128,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000128,Street Signs,1,1,1.0
-2014-5,E01000129,General Highways Enquiries,1,1,1.0
-2014-5,E01000129,Potholes,1,1,1.0
-2014-5,E01000130,Fly-tipping,1,1,1.0
-2014-5,E01000130,General Highways Enquiries,2,1,2.0
-2014-5,E01000131,Street Signs,1,1,1.0
-2014-5,E01000132,General Highways Enquiries,2,2,1.0
-2014-5,E01000132,Potholes,1,1,1.0
-2014-5,E01000133,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000135,Accumulated Litter,2,2,1.0
-2014-5,E01000135,Blocked Drains,2,1,2.0
-2014-5,E01000135,Fly-tipping,1,1,1.0
-2014-5,E01000135,General Highways Enquiries,1,1,1.0
-2014-5,E01000135,Potholes,1,1,1.0
-2014-5,E01000135,Street Signs,1,1,1.0
-2014-5,E01000136,Accumulated Litter,1,1,1.0
-2014-5,E01000136,Blocked Drains,2,1,2.0
-2014-5,E01000136,Fly-tipping,1,1,1.0
-2014-5,E01000136,General Highways Enquiries,1,1,1.0
-2014-5,E01000138,Accumulated Litter,1,1,1.0
-2014-5,E01000138,Blocked Drains,1,1,1.0
-2014-5,E01000138,Fly-tipping,2,1,2.0
-2014-5,E01000138,General Highways Enquiries,1,1,1.0
-2014-5,E01000138,Overgrown Vegetation,1,1,1.0
-2014-5,E01000138,Street Lights,1,1,1.0
-2014-5,E01000139,Fly-tipping,3,2,1.5
-2014-5,E01000139,General Highways Enquiries,1,1,1.0
-2014-5,E01000139,Litter/Litter Bin,1,1,1.0
-2014-5,E01000139,Potholes,1,1,1.0
-2014-5,E01000140,Potholes,3,3,1.0
-2014-5,E01000141,Accumulated Litter,1,1,1.0
-2014-5,E01000141,Blocked Drains,1,1,1.0
-2014-5,E01000141,Fly-tipping,2,2,1.0
-2014-5,E01000141,General Highways Enquiries,2,2,1.0
-2014-5,E01000141,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000141,Potholes,2,2,1.0
-2014-5,E01000142,Fly-tipping,1,1,1.0
-2014-5,E01000142,General Highways Enquiries,1,1,1.0
-2014-5,E01000142,Manhole Covers,1,1,1.0
-2014-5,E01000142,Overgrown Vegetation,1,1,1.0
-2014-5,E01000143,Blocked Drains,1,1,1.0
-2014-5,E01000144,Accumulated Litter,1,1,1.0
-2014-5,E01000144,Potholes,1,1,1.0
-2014-5,E01000145,Blocked Drains,1,1,1.0
-2014-5,E01000146,Accumulated Litter,1,1,1.0
-2014-5,E01000146,Fly-tipping,2,2,1.0
-2014-5,E01000146,Manhole Covers,1,1,1.0
-2014-5,E01000146,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000146,Potholes,1,1,1.0
-2014-5,E01000146,Roadworks,1,1,1.0
-2014-5,E01000147,General Highways Enquiries,1,1,1.0
-2014-5,E01000147,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000148,Accumulated Litter,1,1,1.0
-2014-5,E01000148,Fly-tipping,1,1,1.0
-2014-5,E01000148,Potholes,1,1,1.0
-2014-5,E01000153,Potholes,1,1,1.0
-2014-5,E01000154,General Highways Enquiries,1,1,1.0
-2014-5,E01000155,Fly-tipping,3,2,1.5
-2014-5,E01000155,Potholes,2,2,1.0
-2014-5,E01000156,Fly-tipping,1,1,1.0
-2014-5,E01000157,General Highways Enquiries,1,1,1.0
-2014-5,E01000158,Blocked Drains,1,1,1.0
-2014-5,E01000158,Fly-tipping,1,1,1.0
-2014-5,E01000158,General Highways Enquiries,1,1,1.0
-2014-5,E01000158,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000159,Fly-tipping,1,1,1.0
-2014-5,E01000159,Litter/Litter Bin,1,1,1.0
-2014-5,E01000159,Overgrown Vegetation,1,1,1.0
-2014-5,E01000159,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000160,General Highways Enquiries,1,1,1.0
-2014-5,E01000160,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000161,Accumulated Litter,1,1,1.0
-2014-5,E01000162,General Highways Enquiries,1,1,1.0
-2014-5,E01000162,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000164,Fly-tipping,1,1,1.0
-2014-5,E01000166,General Highways Enquiries,4,2,2.0
-2014-5,E01000166,Overgrown Vegetation,1,1,1.0
-2014-5,E01000167,Graffiti,1,1,1.0
-2014-5,E01000167,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000168,General Highways Enquiries,1,1,1.0
-2014-5,E01000169,General Highways Enquiries,2,1,2.0
-2014-5,E01000169,Potholes,1,1,1.0
-2014-5,E01000170,Dog Fouling,1,1,1.0
-2014-5,E01000171,Accumulated Litter,1,1,1.0
-2014-5,E01000171,Dog Fouling,1,1,1.0
-2014-5,E01000171,Fly-tipping,3,3,1.0
-2014-5,E01000171,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000172,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000174,Fly-tipping,1,1,1.0
-2014-5,E01000174,General Highways Enquiries,1,1,1.0
-2014-5,E01000174,Overgrown Vegetation,1,1,1.0
-2014-5,E01000175,Fly-tipping,1,1,1.0
-2014-5,E01000175,General Highways Enquiries,1,1,1.0
-2014-5,E01000176,Accumulated Litter,1,1,1.0
-2014-5,E01000176,Roadworks,1,1,1.0
-2014-5,E01000177,Dog Fouling,1,1,1.0
-2014-5,E01000177,General Highways Enquiries,1,1,1.0
-2014-5,E01000177,Overgrown Vegetation,1,1,1.0
-2014-5,E01000179,Accumulated Litter,3,2,1.5
-2014-5,E01000179,Flyposting,1,1,1.0
-2014-5,E01000179,General Highways Enquiries,1,1,1.0
-2014-5,E01000179,Street Signs,1,1,1.0
-2014-5,E01000180,General Highways Enquiries,1,1,1.0
-2014-5,E01000180,Overgrown Vegetation,1,1,1.0
-2014-5,E01000180,Potholes,1,1,1.0
-2014-5,E01000181,Blocked Drains,1,1,1.0
-2014-5,E01000181,Litter/Litter Bin,1,1,1.0
-2014-5,E01000181,Potholes,2,2,1.0
-2014-5,E01000182,Accumulated Litter,2,1,2.0
-2014-5,E01000182,Fly-tipping,1,1,1.0
-2014-5,E01000182,Pavement /Footway Defects,3,3,1.0
-2014-5,E01000182,Potholes,1,1,1.0
-2014-5,E01000186,Blocked Drains,1,1,1.0
-2014-5,E01000186,Potholes,3,3,1.0
-2014-5,E01000188,Blocked Drains,1,1,1.0
-2014-5,E01000188,Gritting,1,1,1.0
-2014-5,E01000190,Accumulated Litter,1,1,1.0
-2014-5,E01000190,Fly-tipping,1,1,1.0
-2014-5,E01000190,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000190,Potholes,1,1,1.0
-2014-5,E01000191,Manhole Covers,1,1,1.0
-2014-5,E01000191,Potholes,1,1,1.0
-2014-5,E01000192,Overgrown Vegetation,1,1,1.0
-2014-5,E01000192,Street Lights,1,1,1.0
-2014-5,E01000193,General Highways Enquiries,1,1,1.0
-2014-5,E01000193,Litter/Litter Bin,1,1,1.0
-2014-5,E01000193,Manhole Covers,2,2,1.0
-2014-5,E01000193,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000196,Fly-tipping,2,2,1.0
-2014-5,E01000196,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000196,Potholes,3,1,3.0
-2014-5,E01000197,Fly-tipping,2,2,1.0
-2014-5,E01000197,Litter/Litter Bin,1,1,1.0
-2014-5,E01000197,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000198,Fly-tipping,1,1,1.0
-2014-5,E01000199,Overgrown Vegetation,1,1,1.0
-2014-5,E01000200,Manhole Covers,1,1,1.0
-2014-5,E01000201,Blocked Drains,1,1,1.0
-2014-5,E01000202,Fly-tipping,2,1,2.0
-2014-5,E01000202,General Highways Enquiries,1,1,1.0
-2014-5,E01000203,Blocked Drains,1,1,1.0
-2014-5,E01000204,Fly-tipping,1,1,1.0
-2014-5,E01000205,Accumulated Litter,1,1,1.0
-2014-5,E01000205,Dog Fouling,1,1,1.0
-2014-5,E01000205,General Highways Enquiries,1,1,1.0
-2014-5,E01000206,Pavement /Footway Defects,3,3,1.0
-2014-5,E01000206,Potholes,2,2,1.0
-2014-5,E01000207,Fly-tipping,1,1,1.0
-2014-5,E01000207,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000207,Roadworks,1,1,1.0
-2014-5,E01000208,Fly-tipping,1,1,1.0
-2014-5,E01000208,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000208,Street Lights,2,2,1.0
-2014-5,E01000209,Overgrown Vegetation,1,1,1.0
-2014-5,E01000209,Street Lights,1,1,1.0
-2014-5,E01000210,Accumulated Litter,3,3,1.0
-2014-5,E01000210,Blocked Drains,1,1,1.0
-2014-5,E01000210,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000211,Fly-tipping,2,2,1.0
-2014-5,E01000211,General Highways Enquiries,1,1,1.0
-2014-5,E01000212,Fly-tipping,1,1,1.0
-2014-5,E01000213,General Highways Enquiries,1,1,1.0
-2014-5,E01000214,General Highways Enquiries,1,1,1.0
-2014-5,E01000214,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000214,Potholes,1,1,1.0
-2014-5,E01000215,Blocked Drains,1,1,1.0
-2014-5,E01000215,Potholes,1,1,1.0
-2014-5,E01000215,Street Lights,1,1,1.0
-2014-5,E01000216,Fly-tipping,1,1,1.0
-2014-5,E01000216,Graffiti,2,1,2.0
-2014-5,E01000217,General Highways Enquiries,1,1,1.0
-2014-5,E01000218,Fly-tipping,3,2,1.5
-2014-5,E01000218,Potholes,1,1,1.0
-2014-5,E01000218,Roadworks,1,1,1.0
-2014-5,E01000218,Street Lights,2,2,1.0
-2014-5,E01000219,Overgrown Vegetation,1,1,1.0
-2014-5,E01000220,Accumulated Litter,1,1,1.0
-2014-5,E01000220,Blocked Drains,2,2,1.0
-2014-5,E01000220,Manhole Covers,1,1,1.0
-2014-5,E01000221,Blocked Drains,2,1,2.0
-2014-5,E01000221,General Highways Enquiries,1,1,1.0
-2014-5,E01000222,Fly-tipping,1,1,1.0
-2014-5,E01000222,General Highways Enquiries,3,3,1.0
-2014-5,E01000223,Fly-tipping,3,3,1.0
-2014-5,E01000223,Graffiti,1,1,1.0
-2014-5,E01000223,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000223,Potholes,1,1,1.0
-2014-5,E01000223,Roadworks,1,1,1.0
-2014-5,E01000224,General Highways Enquiries,1,1,1.0
-2014-5,E01000224,Gritting,1,1,1.0
-2014-5,E01000224,Potholes,1,1,1.0
-2014-5,E01000225,Accumulated Litter,1,1,1.0
-2014-5,E01000225,General Highways Enquiries,1,1,1.0
-2014-5,E01000225,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000226,Potholes,1,1,1.0
-2014-5,E01000227,Fly-tipping,2,2,1.0
-2014-5,E01000227,General Highways Enquiries,3,3,1.0
-2014-5,E01000227,Overgrown Vegetation,1,1,1.0
-2014-5,E01000227,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000228,Accumulated Litter,1,1,1.0
-2014-5,E01000228,Blocked Drains,1,1,1.0
-2014-5,E01000228,Dog Fouling,1,1,1.0
-2014-5,E01000228,Fly-tipping,2,1,2.0
-2014-5,E01000228,Potholes,1,1,1.0
-2014-5,E01000229,Accumulated Litter,1,1,1.0
-2014-5,E01000229,Fly-tipping,3,2,1.5
-2014-5,E01000229,General Highways Enquiries,2,1,2.0
-2014-5,E01000229,Overgrown Vegetation,2,1,2.0
-2014-5,E01000230,Litter/Litter Bin,1,1,1.0
-2014-5,E01000231,Accumulated Litter,2,1,2.0
-2014-5,E01000231,General Highways Enquiries,2,2,1.0
-2014-5,E01000232,Fly-tipping,1,1,1.0
-2014-5,E01000233,Blocked Drains,1,1,1.0
-2014-5,E01000233,Overgrown Vegetation,1,1,1.0
-2014-5,E01000234,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000235,General Highways Enquiries,1,1,1.0
-2014-5,E01000235,Potholes,1,1,1.0
-2014-5,E01000236,Blocked Drains,1,1,1.0
-2014-5,E01000236,General Highways Enquiries,1,1,1.0
-2014-5,E01000237,Fly-tipping,1,1,1.0
-2014-5,E01000237,Potholes,1,1,1.0
-2014-5,E01000239,Blocked Drains,1,1,1.0
-2014-5,E01000239,General Highways Enquiries,1,1,1.0
-2014-5,E01000240,Accumulated Litter,1,1,1.0
-2014-5,E01000240,Fly-tipping,1,1,1.0
-2014-5,E01000241,Fly-tipping,1,1,1.0
-2014-5,E01000241,General Highways Enquiries,1,1,1.0
-2014-5,E01000241,Litter/Litter Bin,1,1,1.0
-2014-5,E01000241,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000242,Manhole Covers,1,1,1.0
-2014-5,E01000242,Overgrown Vegetation,1,1,1.0
-2014-5,E01000243,Fly-tipping,2,1,2.0
-2014-5,E01000243,General Highways Enquiries,1,1,1.0
-2014-5,E01000243,Potholes,1,1,1.0
-2014-5,E01000243,Street Signs,1,1,1.0
-2014-5,E01000244,Accumulated Litter,2,2,1.0
-2014-5,E01000244,Fly-tipping,1,1,1.0
-2014-5,E01000244,Overgrown Vegetation,1,1,1.0
-2014-5,E01000245,Accumulated Litter,1,1,1.0
-2014-5,E01000245,General Highways Enquiries,2,2,1.0
-2014-5,E01000245,Roadworks,1,1,1.0
-2014-5,E01000246,Blocked Drains,1,1,1.0
-2014-5,E01000246,Fly-tipping,1,1,1.0
-2014-5,E01000246,Potholes,1,1,1.0
-2014-5,E01000248,Blocked Drains,1,1,1.0
-2014-5,E01000248,General Highways Enquiries,1,1,1.0
-2014-5,E01000248,Overgrown Vegetation,1,1,1.0
-2014-5,E01000248,Potholes,1,1,1.0
-2014-5,E01000249,Fly-tipping,1,1,1.0
-2014-5,E01000250,Graffiti,2,2,1.0
-2014-5,E01000251,General Highways Enquiries,1,1,1.0
-2014-5,E01000251,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000252,Potholes,1,1,1.0
-2014-5,E01000253,Overgrown Vegetation,1,1,1.0
-2014-5,E01000253,Street Lights,1,1,1.0
-2014-5,E01000254,Accumulated Litter,1,1,1.0
-2014-5,E01000254,Blocked Drains,1,1,1.0
-2014-5,E01000254,General Highways Enquiries,1,1,1.0
-2014-5,E01000254,Manhole Covers,1,1,1.0
-2014-5,E01000256,Accumulated Litter,1,1,1.0
-2014-5,E01000257,Dog Fouling,1,1,1.0
-2014-5,E01000257,General Highways Enquiries,1,1,1.0
-2014-5,E01000257,Graffiti,1,1,1.0
-2014-5,E01000258,Overgrown Vegetation,2,1,2.0
-2014-5,E01000258,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000259,Overgrown Vegetation,1,1,1.0
-2014-5,E01000259,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000261,General Highways Enquiries,2,2,1.0
-2014-5,E01000261,Overgrown Vegetation,1,1,1.0
-2014-5,E01000261,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000261,Potholes,1,1,1.0
-2014-5,E01000262,Litter/Litter Bin,2,2,1.0
-2014-5,E01000262,Overgrown Vegetation,1,1,1.0
-2014-5,E01000263,General Highways Enquiries,3,3,1.0
-2014-5,E01000263,Litter/Litter Bin,1,1,1.0
-2014-5,E01000264,Fly-tipping,3,1,3.0
-2014-5,E01000264,Litter/Litter Bin,1,1,1.0
-2014-5,E01000265,Accumulated Litter,1,1,1.0
-2014-5,E01000265,Fly-tipping,2,2,1.0
-2014-5,E01000265,General Highways Enquiries,2,2,1.0
-2014-5,E01000266,Street Lights,1,1,1.0
-2014-5,E01000268,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000271,General Highways Enquiries,1,1,1.0
-2014-5,E01000271,Manhole Covers,1,1,1.0
-2014-5,E01000272,Fly-tipping,1,1,1.0
-2014-5,E01000273,General Highways Enquiries,1,1,1.0
-2014-5,E01000274,Fly-tipping,2,2,1.0
-2014-5,E01000274,General Highways Enquiries,2,2,1.0
-2014-5,E01000274,Overgrown Vegetation,2,2,1.0
-2014-5,E01000275,General Highways Enquiries,1,1,1.0
-2014-5,E01000275,Potholes,1,1,1.0
-2014-5,E01000276,Accumulated Litter,1,1,1.0
-2014-5,E01000276,Blocked Drains,1,1,1.0
-2014-5,E01000277,Accumulated Litter,1,1,1.0
-2014-5,E01000278,Accumulated Litter,1,1,1.0
-2014-5,E01000278,General Highways Enquiries,1,1,1.0
-2014-5,E01000279,Accumulated Litter,1,1,1.0
-2014-5,E01000279,Overgrown Vegetation,1,1,1.0
-2014-5,E01000279,Street Signs,1,1,1.0
-2014-5,E01000280,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000281,Potholes,1,1,1.0
-2014-5,E01000281,Street Signs,1,1,1.0
-2014-5,E01000283,Potholes,2,1,2.0
-2014-5,E01000283,Street Signs,1,1,1.0
-2014-5,E01000284,Dog Fouling,1,1,1.0
-2014-5,E01000285,Fly-tipping,1,1,1.0
-2014-5,E01000285,General Highways Enquiries,1,1,1.0
-2014-5,E01000286,Accumulated Litter,1,1,1.0
-2014-5,E01000286,Fly-tipping,1,1,1.0
-2014-5,E01000287,Fly-tipping,1,1,1.0
-2014-5,E01000287,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000287,Potholes,1,1,1.0
-2014-5,E01000288,General Highways Enquiries,1,1,1.0
-2014-5,E01000290,Fly-tipping,1,1,1.0
-2014-5,E01000290,Street Lights,2,1,2.0
-2014-5,E01000291,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000292,General Highways Enquiries,1,1,1.0
-2014-5,E01000292,Overgrown Vegetation,1,1,1.0
-2014-5,E01000292,Potholes,1,1,1.0
-2014-5,E01000293,Accumulated Litter,1,1,1.0
-2014-5,E01000293,General Highways Enquiries,1,1,1.0
-2014-5,E01000293,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000294,General Highways Enquiries,1,1,1.0
-2014-5,E01000294,Graffiti,1,1,1.0
-2014-5,E01000294,Potholes,1,1,1.0
-2014-5,E01000294,Street Lights,1,1,1.0
-2014-5,E01000295,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000296,Accumulated Litter,1,1,1.0
-2014-5,E01000296,Potholes,1,1,1.0
-2014-5,E01000298,Accumulated Litter,1,1,1.0
-2014-5,E01000298,Overgrown Vegetation,1,1,1.0
-2014-5,E01000298,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000298,Street Lights,1,1,1.0
-2014-5,E01000299,Accumulated Litter,1,1,1.0
-2014-5,E01000300,Fly-tipping,2,2,1.0
-2014-5,E01000300,Pavement /Footway Defects,2,1,2.0
-2014-5,E01000301,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000301,Roadworks,1,1,1.0
-2014-5,E01000302,Accumulated Litter,1,1,1.0
-2014-5,E01000302,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000303,Fly-tipping,1,1,1.0
-2014-5,E01000303,General Highways Enquiries,1,1,1.0
-2014-5,E01000303,Overgrown Vegetation,1,1,1.0
-2014-5,E01000303,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000305,Manhole Covers,2,2,1.0
-2014-5,E01000306,Fly-tipping,6,1,6.0
-2014-5,E01000306,Litter/Litter Bin,1,1,1.0
-2014-5,E01000307,Blocked Drains,1,1,1.0
-2014-5,E01000307,Potholes,1,1,1.0
-2014-5,E01000308,General Highways Enquiries,1,1,1.0
-2014-5,E01000310,Fly-tipping,1,1,1.0
-2014-5,E01000310,Street Signs,1,1,1.0
-2014-5,E01000311,General Highways Enquiries,1,1,1.0
-2014-5,E01000311,Overgrown Vegetation,2,2,1.0
-2014-5,E01000311,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000312,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000313,Fly-tipping,2,2,1.0
-2014-5,E01000313,General Highways Enquiries,1,1,1.0
-2014-5,E01000314,Fly-tipping,1,1,1.0
-2014-5,E01000314,General Highways Enquiries,1,1,1.0
-2014-5,E01000314,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000315,Fly-tipping,1,1,1.0
-2014-5,E01000316,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000317,Fly-tipping,1,1,1.0
-2014-5,E01000317,General Highways Enquiries,2,2,1.0
-2014-5,E01000317,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000317,Roadworks,1,1,1.0
-2014-5,E01000318,Street Signs,1,1,1.0
-2014-5,E01000320,General Highways Enquiries,1,1,1.0
-2014-5,E01000320,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000320,Street Lights,1,1,1.0
-2014-5,E01000321,Potholes,1,1,1.0
-2014-5,E01000323,Accumulated Litter,4,1,4.0
-2014-5,E01000323,Fly-tipping,1,1,1.0
-2014-5,E01000323,General Highways Enquiries,1,1,1.0
-2014-5,E01000324,Overgrown Vegetation,1,1,1.0
-2014-5,E01000324,Potholes,1,1,1.0
-2014-5,E01000645,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000645,Street Cleaning,3,3,1.0
-2014-5,E01000646,Street Signs,1,1,1.0
-2014-5,E01000647,Abandoned Vehicles,1,1,1.0
-2014-5,E01000647,Obstruction,1,1,1.0
-2014-5,E01000648,Abandoned Vehicles,1,1,1.0
-2014-5,E01000648,Blocked Drains,3,3,1.0
-2014-5,E01000648,Open Spaces/Parks,1,1,1.0
-2014-5,E01000648,Pavement /Footway Defects,2,1,2.0
-2014-5,E01000648,Street Cleaning,1,1,1.0
-2014-5,E01000649,Blocked Drains,1,1,1.0
-2014-5,E01000649,Overgrown Vegetation,1,1,1.0
-2014-5,E01000649,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000650,Obstruction,2,1,2.0
-2014-5,E01000650,Overgrown Vegetation,1,1,1.0
-2014-5,E01000650,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000650,Street Cleaning,2,2,1.0
-2014-5,E01000650,Street Lights,2,2,1.0
-2014-5,E01000651,Abandoned Vehicles,1,1,1.0
-2014-5,E01000651,Road Surface Defects,2,2,1.0
-2014-5,E01000652,Overgrown Vegetation,2,2,1.0
-2014-5,E01000653,Street Lights,1,1,1.0
-2014-5,E01000654,Abandoned Vehicles,1,1,1.0
-2014-5,E01000654,Overgrown Vegetation,1,1,1.0
-2014-5,E01000654,Road Surface Defects,1,1,1.0
-2014-5,E01000655,Street Lights,1,1,1.0
-2014-5,E01000656,Grass/Weed Control,2,2,1.0
-2014-5,E01000656,Obstruction,1,1,1.0
-2014-5,E01000656,Road Surface Defects,4,3,1.3333333333333333
-2014-5,E01000656,Street Lights,2,2,1.0
-2014-5,E01000657,Abandoned Vehicles,1,1,1.0
-2014-5,E01000657,Obstruction,1,1,1.0
-2014-5,E01000657,Open Spaces/Parks,1,1,1.0
-2014-5,E01000657,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000657,Street Signs,1,1,1.0
-2014-5,E01000658,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000659,Abandoned Vehicles,1,1,1.0
-2014-5,E01000659,Street Lights,2,2,1.0
-2014-5,E01000661,Dead Animals,1,1,1.0
-2014-5,E01000661,Litter/Litter Bin,3,3,1.0
-2014-5,E01000661,Street Cleaning,1,1,1.0
-2014-5,E01000662,Litter/Litter Bin,1,1,1.0
-2014-5,E01000662,Street Lights,1,1,1.0
-2014-5,E01000663,Open Spaces/Parks,1,1,1.0
-2014-5,E01000663,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000663,Street Lights,1,1,1.0
-2014-5,E01000664,Grass/Weed Control,2,2,1.0
-2014-5,E01000664,Overgrown Vegetation,2,1,2.0
-2014-5,E01000664,Street Lights,1,1,1.0
-2014-5,E01000665,Dumped Rubbish,1,1,1.0
-2014-5,E01000665,Grass/Weed Control,1,1,1.0
-2014-5,E01000665,Litter/Litter Bin,2,1,2.0
-2014-5,E01000665,Road Surface Defects,1,1,1.0
-2014-5,E01000665,Street Cleaning,1,1,1.0
-2014-5,E01000666,Blocked Drains,1,1,1.0
-2014-5,E01000666,Road Surface Defects,2,2,1.0
-2014-5,E01000667,Overgrown Vegetation,2,2,1.0
-2014-5,E01000667,Street Lights,1,1,1.0
-2014-5,E01000667,Street Signs,1,1,1.0
-2014-5,E01000668,Abandoned Vehicles,1,1,1.0
-2014-5,E01000668,Dead Animals,1,1,1.0
-2014-5,E01000668,Litter/Litter Bin,2,1,2.0
-2014-5,E01000668,Overgrown Vegetation,1,1,1.0
-2014-5,E01000669,Abandoned Vehicles,1,1,1.0
-2014-5,E01000669,Dumped Rubbish,1,1,1.0
-2014-5,E01000670,Overgrown Vegetation,3,2,1.5
-2014-5,E01000670,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000671,Litter/Litter Bin,1,1,1.0
-2014-5,E01000671,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000672,Abandoned Vehicles,2,2,1.0
-2014-5,E01000672,Dumped Rubbish,1,1,1.0
-2014-5,E01000672,Street Cleaning,2,2,1.0
-2014-5,E01000672,Street Signs,1,1,1.0
-2014-5,E01000673,Abandoned Vehicles,1,1,1.0
-2014-5,E01000673,Dumped Rubbish,1,1,1.0
-2014-5,E01000673,Obstruction,1,1,1.0
-2014-5,E01000673,Overgrown Vegetation,1,1,1.0
-2014-5,E01000673,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000673,Road Surface Defects,1,1,1.0
-2014-5,E01000674,Overgrown Vegetation,1,1,1.0
-2014-5,E01000675,Blocked Drains,1,1,1.0
-2014-5,E01000675,Dumped Rubbish,1,1,1.0
-2014-5,E01000675,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000675,Street Lights,1,1,1.0
-2014-5,E01000676,Dumped Rubbish,2,2,1.0
-2014-5,E01000676,Graffiti,1,1,1.0
-2014-5,E01000676,Overgrown Vegetation,4,2,2.0
-2014-5,E01000676,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000676,Road Surface Defects,1,1,1.0
-2014-5,E01000677,Dumped Rubbish,2,2,1.0
-2014-5,E01000677,Litter/Litter Bin,3,3,1.0
-2014-5,E01000677,Overgrown Vegetation,1,1,1.0
-2014-5,E01000677,Street Signs,2,2,1.0
-2014-5,E01000678,Abandoned Vehicles,1,1,1.0
-2014-5,E01000678,Overgrown Vegetation,1,1,1.0
-2014-5,E01000679,Dumped Rubbish,1,1,1.0
-2014-5,E01000679,Street Lights,1,1,1.0
-2014-5,E01000680,Abandoned Vehicles,1,1,1.0
-2014-5,E01000680,Blocked Drains,1,1,1.0
-2014-5,E01000680,Dead Animals,1,1,1.0
-2014-5,E01000680,Dumped Rubbish,2,2,1.0
-2014-5,E01000680,Obstruction,1,1,1.0
-2014-5,E01000680,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000680,Road Surface Defects,1,1,1.0
-2014-5,E01000680,Street Lights,2,2,1.0
-2014-5,E01000681,Road Surface Defects,1,1,1.0
-2014-5,E01000682,Dumped Rubbish,2,2,1.0
-2014-5,E01000682,Overgrown Vegetation,3,2,1.5
-2014-5,E01000683,Dumped Rubbish,1,1,1.0
-2014-5,E01000683,Graffiti,1,1,1.0
-2014-5,E01000683,Overgrown Vegetation,3,3,1.0
-2014-5,E01000683,Street Cleaning,1,1,1.0
-2014-5,E01000683,Street Lights,1,1,1.0
-2014-5,E01000684,Grass/Weed Control,1,1,1.0
-2014-5,E01000684,Overgrown Vegetation,1,1,1.0
-2014-5,E01000685,Abandoned Vehicles,1,1,1.0
-2014-5,E01000685,Dead Animals,1,1,1.0
-2014-5,E01000685,Dumped Rubbish,1,1,1.0
-2014-5,E01000685,Graffiti,1,1,1.0
-2014-5,E01000685,Grass/Weed Control,1,1,1.0
-2014-5,E01000685,Litter/Litter Bin,1,1,1.0
-2014-5,E01000685,Overgrown Vegetation,1,1,1.0
-2014-5,E01000686,Dumped Rubbish,4,1,4.0
-2014-5,E01000686,Graffiti,2,1,2.0
-2014-5,E01000686,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000686,Road Surface Defects,1,1,1.0
-2014-5,E01000686,Street Cleaning,1,1,1.0
-2014-5,E01000687,Dumped Rubbish,2,2,1.0
-2014-5,E01000687,Graffiti,1,1,1.0
-2014-5,E01000687,Street Cleaning,1,1,1.0
-2014-5,E01000688,Dead Animals,1,1,1.0
-2014-5,E01000688,Grass/Weed Control,1,1,1.0
-2014-5,E01000688,Road Surface Defects,1,1,1.0
-2014-5,E01000688,Street Lights,1,1,1.0
-2014-5,E01000689,Abandoned Vehicles,1,1,1.0
-2014-5,E01000689,Dumped Rubbish,2,2,1.0
-2014-5,E01000689,Grass/Weed Control,2,1,2.0
-2014-5,E01000689,Open Spaces/Parks,2,2,1.0
-2014-5,E01000690,Graffiti,1,1,1.0
-2014-5,E01000690,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000691,Abandoned Vehicles,1,1,1.0
-2014-5,E01000691,Overgrown Vegetation,1,1,1.0
-2014-5,E01000691,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000691,Road Surface Defects,1,1,1.0
-2014-5,E01000691,Street Cleaning,2,1,2.0
-2014-5,E01000692,Blocked Drains,1,1,1.0
-2014-5,E01000692,Open Spaces/Parks,1,1,1.0
-2014-5,E01000692,Overgrown Vegetation,2,2,1.0
-2014-5,E01000693,Blocked Drains,5,1,5.0
-2014-5,E01000693,Grass/Weed Control,2,2,1.0
-2014-5,E01000693,Obstruction,1,1,1.0
-2014-5,E01000693,Open Spaces/Parks,1,1,1.0
-2014-5,E01000693,Overgrown Vegetation,1,1,1.0
-2014-5,E01000693,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000693,Road Surface Defects,1,1,1.0
-2014-5,E01000694,Litter/Litter Bin,1,1,1.0
-2014-5,E01000694,Overgrown Vegetation,1,1,1.0
-2014-5,E01000695,Blocked Drains,1,1,1.0
-2014-5,E01000695,Obstruction,1,1,1.0
-2014-5,E01000695,Overgrown Vegetation,1,1,1.0
-2014-5,E01000695,Spillage on Raod,1,1,1.0
-2014-5,E01000695,Street Lights,1,1,1.0
-2014-5,E01000696,Blocked Drains,1,1,1.0
-2014-5,E01000696,Dumped Rubbish,2,1,2.0
-2014-5,E01000696,Graffiti,1,1,1.0
-2014-5,E01000696,Overgrown Vegetation,2,2,1.0
-2014-5,E01000696,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000696,Street Cleaning,1,1,1.0
-2014-5,E01000696,Street Lights,1,1,1.0
-2014-5,E01000697,Overgrown Vegetation,1,1,1.0
-2014-5,E01000697,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000697,Road Surface Defects,1,1,1.0
-2014-5,E01000698,Graffiti,1,1,1.0
-2014-5,E01000698,Open Spaces/Parks,1,1,1.0
-2014-5,E01000698,Street Cleaning,2,2,1.0
-2014-5,E01000698,Street Signs,1,1,1.0
-2014-5,E01000699,Dumped Rubbish,6,3,2.0
-2014-5,E01000699,Graffiti,4,2,2.0
-2014-5,E01000699,Litter/Litter Bin,2,1,2.0
-2014-5,E01000699,Street Cleaning,7,1,7.0
-2014-5,E01000699,Street Lights,1,1,1.0
-2014-5,E01000700,Abandoned Vehicles,2,2,1.0
-2014-5,E01000700,Blocked Drains,1,1,1.0
-2014-5,E01000700,Dumped Rubbish,5,5,1.0
-2014-5,E01000700,Overgrown Vegetation,1,1,1.0
-2014-5,E01000700,Road Surface Defects,1,1,1.0
-2014-5,E01000700,Street Cleaning,2,2,1.0
-2014-5,E01000701,Abandoned Vehicles,1,1,1.0
-2014-5,E01000701,Dumped Rubbish,2,2,1.0
-2014-5,E01000701,Overgrown Vegetation,1,1,1.0
-2014-5,E01000701,Road Surface Defects,1,1,1.0
-2014-5,E01000701,Street Cleaning,3,1,3.0
-2014-5,E01000701,Street Lights,1,1,1.0
-2014-5,E01000702,Abandoned Vehicles,1,1,1.0
-2014-5,E01000702,Dumped Rubbish,3,3,1.0
-2014-5,E01000702,Litter/Litter Bin,1,1,1.0
-2014-5,E01000702,Overgrown Vegetation,1,1,1.0
-2014-5,E01000702,Road Surface Defects,1,1,1.0
-2014-5,E01000703,Blocked Drains,1,1,1.0
-2014-5,E01000703,Dead Animals,1,1,1.0
-2014-5,E01000703,Dumped Rubbish,1,1,1.0
-2014-5,E01000703,Obstruction,1,1,1.0
-2014-5,E01000703,Road Surface Defects,1,1,1.0
-2014-5,E01000703,Street Cleaning,3,3,1.0
-2014-5,E01000703,Street Lights,1,1,1.0
-2014-5,E01000704,Graffiti,1,1,1.0
-2014-5,E01000704,Overgrown Vegetation,1,1,1.0
-2014-5,E01000704,Street Cleaning,2,2,1.0
-2014-5,E01000705,Dead Animals,1,1,1.0
-2014-5,E01000705,Dumped Rubbish,1,1,1.0
-2014-5,E01000705,Grass/Weed Control,1,1,1.0
-2014-5,E01000705,Litter/Litter Bin,1,1,1.0
-2014-5,E01000705,Overgrown Vegetation,3,3,1.0
-2014-5,E01000705,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000706,Overgrown Vegetation,1,1,1.0
-2014-5,E01000707,Abandoned Vehicles,2,2,1.0
-2014-5,E01000707,Street Lights,1,1,1.0
-2014-5,E01000708,Abandoned Vehicles,1,1,1.0
-2014-5,E01000708,Overgrown Vegetation,2,2,1.0
-2014-5,E01000708,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000708,Street Cleaning,1,1,1.0
-2014-5,E01000708,Street Lights,2,2,1.0
-2014-5,E01000709,Abandoned Vehicles,1,1,1.0
-2014-5,E01000709,Dead Animals,1,1,1.0
-2014-5,E01000709,Dumped Rubbish,1,1,1.0
-2014-5,E01000709,Grass/Weed Control,1,1,1.0
-2014-5,E01000709,Litter/Litter Bin,1,1,1.0
-2014-5,E01000710,Abandoned Vehicles,3,2,1.5
-2014-5,E01000710,Grass/Weed Control,1,1,1.0
-2014-5,E01000711,Grass/Weed Control,1,1,1.0
-2014-5,E01000711,Overgrown Vegetation,1,1,1.0
-2014-5,E01000711,Street Lights,1,1,1.0
-2014-5,E01000712,Abandoned Vehicles,1,1,1.0
-2014-5,E01000712,Overgrown Vegetation,2,2,1.0
-2014-5,E01000712,Street Lights,2,2,1.0
-2014-5,E01000714,Dead Animals,1,1,1.0
-2014-5,E01000714,Overgrown Vegetation,1,1,1.0
-2014-5,E01000714,Road Surface Defects,1,1,1.0
-2014-5,E01000715,Abandoned Vehicles,1,1,1.0
-2014-5,E01000715,Blocked Drains,1,1,1.0
-2014-5,E01000715,Dead Animals,1,1,1.0
-2014-5,E01000715,Obstruction,2,2,1.0
-2014-5,E01000715,Overgrown Vegetation,1,1,1.0
-2014-5,E01000715,Road Surface Defects,2,2,1.0
-2014-5,E01000715,Street Lights,2,2,1.0
-2014-5,E01000717,Blocked Drains,1,1,1.0
-2014-5,E01000717,Dead Animals,1,1,1.0
-2014-5,E01000717,Overgrown Vegetation,2,1,2.0
-2014-5,E01000718,Overgrown Vegetation,1,1,1.0
-2014-5,E01000719,Abandoned Vehicles,1,1,1.0
-2014-5,E01000719,Blocked Drains,1,1,1.0
-2014-5,E01000719,Dumped Rubbish,1,1,1.0
-2014-5,E01000719,Litter/Litter Bin,2,1,2.0
-2014-5,E01000719,Road Surface Defects,3,3,1.0
-2014-5,E01000719,Street Lights,1,1,1.0
-2014-5,E01000720,Dumped Rubbish,7,6,1.1666666666666667
-2014-5,E01000720,Grass/Weed Control,1,1,1.0
-2014-5,E01000720,Road Surface Defects,1,1,1.0
-2014-5,E01000720,Spillage on Raod,1,1,1.0
-2014-5,E01000720,Street Cleaning,1,1,1.0
-2014-5,E01000720,Street Lights,1,1,1.0
-2014-5,E01000721,Dead Animals,1,1,1.0
-2014-5,E01000721,Dumped Rubbish,1,1,1.0
-2014-5,E01000721,Street Lights,2,1,2.0
-2014-5,E01000722,Abandoned Vehicles,2,2,1.0
-2014-5,E01000722,Blocked Drains,1,1,1.0
-2014-5,E01000722,Dumped Rubbish,1,1,1.0
-2014-5,E01000722,Grass/Weed Control,1,1,1.0
-2014-5,E01000722,Litter/Litter Bin,3,3,1.0
-2014-5,E01000722,Open Spaces/Parks,1,1,1.0
-2014-5,E01000722,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000722,Street Cleaning,4,3,1.3333333333333333
-2014-5,E01000722,Street Lights,3,2,1.5
-2014-5,E01000723,Abandoned Vehicles,1,1,1.0
-2014-5,E01000723,Dumped Rubbish,1,1,1.0
-2014-5,E01000723,Road Surface Defects,1,1,1.0
-2014-5,E01000724,Dumped Rubbish,4,1,4.0
-2014-5,E01000724,Litter/Litter Bin,1,1,1.0
-2014-5,E01000724,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000725,Abandoned Vehicles,1,1,1.0
-2014-5,E01000725,Blocked Drains,1,1,1.0
-2014-5,E01000725,Dumped Rubbish,1,1,1.0
-2014-5,E01000725,Grass/Weed Control,2,2,1.0
-2014-5,E01000725,Street Cleaning,1,1,1.0
-2014-5,E01000726,Abandoned Vehicles,1,1,1.0
-2014-5,E01000726,Dumped Rubbish,2,2,1.0
-2014-5,E01000726,Grass/Weed Control,1,1,1.0
-2014-5,E01000726,Litter/Litter Bin,1,1,1.0
-2014-5,E01000726,Street Cleaning,1,1,1.0
-2014-5,E01000727,Blocked Drains,1,1,1.0
-2014-5,E01000727,Dumped Rubbish,4,4,1.0
-2014-5,E01000727,Open Spaces/Parks,2,2,1.0
-2014-5,E01000727,Overgrown Vegetation,1,1,1.0
-2014-5,E01000727,Street Cleaning,1,1,1.0
-2014-5,E01000727,Street Lights,1,1,1.0
-2014-5,E01000728,Dumped Rubbish,1,1,1.0
-2014-5,E01000728,Graffiti,1,1,1.0
-2014-5,E01000728,Litter/Litter Bin,3,1,3.0
-2014-5,E01000728,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000729,Dumped Rubbish,6,3,2.0
-2014-5,E01000729,Street Cleaning,2,1,2.0
-2014-5,E01000729,Street Lights,2,1,2.0
-2014-5,E01000730,Abandoned Vehicles,2,2,1.0
-2014-5,E01000730,Blocked Drains,1,1,1.0
-2014-5,E01000730,Dead Animals,1,1,1.0
-2014-5,E01000730,Dumped Rubbish,1,1,1.0
-2014-5,E01000730,Overgrown Vegetation,1,1,1.0
-2014-5,E01000730,Road Surface Defects,1,1,1.0
-2014-5,E01000730,Street Cleaning,1,1,1.0
-2014-5,E01000730,Street Lights,2,1,2.0
-2014-5,E01000730,Street Signs,3,1,3.0
-2014-5,E01000731,Road Surface Defects,1,1,1.0
-2014-5,E01000732,Road Surface Defects,1,1,1.0
-2014-5,E01000733,Dumped Rubbish,2,2,1.0
-2014-5,E01000733,Grass/Weed Control,1,1,1.0
-2014-5,E01000733,Litter/Litter Bin,2,1,2.0
-2014-5,E01000733,Obstruction,1,1,1.0
-2014-5,E01000733,Open Spaces/Parks,1,1,1.0
-2014-5,E01000733,Overgrown Vegetation,6,6,1.0
-2014-5,E01000733,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000733,Road Surface Defects,1,1,1.0
-2014-5,E01000733,Street Cleaning,1,1,1.0
-2014-5,E01000734,Abandoned Vehicles,1,1,1.0
-2014-5,E01000734,Dumped Rubbish,2,2,1.0
-2014-5,E01000734,Graffiti,1,1,1.0
-2014-5,E01000734,Overgrown Vegetation,1,1,1.0
-2014-5,E01000735,Blocked Drains,1,1,1.0
-2014-5,E01000736,Grass/Weed Control,1,1,1.0
-2014-5,E01000737,Dumped Rubbish,1,1,1.0
-2014-5,E01000737,Grass/Weed Control,1,1,1.0
-2014-5,E01000737,Open Spaces/Parks,1,1,1.0
-2014-5,E01000737,Street Cleaning,3,2,1.5
-2014-5,E01000738,Blocked Drains,1,1,1.0
-2014-5,E01000738,Dumped Rubbish,2,2,1.0
-2014-5,E01000738,Graffiti,1,1,1.0
-2014-5,E01000738,Grass/Weed Control,2,1,2.0
-2014-5,E01000738,Litter/Litter Bin,1,1,1.0
-2014-5,E01000738,Pavement /Footway Defects,2,1,2.0
-2014-5,E01000738,Street Lights,1,1,1.0
-2014-5,E01000738,Street Signs,1,1,1.0
-2014-5,E01000739,Dead Animals,1,1,1.0
-2014-5,E01000739,Dumped Rubbish,1,1,1.0
-2014-5,E01000739,Litter/Litter Bin,1,1,1.0
-2014-5,E01000739,Overgrown Vegetation,1,1,1.0
-2014-5,E01000739,Street Signs,1,1,1.0
-2014-5,E01000740,Dumped Rubbish,4,3,1.3333333333333333
-2014-5,E01000740,Grass/Weed Control,1,1,1.0
-2014-5,E01000740,Overgrown Vegetation,1,1,1.0
-2014-5,E01000741,Blocked Drains,1,1,1.0
-2014-5,E01000741,Dumped Rubbish,3,3,1.0
-2014-5,E01000741,Graffiti,2,1,2.0
-2014-5,E01000741,Grass/Weed Control,1,1,1.0
-2014-5,E01000741,Overgrown Vegetation,1,1,1.0
-2014-5,E01000741,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000742,Abandoned Vehicles,1,1,1.0
-2014-5,E01000742,Dead Animals,1,1,1.0
-2014-5,E01000742,Dumped Rubbish,2,2,1.0
-2014-5,E01000743,Dumped Rubbish,6,4,1.5
-2014-5,E01000743,Graffiti,3,1,3.0
-2014-5,E01000743,Litter/Litter Bin,4,2,2.0
-2014-5,E01000743,Overgrown Vegetation,1,1,1.0
-2014-5,E01000743,Street Cleaning,5,1,5.0
-2014-5,E01000743,Street Signs,1,1,1.0
-2014-5,E01000744,Dumped Rubbish,4,4,1.0
-2014-5,E01000744,Litter/Litter Bin,1,1,1.0
-2014-5,E01000744,Open Spaces/Parks,1,1,1.0
-2014-5,E01000744,Street Cleaning,1,1,1.0
-2014-5,E01000745,Blocked Drains,1,1,1.0
-2014-5,E01000745,Dumped Rubbish,1,1,1.0
-2014-5,E01000745,Litter/Litter Bin,1,1,1.0
-2014-5,E01000745,Overgrown Vegetation,1,1,1.0
-2014-5,E01000745,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000745,Street Cleaning,2,2,1.0
-2014-5,E01000746,Dumped Rubbish,3,2,1.5
-2014-5,E01000746,Street Cleaning,1,1,1.0
-2014-5,E01000747,Grass/Weed Control,2,2,1.0
-2014-5,E01000747,Open Spaces/Parks,1,1,1.0
-2014-5,E01000747,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000747,Road Surface Defects,2,2,1.0
-2014-5,E01000748,Grass/Weed Control,1,1,1.0
-2014-5,E01000748,Overgrown Vegetation,1,1,1.0
-2014-5,E01000748,Road Surface Defects,1,1,1.0
-2014-5,E01000748,Street Signs,1,1,1.0
-2014-5,E01000749,Abandoned Vehicles,1,1,1.0
-2014-5,E01000749,Dumped Rubbish,1,1,1.0
-2014-5,E01000749,Road Surface Defects,2,2,1.0
-2014-5,E01000750,Dumped Rubbish,1,1,1.0
-2014-5,E01000750,Open Spaces/Parks,1,1,1.0
-2014-5,E01000750,Street Cleaning,1,1,1.0
-2014-5,E01000751,Dead Animals,1,1,1.0
-2014-5,E01000751,Grass/Weed Control,2,2,1.0
-2014-5,E01000751,Street Signs,1,1,1.0
-2014-5,E01000752,Grass/Weed Control,1,1,1.0
-2014-5,E01000752,Overgrown Vegetation,2,2,1.0
-2014-5,E01000752,Road Surface Defects,2,2,1.0
-2014-5,E01000752,Street Lights,2,2,1.0
-2014-5,E01000753,Blocked Drains,1,1,1.0
-2014-5,E01000753,Overgrown Vegetation,3,3,1.0
-2014-5,E01000754,Dumped Rubbish,2,2,1.0
-2014-5,E01000754,Litter/Litter Bin,1,1,1.0
-2014-5,E01000754,Overgrown Vegetation,1,1,1.0
-2014-5,E01000754,Street Lights,2,2,1.0
-2014-5,E01000755,Grass/Weed Control,3,3,1.0
-2014-5,E01000755,Overgrown Vegetation,1,1,1.0
-2014-5,E01000755,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000755,Road Surface Defects,1,1,1.0
-2014-5,E01000755,Street Lights,1,1,1.0
-2014-5,E01000756,Dead Animals,1,1,1.0
-2014-5,E01000756,Dumped Rubbish,1,1,1.0
-2014-5,E01000756,Graffiti,1,1,1.0
-2014-5,E01000756,Grass/Weed Control,1,1,1.0
-2014-5,E01000756,Litter/Litter Bin,1,1,1.0
-2014-5,E01000756,Overgrown Vegetation,4,4,1.0
-2014-5,E01000756,Road Surface Defects,1,1,1.0
-2014-5,E01000756,Spillage on Raod,1,1,1.0
-2014-5,E01000756,Street Cleaning,1,1,1.0
-2014-5,E01000757,Litter/Litter Bin,1,1,1.0
-2014-5,E01000757,Open Spaces/Parks,1,1,1.0
-2014-5,E01000757,Road Surface Defects,1,1,1.0
-2014-5,E01000758,Abandoned Vehicles,1,1,1.0
-2014-5,E01000759,Dumped Rubbish,2,2,1.0
-2014-5,E01000759,Obstruction,1,1,1.0
-2014-5,E01000759,Overgrown Vegetation,2,2,1.0
-2014-5,E01000759,Road Surface Defects,4,4,1.0
-2014-5,E01000759,Street Lights,1,1,1.0
-2014-5,E01000760,Abandoned Vehicles,1,1,1.0
-2014-5,E01000760,Dumped Rubbish,1,1,1.0
-2014-5,E01000760,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000760,Road Surface Defects,2,2,1.0
-2014-5,E01000761,Overgrown Vegetation,1,1,1.0
-2014-5,E01000761,Road Surface Defects,2,1,2.0
-2014-5,E01000762,Abandoned Vehicles,1,1,1.0
-2014-5,E01000762,Dumped Rubbish,1,1,1.0
-2014-5,E01000762,Overgrown Vegetation,1,1,1.0
-2014-5,E01000762,Street Lights,1,1,1.0
-2014-5,E01000763,Obstruction,1,1,1.0
-2014-5,E01000764,Overgrown Vegetation,1,1,1.0
-2014-5,E01000765,Dead Animals,2,2,1.0
-2014-5,E01000765,Dumped Rubbish,2,2,1.0
-2014-5,E01000765,Floral displays,1,1,1.0
-2014-5,E01000765,Graffiti,1,1,1.0
-2014-5,E01000765,Road Surface Defects,3,3,1.0
-2014-5,E01000765,Street Lights,2,2,1.0
-2014-5,E01000766,Overgrown Vegetation,1,1,1.0
-2014-5,E01000767,Dead Animals,1,1,1.0
-2014-5,E01000767,Dumped Rubbish,1,1,1.0
-2014-5,E01000767,Overgrown Vegetation,1,1,1.0
-2014-5,E01000768,Spillage on Raod,1,1,1.0
-2014-5,E01000769,Road Surface Defects,3,3,1.0
-2014-5,E01000770,Abandoned Vehicles,1,1,1.0
-2014-5,E01000770,Dumped Rubbish,2,2,1.0
-2014-5,E01000770,Grass/Weed Control,2,2,1.0
-2014-5,E01000770,Overgrown Vegetation,1,1,1.0
-2014-5,E01000770,Street Lights,1,1,1.0
-2014-5,E01000771,Road Surface Defects,2,2,1.0
-2014-5,E01000771,Street Signs,1,1,1.0
-2014-5,E01000772,Litter/Litter Bin,2,1,2.0
-2014-5,E01000772,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000773,Dumped Rubbish,1,1,1.0
-2014-5,E01000773,Open Spaces/Parks,1,1,1.0
-2014-5,E01000774,Dead Animals,1,1,1.0
-2014-5,E01000774,Dumped Rubbish,1,1,1.0
-2014-5,E01000774,Graffiti,1,1,1.0
-2014-5,E01000774,Obstruction,1,1,1.0
-2014-5,E01000774,Road Surface Defects,2,2,1.0
-2014-5,E01000774,Street Lights,1,1,1.0
-2014-5,E01000775,Litter/Litter Bin,2,1,2.0
-2014-5,E01000775,Open Spaces/Parks,1,1,1.0
-2014-5,E01000775,Overgrown Vegetation,1,1,1.0
-2014-5,E01000775,Street Cleaning,2,2,1.0
-2014-5,E01000775,Street Lights,2,2,1.0
-2014-5,E01000778,Dumped Rubbish,1,1,1.0
-2014-5,E01000778,Overgrown Vegetation,1,1,1.0
-2014-5,E01000778,Street Cleaning,2,2,1.0
-2014-5,E01000779,Dumped Rubbish,2,2,1.0
-2014-5,E01000779,Road Surface Defects,1,1,1.0
-2014-5,E01000779,Street Lights,1,1,1.0
-2014-5,E01000779,Street Signs,1,1,1.0
-2014-5,E01000780,Dumped Rubbish,1,1,1.0
-2014-5,E01000780,Litter/Litter Bin,1,1,1.0
-2014-5,E01000780,Obstruction,1,1,1.0
-2014-5,E01000780,Overgrown Vegetation,2,2,1.0
-2014-5,E01000780,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000780,Street Cleaning,1,1,1.0
-2014-5,E01000781,Abandoned Vehicles,1,1,1.0
-2014-5,E01000781,Dumped Rubbish,2,2,1.0
-2014-5,E01000782,Street Cleaning,2,2,1.0
-2014-5,E01000783,Obstruction,1,1,1.0
-2014-5,E01000783,Overgrown Vegetation,1,1,1.0
-2014-5,E01000784,Overgrown Vegetation,3,3,1.0
-2014-5,E01000784,Street Cleaning,1,1,1.0
-2014-5,E01000785,Blocked Drains,1,1,1.0
-2014-5,E01000786,Grass/Weed Control,2,1,2.0
-2014-5,E01000786,Open Spaces/Parks,1,1,1.0
-2014-5,E01000786,Overgrown Vegetation,1,1,1.0
-2014-5,E01000786,Street Lights,1,1,1.0
-2014-5,E01000787,Dumped Rubbish,1,1,1.0
-2014-5,E01000787,Open Spaces/Parks,1,1,1.0
-2014-5,E01000787,Street Cleaning,1,1,1.0
-2014-5,E01000788,Dumped Rubbish,1,1,1.0
-2014-5,E01000788,Grass/Weed Control,2,2,1.0
-2014-5,E01000788,Open Spaces/Parks,1,1,1.0
-2014-5,E01000788,Overgrown Vegetation,3,3,1.0
-2014-5,E01000788,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000788,Street Cleaning,1,1,1.0
-2014-5,E01000788,Street Lights,1,1,1.0
-2014-5,E01000789,Road Surface Defects,1,1,1.0
-2014-5,E01000790,Blocked Drains,2,2,1.0
-2014-5,E01000790,Dumped Rubbish,1,1,1.0
-2014-5,E01000790,Graffiti,2,2,1.0
-2014-5,E01000790,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000790,Public Toilets,1,1,1.0
-2014-5,E01000790,Road Surface Defects,2,2,1.0
-2014-5,E01000790,Street Cleaning,2,2,1.0
-2014-5,E01000791,Abandoned Vehicles,1,1,1.0
-2014-5,E01000791,Blocked Drains,1,1,1.0
-2014-5,E01000791,Dead Animals,1,1,1.0
-2014-5,E01000791,Overgrown Vegetation,1,1,1.0
-2014-5,E01000792,Dumped Rubbish,1,1,1.0
-2014-5,E01000792,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000792,Street Cleaning,2,2,1.0
-2014-5,E01000793,Grass/Weed Control,1,1,1.0
-2014-5,E01000793,Overgrown Vegetation,1,1,1.0
-2014-5,E01000793,Pavement /Footway Defects,2,1,2.0
-2014-5,E01000793,Road Surface Defects,1,1,1.0
-2014-5,E01000793,Street Lights,2,2,1.0
-2014-5,E01000794,Dumped Rubbish,1,1,1.0
-2014-5,E01000794,Grass/Weed Control,1,1,1.0
-2014-5,E01000794,Street Cleaning,2,2,1.0
-2014-5,E01000795,Grass/Weed Control,3,2,1.5
-2014-5,E01000795,Overgrown Vegetation,1,1,1.0
-2014-5,E01000795,Pavement /Footway Defects,2,1,2.0
-2014-5,E01000795,Street Cleaning,3,2,1.5
-2014-5,E01000796,Dumped Rubbish,1,1,1.0
-2014-5,E01000797,Abandoned Vehicles,1,1,1.0
-2014-5,E01000797,Dumped Rubbish,2,2,1.0
-2014-5,E01000797,Litter/Litter Bin,3,2,1.5
-2014-5,E01000797,Open Spaces/Parks,1,1,1.0
-2014-5,E01000797,Spillage on Raod,1,1,1.0
-2014-5,E01000797,Street Cleaning,1,1,1.0
-2014-5,E01000797,Street Lights,2,2,1.0
-2014-5,E01000797,Street Signs,1,1,1.0
-2014-5,E01000798,Graffiti,1,1,1.0
-2014-5,E01000798,Litter/Litter Bin,1,1,1.0
-2014-5,E01000798,Street Lights,1,1,1.0
-2014-5,E01000799,Dumped Rubbish,10,8,1.25
-2014-5,E01000799,Litter/Litter Bin,1,1,1.0
-2014-5,E01000799,Street Cleaning,1,1,1.0
-2014-5,E01000800,Dumped Rubbish,1,1,1.0
-2014-5,E01000801,Dead Animals,1,1,1.0
-2014-5,E01000801,Dumped Rubbish,2,2,1.0
-2014-5,E01000801,Graffiti,1,1,1.0
-2014-5,E01000801,Street Cleaning,1,1,1.0
-2014-5,E01000801,Street Signs,1,1,1.0
-2014-5,E01000802,Abandoned Vehicles,2,2,1.0
-2014-5,E01000802,Dumped Rubbish,5,5,1.0
-2014-5,E01000802,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000802,Road Surface Defects,2,2,1.0
-2014-5,E01000802,Street Signs,1,1,1.0
-2014-5,E01000803,Dumped Rubbish,1,1,1.0
-2014-5,E01000803,Street Lights,1,1,1.0
-2014-5,E01000804,Abandoned Vehicles,2,2,1.0
-2014-5,E01000805,Abandoned Vehicles,1,1,1.0
-2014-5,E01000805,Blocked Drains,1,1,1.0
-2014-5,E01000805,Dumped Rubbish,1,1,1.0
-2014-5,E01000805,Spillage on Raod,1,1,1.0
-2014-5,E01000805,Street Cleaning,1,1,1.0
-2014-5,E01000806,Abandoned Vehicles,2,2,1.0
-2014-5,E01000806,Dumped Rubbish,5,4,1.25
-2014-5,E01000806,Graffiti,2,2,1.0
-2014-5,E01000807,Litter/Litter Bin,1,1,1.0
-2014-5,E01000807,Overgrown Vegetation,2,2,1.0
-2014-5,E01000807,Road Surface Defects,1,1,1.0
-2014-5,E01000808,Graffiti,1,1,1.0
-2014-5,E01000808,Overgrown Vegetation,1,1,1.0
-2014-5,E01000808,Street Cleaning,1,1,1.0
-2014-5,E01000809,Dumped Rubbish,1,1,1.0
-2014-5,E01000809,Obstruction,1,1,1.0
-2014-5,E01000809,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000810,Street Lights,1,1,1.0
-2014-5,E01000811,Abandoned Vehicles,1,1,1.0
-2014-5,E01000811,Obstruction,1,1,1.0
-2014-5,E01000811,Open Spaces/Parks,1,1,1.0
-2014-5,E01000811,Overgrown Vegetation,1,1,1.0
-2014-5,E01000811,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000811,Street Cleaning,1,1,1.0
-2014-5,E01000812,Abandoned Vehicles,1,1,1.0
-2014-5,E01000812,Blocked Drains,1,1,1.0
-2014-5,E01000812,Dead Animals,2,2,1.0
-2014-5,E01000812,Dumped Rubbish,1,1,1.0
-2014-5,E01000812,Grass/Weed Control,1,1,1.0
-2014-5,E01000812,Overgrown Vegetation,2,2,1.0
-2014-5,E01000813,Obstruction,1,1,1.0
-2014-5,E01000813,Road Surface Defects,1,1,1.0
-2014-5,E01000813,Street Cleaning,1,1,1.0
-2014-5,E01000814,Dead Animals,2,2,1.0
-2014-5,E01000814,Obstruction,1,1,1.0
-2014-5,E01000814,Street Cleaning,2,2,1.0
-2014-5,E01000815,Road Surface Defects,1,1,1.0
-2014-5,E01000816,Dead Animals,1,1,1.0
-2014-5,E01000816,Grass/Weed Control,1,1,1.0
-2014-5,E01000816,Obstruction,1,1,1.0
-2014-5,E01000818,Dead Animals,1,1,1.0
-2014-5,E01000818,Dumped Rubbish,2,2,1.0
-2014-5,E01000818,Grass/Weed Control,1,1,1.0
-2014-5,E01000818,Obstruction,1,1,1.0
-2014-5,E01000818,Pavement /Footway Defects,2,2,1.0
-2014-5,E01000818,Road Surface Defects,1,1,1.0
-2014-5,E01000818,Street Lights,1,1,1.0
-2014-5,E01000819,Abandoned Vehicles,2,2,1.0
-2014-5,E01000819,Dumped Rubbish,1,1,1.0
-2014-5,E01000819,Overgrown Vegetation,1,1,1.0
-2014-5,E01000819,Street Lights,1,1,1.0
-2014-5,E01000820,Abandoned Vehicles,2,2,1.0
-2014-5,E01000820,Blocked Drains,1,1,1.0
-2014-5,E01000820,Dumped Rubbish,2,2,1.0
-2014-5,E01000820,Graffiti,1,1,1.0
-2014-5,E01000822,Dumped Rubbish,2,2,1.0
-2014-5,E01000822,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000823,Dumped Rubbish,1,1,1.0
-2014-5,E01000823,Overgrown Vegetation,2,2,1.0
-2014-5,E01000823,Street Cleaning,1,1,1.0
-2014-5,E01000823,Street Lights,1,1,1.0
-2014-5,E01000824,Dumped Rubbish,1,1,1.0
-2014-5,E01000824,Overgrown Vegetation,1,1,1.0
-2014-5,E01000825,Dumped Rubbish,2,2,1.0
-2014-5,E01000825,Road Surface Defects,1,1,1.0
-2014-5,E01000825,Street Cleaning,1,1,1.0
-2014-5,E01000826,Overgrown Vegetation,1,1,1.0
-2014-5,E01000826,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000827,Abandoned Vehicles,3,3,1.0
-2014-5,E01000827,Grass/Weed Control,1,1,1.0
-2014-5,E01000827,Overgrown Vegetation,1,1,1.0
-2014-5,E01000827,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000827,Road Surface Defects,1,1,1.0
-2014-5,E01000828,Abandoned Vehicles,1,1,1.0
-2014-5,E01000828,Litter/Litter Bin,1,1,1.0
-2014-5,E01000828,Overgrown Vegetation,1,1,1.0
-2014-5,E01000828,Street Lights,1,1,1.0
-2014-5,E01000829,Litter/Litter Bin,2,1,2.0
-2014-5,E01000829,Overgrown Vegetation,1,1,1.0
-2014-5,E01000829,Pavement /Footway Defects,1,1,1.0
-2014-5,E01000829,Street Cleaning,1,1,1.0
-2014-5,E01000829,Street Lights,1,1,1.0
-2014-5,E01000830,Grass/Weed Control,1,1,1.0
-2014-5,E01000831,Abandoned Vehicles,2,2,1.0
-2014-5,E01000831,Overgrown Vegetation,3,2,1.5
-2014-5,E01000831,Street Cleaning,1,1,1.0
-2014-5,E01000831,Street Signs,1,1,1.0
-2014-5,E01000832,Spillage on Raod,2,2,1.0
-2014-5,E01000833,Litter/Litter Bin,1,1,1.0
-2014-5,E01000834,Dead Animals,1,1,1.0
-2014-5,E01000834,Obstruction,1,1,1.0
-2014-5,E01000835,Blocked Drains,1,1,1.0
-2014-5,E01000835,Grass/Weed Control,1,1,1.0
-2014-5,E01000835,Obstruction,1,1,1.0
-2014-5,E01000835,Overgrown Vegetation,2,2,1.0
-2014-5,E01000835,Spillage on Raod,1,1,1.0
-2014-5,E01000836,Grass/Weed Control,1,1,1.0
-2014-5,E01000836,Overgrown Vegetation,2,2,1.0
-2014-5,E01000837,Litter/Litter Bin,1,1,1.0
-2014-5,E01000837,Overgrown Vegetation,1,1,1.0
-2014-5,E01000838,Street Cleaning,1,1,1.0
-2014-5,E01000838,Street Lights,1,1,1.0
-2014-5,E01000840,Road Surface Defects,1,1,1.0
-2014-5,E01000840,Street Signs,1,1,1.0
-2014-5,E01000841,Abandoned Vehicles,1,1,1.0
-2014-5,E01000841,Dumped Rubbish,2,2,1.0
-2014-5,E01000841,Pavement /Footway Defects,2,2,1.0
-2014-5,E01017137,Highway Condition,1,1,1.0
-2014-5,E01017138,Bus Stops Damage,1,1,1.0
-2014-5,E01017138,Fly-tipping,1,1,1.0
-2014-5,E01017138,Highway Condition,1,1,1.0
-2014-5,E01017138,Pavement /Footway Defects,2,2,1.0
-2014-5,E01017140,Highway Condition,1,1,1.0
-2014-5,E01017140,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017140,Street Cleaning,1,1,1.0
-2014-5,E01017140,Traffic Lights,1,1,1.0
-2014-5,E01017142,Highway Condition,1,1,1.0
-2014-5,E01017142,Other,2,2,1.0
-2014-5,E01017144,Overgrown Vegetation,1,1,1.0
-2014-5,E01017146,Overgrown Vegetation,1,1,1.0
-2014-5,E01017146,Potholes,1,1,1.0
-2014-5,E01017147,Parking,1,1,1.0
-2014-5,E01017148,Dog Fouling,1,1,1.0
-2014-5,E01017148,Grass/Weed Control,1,1,1.0
-2014-5,E01017148,Parking,1,1,1.0
-2014-5,E01017148,Potholes,1,1,1.0
-2014-5,E01017149,Dog Fouling,1,1,1.0
-2014-5,E01017150,Grass/Weed Control,2,2,1.0
-2014-5,E01017150,Highway Condition,1,1,1.0
-2014-5,E01017150,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017151,Fly-tipping,1,1,1.0
-2014-5,E01017151,Overgrown Vegetation,1,1,1.0
-2014-5,E01017151,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017151,Potholes,1,1,1.0
-2014-5,E01017153,Fly-tipping,1,1,1.0
-2014-5,E01017154,Highway Condition,2,1,2.0
-2014-5,E01017155,Fly-tipping,1,1,1.0
-2014-5,E01017155,Litter/Litter Bin,1,1,1.0
-2014-5,E01017156,Dog Fouling,2,1,2.0
-2014-5,E01017156,Fly-tipping,4,3,1.3333333333333333
-2014-5,E01017156,Litter/Litter Bin,1,1,1.0
-2014-5,E01017157,Grass/Weed Control,1,1,1.0
-2014-5,E01017158,Accumulated Litter,1,1,1.0
-2014-5,E01017159,Fly-tipping,1,1,1.0
-2014-5,E01017160,Litter/Litter Bin,1,1,1.0
-2014-5,E01017160,Potholes,3,1,3.0
-2014-5,E01017160,To Let Signs,1,1,1.0
-2014-5,E01017162,Fly-tipping,1,1,1.0
-2014-5,E01017162,Other,1,1,1.0
-2014-5,E01017162,Potholes,2,1,2.0
-2014-5,E01017163,Highway Condition,1,1,1.0
-2014-5,E01017167,Highway Condition,1,1,1.0
-2014-5,E01017167,Potholes,1,1,1.0
-2014-5,E01017168,Potholes,1,1,1.0
-2014-5,E01017170,Fly-tipping,1,1,1.0
-2014-5,E01017170,Highway Condition,1,1,1.0
-2014-5,E01017171,Flyposting,1,1,1.0
-2014-5,E01017171,Potholes,1,1,1.0
-2014-5,E01017173,Other,1,1,1.0
-2014-5,E01017173,Potholes,1,1,1.0
-2014-5,E01017175,Highway Condition,2,2,1.0
-2014-5,E01017175,Parking,1,1,1.0
-2014-5,E01017177,Dog Fouling,1,1,1.0
-2014-5,E01017177,Highway Condition,1,1,1.0
-2014-5,E01017177,Litter/Litter Bin,1,1,1.0
-2014-5,E01017178,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017181,Grass/Weed Control,1,1,1.0
-2014-5,E01017181,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017182,Fly-tipping,2,1,2.0
-2014-5,E01017183,Accumulated Litter,1,1,1.0
-2014-5,E01017183,Highway Condition,1,1,1.0
-2014-5,E01017183,Potholes,1,1,1.0
-2014-5,E01017185,Fly-tipping,1,1,1.0
-2014-5,E01017185,Overgrown Vegetation,1,1,1.0
-2014-5,E01017186,Fly-tipping,1,1,1.0
-2014-5,E01017186,Other,1,1,1.0
-2014-5,E01017186,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017186,Street Name Plates,1,1,1.0
-2014-5,E01017187,Parking,1,1,1.0
-2014-5,E01017188,Highway Condition,2,1,2.0
-2014-5,E01017188,Street Cleaning,1,1,1.0
-2014-5,E01017190,Shopping Trolley,1,1,1.0
-2014-5,E01017191,Fly-tipping,2,1,2.0
-2014-5,E01017191,Traffic Lights,1,1,1.0
-2014-5,E01017192,Parking,1,1,1.0
-2014-5,E01017192,Potholes,1,1,1.0
-2014-5,E01017193,Dog Fouling,1,1,1.0
-2014-5,E01017193,Fly-tipping,2,2,1.0
-2014-5,E01017193,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017194,Shopping Trolley,1,1,1.0
-2014-5,E01017194,Street Name Plates,1,1,1.0
-2014-5,E01017195,Bus Stops Damage,1,1,1.0
-2014-5,E01017195,Fly-tipping,1,1,1.0
-2014-5,E01017196,Shopping Trolley,1,1,1.0
-2014-5,E01017200,Other,1,1,1.0
-2014-5,E01017200,Overgrown Vegetation,1,1,1.0
-2014-5,E01017200,Potholes,2,2,1.0
-2014-5,E01017200,Traffic Lights,1,1,1.0
-2014-5,E01017202,Fly-tipping,1,1,1.0
-2014-5,E01017202,Other,2,1,2.0
-2014-5,E01017202,Overgrown Vegetation,1,1,1.0
-2014-5,E01017202,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017203,Fly-tipping,1,1,1.0
-2014-5,E01017203,Highway Condition,1,1,1.0
-2014-5,E01017203,Overgrown Vegetation,1,1,1.0
-2014-5,E01017204,Fly-tipping,1,1,1.0
-2014-5,E01017204,Highway Condition,1,1,1.0
-2014-5,E01017204,Parking,2,1,2.0
-2014-5,E01017204,Potholes,1,1,1.0
-2014-5,E01017206,Potholes,1,1,1.0
-2014-5,E01017209,Fly-tipping,3,3,1.0
-2014-5,E01017209,Litter/Litter Bin,1,1,1.0
-2014-5,E01017210,Accumulated Litter,1,1,1.0
-2014-5,E01017210,Fly-tipping,3,3,1.0
-2014-5,E01017211,Dog Fouling,1,1,1.0
-2014-5,E01017211,Highway Condition,2,2,1.0
-2014-5,E01017212,Fly-tipping,1,1,1.0
-2014-5,E01017212,Potholes,1,1,1.0
-2014-5,E01017214,Highway Condition,1,1,1.0
-2014-5,E01017214,Overgrown Vegetation,1,1,1.0
-2014-5,E01017214,Parking,1,1,1.0
-2014-5,E01017214,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017215,Parking,1,1,1.0
-2014-5,E01017216,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017220,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017221,Fly-tipping,1,1,1.0
-2014-5,E01017221,Litter/Litter Bin,1,1,1.0
-2014-5,E01017221,Other,1,1,1.0
-2014-5,E01017221,Parking,1,1,1.0
-2014-5,E01017221,Pest Control,1,1,1.0
-2014-5,E01017222,Leafing,1,1,1.0
-2014-5,E01017223,Potholes,2,1,2.0
-2014-5,E01017225,Fly-tipping,1,1,1.0
-2014-5,E01017225,Highway Condition,1,1,1.0
-2014-5,E01017225,Overgrown Vegetation,1,1,1.0
-2014-5,E01017225,Potholes,1,1,1.0
-2014-5,E01017226,Highway Condition,1,1,1.0
-2014-5,E01017226,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017226,Potholes,1,1,1.0
-2014-5,E01017227,Fly-tipping,1,1,1.0
-2014-5,E01017231,Overgrown Vegetation,1,1,1.0
-2014-5,E01017233,Barriers/Bollards on RoW,1,1,1.0
-2014-5,E01017233,Fly-tipping,2,2,1.0
-2014-5,E01017233,Highway Condition,1,1,1.0
-2014-5,E01017233,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017234,Accumulated Litter,1,1,1.0
-2014-5,E01017234,Fly-tipping,1,1,1.0
-2014-5,E01017234,Highway Condition,1,1,1.0
-2014-5,E01017234,Overgrown Vegetation,1,1,1.0
-2014-5,E01017234,Pest Control,1,1,1.0
-2014-5,E01017235,Fly-tipping,1,1,1.0
-2014-5,E01017237,Overgrown Vegetation,1,1,1.0
-2014-5,E01017238,Street Signs,1,1,1.0
-2014-5,E01017239,Highway Condition,1,1,1.0
-2014-5,E01017240,Fly-tipping,2,1,2.0
-2014-5,E01017240,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017241,Fly-tipping,1,1,1.0
-2014-5,E01017242,Overgrown Vegetation,1,1,1.0
-2014-5,E01017244,Dog Fouling,1,1,1.0
-2014-5,E01017245,Highway Condition,1,1,1.0
-2014-5,E01017245,Other,1,1,1.0
-2014-5,E01017246,Graffiti,1,1,1.0
-2014-5,E01017246,Pavement /Footway Defects,2,2,1.0
-2014-5,E01017246,Street Cleaning,1,1,1.0
-2014-5,E01017248,Overgrown Vegetation,2,1,2.0
-2014-5,E01017249,Fly-tipping,1,1,1.0
-2014-5,E01017250,Other,1,1,1.0
-2014-5,E01017251,Dog Fouling,1,1,1.0
-2014-5,E01017251,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017251,Shopping Trolley,1,1,1.0
-2014-5,E01017252,Fly-tipping,1,1,1.0
-2014-5,E01017253,Potholes,1,1,1.0
-2014-5,E01017253,Shopping Trolley,1,1,1.0
-2014-5,E01017254,Highway Condition,3,3,1.0
-2014-5,E01017254,Overgrown Vegetation,1,1,1.0
-2014-5,E01017256,Flyposting,1,1,1.0
-2014-5,E01017256,Parking,1,1,1.0
-2014-5,E01017256,Potholes,3,2,1.5
-2014-5,E01017258,Street Signs,1,1,1.0
-2014-5,E01017260,Potholes,2,2,1.0
-2014-5,E01017261,Fly-tipping,1,1,1.0
-2014-5,E01017261,Highway Condition,1,1,1.0
-2014-5,E01017262,Parking,1,1,1.0
-2014-5,E01017265,Pavement /Footway Defects,1,1,1.0
-2014-5,E01017266,Potholes,1,1,1.0
-2014-5,E01017271,Street Name Plates,1,1,1.0
-2014-5,E01017275,Bus Stops Damage,1,1,1.0
-2014-5,E01017276,Fly-tipping,2,2,1.0
-2014-5,E01017278,Grass/Weed Control,1,1,1.0
-2014-5,E01017279,Other,1,1,1.0
-2014-5,E01017280,Potholes,1,1,1.0
-2014-5,E01022846,Fly-tipping,1,1,1.0
-2014-5,E01022847,Other,1,1,1.0
-2014-5,E01022850,Rubbish,1,1,1.0
-2014-5,E01022851,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022852,Other,1,1,1.0
-2014-5,E01022852,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022853,Fly-tipping,1,1,1.0
-2014-5,E01022856,Highway Condition,1,1,1.0
-2014-5,E01022856,Parking,1,1,1.0
-2014-5,E01022856,Potholes,1,1,1.0
-2014-5,E01022857,Abandoned Vehicles,1,1,1.0
-2014-5,E01022857,Potholes,1,1,1.0
-2014-5,E01022857,Rubbish,1,1,1.0
-2014-5,E01022858,Street Signs,1,1,1.0
-2014-5,E01022860,Dog Fouling,1,1,1.0
-2014-5,E01022860,Fly-tipping,2,2,1.0
-2014-5,E01022860,Rubbish,1,1,1.0
-2014-5,E01022860,Street Cleaning,1,1,1.0
-2014-5,E01022862,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022862,Rubbish,2,2,1.0
-2014-5,E01022863,Other,1,1,1.0
-2014-5,E01022863,Rubbish,1,1,1.0
-2014-5,E01022864,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022868,Rubbish,1,1,1.0
-2014-5,E01022869,Fly-tipping,1,1,1.0
-2014-5,E01022869,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022869,Traffic Lights,2,2,1.0
-2014-5,E01022870,Other,1,1,1.0
-2014-5,E01022872,Rubbish,1,1,1.0
-2014-5,E01022873,Potholes,1,1,1.0
-2014-5,E01022873,Rubbish,1,1,1.0
-2014-5,E01022874,Potholes,1,1,1.0
-2014-5,E01022875,Abandoned Vehicles,2,2,1.0
-2014-5,E01022877,Parking,1,1,1.0
-2014-5,E01022877,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022879,Fly-tipping,1,1,1.0
-2014-5,E01022880,Flyposting,1,1,1.0
-2014-5,E01022881,Other,1,1,1.0
-2014-5,E01022882,Street Lights,1,1,1.0
-2014-5,E01022883,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022884,Street Name Plates,1,1,1.0
-2014-5,E01022887,Fly-tipping,1,1,1.0
-2014-5,E01022887,Street Lights,1,1,1.0
-2014-5,E01022888,Other,1,1,1.0
-2014-5,E01022888,Street Lights,1,1,1.0
-2014-5,E01022891,Abandoned Vehicles,1,1,1.0
-2014-5,E01022892,Rubbish,1,1,1.0
-2014-5,E01022895,Pavement /Footway Defects,1,1,1.0
-2014-5,E01022895,Street Name Plates,1,1,1.0
-2014-5,E01022896,Other,1,1,1.0
-2014-5,E01022898,Pavement /Footway Defects,1,1,1.0
-2014-5,E01023750,Abandoned Vehicles,1,1,1.0
-2014-5,E01023750,Dog Fouling,1,1,1.0
-2014-5,E01023751,Fly-tipping,1,1,1.0
-2014-5,E01023752,Highway Condition,1,1,1.0
-2014-5,E01023753,Fly-tipping,2,2,1.0
-2014-5,E01023753,Grass/Weed Control,1,1,1.0
-2014-5,E01023753,Other,1,1,1.0
-2014-5,E01023754,Abandoned Vehicles,1,1,1.0
-2014-5,E01023754,Fly-tipping,1,1,1.0
-2014-5,E01023754,Other,1,1,1.0
-2014-5,E01023755,Fly-tipping,2,2,1.0
-2014-5,E01023755,Other,1,1,1.0
-2014-5,E01023756,Abandoned Vehicles,1,1,1.0
-2014-5,E01023756,Fly-tipping,1,1,1.0
-2014-5,E01023756,Other,1,1,1.0
-2014-5,E01023757,Dog Fouling,1,1,1.0
-2014-5,E01023757,Fly-tipping,9,4,2.25
-2014-5,E01023757,Other,1,1,1.0
-2014-5,E01023757,Street Cleaning,1,1,1.0
-2014-5,E01023758,Abandoned Vehicles,2,2,1.0
-2014-5,E01023758,Dead Animals,1,1,1.0
-2014-5,E01023758,Discarded Syringes,1,1,1.0
-2014-5,E01023758,Dog Fouling,1,1,1.0
-2014-5,E01023758,Fly-tipping,2,2,1.0
-2014-5,E01023758,Flyposting,1,1,1.0
-2014-5,E01023758,Graffiti,1,1,1.0
-2014-5,E01023758,Other,1,1,1.0
-2014-5,E01023758,Pavement /Footway Defects,1,1,1.0
-2014-5,E01023758,Street Cleaning,1,1,1.0
-2014-5,E01023759,Dog Fouling,2,2,1.0
-2014-5,E01023759,Fly-tipping,2,2,1.0
-2014-5,E01023759,Street Cleaning,1,1,1.0
-2014-5,E01023760,Abandoned Vehicles,1,1,1.0
-2014-5,E01023760,Dead Animals,1,1,1.0
-2014-5,E01023760,Dog Fouling,1,1,1.0
-2014-5,E01023760,Fly-tipping,2,1,2.0
-2014-5,E01023761,Dog Fouling,2,2,1.0
-2014-5,E01023761,Fly-tipping,2,1,2.0
-2014-5,E01023762,Abandoned Vehicles,1,1,1.0
-2014-5,E01023762,Fly-tipping,2,1,2.0
-2014-5,E01023762,Other,1,1,1.0
-2014-5,E01023762,Street Cleaning,1,1,1.0
-2014-5,E01023763,Grass/Weed Control,1,1,1.0
-2014-5,E01023763,Other,2,1,2.0
-2014-5,E01023764,Grass/Weed Control,1,1,1.0
-2014-5,E01023764,Street Cleaning,2,1,2.0
-2014-5,E01023765,Fly-tipping,5,4,1.25
-2014-5,E01023766,Abandoned Vehicles,3,2,1.5
-2014-5,E01023766,Fly-tipping,3,3,1.0
-2014-5,E01023766,Other,1,1,1.0
-2014-5,E01023766,Street Cleaning,1,1,1.0
-2014-5,E01023767,Dog Fouling,1,1,1.0
-2014-5,E01023767,Fly-tipping,1,1,1.0
-2014-5,E01023767,Grass/Weed Control,1,1,1.0
-2014-5,E01023768,Fly-tipping,2,2,1.0
-2014-5,E01023769,Fly-tipping,1,1,1.0
-2014-5,E01023770,Dead Animals,1,1,1.0
-2014-5,E01023770,Other,2,1,2.0
-2014-5,E01023771,Abandoned Vehicles,1,1,1.0
-2014-5,E01023771,Dog Fouling,1,1,1.0
-2014-5,E01023771,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01023771,Fly-tipping,3,2,1.5
-2014-5,E01023771,Street Cleaning,1,1,1.0
-2014-5,E01023772,Fly-tipping,1,1,1.0
-2014-5,E01023773,Fly-tipping,1,1,1.0
-2014-5,E01023774,Dead Animals,1,1,1.0
-2014-5,E01023774,Fly-tipping,5,3,1.6666666666666667
-2014-5,E01023774,Graffiti,1,1,1.0
-2014-5,E01023774,Other,1,1,1.0
-2014-5,E01023775,Discarded Syringes,1,1,1.0
-2014-5,E01023775,Dog Fouling,1,1,1.0
-2014-5,E01023775,Fly-tipping,3,3,1.0
-2014-5,E01023775,Other,1,1,1.0
-2014-5,E01023776,Street Cleaning,1,1,1.0
-2014-5,E01023777,Fly-tipping,1,1,1.0
-2014-5,E01023777,Graffiti,1,1,1.0
-2014-5,E01023778,Abandoned Vehicles,1,1,1.0
-2014-5,E01023778,Street Cleaning,1,1,1.0
-2014-5,E01023779,Discarded Syringes,1,1,1.0
-2014-5,E01023779,Fly-tipping,2,2,1.0
-2014-5,E01023779,Street Cleaning,2,1,2.0
-2014-5,E01023780,Fly-tipping,2,1,2.0
-2014-5,E01023781,Fly-tipping,5,1,5.0
-2014-5,E01023781,Street Cleaning,1,1,1.0
-2014-5,E01023782,Fly-tipping,3,2,1.5
-2014-5,E01023782,Street Cleaning,1,1,1.0
-2014-5,E01023783,Abandoned Vehicles,3,2,1.5
-2014-5,E01023783,Fly-tipping,5,4,1.25
-2014-5,E01023783,Grass/Weed Control,1,1,1.0
-2014-5,E01023783,Other,4,4,1.0
-2014-5,E01023784,Dog Fouling,4,3,1.3333333333333333
-2014-5,E01023784,Fly-tipping,2,2,1.0
-2014-5,E01023784,Other,1,1,1.0
-2014-5,E01023784,Street Cleaning,2,1,2.0
-2014-5,E01023785,Abandoned Vehicles,1,1,1.0
-2014-5,E01023785,Fly-tipping,1,1,1.0
-2014-5,E01023786,Fly-tipping,3,2,1.5
-2014-5,E01023786,Grass/Weed Control,2,1,2.0
-2014-5,E01023786,Highway Condition,1,1,1.0
-2014-5,E01023786,Street Cleaning,2,2,1.0
-2014-5,E01023787,Fly-tipping,4,1,4.0
-2014-5,E01023788,Abandoned Vehicles,2,2,1.0
-2014-5,E01023788,Fly-tipping,4,1,4.0
-2014-5,E01023788,Graffiti,1,1,1.0
-2014-5,E01023788,Street Cleaning,2,2,1.0
-2014-5,E01023789,Abandoned Vehicles,1,1,1.0
-2014-5,E01023789,Dog Fouling,1,1,1.0
-2014-5,E01023789,Fly-tipping,3,2,1.5
-2014-5,E01023790,Abandoned Vehicles,1,1,1.0
-2014-5,E01023790,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01023790,Fly-tipping,2,1,2.0
-2014-5,E01023791,Fly-tipping,2,2,1.0
-2014-5,E01023791,Street Cleaning,1,1,1.0
-2014-5,E01023792,Fly-tipping,1,1,1.0
-2014-5,E01023793,Abandoned Vehicles,1,1,1.0
-2014-5,E01023793,Dog Fouling,1,1,1.0
-2014-5,E01023793,Fly-tipping,2,2,1.0
-2014-5,E01023794,Fly-tipping,3,3,1.0
-2014-5,E01023795,Dog Fouling,2,1,2.0
-2014-5,E01023795,Fly-tipping,1,1,1.0
-2014-5,E01023796,Fly-tipping,1,1,1.0
-2014-5,E01023796,Flyposting,1,1,1.0
-2014-5,E01023796,Street Cleaning,1,1,1.0
-2014-5,E01023798,Dog Fouling,1,1,1.0
-2014-5,E01023799,Fly-tipping,1,1,1.0
-2014-5,E01023799,Grass/Weed Control,1,1,1.0
-2014-5,E01023800,Fly-tipping,1,1,1.0
-2014-5,E01023801,Dog Fouling,1,1,1.0
-2014-5,E01023801,Fly-tipping,2,2,1.0
-2014-5,E01023801,Other,1,1,1.0
-2014-5,E01023801,Street Cleaning,1,1,1.0
-2014-5,E01028423,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028423,Grass/Weed Control,1,1,1.0
-2014-5,E01028424,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028424,Potholes,2,2,1.0
-2014-5,E01028424,Street Signs,1,1,1.0
-2014-5,E01028425,Blocked Drains,1,1,1.0
-2014-5,E01028425,Fly-tipping,1,1,1.0
-2014-5,E01028425,Rubbish,1,1,1.0
-2014-5,E01028426,Potholes,2,1,2.0
-2014-5,E01028428,Fallen/Dangerous Trees,2,2,1.0
-2014-5,E01028428,Other,1,1,1.0
-2014-5,E01028429,Road Markings,1,1,1.0
-2014-5,E01028431,Potholes,2,1,2.0
-2014-5,E01028432,Blocked Drains,1,1,1.0
-2014-5,E01028432,Parking,1,1,1.0
-2014-5,E01028432,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028433,Blocked Drains,2,2,1.0
-2014-5,E01028434,Potholes,1,1,1.0
-2014-5,E01028435,Blocked Drains,1,1,1.0
+period,LSOA,SHEF_A_CODE,report_count,user_count,average
+2014-5,E01000115,A57,1,1,1.0
+2014-5,E01000115,A60,2,1,2.0
+2014-5,E01000116,A32,1,1,1.0
+2014-5,E01000116,A55,1,1,1.0
+2014-5,E01000116,A57,2,2,1.0
+2014-5,E01000116,A60,1,1,1.0
+2014-5,E01000117,A29,1,1,1.0
+2014-5,E01000117,A55,1,1,1.0
+2014-5,E01000118,A29,1,1,1.0
+2014-5,E01000118,A57,2,2,1.0
+2014-5,E01000118,A60,1,1,1.0
+2014-5,E01000119,A57,1,1,1.0
+2014-5,E01000121,A32,1,1,1.0
+2014-5,E01000122,A29,1,1,1.0
+2014-5,E01000122,A57,1,1,1.0
+2014-5,E01000123,A29,1,1,1.0
+2014-5,E01000123,A57,1,1,1.0
+2014-5,E01000123,A60,1,1,1.0
+2014-5,E01000124,A29,1,1,1.0
+2014-5,E01000124,A32,2,2,1.0
+2014-5,E01000125,A32,1,1,1.0
+2014-5,E01000125,A47,1,1,1.0
+2014-5,E01000126,A32,1,1,1.0
+2014-5,E01000126,A8,1,1,1.0
+2014-5,E01000128,A55,1,1,1.0
+2014-5,E01000128,A57,1,1,1.0
+2014-5,E01000128,A83,1,1,1.0
+2014-5,E01000129,A32,1,1,1.0
+2014-5,E01000129,A60,1,1,1.0
+2014-5,E01000130,A29,1,1,1.0
+2014-5,E01000130,A32,2,1,2.0
+2014-5,E01000131,A83,1,1,1.0
+2014-5,E01000132,A32,2,2,1.0
+2014-5,E01000132,A60,1,1,1.0
+2014-5,E01000133,A57,1,1,1.0
+2014-5,E01000135,A2,2,2,1.0
+2014-5,E01000135,A29,1,1,1.0
+2014-5,E01000135,A32,1,1,1.0
+2014-5,E01000135,A60,1,1,1.0
+2014-5,E01000135,A8,2,1,2.0
+2014-5,E01000135,A83,1,1,1.0
+2014-5,E01000136,A2,1,1,1.0
+2014-5,E01000136,A29,1,1,1.0
+2014-5,E01000136,A32,1,1,1.0
+2014-5,E01000136,A8,2,1,2.0
+2014-5,E01000138,A2,1,1,1.0
+2014-5,E01000138,A29,2,1,2.0
+2014-5,E01000138,A32,1,1,1.0
+2014-5,E01000138,A55,1,1,1.0
+2014-5,E01000138,A8,1,1,1.0
+2014-5,E01000138,A81,1,1,1.0
+2014-5,E01000139,A29,3,2,1.5
+2014-5,E01000139,A32,1,1,1.0
+2014-5,E01000139,A47,1,1,1.0
+2014-5,E01000139,A60,1,1,1.0
+2014-5,E01000140,A60,3,3,1.0
+2014-5,E01000141,A2,1,1,1.0
+2014-5,E01000141,A29,2,2,1.0
+2014-5,E01000141,A32,2,2,1.0
+2014-5,E01000141,A57,1,1,1.0
+2014-5,E01000141,A60,2,2,1.0
+2014-5,E01000141,A8,1,1,1.0
+2014-5,E01000142,A29,1,1,1.0
+2014-5,E01000142,A32,1,1,1.0
+2014-5,E01000142,A48,1,1,1.0
+2014-5,E01000142,A55,1,1,1.0
+2014-5,E01000143,A8,1,1,1.0
+2014-5,E01000144,A2,1,1,1.0
+2014-5,E01000144,A60,1,1,1.0
+2014-5,E01000145,A8,1,1,1.0
+2014-5,E01000146,A2,1,1,1.0
+2014-5,E01000146,A29,2,2,1.0
+2014-5,E01000146,A48,1,1,1.0
+2014-5,E01000146,A57,2,2,1.0
+2014-5,E01000146,A60,1,1,1.0
+2014-5,E01000146,A72,1,1,1.0
+2014-5,E01000147,A32,1,1,1.0
+2014-5,E01000147,A57,1,1,1.0
+2014-5,E01000148,A2,1,1,1.0
+2014-5,E01000148,A29,1,1,1.0
+2014-5,E01000148,A60,1,1,1.0
+2014-5,E01000153,A60,1,1,1.0
+2014-5,E01000154,A32,1,1,1.0
+2014-5,E01000155,A29,3,2,1.5
+2014-5,E01000155,A60,2,2,1.0
+2014-5,E01000156,A29,1,1,1.0
+2014-5,E01000157,A32,1,1,1.0
+2014-5,E01000158,A29,1,1,1.0
+2014-5,E01000158,A32,1,1,1.0
+2014-5,E01000158,A57,2,2,1.0
+2014-5,E01000158,A8,1,1,1.0
+2014-5,E01000159,A29,1,1,1.0
+2014-5,E01000159,A47,1,1,1.0
+2014-5,E01000159,A55,1,1,1.0
+2014-5,E01000159,A57,1,1,1.0
+2014-5,E01000160,A32,1,1,1.0
+2014-5,E01000160,A57,1,1,1.0
+2014-5,E01000161,A2,1,1,1.0
+2014-5,E01000162,A32,1,1,1.0
+2014-5,E01000162,A57,1,1,1.0
+2014-5,E01000164,A29,1,1,1.0
+2014-5,E01000166,A32,4,2,2.0
+2014-5,E01000166,A55,1,1,1.0
+2014-5,E01000167,A33,1,1,1.0
+2014-5,E01000167,A57,1,1,1.0
+2014-5,E01000168,A32,1,1,1.0
+2014-5,E01000169,A32,2,1,2.0
+2014-5,E01000169,A60,1,1,1.0
+2014-5,E01000170,A20,1,1,1.0
+2014-5,E01000171,A2,1,1,1.0
+2014-5,E01000171,A20,1,1,1.0
+2014-5,E01000171,A29,3,3,1.0
+2014-5,E01000171,A57,1,1,1.0
+2014-5,E01000172,A57,1,1,1.0
+2014-5,E01000174,A29,1,1,1.0
+2014-5,E01000174,A32,1,1,1.0
+2014-5,E01000174,A55,1,1,1.0
+2014-5,E01000175,A29,1,1,1.0
+2014-5,E01000175,A32,1,1,1.0
+2014-5,E01000176,A2,1,1,1.0
+2014-5,E01000176,A72,1,1,1.0
+2014-5,E01000177,A20,1,1,1.0
+2014-5,E01000177,A32,1,1,1.0
+2014-5,E01000177,A55,1,1,1.0
+2014-5,E01000179,A2,3,2,1.5
+2014-5,E01000179,A28,1,1,1.0
+2014-5,E01000179,A32,1,1,1.0
+2014-5,E01000179,A83,1,1,1.0
+2014-5,E01000180,A32,1,1,1.0
+2014-5,E01000180,A55,1,1,1.0
+2014-5,E01000180,A60,1,1,1.0
+2014-5,E01000181,A47,1,1,1.0
+2014-5,E01000181,A60,2,2,1.0
+2014-5,E01000181,A8,1,1,1.0
+2014-5,E01000182,A2,2,1,2.0
+2014-5,E01000182,A29,1,1,1.0
+2014-5,E01000182,A57,3,3,1.0
+2014-5,E01000182,A60,1,1,1.0
+2014-5,E01000186,A60,3,3,1.0
+2014-5,E01000186,A8,1,1,1.0
+2014-5,E01000188,A37,1,1,1.0
+2014-5,E01000188,A8,1,1,1.0
+2014-5,E01000190,A2,1,1,1.0
+2014-5,E01000190,A29,1,1,1.0
+2014-5,E01000190,A57,1,1,1.0
+2014-5,E01000190,A60,1,1,1.0
+2014-5,E01000191,A48,1,1,1.0
+2014-5,E01000191,A60,1,1,1.0
+2014-5,E01000192,A55,1,1,1.0
+2014-5,E01000192,A81,1,1,1.0
+2014-5,E01000193,A32,1,1,1.0
+2014-5,E01000193,A47,1,1,1.0
+2014-5,E01000193,A48,2,2,1.0
+2014-5,E01000193,A57,1,1,1.0
+2014-5,E01000196,A29,2,2,1.0
+2014-5,E01000196,A57,2,2,1.0
+2014-5,E01000196,A60,3,1,3.0
+2014-5,E01000197,A29,2,2,1.0
+2014-5,E01000197,A47,1,1,1.0
+2014-5,E01000197,A57,2,2,1.0
+2014-5,E01000198,A29,1,1,1.0
+2014-5,E01000199,A55,1,1,1.0
+2014-5,E01000200,A48,1,1,1.0
+2014-5,E01000201,A8,1,1,1.0
+2014-5,E01000202,A29,2,1,2.0
+2014-5,E01000202,A32,1,1,1.0
+2014-5,E01000203,A8,1,1,1.0
+2014-5,E01000204,A29,1,1,1.0
+2014-5,E01000205,A2,1,1,1.0
+2014-5,E01000205,A20,1,1,1.0
+2014-5,E01000205,A32,1,1,1.0
+2014-5,E01000206,A57,3,3,1.0
+2014-5,E01000206,A60,2,2,1.0
+2014-5,E01000207,A29,1,1,1.0
+2014-5,E01000207,A57,1,1,1.0
+2014-5,E01000207,A72,1,1,1.0
+2014-5,E01000208,A29,1,1,1.0
+2014-5,E01000208,A57,2,2,1.0
+2014-5,E01000208,A81,2,2,1.0
+2014-5,E01000209,A55,1,1,1.0
+2014-5,E01000209,A81,1,1,1.0
+2014-5,E01000210,A2,3,3,1.0
+2014-5,E01000210,A57,1,1,1.0
+2014-5,E01000210,A8,1,1,1.0
+2014-5,E01000211,A29,2,2,1.0
+2014-5,E01000211,A32,1,1,1.0
+2014-5,E01000212,A29,1,1,1.0
+2014-5,E01000213,A32,1,1,1.0
+2014-5,E01000214,A32,1,1,1.0
+2014-5,E01000214,A57,1,1,1.0
+2014-5,E01000214,A60,1,1,1.0
+2014-5,E01000215,A60,1,1,1.0
+2014-5,E01000215,A8,1,1,1.0
+2014-5,E01000215,A81,1,1,1.0
+2014-5,E01000216,A29,1,1,1.0
+2014-5,E01000216,A33,2,1,2.0
+2014-5,E01000217,A32,1,1,1.0
+2014-5,E01000218,A29,3,2,1.5
+2014-5,E01000218,A60,1,1,1.0
+2014-5,E01000218,A72,1,1,1.0
+2014-5,E01000218,A81,2,2,1.0
+2014-5,E01000219,A55,1,1,1.0
+2014-5,E01000220,A2,1,1,1.0
+2014-5,E01000220,A48,1,1,1.0
+2014-5,E01000220,A8,2,2,1.0
+2014-5,E01000221,A32,1,1,1.0
+2014-5,E01000221,A8,2,1,2.0
+2014-5,E01000222,A29,1,1,1.0
+2014-5,E01000222,A32,3,3,1.0
+2014-5,E01000223,A29,3,3,1.0
+2014-5,E01000223,A33,1,1,1.0
+2014-5,E01000223,A57,2,2,1.0
+2014-5,E01000223,A60,1,1,1.0
+2014-5,E01000223,A72,1,1,1.0
+2014-5,E01000224,A32,1,1,1.0
+2014-5,E01000224,A37,1,1,1.0
+2014-5,E01000224,A60,1,1,1.0
+2014-5,E01000225,A2,1,1,1.0
+2014-5,E01000225,A32,1,1,1.0
+2014-5,E01000225,A57,1,1,1.0
+2014-5,E01000226,A60,1,1,1.0
+2014-5,E01000227,A29,2,2,1.0
+2014-5,E01000227,A32,3,3,1.0
+2014-5,E01000227,A55,1,1,1.0
+2014-5,E01000227,A57,1,1,1.0
+2014-5,E01000228,A2,1,1,1.0
+2014-5,E01000228,A20,1,1,1.0
+2014-5,E01000228,A29,2,1,2.0
+2014-5,E01000228,A60,1,1,1.0
+2014-5,E01000228,A8,1,1,1.0
+2014-5,E01000229,A2,1,1,1.0
+2014-5,E01000229,A29,3,2,1.5
+2014-5,E01000229,A32,2,1,2.0
+2014-5,E01000229,A55,2,1,2.0
+2014-5,E01000230,A47,1,1,1.0
+2014-5,E01000231,A2,2,1,2.0
+2014-5,E01000231,A32,2,2,1.0
+2014-5,E01000232,A29,1,1,1.0
+2014-5,E01000233,A55,1,1,1.0
+2014-5,E01000233,A8,1,1,1.0
+2014-5,E01000234,A57,2,2,1.0
+2014-5,E01000235,A32,1,1,1.0
+2014-5,E01000235,A60,1,1,1.0
+2014-5,E01000236,A32,1,1,1.0
+2014-5,E01000236,A8,1,1,1.0
+2014-5,E01000237,A29,1,1,1.0
+2014-5,E01000237,A60,1,1,1.0
+2014-5,E01000239,A32,1,1,1.0
+2014-5,E01000239,A8,1,1,1.0
+2014-5,E01000240,A2,1,1,1.0
+2014-5,E01000240,A29,1,1,1.0
+2014-5,E01000241,A29,1,1,1.0
+2014-5,E01000241,A32,1,1,1.0
+2014-5,E01000241,A47,1,1,1.0
+2014-5,E01000241,A57,2,2,1.0
+2014-5,E01000242,A48,1,1,1.0
+2014-5,E01000242,A55,1,1,1.0
+2014-5,E01000243,A29,2,1,2.0
+2014-5,E01000243,A32,1,1,1.0
+2014-5,E01000243,A60,1,1,1.0
+2014-5,E01000243,A83,1,1,1.0
+2014-5,E01000244,A2,2,2,1.0
+2014-5,E01000244,A29,1,1,1.0
+2014-5,E01000244,A55,1,1,1.0
+2014-5,E01000245,A2,1,1,1.0
+2014-5,E01000245,A32,2,2,1.0
+2014-5,E01000245,A72,1,1,1.0
+2014-5,E01000246,A29,1,1,1.0
+2014-5,E01000246,A60,1,1,1.0
+2014-5,E01000246,A8,1,1,1.0
+2014-5,E01000248,A32,1,1,1.0
+2014-5,E01000248,A55,1,1,1.0
+2014-5,E01000248,A60,1,1,1.0
+2014-5,E01000248,A8,1,1,1.0
+2014-5,E01000249,A29,1,1,1.0
+2014-5,E01000250,A33,2,2,1.0
+2014-5,E01000251,A32,1,1,1.0
+2014-5,E01000251,A57,1,1,1.0
+2014-5,E01000252,A60,1,1,1.0
+2014-5,E01000253,A55,1,1,1.0
+2014-5,E01000253,A81,1,1,1.0
+2014-5,E01000254,A2,1,1,1.0
+2014-5,E01000254,A32,1,1,1.0
+2014-5,E01000254,A48,1,1,1.0
+2014-5,E01000254,A8,1,1,1.0
+2014-5,E01000256,A2,1,1,1.0
+2014-5,E01000257,A20,1,1,1.0
+2014-5,E01000257,A32,1,1,1.0
+2014-5,E01000257,A33,1,1,1.0
+2014-5,E01000258,A55,2,1,2.0
+2014-5,E01000258,A57,2,2,1.0
+2014-5,E01000259,A55,1,1,1.0
+2014-5,E01000259,A57,1,1,1.0
+2014-5,E01000261,A32,2,2,1.0
+2014-5,E01000261,A55,1,1,1.0
+2014-5,E01000261,A57,1,1,1.0
+2014-5,E01000261,A60,1,1,1.0
+2014-5,E01000262,A47,2,2,1.0
+2014-5,E01000262,A55,1,1,1.0
+2014-5,E01000263,A32,3,3,1.0
+2014-5,E01000263,A47,1,1,1.0
+2014-5,E01000264,A29,3,1,3.0
+2014-5,E01000264,A47,1,1,1.0
+2014-5,E01000265,A2,1,1,1.0
+2014-5,E01000265,A29,2,2,1.0
+2014-5,E01000265,A32,2,2,1.0
+2014-5,E01000266,A81,1,1,1.0
+2014-5,E01000268,A57,1,1,1.0
+2014-5,E01000271,A32,1,1,1.0
+2014-5,E01000271,A48,1,1,1.0
+2014-5,E01000272,A29,1,1,1.0
+2014-5,E01000273,A32,1,1,1.0
+2014-5,E01000274,A29,2,2,1.0
+2014-5,E01000274,A32,2,2,1.0
+2014-5,E01000274,A55,2,2,1.0
+2014-5,E01000275,A32,1,1,1.0
+2014-5,E01000275,A60,1,1,1.0
+2014-5,E01000276,A2,1,1,1.0
+2014-5,E01000276,A8,1,1,1.0
+2014-5,E01000277,A2,1,1,1.0
+2014-5,E01000278,A2,1,1,1.0
+2014-5,E01000278,A32,1,1,1.0
+2014-5,E01000279,A2,1,1,1.0
+2014-5,E01000279,A55,1,1,1.0
+2014-5,E01000279,A83,1,1,1.0
+2014-5,E01000280,A57,1,1,1.0
+2014-5,E01000281,A60,1,1,1.0
+2014-5,E01000281,A83,1,1,1.0
+2014-5,E01000283,A60,2,1,2.0
+2014-5,E01000283,A83,1,1,1.0
+2014-5,E01000284,A20,1,1,1.0
+2014-5,E01000285,A29,1,1,1.0
+2014-5,E01000285,A32,1,1,1.0
+2014-5,E01000286,A2,1,1,1.0
+2014-5,E01000286,A29,1,1,1.0
+2014-5,E01000287,A29,1,1,1.0
+2014-5,E01000287,A57,2,2,1.0
+2014-5,E01000287,A60,1,1,1.0
+2014-5,E01000288,A32,1,1,1.0
+2014-5,E01000290,A29,1,1,1.0
+2014-5,E01000290,A81,2,1,2.0
+2014-5,E01000291,A57,1,1,1.0
+2014-5,E01000292,A32,1,1,1.0
+2014-5,E01000292,A55,1,1,1.0
+2014-5,E01000292,A60,1,1,1.0
+2014-5,E01000293,A2,1,1,1.0
+2014-5,E01000293,A32,1,1,1.0
+2014-5,E01000293,A57,1,1,1.0
+2014-5,E01000294,A32,1,1,1.0
+2014-5,E01000294,A33,1,1,1.0
+2014-5,E01000294,A60,1,1,1.0
+2014-5,E01000294,A81,1,1,1.0
+2014-5,E01000295,A57,1,1,1.0
+2014-5,E01000296,A2,1,1,1.0
+2014-5,E01000296,A60,1,1,1.0
+2014-5,E01000298,A2,1,1,1.0
+2014-5,E01000298,A55,1,1,1.0
+2014-5,E01000298,A57,1,1,1.0
+2014-5,E01000298,A81,1,1,1.0
+2014-5,E01000299,A2,1,1,1.0
+2014-5,E01000300,A29,2,2,1.0
+2014-5,E01000300,A57,2,1,2.0
+2014-5,E01000301,A57,1,1,1.0
+2014-5,E01000301,A72,1,1,1.0
+2014-5,E01000302,A2,1,1,1.0
+2014-5,E01000302,A57,1,1,1.0
+2014-5,E01000303,A29,1,1,1.0
+2014-5,E01000303,A32,1,1,1.0
+2014-5,E01000303,A55,1,1,1.0
+2014-5,E01000303,A57,2,2,1.0
+2014-5,E01000305,A48,2,2,1.0
+2014-5,E01000306,A29,6,1,6.0
+2014-5,E01000306,A47,1,1,1.0
+2014-5,E01000307,A60,1,1,1.0
+2014-5,E01000307,A8,1,1,1.0
+2014-5,E01000308,A32,1,1,1.0
+2014-5,E01000310,A29,1,1,1.0
+2014-5,E01000310,A83,1,1,1.0
+2014-5,E01000311,A32,1,1,1.0
+2014-5,E01000311,A55,2,2,1.0
+2014-5,E01000311,A57,1,1,1.0
+2014-5,E01000312,A57,1,1,1.0
+2014-5,E01000313,A29,2,2,1.0
+2014-5,E01000313,A32,1,1,1.0
+2014-5,E01000314,A29,1,1,1.0
+2014-5,E01000314,A32,1,1,1.0
+2014-5,E01000314,A57,1,1,1.0
+2014-5,E01000315,A29,1,1,1.0
+2014-5,E01000316,A57,1,1,1.0
+2014-5,E01000317,A29,1,1,1.0
+2014-5,E01000317,A32,2,2,1.0
+2014-5,E01000317,A57,1,1,1.0
+2014-5,E01000317,A72,1,1,1.0
+2014-5,E01000318,A83,1,1,1.0
+2014-5,E01000320,A32,1,1,1.0
+2014-5,E01000320,A57,1,1,1.0
+2014-5,E01000320,A81,1,1,1.0
+2014-5,E01000321,A60,1,1,1.0
+2014-5,E01000323,A2,4,1,4.0
+2014-5,E01000323,A29,1,1,1.0
+2014-5,E01000323,A32,1,1,1.0
+2014-5,E01000324,A55,1,1,1.0
+2014-5,E01000324,A60,1,1,1.0
+2014-5,E01000645,A57,1,1,1.0
+2014-5,E01000645,A79,3,3,1.0
+2014-5,E01000646,A83,1,1,1.0
+2014-5,E01000647,A1,1,1,1.0
+2014-5,E01000647,A52,1,1,1.0
+2014-5,E01000648,A1,1,1,1.0
+2014-5,E01000648,A53,1,1,1.0
+2014-5,E01000648,A57,2,1,2.0
+2014-5,E01000648,A79,1,1,1.0
+2014-5,E01000648,A8,3,3,1.0
+2014-5,E01000649,A55,1,1,1.0
+2014-5,E01000649,A57,1,1,1.0
+2014-5,E01000649,A8,1,1,1.0
+2014-5,E01000650,A52,2,1,2.0
+2014-5,E01000650,A55,1,1,1.0
+2014-5,E01000650,A57,1,1,1.0
+2014-5,E01000650,A79,2,2,1.0
+2014-5,E01000650,A81,2,2,1.0
+2014-5,E01000651,A1,1,1,1.0
+2014-5,E01000651,A69,2,2,1.0
+2014-5,E01000652,A55,2,2,1.0
+2014-5,E01000653,A81,1,1,1.0
+2014-5,E01000654,A1,1,1,1.0
+2014-5,E01000654,A55,1,1,1.0
+2014-5,E01000654,A69,1,1,1.0
+2014-5,E01000655,A81,1,1,1.0
+2014-5,E01000656,A34,2,2,1.0
+2014-5,E01000656,A52,1,1,1.0
+2014-5,E01000656,A69,4,3,1.3333333333333333
+2014-5,E01000656,A81,2,2,1.0
+2014-5,E01000657,A1,1,1,1.0
+2014-5,E01000657,A52,1,1,1.0
+2014-5,E01000657,A53,1,1,1.0
+2014-5,E01000657,A57,1,1,1.0
+2014-5,E01000657,A83,1,1,1.0
+2014-5,E01000658,A57,2,2,1.0
+2014-5,E01000659,A1,1,1,1.0
+2014-5,E01000659,A81,2,2,1.0
+2014-5,E01000661,A16,1,1,1.0
+2014-5,E01000661,A47,3,3,1.0
+2014-5,E01000661,A79,1,1,1.0
+2014-5,E01000662,A47,1,1,1.0
+2014-5,E01000662,A81,1,1,1.0
+2014-5,E01000663,A53,1,1,1.0
+2014-5,E01000663,A57,1,1,1.0
+2014-5,E01000663,A81,1,1,1.0
+2014-5,E01000664,A34,2,2,1.0
+2014-5,E01000664,A55,2,1,2.0
+2014-5,E01000664,A81,1,1,1.0
+2014-5,E01000665,A22,1,1,1.0
+2014-5,E01000665,A34,1,1,1.0
+2014-5,E01000665,A47,2,1,2.0
+2014-5,E01000665,A69,1,1,1.0
+2014-5,E01000665,A79,1,1,1.0
+2014-5,E01000666,A69,2,2,1.0
+2014-5,E01000666,A8,1,1,1.0
+2014-5,E01000667,A55,2,2,1.0
+2014-5,E01000667,A81,1,1,1.0
+2014-5,E01000667,A83,1,1,1.0
+2014-5,E01000668,A1,1,1,1.0
+2014-5,E01000668,A16,1,1,1.0
+2014-5,E01000668,A47,2,1,2.0
+2014-5,E01000668,A55,1,1,1.0
+2014-5,E01000669,A1,1,1,1.0
+2014-5,E01000669,A22,1,1,1.0
+2014-5,E01000670,A55,3,2,1.5
+2014-5,E01000670,A57,1,1,1.0
+2014-5,E01000671,A47,1,1,1.0
+2014-5,E01000671,A57,1,1,1.0
+2014-5,E01000672,A1,2,2,1.0
+2014-5,E01000672,A22,1,1,1.0
+2014-5,E01000672,A79,2,2,1.0
+2014-5,E01000672,A83,1,1,1.0
+2014-5,E01000673,A1,1,1,1.0
+2014-5,E01000673,A22,1,1,1.0
+2014-5,E01000673,A52,1,1,1.0
+2014-5,E01000673,A55,1,1,1.0
+2014-5,E01000673,A57,1,1,1.0
+2014-5,E01000673,A69,1,1,1.0
+2014-5,E01000674,A55,1,1,1.0
+2014-5,E01000675,A22,1,1,1.0
+2014-5,E01000675,A57,2,2,1.0
+2014-5,E01000675,A8,1,1,1.0
+2014-5,E01000675,A81,1,1,1.0
+2014-5,E01000676,A22,2,2,1.0
+2014-5,E01000676,A33,1,1,1.0
+2014-5,E01000676,A55,4,2,2.0
+2014-5,E01000676,A57,1,1,1.0
+2014-5,E01000676,A69,1,1,1.0
+2014-5,E01000677,A22,2,2,1.0
+2014-5,E01000677,A47,3,3,1.0
+2014-5,E01000677,A55,1,1,1.0
+2014-5,E01000677,A83,2,2,1.0
+2014-5,E01000678,A1,1,1,1.0
+2014-5,E01000678,A55,1,1,1.0
+2014-5,E01000679,A22,1,1,1.0
+2014-5,E01000679,A81,1,1,1.0
+2014-5,E01000680,A1,1,1,1.0
+2014-5,E01000680,A16,1,1,1.0
+2014-5,E01000680,A22,2,2,1.0
+2014-5,E01000680,A52,1,1,1.0
+2014-5,E01000680,A57,1,1,1.0
+2014-5,E01000680,A69,1,1,1.0
+2014-5,E01000680,A8,1,1,1.0
+2014-5,E01000680,A81,2,2,1.0
+2014-5,E01000681,A69,1,1,1.0
+2014-5,E01000682,A22,2,2,1.0
+2014-5,E01000682,A55,3,2,1.5
+2014-5,E01000683,A22,1,1,1.0
+2014-5,E01000683,A33,1,1,1.0
+2014-5,E01000683,A55,3,3,1.0
+2014-5,E01000683,A79,1,1,1.0
+2014-5,E01000683,A81,1,1,1.0
+2014-5,E01000684,A34,1,1,1.0
+2014-5,E01000684,A55,1,1,1.0
+2014-5,E01000685,A1,1,1,1.0
+2014-5,E01000685,A16,1,1,1.0
+2014-5,E01000685,A22,1,1,1.0
+2014-5,E01000685,A33,1,1,1.0
+2014-5,E01000685,A34,1,1,1.0
+2014-5,E01000685,A47,1,1,1.0
+2014-5,E01000685,A55,1,1,1.0
+2014-5,E01000686,A22,4,1,4.0
+2014-5,E01000686,A33,2,1,2.0
+2014-5,E01000686,A57,2,2,1.0
+2014-5,E01000686,A69,1,1,1.0
+2014-5,E01000686,A79,1,1,1.0
+2014-5,E01000687,A22,2,2,1.0
+2014-5,E01000687,A33,1,1,1.0
+2014-5,E01000687,A79,1,1,1.0
+2014-5,E01000688,A16,1,1,1.0
+2014-5,E01000688,A34,1,1,1.0
+2014-5,E01000688,A69,1,1,1.0
+2014-5,E01000688,A81,1,1,1.0
+2014-5,E01000689,A1,1,1,1.0
+2014-5,E01000689,A22,2,2,1.0
+2014-5,E01000689,A34,2,1,2.0
+2014-5,E01000689,A53,2,2,1.0
+2014-5,E01000690,A33,1,1,1.0
+2014-5,E01000690,A57,1,1,1.0
+2014-5,E01000691,A1,1,1,1.0
+2014-5,E01000691,A55,1,1,1.0
+2014-5,E01000691,A57,1,1,1.0
+2014-5,E01000691,A69,1,1,1.0
+2014-5,E01000691,A79,2,1,2.0
+2014-5,E01000692,A53,1,1,1.0
+2014-5,E01000692,A55,2,2,1.0
+2014-5,E01000692,A8,1,1,1.0
+2014-5,E01000693,A34,2,2,1.0
+2014-5,E01000693,A52,1,1,1.0
+2014-5,E01000693,A53,1,1,1.0
+2014-5,E01000693,A55,1,1,1.0
+2014-5,E01000693,A57,1,1,1.0
+2014-5,E01000693,A69,1,1,1.0
+2014-5,E01000693,A8,5,1,5.0
+2014-5,E01000694,A47,1,1,1.0
+2014-5,E01000694,A55,1,1,1.0
+2014-5,E01000695,A52,1,1,1.0
+2014-5,E01000695,A55,1,1,1.0
+2014-5,E01000695,A78,1,1,1.0
+2014-5,E01000695,A8,1,1,1.0
+2014-5,E01000695,A81,1,1,1.0
+2014-5,E01000696,A22,2,1,2.0
+2014-5,E01000696,A33,1,1,1.0
+2014-5,E01000696,A55,2,2,1.0
+2014-5,E01000696,A57,1,1,1.0
+2014-5,E01000696,A79,1,1,1.0
+2014-5,E01000696,A8,1,1,1.0
+2014-5,E01000696,A81,1,1,1.0
+2014-5,E01000697,A55,1,1,1.0
+2014-5,E01000697,A57,1,1,1.0
+2014-5,E01000697,A69,1,1,1.0
+2014-5,E01000698,A33,1,1,1.0
+2014-5,E01000698,A53,1,1,1.0
+2014-5,E01000698,A79,2,2,1.0
+2014-5,E01000698,A83,1,1,1.0
+2014-5,E01000699,A22,6,3,2.0
+2014-5,E01000699,A33,4,2,2.0
+2014-5,E01000699,A47,2,1,2.0
+2014-5,E01000699,A79,7,1,7.0
+2014-5,E01000699,A81,1,1,1.0
+2014-5,E01000700,A1,2,2,1.0
+2014-5,E01000700,A22,5,5,1.0
+2014-5,E01000700,A55,1,1,1.0
+2014-5,E01000700,A69,1,1,1.0
+2014-5,E01000700,A79,2,2,1.0
+2014-5,E01000700,A8,1,1,1.0
+2014-5,E01000701,A1,1,1,1.0
+2014-5,E01000701,A22,2,2,1.0
+2014-5,E01000701,A55,1,1,1.0
+2014-5,E01000701,A69,1,1,1.0
+2014-5,E01000701,A79,3,1,3.0
+2014-5,E01000701,A81,1,1,1.0
+2014-5,E01000702,A1,1,1,1.0
+2014-5,E01000702,A22,3,3,1.0
+2014-5,E01000702,A47,1,1,1.0
+2014-5,E01000702,A55,1,1,1.0
+2014-5,E01000702,A69,1,1,1.0
+2014-5,E01000703,A16,1,1,1.0
+2014-5,E01000703,A22,1,1,1.0
+2014-5,E01000703,A52,1,1,1.0
+2014-5,E01000703,A69,1,1,1.0
+2014-5,E01000703,A79,3,3,1.0
+2014-5,E01000703,A8,1,1,1.0
+2014-5,E01000703,A81,1,1,1.0
+2014-5,E01000704,A33,1,1,1.0
+2014-5,E01000704,A55,1,1,1.0
+2014-5,E01000704,A79,2,2,1.0
+2014-5,E01000705,A16,1,1,1.0
+2014-5,E01000705,A22,1,1,1.0
+2014-5,E01000705,A34,1,1,1.0
+2014-5,E01000705,A47,1,1,1.0
+2014-5,E01000705,A55,3,3,1.0
+2014-5,E01000705,A57,1,1,1.0
+2014-5,E01000706,A55,1,1,1.0
+2014-5,E01000707,A1,2,2,1.0
+2014-5,E01000707,A81,1,1,1.0
+2014-5,E01000708,A1,1,1,1.0
+2014-5,E01000708,A55,2,2,1.0
+2014-5,E01000708,A57,1,1,1.0
+2014-5,E01000708,A79,1,1,1.0
+2014-5,E01000708,A81,2,2,1.0
+2014-5,E01000709,A1,1,1,1.0
+2014-5,E01000709,A16,1,1,1.0
+2014-5,E01000709,A22,1,1,1.0
+2014-5,E01000709,A34,1,1,1.0
+2014-5,E01000709,A47,1,1,1.0
+2014-5,E01000710,A1,3,2,1.5
+2014-5,E01000710,A34,1,1,1.0
+2014-5,E01000711,A34,1,1,1.0
+2014-5,E01000711,A55,1,1,1.0
+2014-5,E01000711,A81,1,1,1.0
+2014-5,E01000712,A1,1,1,1.0
+2014-5,E01000712,A55,2,2,1.0
+2014-5,E01000712,A81,2,2,1.0
+2014-5,E01000714,A16,1,1,1.0
+2014-5,E01000714,A55,1,1,1.0
+2014-5,E01000714,A69,1,1,1.0
+2014-5,E01000715,A1,1,1,1.0
+2014-5,E01000715,A16,1,1,1.0
+2014-5,E01000715,A52,2,2,1.0
+2014-5,E01000715,A55,1,1,1.0
+2014-5,E01000715,A69,2,2,1.0
+2014-5,E01000715,A8,1,1,1.0
+2014-5,E01000715,A81,2,2,1.0
+2014-5,E01000717,A16,1,1,1.0
+2014-5,E01000717,A55,2,1,2.0
+2014-5,E01000717,A8,1,1,1.0
+2014-5,E01000718,A55,1,1,1.0
+2014-5,E01000719,A1,1,1,1.0
+2014-5,E01000719,A22,1,1,1.0
+2014-5,E01000719,A47,2,1,2.0
+2014-5,E01000719,A69,3,3,1.0
+2014-5,E01000719,A8,1,1,1.0
+2014-5,E01000719,A81,1,1,1.0
+2014-5,E01000720,A22,7,6,1.1666666666666667
+2014-5,E01000720,A34,1,1,1.0
+2014-5,E01000720,A69,1,1,1.0
+2014-5,E01000720,A78,1,1,1.0
+2014-5,E01000720,A79,1,1,1.0
+2014-5,E01000720,A81,1,1,1.0
+2014-5,E01000721,A16,1,1,1.0
+2014-5,E01000721,A22,1,1,1.0
+2014-5,E01000721,A81,2,1,2.0
+2014-5,E01000722,A1,2,2,1.0
+2014-5,E01000722,A22,1,1,1.0
+2014-5,E01000722,A34,1,1,1.0
+2014-5,E01000722,A47,3,3,1.0
+2014-5,E01000722,A53,1,1,1.0
+2014-5,E01000722,A57,1,1,1.0
+2014-5,E01000722,A79,4,3,1.3333333333333333
+2014-5,E01000722,A8,1,1,1.0
+2014-5,E01000722,A81,3,2,1.5
+2014-5,E01000723,A1,1,1,1.0
+2014-5,E01000723,A22,1,1,1.0
+2014-5,E01000723,A69,1,1,1.0
+2014-5,E01000724,A22,4,1,4.0
+2014-5,E01000724,A47,1,1,1.0
+2014-5,E01000724,A57,1,1,1.0
+2014-5,E01000725,A1,1,1,1.0
+2014-5,E01000725,A22,1,1,1.0
+2014-5,E01000725,A34,2,2,1.0
+2014-5,E01000725,A79,1,1,1.0
+2014-5,E01000725,A8,1,1,1.0
+2014-5,E01000726,A1,1,1,1.0
+2014-5,E01000726,A22,2,2,1.0
+2014-5,E01000726,A34,1,1,1.0
+2014-5,E01000726,A47,1,1,1.0
+2014-5,E01000726,A79,1,1,1.0
+2014-5,E01000727,A22,4,4,1.0
+2014-5,E01000727,A53,2,2,1.0
+2014-5,E01000727,A55,1,1,1.0
+2014-5,E01000727,A79,1,1,1.0
+2014-5,E01000727,A8,1,1,1.0
+2014-5,E01000727,A81,1,1,1.0
+2014-5,E01000728,A22,1,1,1.0
+2014-5,E01000728,A33,1,1,1.0
+2014-5,E01000728,A47,3,1,3.0
+2014-5,E01000728,A57,1,1,1.0
+2014-5,E01000729,A22,6,3,2.0
+2014-5,E01000729,A79,2,1,2.0
+2014-5,E01000729,A81,2,1,2.0
+2014-5,E01000730,A1,2,2,1.0
+2014-5,E01000730,A16,1,1,1.0
+2014-5,E01000730,A22,1,1,1.0
+2014-5,E01000730,A55,1,1,1.0
+2014-5,E01000730,A69,1,1,1.0
+2014-5,E01000730,A79,1,1,1.0
+2014-5,E01000730,A8,1,1,1.0
+2014-5,E01000730,A81,2,1,2.0
+2014-5,E01000730,A83,3,1,3.0
+2014-5,E01000731,A69,1,1,1.0
+2014-5,E01000732,A69,1,1,1.0
+2014-5,E01000733,A22,2,2,1.0
+2014-5,E01000733,A34,1,1,1.0
+2014-5,E01000733,A47,2,1,2.0
+2014-5,E01000733,A52,1,1,1.0
+2014-5,E01000733,A53,1,1,1.0
+2014-5,E01000733,A55,6,6,1.0
+2014-5,E01000733,A57,1,1,1.0
+2014-5,E01000733,A69,1,1,1.0
+2014-5,E01000733,A79,1,1,1.0
+2014-5,E01000734,A1,1,1,1.0
+2014-5,E01000734,A22,2,2,1.0
+2014-5,E01000734,A33,1,1,1.0
+2014-5,E01000734,A55,1,1,1.0
+2014-5,E01000735,A8,1,1,1.0
+2014-5,E01000736,A34,1,1,1.0
+2014-5,E01000737,A22,1,1,1.0
+2014-5,E01000737,A34,1,1,1.0
+2014-5,E01000737,A53,1,1,1.0
+2014-5,E01000737,A79,3,2,1.5
+2014-5,E01000738,A22,2,2,1.0
+2014-5,E01000738,A33,1,1,1.0
+2014-5,E01000738,A34,2,1,2.0
+2014-5,E01000738,A47,1,1,1.0
+2014-5,E01000738,A57,2,1,2.0
+2014-5,E01000738,A8,1,1,1.0
+2014-5,E01000738,A81,1,1,1.0
+2014-5,E01000738,A83,1,1,1.0
+2014-5,E01000739,A16,1,1,1.0
+2014-5,E01000739,A22,1,1,1.0
+2014-5,E01000739,A47,1,1,1.0
+2014-5,E01000739,A55,1,1,1.0
+2014-5,E01000739,A83,1,1,1.0
+2014-5,E01000740,A22,4,3,1.3333333333333333
+2014-5,E01000740,A34,1,1,1.0
+2014-5,E01000740,A55,1,1,1.0
+2014-5,E01000741,A22,3,3,1.0
+2014-5,E01000741,A33,2,1,2.0
+2014-5,E01000741,A34,1,1,1.0
+2014-5,E01000741,A55,1,1,1.0
+2014-5,E01000741,A57,1,1,1.0
+2014-5,E01000741,A8,1,1,1.0
+2014-5,E01000742,A1,1,1,1.0
+2014-5,E01000742,A16,1,1,1.0
+2014-5,E01000742,A22,2,2,1.0
+2014-5,E01000743,A22,6,4,1.5
+2014-5,E01000743,A33,3,1,3.0
+2014-5,E01000743,A47,4,2,2.0
+2014-5,E01000743,A55,1,1,1.0
+2014-5,E01000743,A79,5,1,5.0
+2014-5,E01000743,A83,1,1,1.0
+2014-5,E01000744,A22,4,4,1.0
+2014-5,E01000744,A47,1,1,1.0
+2014-5,E01000744,A53,1,1,1.0
+2014-5,E01000744,A79,1,1,1.0
+2014-5,E01000745,A22,1,1,1.0
+2014-5,E01000745,A47,1,1,1.0
+2014-5,E01000745,A55,1,1,1.0
+2014-5,E01000745,A57,1,1,1.0
+2014-5,E01000745,A79,2,2,1.0
+2014-5,E01000745,A8,1,1,1.0
+2014-5,E01000746,A22,3,2,1.5
+2014-5,E01000746,A79,1,1,1.0
+2014-5,E01000747,A34,2,2,1.0
+2014-5,E01000747,A53,1,1,1.0
+2014-5,E01000747,A57,1,1,1.0
+2014-5,E01000747,A69,2,2,1.0
+2014-5,E01000748,A34,1,1,1.0
+2014-5,E01000748,A55,1,1,1.0
+2014-5,E01000748,A69,1,1,1.0
+2014-5,E01000748,A83,1,1,1.0
+2014-5,E01000749,A1,1,1,1.0
+2014-5,E01000749,A22,1,1,1.0
+2014-5,E01000749,A69,2,2,1.0
+2014-5,E01000750,A22,1,1,1.0
+2014-5,E01000750,A53,1,1,1.0
+2014-5,E01000750,A79,1,1,1.0
+2014-5,E01000751,A16,1,1,1.0
+2014-5,E01000751,A34,2,2,1.0
+2014-5,E01000751,A83,1,1,1.0
+2014-5,E01000752,A34,1,1,1.0
+2014-5,E01000752,A55,2,2,1.0
+2014-5,E01000752,A69,2,2,1.0
+2014-5,E01000752,A81,2,2,1.0
+2014-5,E01000753,A55,3,3,1.0
+2014-5,E01000753,A8,1,1,1.0
+2014-5,E01000754,A22,2,2,1.0
+2014-5,E01000754,A47,1,1,1.0
+2014-5,E01000754,A55,1,1,1.0
+2014-5,E01000754,A81,2,2,1.0
+2014-5,E01000755,A34,3,3,1.0
+2014-5,E01000755,A55,1,1,1.0
+2014-5,E01000755,A57,1,1,1.0
+2014-5,E01000755,A69,1,1,1.0
+2014-5,E01000755,A81,1,1,1.0
+2014-5,E01000756,A16,1,1,1.0
+2014-5,E01000756,A22,1,1,1.0
+2014-5,E01000756,A33,1,1,1.0
+2014-5,E01000756,A34,1,1,1.0
+2014-5,E01000756,A47,1,1,1.0
+2014-5,E01000756,A55,4,4,1.0
+2014-5,E01000756,A69,1,1,1.0
+2014-5,E01000756,A78,1,1,1.0
+2014-5,E01000756,A79,1,1,1.0
+2014-5,E01000757,A47,1,1,1.0
+2014-5,E01000757,A53,1,1,1.0
+2014-5,E01000757,A69,1,1,1.0
+2014-5,E01000758,A1,1,1,1.0
+2014-5,E01000759,A22,2,2,1.0
+2014-5,E01000759,A52,1,1,1.0
+2014-5,E01000759,A55,2,2,1.0
+2014-5,E01000759,A69,4,4,1.0
+2014-5,E01000759,A81,1,1,1.0
+2014-5,E01000760,A1,1,1,1.0
+2014-5,E01000760,A22,1,1,1.0
+2014-5,E01000760,A57,1,1,1.0
+2014-5,E01000760,A69,2,2,1.0
+2014-5,E01000761,A55,1,1,1.0
+2014-5,E01000761,A69,2,1,2.0
+2014-5,E01000762,A1,1,1,1.0
+2014-5,E01000762,A22,1,1,1.0
+2014-5,E01000762,A55,1,1,1.0
+2014-5,E01000762,A81,1,1,1.0
+2014-5,E01000763,A52,1,1,1.0
+2014-5,E01000764,A55,1,1,1.0
+2014-5,E01000765,A16,2,2,1.0
+2014-5,E01000765,A22,2,2,1.0
+2014-5,E01000765,A27,1,1,1.0
+2014-5,E01000765,A33,1,1,1.0
+2014-5,E01000765,A69,3,3,1.0
+2014-5,E01000765,A81,2,2,1.0
+2014-5,E01000766,A55,1,1,1.0
+2014-5,E01000767,A16,1,1,1.0
+2014-5,E01000767,A22,1,1,1.0
+2014-5,E01000767,A55,1,1,1.0
+2014-5,E01000768,A78,1,1,1.0
+2014-5,E01000769,A69,3,3,1.0
+2014-5,E01000770,A1,1,1,1.0
+2014-5,E01000770,A22,2,2,1.0
+2014-5,E01000770,A34,2,2,1.0
+2014-5,E01000770,A55,1,1,1.0
+2014-5,E01000770,A81,1,1,1.0
+2014-5,E01000771,A69,2,2,1.0
+2014-5,E01000771,A83,1,1,1.0
+2014-5,E01000772,A47,2,1,2.0
+2014-5,E01000772,A57,1,1,1.0
+2014-5,E01000773,A22,1,1,1.0
+2014-5,E01000773,A53,1,1,1.0
+2014-5,E01000774,A16,1,1,1.0
+2014-5,E01000774,A22,1,1,1.0
+2014-5,E01000774,A33,1,1,1.0
+2014-5,E01000774,A52,1,1,1.0
+2014-5,E01000774,A69,2,2,1.0
+2014-5,E01000774,A81,1,1,1.0
+2014-5,E01000775,A47,2,1,2.0
+2014-5,E01000775,A53,1,1,1.0
+2014-5,E01000775,A55,1,1,1.0
+2014-5,E01000775,A79,2,2,1.0
+2014-5,E01000775,A81,2,2,1.0
+2014-5,E01000778,A22,1,1,1.0
+2014-5,E01000778,A55,1,1,1.0
+2014-5,E01000778,A79,2,2,1.0
+2014-5,E01000779,A22,2,2,1.0
+2014-5,E01000779,A69,1,1,1.0
+2014-5,E01000779,A81,1,1,1.0
+2014-5,E01000779,A83,1,1,1.0
+2014-5,E01000780,A22,1,1,1.0
+2014-5,E01000780,A47,1,1,1.0
+2014-5,E01000780,A52,1,1,1.0
+2014-5,E01000780,A55,2,2,1.0
+2014-5,E01000780,A57,1,1,1.0
+2014-5,E01000780,A79,1,1,1.0
+2014-5,E01000781,A1,1,1,1.0
+2014-5,E01000781,A22,2,2,1.0
+2014-5,E01000782,A79,2,2,1.0
+2014-5,E01000783,A52,1,1,1.0
+2014-5,E01000783,A55,1,1,1.0
+2014-5,E01000784,A55,3,3,1.0
+2014-5,E01000784,A79,1,1,1.0
+2014-5,E01000785,A8,1,1,1.0
+2014-5,E01000786,A34,2,1,2.0
+2014-5,E01000786,A53,1,1,1.0
+2014-5,E01000786,A55,1,1,1.0
+2014-5,E01000786,A81,1,1,1.0
+2014-5,E01000787,A22,1,1,1.0
+2014-5,E01000787,A53,1,1,1.0
+2014-5,E01000787,A79,1,1,1.0
+2014-5,E01000788,A22,1,1,1.0
+2014-5,E01000788,A34,2,2,1.0
+2014-5,E01000788,A53,1,1,1.0
+2014-5,E01000788,A55,3,3,1.0
+2014-5,E01000788,A57,1,1,1.0
+2014-5,E01000788,A79,1,1,1.0
+2014-5,E01000788,A81,1,1,1.0
+2014-5,E01000789,A69,1,1,1.0
+2014-5,E01000790,A22,1,1,1.0
+2014-5,E01000790,A33,2,2,1.0
+2014-5,E01000790,A57,1,1,1.0
+2014-5,E01000790,A63,1,1,1.0
+2014-5,E01000790,A69,2,2,1.0
+2014-5,E01000790,A79,2,2,1.0
+2014-5,E01000790,A8,2,2,1.0
+2014-5,E01000791,A1,1,1,1.0
+2014-5,E01000791,A16,1,1,1.0
+2014-5,E01000791,A55,1,1,1.0
+2014-5,E01000791,A8,1,1,1.0
+2014-5,E01000792,A22,1,1,1.0
+2014-5,E01000792,A57,1,1,1.0
+2014-5,E01000792,A79,2,2,1.0
+2014-5,E01000793,A34,1,1,1.0
+2014-5,E01000793,A55,1,1,1.0
+2014-5,E01000793,A57,2,1,2.0
+2014-5,E01000793,A69,1,1,1.0
+2014-5,E01000793,A81,2,2,1.0
+2014-5,E01000794,A22,1,1,1.0
+2014-5,E01000794,A34,1,1,1.0
+2014-5,E01000794,A79,2,2,1.0
+2014-5,E01000795,A34,3,2,1.5
+2014-5,E01000795,A55,1,1,1.0
+2014-5,E01000795,A57,2,1,2.0
+2014-5,E01000795,A79,3,2,1.5
+2014-5,E01000796,A22,1,1,1.0
+2014-5,E01000797,A1,1,1,1.0
+2014-5,E01000797,A22,2,2,1.0
+2014-5,E01000797,A47,3,2,1.5
+2014-5,E01000797,A53,1,1,1.0
+2014-5,E01000797,A78,1,1,1.0
+2014-5,E01000797,A79,1,1,1.0
+2014-5,E01000797,A81,2,2,1.0
+2014-5,E01000797,A83,1,1,1.0
+2014-5,E01000798,A33,1,1,1.0
+2014-5,E01000798,A47,1,1,1.0
+2014-5,E01000798,A81,1,1,1.0
+2014-5,E01000799,A22,10,8,1.25
+2014-5,E01000799,A47,1,1,1.0
+2014-5,E01000799,A79,1,1,1.0
+2014-5,E01000800,A22,1,1,1.0
+2014-5,E01000801,A16,1,1,1.0
+2014-5,E01000801,A22,2,2,1.0
+2014-5,E01000801,A33,1,1,1.0
+2014-5,E01000801,A79,1,1,1.0
+2014-5,E01000801,A83,1,1,1.0
+2014-5,E01000802,A1,2,2,1.0
+2014-5,E01000802,A22,5,5,1.0
+2014-5,E01000802,A57,1,1,1.0
+2014-5,E01000802,A69,2,2,1.0
+2014-5,E01000802,A83,1,1,1.0
+2014-5,E01000803,A22,1,1,1.0
+2014-5,E01000803,A81,1,1,1.0
+2014-5,E01000804,A1,2,2,1.0
+2014-5,E01000805,A1,1,1,1.0
+2014-5,E01000805,A22,1,1,1.0
+2014-5,E01000805,A78,1,1,1.0
+2014-5,E01000805,A79,1,1,1.0
+2014-5,E01000805,A8,1,1,1.0
+2014-5,E01000806,A1,2,2,1.0
+2014-5,E01000806,A22,5,4,1.25
+2014-5,E01000806,A33,2,2,1.0
+2014-5,E01000807,A47,1,1,1.0
+2014-5,E01000807,A55,2,2,1.0
+2014-5,E01000807,A69,1,1,1.0
+2014-5,E01000808,A33,1,1,1.0
+2014-5,E01000808,A55,1,1,1.0
+2014-5,E01000808,A79,1,1,1.0
+2014-5,E01000809,A22,1,1,1.0
+2014-5,E01000809,A52,1,1,1.0
+2014-5,E01000809,A57,1,1,1.0
+2014-5,E01000810,A81,1,1,1.0
+2014-5,E01000811,A1,1,1,1.0
+2014-5,E01000811,A52,1,1,1.0
+2014-5,E01000811,A53,1,1,1.0
+2014-5,E01000811,A55,1,1,1.0
+2014-5,E01000811,A57,1,1,1.0
+2014-5,E01000811,A79,1,1,1.0
+2014-5,E01000812,A1,1,1,1.0
+2014-5,E01000812,A16,2,2,1.0
+2014-5,E01000812,A22,1,1,1.0
+2014-5,E01000812,A34,1,1,1.0
+2014-5,E01000812,A55,2,2,1.0
+2014-5,E01000812,A8,1,1,1.0
+2014-5,E01000813,A52,1,1,1.0
+2014-5,E01000813,A69,1,1,1.0
+2014-5,E01000813,A79,1,1,1.0
+2014-5,E01000814,A16,2,2,1.0
+2014-5,E01000814,A52,1,1,1.0
+2014-5,E01000814,A79,2,2,1.0
+2014-5,E01000815,A69,1,1,1.0
+2014-5,E01000816,A16,1,1,1.0
+2014-5,E01000816,A34,1,1,1.0
+2014-5,E01000816,A52,1,1,1.0
+2014-5,E01000818,A16,1,1,1.0
+2014-5,E01000818,A22,2,2,1.0
+2014-5,E01000818,A34,1,1,1.0
+2014-5,E01000818,A52,1,1,1.0
+2014-5,E01000818,A57,2,2,1.0
+2014-5,E01000818,A69,1,1,1.0
+2014-5,E01000818,A81,1,1,1.0
+2014-5,E01000819,A1,2,2,1.0
+2014-5,E01000819,A22,1,1,1.0
+2014-5,E01000819,A55,1,1,1.0
+2014-5,E01000819,A81,1,1,1.0
+2014-5,E01000820,A1,2,2,1.0
+2014-5,E01000820,A22,2,2,1.0
+2014-5,E01000820,A33,1,1,1.0
+2014-5,E01000820,A8,1,1,1.0
+2014-5,E01000822,A22,2,2,1.0
+2014-5,E01000822,A57,1,1,1.0
+2014-5,E01000823,A22,1,1,1.0
+2014-5,E01000823,A55,2,2,1.0
+2014-5,E01000823,A79,1,1,1.0
+2014-5,E01000823,A81,1,1,1.0
+2014-5,E01000824,A22,1,1,1.0
+2014-5,E01000824,A55,1,1,1.0
+2014-5,E01000825,A22,2,2,1.0
+2014-5,E01000825,A69,1,1,1.0
+2014-5,E01000825,A79,1,1,1.0
+2014-5,E01000826,A55,1,1,1.0
+2014-5,E01000826,A57,1,1,1.0
+2014-5,E01000827,A1,3,3,1.0
+2014-5,E01000827,A34,1,1,1.0
+2014-5,E01000827,A55,1,1,1.0
+2014-5,E01000827,A57,1,1,1.0
+2014-5,E01000827,A69,1,1,1.0
+2014-5,E01000828,A1,1,1,1.0
+2014-5,E01000828,A47,1,1,1.0
+2014-5,E01000828,A55,1,1,1.0
+2014-5,E01000828,A81,1,1,1.0
+2014-5,E01000829,A47,2,1,2.0
+2014-5,E01000829,A55,1,1,1.0
+2014-5,E01000829,A57,1,1,1.0
+2014-5,E01000829,A79,1,1,1.0
+2014-5,E01000829,A81,1,1,1.0
+2014-5,E01000830,A34,1,1,1.0
+2014-5,E01000831,A1,2,2,1.0
+2014-5,E01000831,A55,3,2,1.5
+2014-5,E01000831,A79,1,1,1.0
+2014-5,E01000831,A83,1,1,1.0
+2014-5,E01000832,A78,2,2,1.0
+2014-5,E01000833,A47,1,1,1.0
+2014-5,E01000834,A16,1,1,1.0
+2014-5,E01000834,A52,1,1,1.0
+2014-5,E01000835,A34,1,1,1.0
+2014-5,E01000835,A52,1,1,1.0
+2014-5,E01000835,A55,2,2,1.0
+2014-5,E01000835,A78,1,1,1.0
+2014-5,E01000835,A8,1,1,1.0
+2014-5,E01000836,A34,1,1,1.0
+2014-5,E01000836,A55,2,2,1.0
+2014-5,E01000837,A47,1,1,1.0
+2014-5,E01000837,A55,1,1,1.0
+2014-5,E01000838,A79,1,1,1.0
+2014-5,E01000838,A81,1,1,1.0
+2014-5,E01000840,A69,1,1,1.0
+2014-5,E01000840,A83,1,1,1.0
+2014-5,E01000841,A1,1,1,1.0
+2014-5,E01000841,A22,2,2,1.0
+2014-5,E01000841,A57,2,2,1.0
+2014-5,E01017137,A41,1,1,1.0
+2014-5,E01017138,A12,1,1,1.0
+2014-5,E01017138,A29,1,1,1.0
+2014-5,E01017138,A41,1,1,1.0
+2014-5,E01017138,A57,2,2,1.0
+2014-5,E01017140,A41,1,1,1.0
+2014-5,E01017140,A57,1,1,1.0
+2014-5,E01017140,A79,1,1,1.0
+2014-5,E01017140,A86,1,1,1.0
+2014-5,E01017142,A41,1,1,1.0
+2014-5,E01017142,A54,2,2,1.0
+2014-5,E01017144,A55,1,1,1.0
+2014-5,E01017146,A55,1,1,1.0
+2014-5,E01017146,A60,1,1,1.0
+2014-5,E01017147,A56,1,1,1.0
+2014-5,E01017148,A20,1,1,1.0
+2014-5,E01017148,A34,1,1,1.0
+2014-5,E01017148,A56,1,1,1.0
+2014-5,E01017148,A60,1,1,1.0
+2014-5,E01017149,A20,1,1,1.0
+2014-5,E01017150,A34,2,2,1.0
+2014-5,E01017150,A41,1,1,1.0
+2014-5,E01017150,A57,1,1,1.0
+2014-5,E01017151,A29,1,1,1.0
+2014-5,E01017151,A55,1,1,1.0
+2014-5,E01017151,A57,1,1,1.0
+2014-5,E01017151,A60,1,1,1.0
+2014-5,E01017153,A29,1,1,1.0
+2014-5,E01017154,A41,2,1,2.0
+2014-5,E01017155,A29,1,1,1.0
+2014-5,E01017155,A47,1,1,1.0
+2014-5,E01017156,A20,2,1,2.0
+2014-5,E01017156,A29,4,3,1.3333333333333333
+2014-5,E01017156,A47,1,1,1.0
+2014-5,E01017157,A34,1,1,1.0
+2014-5,E01017158,A2,1,1,1.0
+2014-5,E01017159,A29,1,1,1.0
+2014-5,E01017160,A47,1,1,1.0
+2014-5,E01017160,A60,3,1,3.0
+2014-5,E01017160,A84,1,1,1.0
+2014-5,E01017162,A29,1,1,1.0
+2014-5,E01017162,A54,1,1,1.0
+2014-5,E01017162,A60,2,1,2.0
+2014-5,E01017163,A41,1,1,1.0
+2014-5,E01017167,A41,1,1,1.0
+2014-5,E01017167,A60,1,1,1.0
+2014-5,E01017168,A60,1,1,1.0
+2014-5,E01017170,A29,1,1,1.0
+2014-5,E01017170,A41,1,1,1.0
+2014-5,E01017171,A28,1,1,1.0
+2014-5,E01017171,A60,1,1,1.0
+2014-5,E01017173,A54,1,1,1.0
+2014-5,E01017173,A60,1,1,1.0
+2014-5,E01017175,A41,2,2,1.0
+2014-5,E01017175,A56,1,1,1.0
+2014-5,E01017177,A20,1,1,1.0
+2014-5,E01017177,A41,1,1,1.0
+2014-5,E01017177,A47,1,1,1.0
+2014-5,E01017178,A57,1,1,1.0
+2014-5,E01017181,A34,1,1,1.0
+2014-5,E01017181,A57,1,1,1.0
+2014-5,E01017182,A29,2,1,2.0
+2014-5,E01017183,A2,1,1,1.0
+2014-5,E01017183,A41,1,1,1.0
+2014-5,E01017183,A60,1,1,1.0
+2014-5,E01017185,A29,1,1,1.0
+2014-5,E01017185,A55,1,1,1.0
+2014-5,E01017186,A29,1,1,1.0
+2014-5,E01017186,A54,1,1,1.0
+2014-5,E01017186,A57,1,1,1.0
+2014-5,E01017186,A82,1,1,1.0
+2014-5,E01017187,A56,1,1,1.0
+2014-5,E01017188,A41,2,1,2.0
+2014-5,E01017188,A79,1,1,1.0
+2014-5,E01017190,A75,1,1,1.0
+2014-5,E01017191,A29,2,1,2.0
+2014-5,E01017191,A86,1,1,1.0
+2014-5,E01017192,A56,1,1,1.0
+2014-5,E01017192,A60,1,1,1.0
+2014-5,E01017193,A20,1,1,1.0
+2014-5,E01017193,A29,2,2,1.0
+2014-5,E01017193,A57,1,1,1.0
+2014-5,E01017194,A75,1,1,1.0
+2014-5,E01017194,A82,1,1,1.0
+2014-5,E01017195,A12,1,1,1.0
+2014-5,E01017195,A29,1,1,1.0
+2014-5,E01017196,A75,1,1,1.0
+2014-5,E01017200,A54,1,1,1.0
+2014-5,E01017200,A55,1,1,1.0
+2014-5,E01017200,A60,2,2,1.0
+2014-5,E01017200,A86,1,1,1.0
+2014-5,E01017202,A29,1,1,1.0
+2014-5,E01017202,A54,2,1,2.0
+2014-5,E01017202,A55,1,1,1.0
+2014-5,E01017202,A57,1,1,1.0
+2014-5,E01017203,A29,1,1,1.0
+2014-5,E01017203,A41,1,1,1.0
+2014-5,E01017203,A55,1,1,1.0
+2014-5,E01017204,A29,1,1,1.0
+2014-5,E01017204,A41,1,1,1.0
+2014-5,E01017204,A56,2,1,2.0
+2014-5,E01017204,A60,1,1,1.0
+2014-5,E01017206,A60,1,1,1.0
+2014-5,E01017209,A29,3,3,1.0
+2014-5,E01017209,A47,1,1,1.0
+2014-5,E01017210,A2,1,1,1.0
+2014-5,E01017210,A29,3,3,1.0
+2014-5,E01017211,A20,1,1,1.0
+2014-5,E01017211,A41,2,2,1.0
+2014-5,E01017212,A29,1,1,1.0
+2014-5,E01017212,A60,1,1,1.0
+2014-5,E01017214,A41,1,1,1.0
+2014-5,E01017214,A55,1,1,1.0
+2014-5,E01017214,A56,1,1,1.0
+2014-5,E01017214,A57,1,1,1.0
+2014-5,E01017215,A56,1,1,1.0
+2014-5,E01017216,A57,1,1,1.0
+2014-5,E01017220,A57,1,1,1.0
+2014-5,E01017221,A29,1,1,1.0
+2014-5,E01017221,A47,1,1,1.0
+2014-5,E01017221,A54,1,1,1.0
+2014-5,E01017221,A56,1,1,1.0
+2014-5,E01017221,A58,1,1,1.0
+2014-5,E01017222,A44,1,1,1.0
+2014-5,E01017223,A60,2,1,2.0
+2014-5,E01017225,A29,1,1,1.0
+2014-5,E01017225,A41,1,1,1.0
+2014-5,E01017225,A55,1,1,1.0
+2014-5,E01017225,A60,1,1,1.0
+2014-5,E01017226,A41,1,1,1.0
+2014-5,E01017226,A57,1,1,1.0
+2014-5,E01017226,A60,1,1,1.0
+2014-5,E01017227,A29,1,1,1.0
+2014-5,E01017231,A55,1,1,1.0
+2014-5,E01017233,A29,2,2,1.0
+2014-5,E01017233,A4,1,1,1.0
+2014-5,E01017233,A41,1,1,1.0
+2014-5,E01017233,A57,1,1,1.0
+2014-5,E01017234,A2,1,1,1.0
+2014-5,E01017234,A29,1,1,1.0
+2014-5,E01017234,A41,1,1,1.0
+2014-5,E01017234,A55,1,1,1.0
+2014-5,E01017234,A58,1,1,1.0
+2014-5,E01017235,A29,1,1,1.0
+2014-5,E01017237,A55,1,1,1.0
+2014-5,E01017238,A83,1,1,1.0
+2014-5,E01017239,A41,1,1,1.0
+2014-5,E01017240,A29,2,1,2.0
+2014-5,E01017240,A57,1,1,1.0
+2014-5,E01017241,A29,1,1,1.0
+2014-5,E01017242,A55,1,1,1.0
+2014-5,E01017244,A20,1,1,1.0
+2014-5,E01017245,A41,1,1,1.0
+2014-5,E01017245,A54,1,1,1.0
+2014-5,E01017246,A33,1,1,1.0
+2014-5,E01017246,A57,2,2,1.0
+2014-5,E01017246,A79,1,1,1.0
+2014-5,E01017248,A55,2,1,2.0
+2014-5,E01017249,A29,1,1,1.0
+2014-5,E01017250,A54,1,1,1.0
+2014-5,E01017251,A20,1,1,1.0
+2014-5,E01017251,A57,1,1,1.0
+2014-5,E01017251,A75,1,1,1.0
+2014-5,E01017252,A29,1,1,1.0
+2014-5,E01017253,A60,1,1,1.0
+2014-5,E01017253,A75,1,1,1.0
+2014-5,E01017254,A41,3,3,1.0
+2014-5,E01017254,A55,1,1,1.0
+2014-5,E01017256,A28,1,1,1.0
+2014-5,E01017256,A56,1,1,1.0
+2014-5,E01017256,A60,3,2,1.5
+2014-5,E01017258,A83,1,1,1.0
+2014-5,E01017260,A60,2,2,1.0
+2014-5,E01017261,A29,1,1,1.0
+2014-5,E01017261,A41,1,1,1.0
+2014-5,E01017262,A56,1,1,1.0
+2014-5,E01017265,A57,1,1,1.0
+2014-5,E01017266,A60,1,1,1.0
+2014-5,E01017271,A82,1,1,1.0
+2014-5,E01017275,A12,1,1,1.0
+2014-5,E01017276,A29,2,2,1.0
+2014-5,E01017278,A34,1,1,1.0
+2014-5,E01017279,A54,1,1,1.0
+2014-5,E01017280,A60,1,1,1.0
+2014-5,E01022846,A29,1,1,1.0
+2014-5,E01022847,A54,1,1,1.0
+2014-5,E01022850,A73,1,1,1.0
+2014-5,E01022851,A57,1,1,1.0
+2014-5,E01022852,A54,1,1,1.0
+2014-5,E01022852,A57,1,1,1.0
+2014-5,E01022853,A29,1,1,1.0
+2014-5,E01022856,A41,1,1,1.0
+2014-5,E01022856,A56,1,1,1.0
+2014-5,E01022856,A60,1,1,1.0
+2014-5,E01022857,A1,1,1,1.0
+2014-5,E01022857,A60,1,1,1.0
+2014-5,E01022857,A73,1,1,1.0
+2014-5,E01022858,A83,1,1,1.0
+2014-5,E01022860,A20,1,1,1.0
+2014-5,E01022860,A29,2,2,1.0
+2014-5,E01022860,A73,1,1,1.0
+2014-5,E01022860,A79,1,1,1.0
+2014-5,E01022862,A57,1,1,1.0
+2014-5,E01022862,A73,2,2,1.0
+2014-5,E01022863,A54,1,1,1.0
+2014-5,E01022863,A73,1,1,1.0
+2014-5,E01022864,A57,1,1,1.0
+2014-5,E01022868,A73,1,1,1.0
+2014-5,E01022869,A29,1,1,1.0
+2014-5,E01022869,A57,1,1,1.0
+2014-5,E01022869,A86,2,2,1.0
+2014-5,E01022870,A54,1,1,1.0
+2014-5,E01022872,A73,1,1,1.0
+2014-5,E01022873,A60,1,1,1.0
+2014-5,E01022873,A73,1,1,1.0
+2014-5,E01022874,A60,1,1,1.0
+2014-5,E01022875,A1,2,2,1.0
+2014-5,E01022877,A56,1,1,1.0
+2014-5,E01022877,A57,1,1,1.0
+2014-5,E01022879,A29,1,1,1.0
+2014-5,E01022880,A28,1,1,1.0
+2014-5,E01022881,A54,1,1,1.0
+2014-5,E01022882,A81,1,1,1.0
+2014-5,E01022883,A57,1,1,1.0
+2014-5,E01022884,A82,1,1,1.0
+2014-5,E01022887,A29,1,1,1.0
+2014-5,E01022887,A81,1,1,1.0
+2014-5,E01022888,A54,1,1,1.0
+2014-5,E01022888,A81,1,1,1.0
+2014-5,E01022891,A1,1,1,1.0
+2014-5,E01022892,A73,1,1,1.0
+2014-5,E01022895,A57,1,1,1.0
+2014-5,E01022895,A82,1,1,1.0
+2014-5,E01022896,A54,1,1,1.0
+2014-5,E01022898,A57,1,1,1.0
+2014-5,E01023750,A1,1,1,1.0
+2014-5,E01023750,A20,1,1,1.0
+2014-5,E01023751,A29,1,1,1.0
+2014-5,E01023752,A41,1,1,1.0
+2014-5,E01023753,A29,2,2,1.0
+2014-5,E01023753,A34,1,1,1.0
+2014-5,E01023753,A54,1,1,1.0
+2014-5,E01023754,A1,1,1,1.0
+2014-5,E01023754,A29,1,1,1.0
+2014-5,E01023754,A54,1,1,1.0
+2014-5,E01023755,A29,2,2,1.0
+2014-5,E01023755,A54,1,1,1.0
+2014-5,E01023756,A1,1,1,1.0
+2014-5,E01023756,A29,1,1,1.0
+2014-5,E01023756,A54,1,1,1.0
+2014-5,E01023757,A20,1,1,1.0
+2014-5,E01023757,A29,9,4,2.25
+2014-5,E01023757,A54,1,1,1.0
+2014-5,E01023757,A79,1,1,1.0
+2014-5,E01023758,A1,2,2,1.0
+2014-5,E01023758,A16,1,1,1.0
+2014-5,E01023758,A19,1,1,1.0
+2014-5,E01023758,A20,1,1,1.0
+2014-5,E01023758,A28,1,1,1.0
+2014-5,E01023758,A29,2,2,1.0
+2014-5,E01023758,A33,1,1,1.0
+2014-5,E01023758,A54,1,1,1.0
+2014-5,E01023758,A57,1,1,1.0
+2014-5,E01023758,A79,1,1,1.0
+2014-5,E01023759,A20,2,2,1.0
+2014-5,E01023759,A29,2,2,1.0
+2014-5,E01023759,A79,1,1,1.0
+2014-5,E01023760,A1,1,1,1.0
+2014-5,E01023760,A16,1,1,1.0
+2014-5,E01023760,A20,1,1,1.0
+2014-5,E01023760,A29,2,1,2.0
+2014-5,E01023761,A20,2,2,1.0
+2014-5,E01023761,A29,2,1,2.0
+2014-5,E01023762,A1,1,1,1.0
+2014-5,E01023762,A29,2,1,2.0
+2014-5,E01023762,A54,1,1,1.0
+2014-5,E01023762,A79,1,1,1.0
+2014-5,E01023763,A34,1,1,1.0
+2014-5,E01023763,A54,2,1,2.0
+2014-5,E01023764,A34,1,1,1.0
+2014-5,E01023764,A79,2,1,2.0
+2014-5,E01023765,A29,5,4,1.25
+2014-5,E01023766,A1,3,2,1.5
+2014-5,E01023766,A29,3,3,1.0
+2014-5,E01023766,A54,1,1,1.0
+2014-5,E01023766,A79,1,1,1.0
+2014-5,E01023767,A20,1,1,1.0
+2014-5,E01023767,A29,1,1,1.0
+2014-5,E01023767,A34,1,1,1.0
+2014-5,E01023768,A29,2,2,1.0
+2014-5,E01023769,A29,1,1,1.0
+2014-5,E01023770,A16,1,1,1.0
+2014-5,E01023770,A54,2,1,2.0
+2014-5,E01023771,A1,1,1,1.0
+2014-5,E01023771,A20,1,1,1.0
+2014-5,E01023771,A24,1,1,1.0
+2014-5,E01023771,A29,3,2,1.5
+2014-5,E01023771,A79,1,1,1.0
+2014-5,E01023772,A29,1,1,1.0
+2014-5,E01023773,A29,1,1,1.0
+2014-5,E01023774,A16,1,1,1.0
+2014-5,E01023774,A29,5,3,1.6666666666666667
+2014-5,E01023774,A33,1,1,1.0
+2014-5,E01023774,A54,1,1,1.0
+2014-5,E01023775,A19,1,1,1.0
+2014-5,E01023775,A20,1,1,1.0
+2014-5,E01023775,A29,3,3,1.0
+2014-5,E01023775,A54,1,1,1.0
+2014-5,E01023776,A79,1,1,1.0
+2014-5,E01023777,A29,1,1,1.0
+2014-5,E01023777,A33,1,1,1.0
+2014-5,E01023778,A1,1,1,1.0
+2014-5,E01023778,A79,1,1,1.0
+2014-5,E01023779,A19,1,1,1.0
+2014-5,E01023779,A29,2,2,1.0
+2014-5,E01023779,A79,2,1,2.0
+2014-5,E01023780,A29,2,1,2.0
+2014-5,E01023781,A29,5,1,5.0
+2014-5,E01023781,A79,1,1,1.0
+2014-5,E01023782,A29,3,2,1.5
+2014-5,E01023782,A79,1,1,1.0
+2014-5,E01023783,A1,3,2,1.5
+2014-5,E01023783,A29,5,4,1.25
+2014-5,E01023783,A34,1,1,1.0
+2014-5,E01023783,A54,4,4,1.0
+2014-5,E01023784,A20,4,3,1.3333333333333333
+2014-5,E01023784,A29,2,2,1.0
+2014-5,E01023784,A54,1,1,1.0
+2014-5,E01023784,A79,2,1,2.0
+2014-5,E01023785,A1,1,1,1.0
+2014-5,E01023785,A29,1,1,1.0
+2014-5,E01023786,A29,3,2,1.5
+2014-5,E01023786,A34,2,1,2.0
+2014-5,E01023786,A41,1,1,1.0
+2014-5,E01023786,A79,2,2,1.0
+2014-5,E01023787,A29,4,1,4.0
+2014-5,E01023788,A1,2,2,1.0
+2014-5,E01023788,A29,4,1,4.0
+2014-5,E01023788,A33,1,1,1.0
+2014-5,E01023788,A79,2,2,1.0
+2014-5,E01023789,A1,1,1,1.0
+2014-5,E01023789,A20,1,1,1.0
+2014-5,E01023789,A29,3,2,1.5
+2014-5,E01023790,A1,1,1,1.0
+2014-5,E01023790,A24,1,1,1.0
+2014-5,E01023790,A29,2,1,2.0
+2014-5,E01023791,A29,2,2,1.0
+2014-5,E01023791,A79,1,1,1.0
+2014-5,E01023792,A29,1,1,1.0
+2014-5,E01023793,A1,1,1,1.0
+2014-5,E01023793,A20,1,1,1.0
+2014-5,E01023793,A29,2,2,1.0
+2014-5,E01023794,A29,3,3,1.0
+2014-5,E01023795,A20,2,1,2.0
+2014-5,E01023795,A29,1,1,1.0
+2014-5,E01023796,A28,1,1,1.0
+2014-5,E01023796,A29,1,1,1.0
+2014-5,E01023796,A79,1,1,1.0
+2014-5,E01023798,A20,1,1,1.0
+2014-5,E01023799,A29,1,1,1.0
+2014-5,E01023799,A34,1,1,1.0
+2014-5,E01023800,A29,1,1,1.0
+2014-5,E01023801,A20,1,1,1.0
+2014-5,E01023801,A29,2,2,1.0
+2014-5,E01023801,A54,1,1,1.0
+2014-5,E01023801,A79,1,1,1.0
+2014-5,E01028423,A24,1,1,1.0
+2014-5,E01028423,A34,1,1,1.0
+2014-5,E01028424,A57,1,1,1.0
+2014-5,E01028424,A60,2,2,1.0
+2014-5,E01028424,A83,1,1,1.0
+2014-5,E01028425,A29,1,1,1.0
+2014-5,E01028425,A73,1,1,1.0
+2014-5,E01028425,A8,1,1,1.0
+2014-5,E01028426,A60,2,1,2.0
+2014-5,E01028428,A24,2,2,1.0
+2014-5,E01028428,A54,1,1,1.0
+2014-5,E01028429,A67,1,1,1.0
+2014-5,E01028431,A60,2,1,2.0
+2014-5,E01028432,A56,1,1,1.0
+2014-5,E01028432,A57,1,1,1.0
+2014-5,E01028432,A8,1,1,1.0
+2014-5,E01028433,A8,2,2,1.0
+2014-5,E01028434,A60,1,1,1.0
+2014-5,E01028435,A8,1,1,1.0
 2014-5,E01028437,,1,1,1.0
-2014-5,E01028437,Potholes,2,2,1.0
-2014-5,E01028437,Street Signs,1,1,1.0
-2014-5,E01028439,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028440,Potholes,1,1,1.0
-2014-5,E01028441,Open Spaces/Parks,1,1,1.0
-2014-5,E01028445,Potholes,1,1,1.0
-2014-5,E01028448,Gullies,1,1,1.0
-2014-5,E01028450,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028450,Open Spaces/Parks,1,1,1.0
-2014-5,E01028453,Potholes,1,1,1.0
+2014-5,E01028437,A60,2,2,1.0
+2014-5,E01028437,A83,1,1,1.0
+2014-5,E01028439,A57,1,1,1.0
+2014-5,E01028440,A60,1,1,1.0
+2014-5,E01028441,A53,1,1,1.0
+2014-5,E01028445,A60,1,1,1.0
+2014-5,E01028448,A39,1,1,1.0
+2014-5,E01028450,A24,1,1,1.0
+2014-5,E01028450,A53,1,1,1.0
+2014-5,E01028453,A60,1,1,1.0
 2014-5,E01028460,,1,1,1.0
-2014-5,E01028468,Highway Condition,1,1,1.0
-2014-5,E01028469,Dog Fouling,1,1,1.0
-2014-5,E01028472,Potholes,2,1,2.0
-2014-5,E01028475,Potholes,1,1,1.0
-2014-5,E01028477,Grass/Weed Control,3,2,1.5
-2014-5,E01028477,Potholes,2,1,2.0
-2014-5,E01028479,Potholes,1,1,1.0
-2014-5,E01028482,Potholes,1,1,1.0
-2014-5,E01028485,Other,1,1,1.0
-2014-5,E01028486,Potholes,1,1,1.0
-2014-5,E01028488,Blocked Drains,1,1,1.0
-2014-5,E01028491,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028497,Potholes,3,3,1.0
-2014-5,E01028498,Blocked Drains,1,1,1.0
-2014-5,E01028498,Potholes,2,2,1.0
-2014-5,E01028499,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028499,Potholes,1,1,1.0
-2014-5,E01028500,Blocked Drains,1,1,1.0
-2014-5,E01028500,Grass/Weed Control,1,1,1.0
-2014-5,E01028502,Potholes,2,1,2.0
-2014-5,E01028503,Potholes,1,1,1.0
-2014-5,E01028505,Potholes,2,2,1.0
-2014-5,E01028506,Blocked Drains,1,1,1.0
-2014-5,E01028506,Potholes,1,1,1.0
-2014-5,E01028507,Debris/Spillage,1,1,1.0
-2014-5,E01028507,Potholes,1,1,1.0
-2014-5,E01028509,Manhole Covers,1,1,1.0
-2014-5,E01028510,Highway Condition,1,1,1.0
-2014-5,E01028511,Other,1,1,1.0
-2014-5,E01028512,Blocked Drains,1,1,1.0
-2014-5,E01028514,Open Spaces/Parks,1,1,1.0
-2014-5,E01028516,Manhole Covers,1,1,1.0
-2014-5,E01028521,Blocked Drains,1,1,1.0
-2014-5,E01028521,General Highways Enquiries,1,1,1.0
-2014-5,E01028521,Gullies,1,1,1.0
-2014-5,E01028521,Manhole Covers,1,1,1.0
-2014-5,E01028521,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028521,Street Signs,1,1,1.0
-2014-5,E01028521,Traffic Lights,1,1,1.0
-2014-5,E01028525,Graffiti,1,1,1.0
-2014-5,E01028525,Parking,1,1,1.0
-2014-5,E01028525,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028526,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028532,Parking,1,1,1.0
-2014-5,E01028535,Highway Condition,1,1,1.0
-2014-5,E01028537,Potholes,2,2,1.0
-2014-5,E01028539,Highway Condition,1,1,1.0
-2014-5,E01028539,Road Surface Defects,1,1,1.0
-2014-5,E01028540,Blocked Drains,1,1,1.0
-2014-5,E01028541,Road Surface Defects,1,1,1.0
-2014-5,E01028542,Utility Works,1,1,1.0
+2014-5,E01028468,A41,1,1,1.0
+2014-5,E01028469,A20,1,1,1.0
+2014-5,E01028472,A60,2,1,2.0
+2014-5,E01028475,A60,1,1,1.0
+2014-5,E01028477,A34,3,2,1.5
+2014-5,E01028477,A60,2,1,2.0
+2014-5,E01028479,A60,1,1,1.0
+2014-5,E01028482,A60,1,1,1.0
+2014-5,E01028485,A54,1,1,1.0
+2014-5,E01028486,A60,1,1,1.0
+2014-5,E01028488,A8,1,1,1.0
+2014-5,E01028491,A57,1,1,1.0
+2014-5,E01028497,A60,3,3,1.0
+2014-5,E01028498,A60,2,2,1.0
+2014-5,E01028498,A8,1,1,1.0
+2014-5,E01028499,A57,1,1,1.0
+2014-5,E01028499,A60,1,1,1.0
+2014-5,E01028500,A34,1,1,1.0
+2014-5,E01028500,A8,1,1,1.0
+2014-5,E01028502,A60,2,1,2.0
+2014-5,E01028503,A60,1,1,1.0
+2014-5,E01028505,A60,2,2,1.0
+2014-5,E01028506,A60,1,1,1.0
+2014-5,E01028506,A8,1,1,1.0
+2014-5,E01028507,A17,1,1,1.0
+2014-5,E01028507,A60,1,1,1.0
+2014-5,E01028509,A48,1,1,1.0
+2014-5,E01028510,A41,1,1,1.0
+2014-5,E01028511,A54,1,1,1.0
+2014-5,E01028512,A8,1,1,1.0
+2014-5,E01028514,A53,1,1,1.0
+2014-5,E01028516,A48,1,1,1.0
+2014-5,E01028521,A32,1,1,1.0
+2014-5,E01028521,A39,1,1,1.0
+2014-5,E01028521,A48,1,1,1.0
+2014-5,E01028521,A57,1,1,1.0
+2014-5,E01028521,A8,1,1,1.0
+2014-5,E01028521,A83,1,1,1.0
+2014-5,E01028521,A86,1,1,1.0
+2014-5,E01028525,A33,1,1,1.0
+2014-5,E01028525,A56,1,1,1.0
+2014-5,E01028525,A57,1,1,1.0
+2014-5,E01028526,A57,1,1,1.0
+2014-5,E01028532,A56,1,1,1.0
+2014-5,E01028535,A41,1,1,1.0
+2014-5,E01028537,A60,2,2,1.0
+2014-5,E01028539,A41,1,1,1.0
+2014-5,E01028539,A69,1,1,1.0
+2014-5,E01028540,A8,1,1,1.0
+2014-5,E01028541,A69,1,1,1.0
+2014-5,E01028542,A92,1,1,1.0
 2014-5,E01028548,,1,1,1.0
-2014-5,E01028548,Graffiti,1,1,1.0
-2014-5,E01028548,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028550,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028550,Road Markings,1,1,1.0
-2014-5,E01028551,Potholes,1,1,1.0
-2014-5,E01028552,Road Markings,1,1,1.0
-2014-5,E01028552,Street Name Plates,1,1,1.0
-2014-5,E01028553,Street Cleaning,1,1,1.0
-2014-5,E01028554,Parking,1,1,1.0
-2014-5,E01028556,General Highways Enquiries,1,1,1.0
-2014-5,E01028560,Grass/Weed Control,1,1,1.0
-2014-5,E01028561,Potholes,1,1,1.0
-2014-5,E01028562,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028563,Blocked Drains,1,1,1.0
-2014-5,E01028565,Parking,1,1,1.0
-2014-5,E01028572,Traffic Lights,1,1,1.0
-2014-5,E01028578,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028583,Gullies,1,1,1.0
+2014-5,E01028548,A33,1,1,1.0
+2014-5,E01028548,A57,1,1,1.0
+2014-5,E01028550,A57,1,1,1.0
+2014-5,E01028550,A67,1,1,1.0
+2014-5,E01028551,A60,1,1,1.0
+2014-5,E01028552,A67,1,1,1.0
+2014-5,E01028552,A82,1,1,1.0
+2014-5,E01028553,A79,1,1,1.0
+2014-5,E01028554,A56,1,1,1.0
+2014-5,E01028556,A32,1,1,1.0
+2014-5,E01028560,A34,1,1,1.0
+2014-5,E01028561,A60,1,1,1.0
+2014-5,E01028562,A24,1,1,1.0
+2014-5,E01028563,A8,1,1,1.0
+2014-5,E01028565,A56,1,1,1.0
+2014-5,E01028572,A86,1,1,1.0
+2014-5,E01028578,A57,1,1,1.0
+2014-5,E01028583,A39,1,1,1.0
 2014-5,E01028584,,1,1,1.0
-2014-5,E01028585,Potholes,1,1,1.0
-2014-5,E01028586,Potholes,1,1,1.0
-2014-5,E01028587,Other,2,1,2.0
-2014-5,E01028587,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028588,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028598,Other,1,1,1.0
-2014-5,E01028598,Potholes,1,1,1.0
-2014-5,E01028598,Street Signs,1,1,1.0
-2014-5,E01028599,Potholes,1,1,1.0
-2014-5,E01028601,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028601,Grass/Weed Control,1,1,1.0
-2014-5,E01028601,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028601,Potholes,3,3,1.0
-2014-5,E01028602,Other,1,1,1.0
-2014-5,E01028606,Blocked Drains,1,1,1.0
-2014-5,E01028606,Grass/Weed Control,1,1,1.0
-2014-5,E01028607,Potholes,1,1,1.0
-2014-5,E01028607,Street Signs,1,1,1.0
-2014-5,E01028608,Potholes,2,1,2.0
+2014-5,E01028585,A60,1,1,1.0
+2014-5,E01028586,A60,1,1,1.0
+2014-5,E01028587,A54,2,1,2.0
+2014-5,E01028587,A57,1,1,1.0
+2014-5,E01028588,A57,1,1,1.0
+2014-5,E01028598,A54,1,1,1.0
+2014-5,E01028598,A60,1,1,1.0
+2014-5,E01028598,A83,1,1,1.0
+2014-5,E01028599,A60,1,1,1.0
+2014-5,E01028601,A24,1,1,1.0
+2014-5,E01028601,A34,1,1,1.0
+2014-5,E01028601,A57,1,1,1.0
+2014-5,E01028601,A60,3,3,1.0
+2014-5,E01028602,A54,1,1,1.0
+2014-5,E01028606,A34,1,1,1.0
+2014-5,E01028606,A8,1,1,1.0
+2014-5,E01028607,A60,1,1,1.0
+2014-5,E01028607,A83,1,1,1.0
+2014-5,E01028608,A60,2,1,2.0
 2014-5,E01028611,,1,1,1.0
-2014-5,E01028611,Fly-tipping,1,1,1.0
-2014-5,E01028611,Grass/Weed Control,1,1,1.0
-2014-5,E01028611,Highway Condition,2,1,2.0
-2014-5,E01028611,Potholes,3,3,1.0
-2014-5,E01028612,Debris/Spillage,2,2,1.0
-2014-5,E01028612,Potholes,3,1,3.0
-2014-5,E01028613,Potholes,1,1,1.0
-2014-5,E01028614,Potholes,1,1,1.0
-2014-5,E01028615,Potholes,1,1,1.0
-2014-5,E01028617,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028617,Potholes,1,1,1.0
-2014-5,E01028618,Potholes,1,1,1.0
-2014-5,E01028620,Blocked Drains,4,3,1.3333333333333333
-2014-5,E01028620,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028620,Potholes,4,2,2.0
-2014-5,E01028620,Road Surface Defects,1,1,1.0
-2014-5,E01028621,Potholes,3,3,1.0
-2014-5,E01028623,Other,1,1,1.0
-2014-5,E01028625,Debris/Spillage,2,2,1.0
-2014-5,E01028625,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028625,Highway Condition,1,1,1.0
-2014-5,E01028625,Pavement /Footway Defects,1,1,1.0
+2014-5,E01028611,A29,1,1,1.0
+2014-5,E01028611,A34,1,1,1.0
+2014-5,E01028611,A41,2,1,2.0
+2014-5,E01028611,A60,3,3,1.0
+2014-5,E01028612,A17,2,2,1.0
+2014-5,E01028612,A60,3,1,3.0
+2014-5,E01028613,A60,1,1,1.0
+2014-5,E01028614,A60,1,1,1.0
+2014-5,E01028615,A60,1,1,1.0
+2014-5,E01028617,A24,1,1,1.0
+2014-5,E01028617,A60,1,1,1.0
+2014-5,E01028618,A60,1,1,1.0
+2014-5,E01028620,A24,1,1,1.0
+2014-5,E01028620,A60,4,2,2.0
+2014-5,E01028620,A69,1,1,1.0
+2014-5,E01028620,A8,4,3,1.3333333333333333
+2014-5,E01028621,A60,3,3,1.0
+2014-5,E01028623,A54,1,1,1.0
+2014-5,E01028625,A17,2,2,1.0
+2014-5,E01028625,A24,1,1,1.0
+2014-5,E01028625,A41,1,1,1.0
+2014-5,E01028625,A57,1,1,1.0
 2014-5,E01028627,,1,1,1.0
-2014-5,E01028628,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028628,Rubbish,1,1,1.0
-2014-5,E01028629,Manhole Covers,1,1,1.0
-2014-5,E01028630,Other,1,1,1.0
-2014-5,E01028632,Utility Works,1,1,1.0
-2014-5,E01028633,Potholes,1,1,1.0
-2014-5,E01028634,Potholes,1,1,1.0
-2014-5,E01028636,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028638,Pavement /Footway Defects,1,1,1.0
+2014-5,E01028628,A57,1,1,1.0
+2014-5,E01028628,A73,1,1,1.0
+2014-5,E01028629,A48,1,1,1.0
+2014-5,E01028630,A54,1,1,1.0
+2014-5,E01028632,A92,1,1,1.0
+2014-5,E01028633,A60,1,1,1.0
+2014-5,E01028634,A60,1,1,1.0
+2014-5,E01028636,A57,1,1,1.0
+2014-5,E01028638,A57,1,1,1.0
 2014-5,E01028639,,1,1,1.0
-2014-5,E01028639,Blocked Drains,2,1,2.0
-2014-5,E01028639,Potholes,2,2,1.0
-2014-5,E01028641,Potholes,1,1,1.0
-2014-5,E01028642,Potholes,4,3,1.3333333333333333
-2014-5,E01028643,Highway Condition,1,1,1.0
-2014-5,E01028643,Potholes,5,1,5.0
-2014-5,E01028644,Highway Condition,1,1,1.0
-2014-5,E01028647,Blocked Drains,1,1,1.0
-2014-5,E01028647,Highway Condition,1,1,1.0
-2014-5,E01028647,Potholes,1,1,1.0
-2014-5,E01028648,Highway Condition,1,1,1.0
-2014-5,E01028648,Potholes,4,2,2.0
-2014-5,E01028648,Street Signs,1,1,1.0
-2014-5,E01028649,Potholes,1,1,1.0
+2014-5,E01028639,A60,2,2,1.0
+2014-5,E01028639,A8,2,1,2.0
+2014-5,E01028641,A60,1,1,1.0
+2014-5,E01028642,A60,4,3,1.3333333333333333
+2014-5,E01028643,A41,1,1,1.0
+2014-5,E01028643,A60,5,1,5.0
+2014-5,E01028644,A41,1,1,1.0
+2014-5,E01028647,A41,1,1,1.0
+2014-5,E01028647,A60,1,1,1.0
+2014-5,E01028647,A8,1,1,1.0
+2014-5,E01028648,A41,1,1,1.0
+2014-5,E01028648,A60,4,2,2.0
+2014-5,E01028648,A83,1,1,1.0
+2014-5,E01028649,A60,1,1,1.0
 2014-5,E01028650,,1,1,1.0
-2014-5,E01028650,Gullies,4,1,4.0
-2014-5,E01028650,Pavement /Footway Defects,1,1,1.0
+2014-5,E01028650,A39,4,1,4.0
+2014-5,E01028650,A57,1,1,1.0
 2014-5,E01028651,,1,1,1.0
-2014-5,E01028652,Blocked Drains,1,1,1.0
-2014-5,E01028652,Gullies,3,2,1.5
-2014-5,E01028655,Potholes,3,2,1.5
-2014-5,E01028656,Gullies,1,1,1.0
-2014-5,E01028657,Highway Condition,1,1,1.0
-2014-5,E01028658,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028658,Other,1,1,1.0
-2014-5,E01028658,Potholes,2,2,1.0
-2014-5,E01028658,Traffic Lights,1,1,1.0
-2014-5,E01028659,Debris/Spillage,1,1,1.0
-2014-5,E01028659,Potholes,6,1,6.0
-2014-5,E01028660,Grass/Weed Control,2,2,1.0
-2014-5,E01028660,Gullies,1,1,1.0
-2014-5,E01028661,Potholes,1,1,1.0
-2014-5,E01028662,Grass/Weed Control,2,2,1.0
-2014-5,E01028662,Potholes,1,1,1.0
-2014-5,E01028662,Street Cleaning,1,1,1.0
-2014-5,E01028663,Blocked Drains,1,1,1.0
-2014-5,E01028663,Highway Condition,1,1,1.0
-2014-5,E01028664,Potholes,1,1,1.0
-2014-5,E01028664,Road Surface Defects,1,1,1.0
-2014-5,E01028667,Blocked Drains,1,1,1.0
-2014-5,E01028667,Other,1,1,1.0
-2014-5,E01028667,Road Surface Defects,1,1,1.0
-2014-5,E01028668,Potholes,1,1,1.0
-2014-5,E01028669,Manhole Covers,1,1,1.0
-2014-5,E01028671,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028671,Potholes,1,1,1.0
+2014-5,E01028652,A39,3,2,1.5
+2014-5,E01028652,A8,1,1,1.0
+2014-5,E01028655,A60,3,2,1.5
+2014-5,E01028656,A39,1,1,1.0
+2014-5,E01028657,A41,1,1,1.0
+2014-5,E01028658,A24,1,1,1.0
+2014-5,E01028658,A54,1,1,1.0
+2014-5,E01028658,A60,2,2,1.0
+2014-5,E01028658,A86,1,1,1.0
+2014-5,E01028659,A17,1,1,1.0
+2014-5,E01028659,A60,6,1,6.0
+2014-5,E01028660,A34,2,2,1.0
+2014-5,E01028660,A39,1,1,1.0
+2014-5,E01028661,A60,1,1,1.0
+2014-5,E01028662,A34,2,2,1.0
+2014-5,E01028662,A60,1,1,1.0
+2014-5,E01028662,A79,1,1,1.0
+2014-5,E01028663,A41,1,1,1.0
+2014-5,E01028663,A8,1,1,1.0
+2014-5,E01028664,A60,1,1,1.0
+2014-5,E01028664,A69,1,1,1.0
+2014-5,E01028667,A54,1,1,1.0
+2014-5,E01028667,A69,1,1,1.0
+2014-5,E01028667,A8,1,1,1.0
+2014-5,E01028668,A60,1,1,1.0
+2014-5,E01028669,A48,1,1,1.0
+2014-5,E01028671,A24,1,1,1.0
+2014-5,E01028671,A60,1,1,1.0
 2014-5,E01028672,,2,2,1.0
-2014-5,E01028672,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028677,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028677,Road Surface Defects,1,1,1.0
-2014-5,E01028677,Street Signs,1,1,1.0
-2014-5,E01028678,Grass/Weed Control,1,1,1.0
-2014-5,E01028678,Potholes,1,1,1.0
-2014-5,E01028678,Street Signs,1,1,1.0
-2014-5,E01028679,Blocked Drains,1,1,1.0
-2014-5,E01028679,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028679,Potholes,4,2,2.0
-2014-5,E01028679,Street Signs,2,1,2.0
-2014-5,E01028680,Fly-tipping,1,1,1.0
-2014-5,E01028680,Potholes,3,3,1.0
-2014-5,E01028682,Potholes,1,1,1.0
-2014-5,E01028684,Road Markings,1,1,1.0
-2014-5,E01028685,Potholes,1,1,1.0
-2014-5,E01028686,Potholes,1,1,1.0
-2014-5,E01028688,Potholes,1,1,1.0
-2014-5,E01028695,Highway Condition,1,1,1.0
-2014-5,E01028696,Potholes,1,1,1.0
-2014-5,E01028697,Highway Condition,1,1,1.0
-2014-5,E01028699,Highway Condition,1,1,1.0
-2014-5,E01028700,Blocked Drains,1,1,1.0
-2014-5,E01028700,Grass/Weed Control,1,1,1.0
-2014-5,E01028700,Other,1,1,1.0
-2014-5,E01028701,Grass/Weed Control,1,1,1.0
+2014-5,E01028672,A24,1,1,1.0
+2014-5,E01028677,A57,1,1,1.0
+2014-5,E01028677,A69,1,1,1.0
+2014-5,E01028677,A83,1,1,1.0
+2014-5,E01028678,A34,1,1,1.0
+2014-5,E01028678,A60,1,1,1.0
+2014-5,E01028678,A83,1,1,1.0
+2014-5,E01028679,A57,1,1,1.0
+2014-5,E01028679,A60,4,2,2.0
+2014-5,E01028679,A8,1,1,1.0
+2014-5,E01028679,A83,2,1,2.0
+2014-5,E01028680,A29,1,1,1.0
+2014-5,E01028680,A60,3,3,1.0
+2014-5,E01028682,A60,1,1,1.0
+2014-5,E01028684,A67,1,1,1.0
+2014-5,E01028685,A60,1,1,1.0
+2014-5,E01028686,A60,1,1,1.0
+2014-5,E01028688,A60,1,1,1.0
+2014-5,E01028695,A41,1,1,1.0
+2014-5,E01028696,A60,1,1,1.0
+2014-5,E01028697,A41,1,1,1.0
+2014-5,E01028699,A41,1,1,1.0
+2014-5,E01028700,A34,1,1,1.0
+2014-5,E01028700,A54,1,1,1.0
+2014-5,E01028700,A8,1,1,1.0
+2014-5,E01028701,A34,1,1,1.0
 2014-5,E01028702,,1,1,1.0
-2014-5,E01028704,Grass/Weed Control,1,1,1.0
-2014-5,E01028704,Highway Condition,1,1,1.0
-2014-5,E01028705,Grass/Weed Control,1,1,1.0
-2014-5,E01028705,Other,1,1,1.0
-2014-5,E01028706,Potholes,1,1,1.0
-2014-5,E01028707,Blocked Drains,1,1,1.0
-2014-5,E01028708,Potholes,2,2,1.0
-2014-5,E01028710,Blocked Drains,2,2,1.0
-2014-5,E01028710,Gullies,1,1,1.0
-2014-5,E01028710,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028710,Street Name Plates,1,1,1.0
-2014-5,E01028712,Potholes,1,1,1.0
-2014-5,E01028713,Manhole Covers,1,1,1.0
-2014-5,E01028713,Potholes,1,1,1.0
-2014-5,E01028713,Road Surface Defects,1,1,1.0
-2014-5,E01028714,Blocked Drains,1,1,1.0
-2014-5,E01028714,Potholes,1,1,1.0
-2014-5,E01028714,Street Name Plates,1,1,1.0
-2014-5,E01028715,Potholes,1,1,1.0
-2014-5,E01028719,Parking,1,1,1.0
-2014-5,E01028720,Potholes,2,2,1.0
-2014-5,E01028726,Manhole Covers,1,1,1.0
-2014-5,E01028726,Potholes,2,2,1.0
-2014-5,E01028727,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028727,Potholes,2,2,1.0
-2014-5,E01028729,Manhole Covers,1,1,1.0
-2014-5,E01028729,Other,1,1,1.0
-2014-5,E01028730,Blocked Drains,2,1,2.0
-2014-5,E01028730,Fly-tipping,1,1,1.0
-2014-5,E01028730,Highway Condition,1,1,1.0
-2014-5,E01028730,Potholes,1,1,1.0
-2014-5,E01028731,Traffic Lights,1,1,1.0
-2014-5,E01028732,Blocked Drains,1,1,1.0
-2014-5,E01028732,Road Surface Defects,1,1,1.0
-2014-5,E01028732,Street Signs,1,1,1.0
-2014-5,E01028734,Grass/Weed Control,1,1,1.0
-2014-5,E01028734,Utility Works,1,1,1.0
-2014-5,E01028735,Road Markings,2,1,2.0
-2014-5,E01028736,Grass/Weed Control,1,1,1.0
-2014-5,E01028736,Highway Condition,1,1,1.0
-2014-5,E01028736,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028736,Potholes,1,1,1.0
-2014-5,E01028737,Highway Condition,2,2,1.0
-2014-5,E01028737,Potholes,4,3,1.3333333333333333
-2014-5,E01028738,Abandoned Vehicles,1,1,1.0
-2014-5,E01028738,Blocked Drains,1,1,1.0
-2014-5,E01028738,Other,1,1,1.0
-2014-5,E01028738,Street Signs,1,1,1.0
-2014-5,E01028739,Manhole Covers,1,1,1.0
-2014-5,E01028741,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028741,Grass/Weed Control,1,1,1.0
-2014-5,E01028742,Blocked Drains,1,1,1.0
-2014-5,E01028742,Grass/Weed Control,1,1,1.0
-2014-5,E01028742,Potholes,1,1,1.0
-2014-5,E01028743,Grass/Weed Control,1,1,1.0
-2014-5,E01028744,Potholes,1,1,1.0
-2014-5,E01028744,Road Markings,2,1,2.0
-2014-5,E01028745,Highway Condition,1,1,1.0
-2014-5,E01028746,Road Surface Defects,1,1,1.0
+2014-5,E01028704,A34,1,1,1.0
+2014-5,E01028704,A41,1,1,1.0
+2014-5,E01028705,A34,1,1,1.0
+2014-5,E01028705,A54,1,1,1.0
+2014-5,E01028706,A60,1,1,1.0
+2014-5,E01028707,A8,1,1,1.0
+2014-5,E01028708,A60,2,2,1.0
+2014-5,E01028710,A39,1,1,1.0
+2014-5,E01028710,A57,1,1,1.0
+2014-5,E01028710,A8,2,2,1.0
+2014-5,E01028710,A82,1,1,1.0
+2014-5,E01028712,A60,1,1,1.0
+2014-5,E01028713,A48,1,1,1.0
+2014-5,E01028713,A60,1,1,1.0
+2014-5,E01028713,A69,1,1,1.0
+2014-5,E01028714,A60,1,1,1.0
+2014-5,E01028714,A8,1,1,1.0
+2014-5,E01028714,A82,1,1,1.0
+2014-5,E01028715,A60,1,1,1.0
+2014-5,E01028719,A56,1,1,1.0
+2014-5,E01028720,A60,2,2,1.0
+2014-5,E01028726,A48,1,1,1.0
+2014-5,E01028726,A60,2,2,1.0
+2014-5,E01028727,A57,1,1,1.0
+2014-5,E01028727,A60,2,2,1.0
+2014-5,E01028729,A48,1,1,1.0
+2014-5,E01028729,A54,1,1,1.0
+2014-5,E01028730,A29,1,1,1.0
+2014-5,E01028730,A41,1,1,1.0
+2014-5,E01028730,A60,1,1,1.0
+2014-5,E01028730,A8,2,1,2.0
+2014-5,E01028731,A86,1,1,1.0
+2014-5,E01028732,A69,1,1,1.0
+2014-5,E01028732,A8,1,1,1.0
+2014-5,E01028732,A83,1,1,1.0
+2014-5,E01028734,A34,1,1,1.0
+2014-5,E01028734,A92,1,1,1.0
+2014-5,E01028735,A67,2,1,2.0
+2014-5,E01028736,A34,1,1,1.0
+2014-5,E01028736,A41,1,1,1.0
+2014-5,E01028736,A57,1,1,1.0
+2014-5,E01028736,A60,1,1,1.0
+2014-5,E01028737,A41,2,2,1.0
+2014-5,E01028737,A60,4,3,1.3333333333333333
+2014-5,E01028738,A1,1,1,1.0
+2014-5,E01028738,A54,1,1,1.0
+2014-5,E01028738,A8,1,1,1.0
+2014-5,E01028738,A83,1,1,1.0
+2014-5,E01028739,A48,1,1,1.0
+2014-5,E01028741,A24,1,1,1.0
+2014-5,E01028741,A34,1,1,1.0
+2014-5,E01028742,A34,1,1,1.0
+2014-5,E01028742,A60,1,1,1.0
+2014-5,E01028742,A8,1,1,1.0
+2014-5,E01028743,A34,1,1,1.0
+2014-5,E01028744,A60,1,1,1.0
+2014-5,E01028744,A67,2,1,2.0
+2014-5,E01028745,A41,1,1,1.0
+2014-5,E01028746,A69,1,1,1.0
 2014-5,E01028749,,1,1,1.0
-2014-5,E01028749,Blocked Drains,5,1,5.0
-2014-5,E01028749,Dog Fouling,2,1,2.0
-2014-5,E01028749,Fly-tipping,1,1,1.0
-2014-5,E01028749,Grass/Weed Control,1,1,1.0
-2014-5,E01028749,Pavement /Footway Defects,3,1,3.0
-2014-5,E01028749,Potholes,1,1,1.0
-2014-5,E01028749,Road Markings,1,1,1.0
-2014-5,E01028749,Road Surface Defects,3,2,1.5
-2014-5,E01028749,Street Cleaning,1,1,1.0
-2014-5,E01028749,Street Signs,1,1,1.0
-2014-5,E01028750,Other,2,1,2.0
-2014-5,E01028750,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028751,Blocked Drains,2,2,1.0
-2014-5,E01028751,Grass/Weed Control,1,1,1.0
-2014-5,E01028752,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028752,Gullies,1,1,1.0
-2014-5,E01028752,Road Surface Defects,1,1,1.0
-2014-5,E01028753,Blocked Drains,1,1,1.0
-2014-5,E01028754,Grass/Weed Control,1,1,1.0
-2014-5,E01028756,Highway Condition,1,1,1.0
-2014-5,E01028756,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028756,Potholes,1,1,1.0
-2014-5,E01028757,Highway Condition,1,1,1.0
-2014-5,E01028757,Other,1,1,1.0
-2014-5,E01028757,Potholes,1,1,1.0
-2014-5,E01028758,Blocked Drains,1,1,1.0
-2014-5,E01028760,Potholes,2,2,1.0
-2014-5,E01028762,Grass/Weed Control,1,1,1.0
-2014-5,E01028762,Highway Condition,1,1,1.0
-2014-5,E01028762,Manhole Covers,1,1,1.0
-2014-5,E01028762,Potholes,1,1,1.0
-2014-5,E01028762,Road Surface Defects,1,1,1.0
-2014-5,E01028763,Blocked Drains,1,1,1.0
-2014-5,E01028763,Potholes,1,1,1.0
-2014-5,E01028764,Parking,2,1,2.0
-2014-5,E01028765,Grass/Weed Control,1,1,1.0
-2014-5,E01028766,Potholes,1,1,1.0
-2014-5,E01028767,Road Surface Defects,1,1,1.0
-2014-5,E01028776,Fences,1,1,1.0
-2014-5,E01028776,Street Signs,1,1,1.0
-2014-5,E01028780,Blocked Drains,1,1,1.0
-2014-5,E01028780,Potholes,1,1,1.0
-2014-5,E01028783,Other,1,1,1.0
-2014-5,E01028783,Potholes,1,1,1.0
-2014-5,E01028788,Graffiti,1,1,1.0
-2014-5,E01028788,Potholes,1,1,1.0
-2014-5,E01028788,Road Surface Defects,1,1,1.0
-2014-5,E01028789,Blocked Drains,1,1,1.0
-2014-5,E01028789,Manhole Covers,1,1,1.0
-2014-5,E01028790,Road Surface Defects,1,1,1.0
-2014-5,E01028792,Potholes,1,1,1.0
-2014-5,E01028793,Potholes,3,1,3.0
-2014-5,E01028795,Grass/Weed Control,1,1,1.0
-2014-5,E01028796,Potholes,1,1,1.0
-2014-5,E01028797,Potholes,2,2,1.0
-2014-5,E01028798,Potholes,1,1,1.0
-2014-5,E01028800,Blocked Drains,1,1,1.0
-2014-5,E01028800,Debris/Spillage,1,1,1.0
-2014-5,E01028801,Street Cleaning,1,1,1.0
-2014-5,E01028802,Bridge/Culvert Defects,1,1,1.0
-2014-5,E01028802,Potholes,1,1,1.0
+2014-5,E01028749,A20,2,1,2.0
+2014-5,E01028749,A29,1,1,1.0
+2014-5,E01028749,A34,1,1,1.0
+2014-5,E01028749,A57,3,1,3.0
+2014-5,E01028749,A60,1,1,1.0
+2014-5,E01028749,A67,1,1,1.0
+2014-5,E01028749,A69,3,2,1.5
+2014-5,E01028749,A79,1,1,1.0
+2014-5,E01028749,A8,5,1,5.0
+2014-5,E01028749,A83,1,1,1.0
+2014-5,E01028750,A54,2,1,2.0
+2014-5,E01028750,A57,1,1,1.0
+2014-5,E01028751,A34,1,1,1.0
+2014-5,E01028751,A8,2,2,1.0
+2014-5,E01028752,A24,1,1,1.0
+2014-5,E01028752,A39,1,1,1.0
+2014-5,E01028752,A69,1,1,1.0
+2014-5,E01028753,A8,1,1,1.0
+2014-5,E01028754,A34,1,1,1.0
+2014-5,E01028756,A41,1,1,1.0
+2014-5,E01028756,A57,1,1,1.0
+2014-5,E01028756,A60,1,1,1.0
+2014-5,E01028757,A41,1,1,1.0
+2014-5,E01028757,A54,1,1,1.0
+2014-5,E01028757,A60,1,1,1.0
+2014-5,E01028758,A8,1,1,1.0
+2014-5,E01028760,A60,2,2,1.0
+2014-5,E01028762,A34,1,1,1.0
+2014-5,E01028762,A41,1,1,1.0
+2014-5,E01028762,A48,1,1,1.0
+2014-5,E01028762,A60,1,1,1.0
+2014-5,E01028762,A69,1,1,1.0
+2014-5,E01028763,A60,1,1,1.0
+2014-5,E01028763,A8,1,1,1.0
+2014-5,E01028764,A56,2,1,2.0
+2014-5,E01028765,A34,1,1,1.0
+2014-5,E01028766,A60,1,1,1.0
+2014-5,E01028767,A69,1,1,1.0
+2014-5,E01028776,A25,1,1,1.0
+2014-5,E01028776,A83,1,1,1.0
+2014-5,E01028780,A60,1,1,1.0
+2014-5,E01028780,A8,1,1,1.0
+2014-5,E01028783,A54,1,1,1.0
+2014-5,E01028783,A60,1,1,1.0
+2014-5,E01028788,A33,1,1,1.0
+2014-5,E01028788,A60,1,1,1.0
+2014-5,E01028788,A69,1,1,1.0
+2014-5,E01028789,A48,1,1,1.0
+2014-5,E01028789,A8,1,1,1.0
+2014-5,E01028790,A69,1,1,1.0
+2014-5,E01028792,A60,1,1,1.0
+2014-5,E01028793,A60,3,1,3.0
+2014-5,E01028795,A34,1,1,1.0
+2014-5,E01028796,A60,1,1,1.0
+2014-5,E01028797,A60,2,2,1.0
+2014-5,E01028798,A60,1,1,1.0
+2014-5,E01028800,A17,1,1,1.0
+2014-5,E01028800,A8,1,1,1.0
+2014-5,E01028801,A79,1,1,1.0
+2014-5,E01028802,A60,1,1,1.0
+2014-5,E01028802,A9,1,1,1.0
 2014-5,E01028804,,1,1,1.0
-2014-5,E01028804,Potholes,2,1,2.0
-2014-5,E01028806,Potholes,3,3,1.0
-2014-5,E01028808,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028809,Potholes,1,1,1.0
-2014-5,E01028810,Grass/Weed Control,1,1,1.0
-2014-5,E01028810,Potholes,1,1,1.0
-2014-5,E01028811,Bridge/Culvert Defects,1,1,1.0
-2014-5,E01028817,Manhole Covers,1,1,1.0
-2014-5,E01028818,Bridge/Culvert Defects,1,1,1.0
-2014-5,E01028818,Fences,1,1,1.0
-2014-5,E01028818,Grass/Weed Control,1,1,1.0
-2014-5,E01028818,Pavement /Footway Defects,1,1,1.0
-2014-5,E01028818,Potholes,1,1,1.0
-2014-5,E01028819,Fallen/Dangerous Trees,1,1,1.0
-2014-5,E01028819,Grass/Weed Control,1,1,1.0
-2014-5,E01028822,Highway Condition,1,1,1.0
-2014-5,E01028825,Blocked Drains,1,1,1.0
-2014-5,E01028825,Highway Condition,1,1,1.0
-2014-5,E01032562,Dumped Rubbish,5,2,2.5
-2014-5,E01032562,Overgrown Vegetation,2,1,2.0
-2014-5,E01032563,Abandoned Vehicles,1,1,1.0
-2014-5,E01032563,Dumped Rubbish,1,1,1.0
-2014-5,E01032563,Overgrown Vegetation,1,1,1.0
-2014-5,E01032563,Pavement /Footway Defects,3,3,1.0
-2014-5,E01032563,Street Cleaning,2,2,1.0
-2014-5,E01032568,Dumped Rubbish,3,3,1.0
-2014-5,E01032568,Graffiti,1,1,1.0
-2014-5,E01032568,Overgrown Vegetation,1,1,1.0
-2014-5,E01032568,Street Cleaning,1,1,1.0
-2014-5,E01032570,Abandoned Vehicles,1,1,1.0
-2014-5,E01032570,Pavement /Footway Defects,1,1,1.0
-2014-5,E01032570,Road Surface Defects,3,3,1.0
-2014-5,E01032570,Street Lights,2,2,1.0
-2014-5,E01032738,Pavement /Footway Defects,2,2,1.0
-2014-5,E01032746,Street Cleaning,1,1,1.0
-2014-5,E01032748,Graffiti,1,1,1.0
-2014-5,E01032748,Litter/Litter Bin,1,1,1.0
-2014-5,E01032751,Graffiti,3,1,3.0
-2014-5,E01032753,Other,1,1,1.0
-2014-5,E01032756,Fly-tipping,2,2,1.0
-2014-5,E01032756,Potholes,1,1,1.0
-2014-5,E01032852,Abandoned Vehicles,1,1,1.0
-2014-5,E01032853,Street Lights,1,1,1.0
-2014-5,E01032854,Potholes,1,1,1.0
-2014-5,E01032941,Potholes,1,1,1.0
-2014-5,E01032942,Parking,1,1,1.0
-2014-5,E01032947,Manhole Covers,1,1,1.0
-2014-5,E01032950,Manhole Covers,1,1,1.0
-2014-5,E01032951,Street Cleaning,1,1,1.0
-2014-5,E01032953,Potholes,2,2,1.0
-2014-5,E01032954,Highway Condition,1,1,1.0
-2014-5,E01033282,Traffic Lights,1,1,1.0
-2014-5,E01033306,Potholes,1,1,1.0
+2014-5,E01028804,A60,2,1,2.0
+2014-5,E01028806,A60,3,3,1.0
+2014-5,E01028808,A24,1,1,1.0
+2014-5,E01028809,A60,1,1,1.0
+2014-5,E01028810,A34,1,1,1.0
+2014-5,E01028810,A60,1,1,1.0
+2014-5,E01028811,A9,1,1,1.0
+2014-5,E01028817,A48,1,1,1.0
+2014-5,E01028818,A25,1,1,1.0
+2014-5,E01028818,A34,1,1,1.0
+2014-5,E01028818,A57,1,1,1.0
+2014-5,E01028818,A60,1,1,1.0
+2014-5,E01028818,A9,1,1,1.0
+2014-5,E01028819,A24,1,1,1.0
+2014-5,E01028819,A34,1,1,1.0
+2014-5,E01028822,A41,1,1,1.0
+2014-5,E01028825,A41,1,1,1.0
+2014-5,E01028825,A8,1,1,1.0
+2014-5,E01032562,A22,5,2,2.5
+2014-5,E01032562,A55,2,1,2.0
+2014-5,E01032563,A1,1,1,1.0
+2014-5,E01032563,A22,1,1,1.0
+2014-5,E01032563,A55,1,1,1.0
+2014-5,E01032563,A57,3,3,1.0
+2014-5,E01032563,A79,2,2,1.0
+2014-5,E01032568,A22,3,3,1.0
+2014-5,E01032568,A33,1,1,1.0
+2014-5,E01032568,A55,1,1,1.0
+2014-5,E01032568,A79,1,1,1.0
+2014-5,E01032570,A1,1,1,1.0
+2014-5,E01032570,A57,1,1,1.0
+2014-5,E01032570,A69,3,3,1.0
+2014-5,E01032570,A81,2,2,1.0
+2014-5,E01032738,A57,2,2,1.0
+2014-5,E01032746,A79,1,1,1.0
+2014-5,E01032748,A33,1,1,1.0
+2014-5,E01032748,A47,1,1,1.0
+2014-5,E01032751,A33,3,1,3.0
+2014-5,E01032753,A54,1,1,1.0
+2014-5,E01032756,A29,2,2,1.0
+2014-5,E01032756,A60,1,1,1.0
+2014-5,E01032852,A1,1,1,1.0
+2014-5,E01032853,A81,1,1,1.0
+2014-5,E01032854,A60,1,1,1.0
+2014-5,E01032941,A60,1,1,1.0
+2014-5,E01032942,A56,1,1,1.0
+2014-5,E01032947,A48,1,1,1.0
+2014-5,E01032950,A48,1,1,1.0
+2014-5,E01032951,A79,1,1,1.0
+2014-5,E01032953,A60,2,2,1.0
+2014-5,E01032954,A41,1,1,1.0
+2014-5,E01033282,A86,1,1,1.0
+2014-5,E01033306,A60,1,1,1.0

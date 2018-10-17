@@ -1,1789 +1,1789 @@
-period,LSOA,SHEF_A,report_count,user_count,average
-2008-1,E01000001,Graffiti,1,1,1.0
-2008-1,E01000003,Graffiti,1,1,1.0
-2008-1,E01000003,Street Lights,1,1,1.0
-2008-1,E01000024,Abandoned Vehicles,1,1,1.0
-2008-1,E01000073,Abandoned Vehicles,1,1,1.0
-2008-1,E01000161,Highway Condition,1,1,1.0
-2008-1,E01000163,Abandoned Vehicles,1,1,1.0
-2008-1,E01000196,Potholes,1,1,1.0
-2008-1,E01000204,Traffic Lights,1,1,1.0
-2008-1,E01000218,Abandoned Vehicles,1,1,1.0
-2008-1,E01000236,Other,1,1,1.0
-2008-1,E01000281,Traffic Lights,1,1,1.0
-2008-1,E01000302,Potholes,1,1,1.0
-2008-1,E01000462,Potholes,1,1,1.0
-2008-1,E01000469,Abandoned Vehicles,1,1,1.0
-2008-1,E01000481,Other,1,1,1.0
-2008-1,E01000575,Street Lights,1,1,1.0
-2008-1,E01000656,Potholes,1,1,1.0
-2008-1,E01000732,Dog Fouling,1,1,1.0
-2008-1,E01000850,Highway Condition,1,1,1.0
-2008-1,E01000852,Highway Condition,1,1,1.0
-2008-1,E01000914,Other,1,1,1.0
-2008-1,E01000918,Pavement /Footway Defects,1,1,1.0
-2008-1,E01000918,Potholes,1,1,1.0
-2008-1,E01000919,Highway Condition,1,1,1.0
-2008-1,E01000953,Graffiti,1,1,1.0
-2008-1,E01000953,Street Signs,1,1,1.0
-2008-1,E01000985,Rubbish,1,1,1.0
-2008-1,E01001083,Flyposting,1,1,1.0
-2008-1,E01001094,Fly-tipping,1,1,1.0
-2008-1,E01001097,Abandoned Vehicles,1,1,1.0
-2008-1,E01001097,Pavement /Footway Defects,1,1,1.0
-2008-1,E01001237,Rubbish,1,1,1.0
-2008-1,E01001246,Abandoned Vehicles,1,1,1.0
-2008-1,E01001251,Pavement /Footway Defects,1,1,1.0
-2008-1,E01001283,Potholes,1,1,1.0
-2008-1,E01001283,Rubbish,1,1,1.0
-2008-1,E01001307,Dog Fouling,1,1,1.0
-2008-1,E01001311,Fly-tipping,1,1,1.0
-2008-1,E01001387,Highway Condition,1,1,1.0
-2008-1,E01001419,Pavement /Footway Defects,1,1,1.0
-2008-1,E01001470,Potholes,1,1,1.0
-2008-1,E01001498,Abandoned Vehicles,1,1,1.0
-2008-1,E01001518,Highway Condition,1,1,1.0
-2008-1,E01001521,Street Lights,1,1,1.0
-2008-1,E01001530,Potholes,1,1,1.0
-2008-1,E01001532,Pavement /Footway Defects,1,1,1.0
-2008-1,E01001567,Potholes,1,1,1.0
-2008-1,E01001568,Fly-tipping,1,1,1.0
-2008-1,E01001584,Other,1,1,1.0
-2008-1,E01001590,Rubbish,1,1,1.0
-2008-1,E01001608,Parking,1,1,1.0
-2008-1,E01001640,Other,1,1,1.0
-2008-1,E01001666,Fly-tipping,1,1,1.0
-2008-1,E01001666,Graffiti,3,1,3.0
-2008-1,E01001666,Rubbish,1,1,1.0
-2008-1,E01001709,Graffiti,1,1,1.0
-2008-1,E01001736,Rubbish,1,1,1.0
-2008-1,E01001738,Street Signs,1,1,1.0
-2008-1,E01001755,Other,1,1,1.0
-2008-1,E01001788,Dog Fouling,1,1,1.0
-2008-1,E01001836,Abandoned Vehicles,1,1,1.0
-2008-1,E01001879,Dog Fouling,1,1,1.0
-2008-1,E01001968,Other,1,1,1.0
-2008-1,E01001969,Potholes,1,1,1.0
-2008-1,E01001971,Potholes,1,1,1.0
-2008-1,E01001975,Potholes,1,1,1.0
-2008-1,E01002015,Potholes,1,1,1.0
-2008-1,E01002018,Abandoned Vehicles,1,1,1.0
-2008-1,E01002018,Dog Fouling,1,1,1.0
-2008-1,E01002061,Abandoned Vehicles,1,1,1.0
-2008-1,E01002063,Pavement /Footway Defects,1,1,1.0
-2008-1,E01002065,Highway Condition,1,1,1.0
-2008-1,E01002065,Other,1,1,1.0
-2008-1,E01002084,Potholes,1,1,1.0
-2008-1,E01002113,Abandoned Vehicles,1,1,1.0
-2008-1,E01002137,Potholes,1,1,1.0
-2008-1,E01002177,Abandoned Vehicles,1,1,1.0
-2008-1,E01002181,Dog Fouling,1,1,1.0
-2008-1,E01002217,Dog Fouling,1,1,1.0
-2008-1,E01002273,Dog Fouling,1,1,1.0
-2008-1,E01002286,Dog Fouling,1,1,1.0
-2008-1,E01002469,Abandoned Vehicles,1,1,1.0
-2008-1,E01002506,Pavement /Footway Defects,1,1,1.0
-2008-1,E01002554,Abandoned Vehicles,1,1,1.0
-2008-1,E01002566,Street Lights,1,1,1.0
-2008-1,E01002568,Potholes,1,1,1.0
-2008-1,E01002581,Abandoned Vehicles,1,1,1.0
-2008-1,E01002626,Abandoned Vehicles,1,1,1.0
-2008-1,E01002635,Abandoned Vehicles,1,1,1.0
-2008-1,E01002664,Potholes,1,1,1.0
-2008-1,E01002684,Other,1,1,1.0
-2008-1,E01002684,Potholes,1,1,1.0
-2008-1,E01002686,Potholes,1,1,1.0
-2008-1,E01002687,Street Lights,1,1,1.0
-2008-1,E01002687,Traffic Lights,1,1,1.0
-2008-1,E01002704,Fly-tipping,4,1,4.0
-2008-1,E01002704,Graffiti,5,1,5.0
-2008-1,E01002704,Other,2,1,2.0
-2008-1,E01002704,Pavement /Footway Defects,2,1,2.0
-2008-1,E01002704,Potholes,2,1,2.0
-2008-1,E01002704,Street Lights,2,1,2.0
-2008-1,E01002704,Street Signs,1,1,1.0
-2008-1,E01002707,Traffic Lights,1,1,1.0
-2008-1,E01002708,Fly-tipping,1,1,1.0
-2008-1,E01002708,Graffiti,2,1,2.0
-2008-1,E01002708,Highway Condition,1,1,1.0
-2008-1,E01002708,Potholes,1,1,1.0
-2008-1,E01002708,Street Lights,1,1,1.0
-2008-1,E01002709,Fly-tipping,2,1,2.0
-2008-1,E01002709,Graffiti,1,1,1.0
-2008-1,E01002709,Highway Condition,1,1,1.0
-2008-1,E01002710,Fly-tipping,1,1,1.0
-2008-1,E01002710,Graffiti,2,1,2.0
-2008-1,E01002712,Bus Stops Damage,1,1,1.0
-2008-1,E01002712,Graffiti,1,1,1.0
-2008-1,E01002713,Fly-tipping,1,1,1.0
-2008-1,E01002714,Other,1,1,1.0
-2008-1,E01002715,Fly-tipping,1,1,1.0
-2008-1,E01002718,Rubbish,1,1,1.0
-2008-1,E01002720,Abandoned Vehicles,1,1,1.0
-2008-1,E01002726,Graffiti,1,1,1.0
-2008-1,E01002741,Street Signs,1,1,1.0
-2008-1,E01002747,Highway Condition,1,1,1.0
-2008-1,E01002756,Fly-tipping,1,1,1.0
-2008-1,E01002798,Street Lights,1,1,1.0
-2008-1,E01002928,Bus Stops Damage,1,1,1.0
-2008-1,E01002934,Potholes,1,1,1.0
-2008-1,E01002962,Highway Condition,1,1,1.0
-2008-1,E01002984,Parking,1,1,1.0
-2008-1,E01003041,Potholes,1,1,1.0
-2008-1,E01003053,Potholes,1,1,1.0
-2008-1,E01003057,Potholes,1,1,1.0
-2008-1,E01003062,Rubbish,1,1,1.0
-2008-1,E01003063,Other,1,1,1.0
-2008-1,E01003073,Other,1,1,1.0
-2008-1,E01003074,Rubbish,1,1,1.0
-2008-1,E01003076,Street Signs,1,1,1.0
-2008-1,E01003081,Pavement /Footway Defects,1,1,1.0
-2008-1,E01003107,Highway Condition,1,1,1.0
-2008-1,E01003118,Parking,1,1,1.0
-2008-1,E01003131,Fly-tipping,1,1,1.0
-2008-1,E01003132,Highway Condition,1,1,1.0
-2008-1,E01003166,Fly-tipping,1,1,1.0
-2008-1,E01003183,Potholes,1,1,1.0
-2008-1,E01003226,Dog Fouling,1,1,1.0
-2008-1,E01003227,Pavement /Footway Defects,1,1,1.0
-2008-1,E01003252,Abandoned Vehicles,1,1,1.0
-2008-1,E01003283,Abandoned Vehicles,1,1,1.0
-2008-1,E01003287,Abandoned Vehicles,1,1,1.0
-2008-1,E01003310,Dog Fouling,1,1,1.0
-2008-1,E01003336,Rubbish,1,1,1.0
-2008-1,E01003421,Potholes,1,1,1.0
-2008-1,E01003426,Potholes,1,1,1.0
-2008-1,E01003459,Rubbish,1,1,1.0
-2008-1,E01003554,Fly-tipping,1,1,1.0
-2008-1,E01003562,Fly-tipping,2,1,2.0
-2008-1,E01003622,Street Lights,1,1,1.0
-2008-1,E01003637,Highway Condition,1,1,1.0
-2008-1,E01003669,Street Lights,1,1,1.0
-2008-1,E01003691,Abandoned Vehicles,1,1,1.0
-2008-1,E01003698,Abandoned Vehicles,1,1,1.0
-2008-1,E01003746,Street Lights,1,1,1.0
-2008-1,E01003750,Traffic Lights,1,1,1.0
-2008-1,E01003793,Abandoned Vehicles,1,1,1.0
-2008-1,E01003793,Highway Condition,1,1,1.0
-2008-1,E01003804,Rubbish,1,1,1.0
-2008-1,E01003837,Graffiti,1,1,1.0
-2008-1,E01003844,Street Lights,1,1,1.0
-2008-1,E01003846,Pavement /Footway Defects,1,1,1.0
-2008-1,E01003865,Street Lights,1,1,1.0
-2008-1,E01003874,Dog Fouling,1,1,1.0
-2008-1,E01003884,Other,1,1,1.0
-2008-1,E01003884,Pavement /Footway Defects,1,1,1.0
-2008-1,E01003896,Pavement /Footway Defects,1,1,1.0
-2008-1,E01003909,Pavement /Footway Defects,1,1,1.0
-2008-1,E01003929,Potholes,1,1,1.0
-2008-1,E01003934,Traffic Lights,1,1,1.0
-2008-1,E01003939,Other,1,1,1.0
-2008-1,E01003960,Street Signs,1,1,1.0
-2008-1,E01004014,Potholes,1,1,1.0
-2008-1,E01004027,Potholes,1,1,1.0
-2008-1,E01004033,Highway Condition,1,1,1.0
-2008-1,E01004033,Street Lights,1,1,1.0
-2008-1,E01004103,Street Lights,1,1,1.0
-2008-1,E01004145,Abandoned Vehicles,2,2,1.0
-2008-1,E01004170,Street Cleaning,1,1,1.0
-2008-1,E01004230,Graffiti,1,1,1.0
-2008-1,E01004274,Highway Condition,1,1,1.0
-2008-1,E01004350,Other,1,1,1.0
-2008-1,E01004397,Pavement /Footway Defects,1,1,1.0
-2008-1,E01004399,Rubbish,1,1,1.0
-2008-1,E01004405,Graffiti,1,1,1.0
-2008-1,E01004409,Graffiti,1,1,1.0
-2008-1,E01004410,Parking,1,1,1.0
-2008-1,E01004411,Pavement /Footway Defects,1,1,1.0
-2008-1,E01004411,Potholes,1,1,1.0
-2008-1,E01004411,Rubbish,1,1,1.0
-2008-1,E01004443,Street Cleaning,1,1,1.0
-2008-1,E01004453,Potholes,1,1,1.0
-2008-1,E01004458,Rubbish,1,1,1.0
-2008-1,E01004462,Street Lights,1,1,1.0
-2008-1,E01004466,Dog Fouling,1,1,1.0
-2008-1,E01004515,Rubbish,1,1,1.0
-2008-1,E01004558,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01004569,Pavement /Footway Defects,1,1,1.0
-2008-1,E01004572,Rubbish,1,1,1.0
-2008-1,E01004573,Graffiti,2,1,2.0
-2008-1,E01004577,Other,1,1,1.0
-2008-1,E01004590,Abandoned Vehicles,1,1,1.0
-2008-1,E01004614,Pavement /Footway Defects,1,1,1.0
-2008-1,E01004654,Highway Condition,1,1,1.0
-2008-1,E01004687,Highway Condition,1,1,1.0
-2008-1,E01004727,Street Lights,1,1,1.0
-2008-1,E01004733,Highway Condition,1,1,1.0
-2008-1,E01004735,Potholes,1,1,1.0
-2008-1,E01004750,Highway Condition,1,1,1.0
-2008-1,E01004750,Pavement /Footway Defects,1,1,1.0
-2008-1,E01004761,Highway Condition,1,1,1.0
-2008-1,E01004766,Dog Fouling,1,1,1.0
-2008-1,E01004818,Potholes,1,1,1.0
-2008-1,E01004823,Fly-tipping,1,1,1.0
-2008-1,E01004823,Street Lights,1,1,1.0
-2008-1,E01004841,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01004897,Parking,2,1,2.0
-2008-1,E01004916,Rubbish,1,1,1.0
-2008-1,E01004917,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01004927,Potholes,1,1,1.0
-2008-1,E01004934,Street Lights,1,1,1.0
-2008-1,E01004937,Pavement /Footway Defects,1,1,1.0
-2008-1,E01005062,Other,1,1,1.0
-2008-1,E01005079,Potholes,1,1,1.0
-2008-1,E01005105,Potholes,1,1,1.0
-2008-1,E01005158,Dog Fouling,2,2,1.0
-2008-1,E01005197,Dog Fouling,1,1,1.0
-2008-1,E01005200,Fly-tipping,1,1,1.0
-2008-1,E01005200,Rubbish,1,1,1.0
-2008-1,E01005260,Potholes,1,1,1.0
-2008-1,E01005269,Potholes,1,1,1.0
-2008-1,E01005281,Abandoned Vehicles,1,1,1.0
-2008-1,E01005281,Fly-tipping,1,1,1.0
-2008-1,E01005284,Potholes,1,1,1.0
-2008-1,E01005286,Fly-tipping,1,1,1.0
-2008-1,E01005286,Other,1,1,1.0
-2008-1,E01005286,Rubbish,1,1,1.0
-2008-1,E01005386,Fly-tipping,1,1,1.0
-2008-1,E01005411,Street Signs,1,1,1.0
-2008-1,E01005412,Other,1,1,1.0
-2008-1,E01005412,Street Lights,1,1,1.0
-2008-1,E01005503,Dog Fouling,1,1,1.0
-2008-1,E01005508,Potholes,1,1,1.0
-2008-1,E01005554,Street Signs,1,1,1.0
-2008-1,E01005555,Street Cleaning,1,1,1.0
-2008-1,E01005602,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01005604,Open Spaces/Parks,1,1,1.0
-2008-1,E01005618,Potholes,1,1,1.0
-2008-1,E01005642,Dog Fouling,1,1,1.0
-2008-1,E01005667,Other,1,1,1.0
-2008-1,E01005667,Rubbish,1,1,1.0
-2008-1,E01005691,Dog Fouling,1,1,1.0
-2008-1,E01005766,Abandoned Vehicles,1,1,1.0
-2008-1,E01005768,Potholes,1,1,1.0
-2008-1,E01005772,Potholes,1,1,1.0
-2008-1,E01005799,Dog Fouling,1,1,1.0
-2008-1,E01005836,Abandoned Vehicles,1,1,1.0
-2008-1,E01005871,Dog Fouling,1,1,1.0
-2008-1,E01005897,Potholes,1,1,1.0
-2008-1,E01005897,Street Lights,1,1,1.0
-2008-1,E01005971,Dog Fouling,1,1,1.0
-2008-1,E01005971,Rubbish,1,1,1.0
-2008-1,E01005984,Street Lights,1,1,1.0
-2008-1,E01006035,Other,1,1,1.0
-2008-1,E01006158,Rubbish,1,1,1.0
-2008-1,E01006170,Rubbish,1,1,1.0
-2008-1,E01006231,Potholes,1,1,1.0
-2008-1,E01006332,Highway Condition,1,1,1.0
-2008-1,E01006341,Dog Fouling,1,1,1.0
-2008-1,E01006346,Fly-tipping,1,1,1.0
-2008-1,E01006440,Street Signs,1,1,1.0
-2008-1,E01006454,Street Lights,1,1,1.0
-2008-1,E01006520,Potholes,1,1,1.0
-2008-1,E01006551,Street Cleaning,1,1,1.0
-2008-1,E01006632,Dog Fouling,1,1,1.0
-2008-1,E01007003,Dog Fouling,1,1,1.0
-2008-1,E01007040,Dog Fouling,1,1,1.0
-2008-1,E01007062,Potholes,1,1,1.0
-2008-1,E01007096,Potholes,1,1,1.0
-2008-1,E01007138,Other,1,1,1.0
-2008-1,E01007163,Other,1,1,1.0
-2008-1,E01007208,Potholes,1,1,1.0
-2008-1,E01007209,Street Lights,1,1,1.0
-2008-1,E01007399,Other,1,1,1.0
-2008-1,E01007403,Highway Condition,1,1,1.0
-2008-1,E01007406,Other,1,1,1.0
-2008-1,E01007416,Parking,1,1,1.0
-2008-1,E01007417,Street Cleaning,1,1,1.0
-2008-1,E01007426,Highway Condition,1,1,1.0
-2008-1,E01007434,Graffiti,1,1,1.0
-2008-1,E01007435,Rubbish,1,1,1.0
-2008-1,E01007438,Other,1,1,1.0
-2008-1,E01007448,Potholes,1,1,1.0
-2008-1,E01007450,Fly-tipping,1,1,1.0
-2008-1,E01007465,Pavement /Footway Defects,1,1,1.0
-2008-1,E01007521,Abandoned Vehicles,1,1,1.0
-2008-1,E01007522,Dog Fouling,1,1,1.0
-2008-1,E01007522,Street Lights,1,1,1.0
-2008-1,E01007579,Fly-tipping,7,1,7.0
-2008-1,E01007579,Rubbish,1,1,1.0
-2008-1,E01007584,Rubbish,1,1,1.0
-2008-1,E01007586,Highway Condition,1,1,1.0
-2008-1,E01007645,Other,1,1,1.0
-2008-1,E01007666,Potholes,1,1,1.0
-2008-1,E01007693,Other,1,1,1.0
-2008-1,E01007693,Street Lights,1,1,1.0
-2008-1,E01007705,Street Lights,1,1,1.0
-2008-1,E01007711,Other,1,1,1.0
-2008-1,E01007715,Street Cleaning,1,1,1.0
-2008-1,E01007732,Street Lights,1,1,1.0
-2008-1,E01007742,Highway Condition,1,1,1.0
-2008-1,E01007747,Potholes,1,1,1.0
-2008-1,E01007755,Street Lights,1,1,1.0
-2008-1,E01007781,Pavement /Footway Defects,1,1,1.0
-2008-1,E01007816,Street Lights,1,1,1.0
-2008-1,E01007817,Street Name Plates,1,1,1.0
-2008-1,E01007819,Pavement /Footway Defects,1,1,1.0
-2008-1,E01007819,Street Lights,3,1,3.0
-2008-1,E01007819,Street Signs,1,1,1.0
-2008-1,E01007820,Fly-tipping,1,1,1.0
-2008-1,E01007820,Other,2,1,2.0
-2008-1,E01007820,Pavement /Footway Defects,1,1,1.0
-2008-1,E01007820,Street Lights,1,1,1.0
-2008-1,E01007821,Graffiti,1,1,1.0
-2008-1,E01007821,Street Lights,1,1,1.0
-2008-1,E01007822,Other,1,1,1.0
-2008-1,E01007822,Rubbish,1,1,1.0
-2008-1,E01007838,Potholes,2,1,2.0
-2008-1,E01007838,Rubbish,1,1,1.0
-2008-1,E01007843,Graffiti,1,1,1.0
-2008-1,E01007847,Potholes,1,1,1.0
-2008-1,E01007847,Street Cleaning,1,1,1.0
-2008-1,E01007879,Pavement /Footway Defects,1,1,1.0
-2008-1,E01007894,Street Lights,1,1,1.0
-2008-1,E01007897,Parking,1,1,1.0
-2008-1,E01007904,Street Lights,1,1,1.0
-2008-1,E01007909,Dog Fouling,2,2,1.0
-2008-1,E01007909,Other,1,1,1.0
-2008-1,E01007910,Dog Fouling,1,1,1.0
-2008-1,E01007912,Parking,1,1,1.0
-2008-1,E01007943,Other,1,1,1.0
-2008-1,E01007971,Other,1,1,1.0
-2008-1,E01007972,Graffiti,1,1,1.0
-2008-1,E01007973,Pavement /Footway Defects,1,1,1.0
-2008-1,E01008001,Street Name Plates,1,1,1.0
-2008-1,E01008004,Street Cleaning,1,1,1.0
-2008-1,E01008004,Street Lights,1,1,1.0
-2008-1,E01008037,Abandoned Vehicles,1,1,1.0
-2008-1,E01008077,Potholes,1,1,1.0
-2008-1,E01008088,Highway Condition,1,1,1.0
-2008-1,E01008105,Street Lights,1,1,1.0
-2008-1,E01008112,Highway Condition,1,1,1.0
-2008-1,E01008134,Pavement /Footway Defects,1,1,1.0
-2008-1,E01008140,Potholes,1,1,1.0
-2008-1,E01008142,Dog Fouling,1,1,1.0
-2008-1,E01008145,Highway Condition,1,1,1.0
-2008-1,E01008149,Dog Fouling,1,1,1.0
-2008-1,E01008150,Dog Fouling,1,1,1.0
-2008-1,E01008161,Fly-tipping,1,1,1.0
-2008-1,E01008161,Highway Condition,1,1,1.0
-2008-1,E01008532,Dog Fouling,1,1,1.0
-2008-1,E01008553,Street Lights,1,1,1.0
-2008-1,E01008558,Abandoned Vehicles,1,1,1.0
-2008-1,E01008849,Street Lights,1,1,1.0
-2008-1,E01008874,Dog Fouling,1,1,1.0
-2008-1,E01008874,Other,1,1,1.0
-2008-1,E01008954,Potholes,1,1,1.0
-2008-1,E01008980,Street Cleaning,1,1,1.0
-2008-1,E01008994,Graffiti,1,1,1.0
-2008-1,E01009074,Abandoned Vehicles,1,1,1.0
-2008-1,E01009110,Street Cleaning,1,1,1.0
-2008-1,E01009112,Potholes,1,1,1.0
-2008-1,E01009120,Street Cleaning,1,1,1.0
-2008-1,E01009160,Potholes,1,1,1.0
-2008-1,E01009175,Graffiti,1,1,1.0
-2008-1,E01009189,Graffiti,4,1,4.0
-2008-1,E01009217,Street Cleaning,1,1,1.0
-2008-1,E01009266,Rubbish,1,1,1.0
-2008-1,E01009296,Street Lights,1,1,1.0
-2008-1,E01009424,Potholes,1,1,1.0
-2008-1,E01009441,Graffiti,1,1,1.0
-2008-1,E01009441,Highway Condition,1,1,1.0
-2008-1,E01009441,Street Signs,3,1,3.0
-2008-1,E01009590,Street Lights,1,1,1.0
-2008-1,E01009671,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01009672,Potholes,1,1,1.0
-2008-1,E01009731,Street Cleaning,1,1,1.0
-2008-1,E01009808,Street Lights,1,1,1.0
-2008-1,E01009833,Highway Condition,1,1,1.0
-2008-1,E01009964,Other,1,1,1.0
-2008-1,E01009972,Abandoned Vehicles,1,1,1.0
-2008-1,E01009994,Street Cleaning,1,1,1.0
-2008-1,E01010109,Potholes,1,1,1.0
-2008-1,E01010167,Parking,1,1,1.0
-2008-1,E01010171,Street Lights,1,1,1.0
-2008-1,E01010181,Dog Fouling,1,1,1.0
-2008-1,E01010261,Dog Fouling,1,1,1.0
-2008-1,E01010331,Pavement /Footway Defects,2,1,2.0
-2008-1,E01010333,Potholes,1,1,1.0
-2008-1,E01010337,Potholes,1,1,1.0
-2008-1,E01010347,Other,1,1,1.0
-2008-1,E01010363,Potholes,1,1,1.0
-2008-1,E01010371,Fly-tipping,1,1,1.0
-2008-1,E01010577,Street Lights,1,1,1.0
-2008-1,E01010663,Dog Fouling,1,1,1.0
-2008-1,E01010670,Street Lights,1,1,1.0
-2008-1,E01010792,Abandoned Vehicles,1,1,1.0
-2008-1,E01010937,Highway Condition,1,1,1.0
-2008-1,E01011042,Dog Fouling,1,1,1.0
-2008-1,E01011334,Fly-tipping,1,1,1.0
-2008-1,E01011341,Fly-tipping,1,1,1.0
-2008-1,E01011406,Pavement /Footway Defects,1,1,1.0
-2008-1,E01011406,Potholes,1,1,1.0
-2008-1,E01011409,Potholes,1,1,1.0
-2008-1,E01011417,Pavement /Footway Defects,1,1,1.0
-2008-1,E01011431,Highway Condition,1,1,1.0
-2008-1,E01011433,Rubbish,1,1,1.0
-2008-1,E01011447,Dog Fouling,1,1,1.0
-2008-1,E01011505,Pavement /Footway Defects,1,1,1.0
-2008-1,E01011507,Other,1,1,1.0
-2008-1,E01011507,Street Lights,1,1,1.0
-2008-1,E01011529,Street Cleaning,1,1,1.0
-2008-1,E01011554,Potholes,1,1,1.0
-2008-1,E01011572,Graffiti,1,1,1.0
-2008-1,E01011591,Highway Condition,1,1,1.0
-2008-1,E01011639,Dog Fouling,1,1,1.0
-2008-1,E01011649,Street Cleaning,1,1,1.0
-2008-1,E01011665,Rubbish,1,1,1.0
-2008-1,E01011667,Street Lights,1,1,1.0
-2008-1,E01011691,Potholes,1,1,1.0
-2008-1,E01011692,Potholes,1,1,1.0
-2008-1,E01011719,Potholes,1,1,1.0
-2008-1,E01011735,Dog Fouling,1,1,1.0
-2008-1,E01012022,Abandoned Vehicles,1,1,1.0
-2008-1,E01012165,Abandoned Vehicles,1,1,1.0
-2008-1,E01012200,Street Cleaning,1,1,1.0
-2008-1,E01012314,Abandoned Vehicles,1,1,1.0
-2008-1,E01012443,Fly-tipping,1,1,1.0
-2008-1,E01012446,Potholes,1,1,1.0
-2008-1,E01012474,Highway Condition,1,1,1.0
-2008-1,E01012514,Highway Condition,1,1,1.0
-2008-1,E01012515,Potholes,1,1,1.0
-2008-1,E01012557,Highway Condition,1,1,1.0
-2008-1,E01012560,Street Lights,1,1,1.0
-2008-1,E01012863,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01012927,Potholes,2,1,2.0
-2008-1,E01012962,Graffiti,1,1,1.0
-2008-1,E01012981,Potholes,2,1,2.0
-2008-1,E01012983,Highway Condition,1,1,1.0
-2008-1,E01012990,Potholes,1,1,1.0
-2008-1,E01012991,Potholes,1,1,1.0
-2008-1,E01012996,Highway Condition,1,1,1.0
-2008-1,E01012996,Pavement /Footway Defects,1,1,1.0
-2008-1,E01013025,Potholes,1,1,1.0
-2008-1,E01013030,Potholes,1,1,1.0
-2008-1,E01013034,Street Lights,1,1,1.0
-2008-1,E01013047,Dog Fouling,1,1,1.0
-2008-1,E01013062,Pavement /Footway Defects,1,1,1.0
-2008-1,E01013120,Dog Fouling,1,1,1.0
-2008-1,E01013127,Highway Condition,1,1,1.0
-2008-1,E01013127,Potholes,2,1,2.0
-2008-1,E01013191,Dog Fouling,1,1,1.0
-2008-1,E01013260,Parking,1,1,1.0
-2008-1,E01013336,Street Lights,1,1,1.0
-2008-1,E01013410,Dog Fouling,1,1,1.0
-2008-1,E01013414,Dog Fouling,1,1,1.0
-2008-1,E01013528,Potholes,1,1,1.0
-2008-1,E01013596,Potholes,1,1,1.0
-2008-1,E01013677,Dog Fouling,1,1,1.0
-2008-1,E01013734,Rubbish,1,1,1.0
-2008-1,E01013757,Pavement /Footway Defects,1,1,1.0
-2008-1,E01013779,Graffiti,1,1,1.0
-2008-1,E01013810,Graffiti,1,1,1.0
-2008-1,E01013810,Highway Condition,1,1,1.0
-2008-1,E01013810,Other,2,1,2.0
-2008-1,E01013810,Street Lights,2,1,2.0
-2008-1,E01013810,Street Name Plates,1,1,1.0
-2008-1,E01013811,Street Name Plates,1,1,1.0
-2008-1,E01013816,Other,1,1,1.0
-2008-1,E01013842,Graffiti,2,1,2.0
-2008-1,E01013842,Highway Condition,1,1,1.0
-2008-1,E01013842,Street Signs,2,1,2.0
-2008-1,E01013844,Street Lights,1,1,1.0
-2008-1,E01013928,Highway Condition,1,1,1.0
-2008-1,E01013930,Dog Fouling,1,1,1.0
-2008-1,E01013930,Graffiti,9,1,9.0
-2008-1,E01013930,Other,5,1,5.0
-2008-1,E01013930,Street Cleaning,1,1,1.0
-2008-1,E01013930,Street Lights,4,1,4.0
-2008-1,E01013931,Highway Condition,2,1,2.0
-2008-1,E01013938,Highway Condition,1,1,1.0
-2008-1,E01013974,Street Signs,1,1,1.0
-2008-1,E01013991,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014008,Parking,1,1,1.0
-2008-1,E01014016,Other,1,1,1.0
-2008-1,E01014016,Potholes,1,1,1.0
-2008-1,E01014026,Graffiti,1,1,1.0
-2008-1,E01014031,Highway Condition,1,1,1.0
-2008-1,E01014041,Highway Condition,1,1,1.0
-2008-1,E01014042,Flyposting,1,1,1.0
-2008-1,E01014043,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014046,Abandoned Vehicles,1,1,1.0
-2008-1,E01014055,Street Signs,1,1,1.0
-2008-1,E01014084,Highway Condition,1,1,1.0
-2008-1,E01014149,Highway Condition,1,1,1.0
-2008-1,E01014151,Potholes,1,1,1.0
-2008-1,E01014153,Potholes,2,1,2.0
-2008-1,E01014191,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014262,Other,1,1,1.0
-2008-1,E01014388,Potholes,1,1,1.0
-2008-1,E01014397,Abandoned Vehicles,1,1,1.0
-2008-1,E01014416,Potholes,1,1,1.0
-2008-1,E01014444,Street Lights,1,1,1.0
-2008-1,E01014515,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014539,Fly-tipping,1,1,1.0
-2008-1,E01014560,Parking,1,1,1.0
-2008-1,E01014560,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014560,Street Lights,1,1,1.0
-2008-1,E01014561,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014561,Rubbish,1,1,1.0
-2008-1,E01014563,Highway Condition,4,2,2.0
-2008-1,E01014563,Other,1,1,1.0
-2008-1,E01014563,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014563,Rubbish,2,2,1.0
-2008-1,E01014577,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01014577,Street Lights,1,1,1.0
-2008-1,E01014630,Rubbish,2,1,2.0
-2008-1,E01014654,Street Lights,1,1,1.0
-2008-1,E01014659,Highway Condition,1,1,1.0
-2008-1,E01014695,Abandoned Vehicles,1,1,1.0
-2008-1,E01014696,Graffiti,1,1,1.0
-2008-1,E01014699,Parking,1,1,1.0
-2008-1,E01014701,Street Signs,1,1,1.0
-2008-1,E01014738,Abandoned Vehicles,1,1,1.0
-2008-1,E01014781,Highway Condition,1,1,1.0
-2008-1,E01014789,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014793,Street Signs,1,1,1.0
-2008-1,E01014811,Abandoned Vehicles,1,1,1.0
-2008-1,E01014883,Pavement /Footway Defects,1,1,1.0
-2008-1,E01014891,Other,2,1,2.0
-2008-1,E01014962,Potholes,1,1,1.0
-2008-1,E01015129,Abandoned Vehicles,2,1,2.0
-2008-1,E01015203,Dog Fouling,1,1,1.0
-2008-1,E01015363,Abandoned Vehicles,1,1,1.0
-2008-1,E01015480,Highway Condition,1,1,1.0
-2008-1,E01015526,Dog Fouling,1,1,1.0
-2008-1,E01015579,Dog Fouling,1,1,1.0
-2008-1,E01015580,Rubbish,1,1,1.0
-2008-1,E01015591,Pavement /Footway Defects,1,1,1.0
-2008-1,E01015612,Fly-tipping,1,1,1.0
-2008-1,E01015612,Pavement /Footway Defects,1,1,1.0
-2008-1,E01015612,Rubbish,1,1,1.0
-2008-1,E01015622,Street Lights,1,1,1.0
-2008-1,E01015624,Fly-tipping,1,1,1.0
-2008-1,E01015632,Street Lights,1,1,1.0
-2008-1,E01015634,Fly-tipping,1,1,1.0
-2008-1,E01015640,Street Cleaning,1,1,1.0
-2008-1,E01015667,Fly-tipping,1,1,1.0
-2008-1,E01015691,Street Lights,1,1,1.0
-2008-1,E01015717,Dog Fouling,1,1,1.0
-2008-1,E01015778,Street Name Plates,1,1,1.0
-2008-1,E01015798,Abandoned Vehicles,1,1,1.0
-2008-1,E01015971,Potholes,1,1,1.0
-2008-1,E01015980,Dog Fouling,1,1,1.0
-2008-1,E01016082,Abandoned Vehicles,1,1,1.0
-2008-1,E01016170,Abandoned Vehicles,1,1,1.0
-2008-1,E01016213,Street Lights,1,1,1.0
-2008-1,E01016277,Dog Fouling,1,1,1.0
-2008-1,E01016279,Pavement /Footway Defects,1,1,1.0
-2008-1,E01016345,Potholes,1,1,1.0
-2008-1,E01016353,Rubbish,1,1,1.0
-2008-1,E01016358,Street Lights,1,1,1.0
-2008-1,E01016362,Potholes,1,1,1.0
-2008-1,E01016398,Graffiti,1,1,1.0
-2008-1,E01016427,Street Name Plates,1,1,1.0
-2008-1,E01016442,Dog Fouling,1,1,1.0
-2008-1,E01016535,Graffiti,1,1,1.0
-2008-1,E01016535,Rubbish,1,1,1.0
-2008-1,E01016673,Potholes,1,1,1.0
-2008-1,E01016682,Other,1,1,1.0
-2008-1,E01016682,Street Lights,1,1,1.0
-2008-1,E01016703,Street Lights,1,1,1.0
-2008-1,E01016735,Street Lights,1,1,1.0
-2008-1,E01016823,Street Lights,1,1,1.0
-2008-1,E01016849,Recycling,1,1,1.0
-2008-1,E01016850,Other,2,1,2.0
-2008-1,E01016874,Graffiti,1,1,1.0
-2008-1,E01016885,Pavement /Footway Defects,1,1,1.0
-2008-1,E01016889,Street Cleaning,1,1,1.0
-2008-1,E01016908,Parking,1,1,1.0
-2008-1,E01016925,Abandoned Vehicles,1,1,1.0
-2008-1,E01016950,Pavement /Footway Defects,2,1,2.0
-2008-1,E01016954,Recycling,1,1,1.0
-2008-1,E01016954,Street Signs,1,1,1.0
-2008-1,E01016963,Other,1,1,1.0
-2008-1,E01016986,Abandoned Vehicles,1,1,1.0
-2008-1,E01016992,Parking,1,1,1.0
-2008-1,E01017008,Other,1,1,1.0
-2008-1,E01017154,Abandoned Vehicles,1,1,1.0
-2008-1,E01017193,Potholes,1,1,1.0
-2008-1,E01017210,Potholes,1,1,1.0
-2008-1,E01017260,Parking,1,1,1.0
-2008-1,E01017311,Traffic Lights,1,1,1.0
-2008-1,E01017363,Fly-tipping,1,1,1.0
-2008-1,E01017363,Potholes,2,1,2.0
-2008-1,E01017367,Street Name Plates,1,1,1.0
-2008-1,E01017369,Highway Condition,1,1,1.0
-2008-1,E01017384,Abandoned Vehicles,1,1,1.0
-2008-1,E01017384,Dog Fouling,1,1,1.0
-2008-1,E01017411,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01017411,Other,1,1,1.0
-2008-1,E01017419,Potholes,1,1,1.0
-2008-1,E01017474,Fly-tipping,1,1,1.0
-2008-1,E01017478,Potholes,1,1,1.0
-2008-1,E01017550,Potholes,1,1,1.0
-2008-1,E01017558,Fly-tipping,1,1,1.0
-2008-1,E01017567,Potholes,1,1,1.0
-2008-1,E01017586,Dog Fouling,12,1,12.0
-2008-1,E01017586,Fly-tipping,1,1,1.0
-2008-1,E01017655,Dog Fouling,1,1,1.0
-2008-1,E01017655,Parking,1,1,1.0
-2008-1,E01017655,Pavement /Footway Defects,1,1,1.0
-2008-1,E01017666,Highway Condition,1,1,1.0
-2008-1,E01017671,Street Lights,1,1,1.0
-2008-1,E01017678,Pavement /Footway Defects,1,1,1.0
-2008-1,E01017681,Abandoned Vehicles,1,1,1.0
-2008-1,E01017700,Potholes,1,1,1.0
-2008-1,E01017734,Potholes,1,1,1.0
-2008-1,E01017774,Pavement /Footway Defects,1,1,1.0
-2008-1,E01017777,Abandoned Vehicles,1,1,1.0
-2008-1,E01017786,Potholes,1,1,1.0
-2008-1,E01017794,Potholes,1,1,1.0
-2008-1,E01017796,Dog Fouling,1,1,1.0
-2008-1,E01017808,Potholes,1,1,1.0
-2008-1,E01017823,Fly-tipping,2,1,2.0
-2008-1,E01017842,Abandoned Vehicles,1,1,1.0
-2008-1,E01017849,Abandoned Vehicles,1,1,1.0
-2008-1,E01017871,Street Lights,2,1,2.0
-2008-1,E01017898,Street Lights,1,1,1.0
-2008-1,E01017904,Abandoned Vehicles,1,1,1.0
-2008-1,E01017908,Dog Fouling,1,1,1.0
-2008-1,E01017922,Street Lights,1,1,1.0
-2008-1,E01017947,Traffic Lights,1,1,1.0
-2008-1,E01017953,Street Signs,1,1,1.0
-2008-1,E01017954,Street Lights,1,1,1.0
-2008-1,E01017965,Street Lights,1,1,1.0
-2008-1,E01017971,Graffiti,2,1,2.0
-2008-1,E01017973,Potholes,1,1,1.0
-2008-1,E01017983,Potholes,1,1,1.0
-2008-1,E01017991,Street Cleaning,1,1,1.0
-2008-1,E01017993,Bus Stops Damage,2,1,2.0
-2008-1,E01017998,Pavement /Footway Defects,1,1,1.0
-2008-1,E01018006,Potholes,5,2,2.5
-2008-1,E01018008,Highway Condition,1,1,1.0
-2008-1,E01018008,Potholes,1,1,1.0
-2008-1,E01018012,Potholes,1,1,1.0
-2008-1,E01018017,Street Signs,1,1,1.0
-2008-1,E01018123,Dog Fouling,1,1,1.0
-2008-1,E01018154,Street Lights,1,1,1.0
-2008-1,E01018197,Street Lights,1,1,1.0
-2008-1,E01018198,Street Lights,1,1,1.0
-2008-1,E01018204,Highway Condition,1,1,1.0
-2008-1,E01018208,Rubbish,1,1,1.0
-2008-1,E01018209,Street Lights,1,1,1.0
-2008-1,E01018223,Potholes,1,1,1.0
-2008-1,E01018236,Street Lights,1,1,1.0
-2008-1,E01018272,Highway Condition,1,1,1.0
-2008-1,E01018272,Street Lights,1,1,1.0
-2008-1,E01018273,Potholes,1,1,1.0
-2008-1,E01018273,Street Signs,1,1,1.0
-2008-1,E01018280,Other,1,1,1.0
-2008-1,E01018281,Street Lights,1,1,1.0
-2008-1,E01018289,Highway Condition,1,1,1.0
-2008-1,E01018299,Potholes,1,1,1.0
-2008-1,E01018301,Potholes,1,1,1.0
-2008-1,E01018320,Dog Fouling,1,1,1.0
-2008-1,E01018339,Dog Fouling,1,1,1.0
-2008-1,E01018342,Potholes,1,1,1.0
-2008-1,E01018367,Potholes,1,1,1.0
-2008-1,E01018403,Potholes,1,1,1.0
-2008-1,E01018407,Street Lights,1,1,1.0
-2008-1,E01018432,Abandoned Vehicles,1,1,1.0
-2008-1,E01018432,Dog Fouling,1,1,1.0
-2008-1,E01018490,Parking,2,1,2.0
-2008-1,E01018504,Abandoned Vehicles,1,1,1.0
-2008-1,E01018593,Rubbish,1,1,1.0
-2008-1,E01018606,Potholes,1,1,1.0
-2008-1,E01018614,Street Lights,1,1,1.0
-2008-1,E01018624,Rubbish,1,1,1.0
-2008-1,E01018624,Street Lights,1,1,1.0
-2008-1,E01018633,Street Lights,1,1,1.0
-2008-1,E01018651,Rubbish,1,1,1.0
-2008-1,E01018688,Highway Condition,1,1,1.0
-2008-1,E01018800,Highway Condition,1,1,1.0
-2008-1,E01018804,Street Lights,1,1,1.0
-2008-1,E01018971,Pavement /Footway Defects,1,1,1.0
-2008-1,E01019109,Fly-tipping,3,2,1.5
-2008-1,E01019109,Street Cleaning,2,1,2.0
-2008-1,E01019109,Street Lights,1,1,1.0
-2008-1,E01019111,Fly-tipping,1,1,1.0
-2008-1,E01019113,Fly-tipping,1,1,1.0
-2008-1,E01019113,Other,1,1,1.0
-2008-1,E01019190,Street Lights,1,1,1.0
-2008-1,E01019236,Rubbish,1,1,1.0
-2008-1,E01019296,Potholes,2,1,2.0
-2008-1,E01019311,Dog Fouling,1,1,1.0
-2008-1,E01019343,Street Cleaning,1,1,1.0
-2008-1,E01019429,Street Lights,1,1,1.0
-2008-1,E01019457,Highway Condition,1,1,1.0
-2008-1,E01019468,Potholes,1,1,1.0
-2008-1,E01019630,Potholes,1,1,1.0
-2008-1,E01019643,Highway Condition,1,1,1.0
-2008-1,E01019653,Dog Fouling,1,1,1.0
-2008-1,E01019653,Rubbish,1,1,1.0
-2008-1,E01019656,Dog Fouling,1,1,1.0
-2008-1,E01019656,Other,1,1,1.0
-2008-1,E01019656,Potholes,1,1,1.0
-2008-1,E01019656,Rubbish,1,1,1.0
-2008-1,E01019656,Street Cleaning,1,1,1.0
-2008-1,E01019664,Open Spaces/Parks,1,1,1.0
-2008-1,E01019675,Highway Condition,1,1,1.0
-2008-1,E01019675,Street Cleaning,1,1,1.0
-2008-1,E01019681,Street Cleaning,1,1,1.0
-2008-1,E01019697,Dog Fouling,2,1,2.0
-2008-1,E01019697,Highway Condition,2,1,2.0
-2008-1,E01019697,Open Spaces/Parks,1,1,1.0
-2008-1,E01019697,Other,1,1,1.0
-2008-1,E01019697,Street Name Plates,1,1,1.0
-2008-1,E01019698,Highway Condition,1,1,1.0
-2008-1,E01019698,Pavement /Footway Defects,1,1,1.0
-2008-1,E01019700,Highway Condition,3,1,3.0
-2008-1,E01019700,Pavement /Footway Defects,1,1,1.0
-2008-1,E01019701,Dog Fouling,1,1,1.0
-2008-1,E01019816,Dog Fouling,1,1,1.0
-2008-1,E01019887,Abandoned Vehicles,1,1,1.0
-2008-1,E01019894,Dog Fouling,2,1,2.0
-2008-1,E01019895,Dog Fouling,1,1,1.0
-2008-1,E01019895,Other,1,1,1.0
-2008-1,E01019897,Abandoned Vehicles,1,1,1.0
-2008-1,E01019897,Dog Fouling,6,1,6.0
-2008-1,E01019919,Traffic Lights,2,1,2.0
-2008-1,E01019939,Potholes,1,1,1.0
-2008-1,E01020043,Potholes,1,1,1.0
-2008-1,E01020067,Street Lights,1,1,1.0
-2008-1,E01020189,Street Lights,1,1,1.0
-2008-1,E01020315,Potholes,1,1,1.0
-2008-1,E01020340,Dog Fouling,1,1,1.0
-2008-1,E01020345,Street Lights,1,1,1.0
-2008-1,E01020424,Dog Fouling,1,1,1.0
-2008-1,E01020539,Highway Condition,4,2,2.0
-2008-1,E01020539,Other,2,2,1.0
-2008-1,E01020539,Potholes,3,1,3.0
-2008-1,E01020551,Other,1,1,1.0
-2008-1,E01020557,Other,1,1,1.0
-2008-1,E01020702,Bus Stops Damage,1,1,1.0
-2008-1,E01020740,Dog Fouling,2,1,2.0
-2008-1,E01020742,Potholes,1,1,1.0
-2008-1,E01020802,Dog Fouling,1,1,1.0
-2008-1,E01020899,Dog Fouling,1,1,1.0
-2008-1,E01020910,Street Cleaning,1,1,1.0
-2008-1,E01020987,Other,1,1,1.0
-2008-1,E01021035,Rubbish,1,1,1.0
-2008-1,E01021128,Abandoned Vehicles,1,1,1.0
-2008-1,E01021132,Fly-tipping,1,1,1.0
-2008-1,E01021140,Street Lights,1,1,1.0
-2008-1,E01021141,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01021155,Potholes,1,1,1.0
-2008-1,E01021189,Other,1,1,1.0
-2008-1,E01021190,Other,1,1,1.0
-2008-1,E01021193,Graffiti,1,1,1.0
-2008-1,E01021216,Potholes,1,1,1.0
-2008-1,E01021267,Parking,1,1,1.0
-2008-1,E01021267,Rubbish,1,1,1.0
-2008-1,E01021300,Street Cleaning,1,1,1.0
-2008-1,E01021335,Potholes,1,1,1.0
-2008-1,E01021443,Potholes,1,1,1.0
-2008-1,E01021748,Street Signs,2,1,2.0
-2008-1,E01021750,Street Lights,4,1,4.0
-2008-1,E01021750,Street Signs,5,1,5.0
-2008-1,E01021768,Potholes,1,1,1.0
-2008-1,E01021771,Street Lights,2,1,2.0
-2008-1,E01021772,Potholes,1,1,1.0
-2008-1,E01021776,Pavement /Footway Defects,1,1,1.0
-2008-1,E01021778,Pavement /Footway Defects,1,1,1.0
-2008-1,E01021781,Street Lights,1,1,1.0
-2008-1,E01021789,Highway Condition,1,1,1.0
-2008-1,E01021789,Potholes,3,1,3.0
-2008-1,E01021790,Traffic Lights,1,1,1.0
-2008-1,E01021791,Potholes,1,1,1.0
-2008-1,E01021791,Street Lights,1,1,1.0
-2008-1,E01021801,Highway Condition,1,1,1.0
-2008-1,E01021836,Pavement /Footway Defects,1,1,1.0
-2008-1,E01021857,Potholes,1,1,1.0
-2008-1,E01022101,Street Lights,1,1,1.0
-2008-1,E01022105,Street Lights,1,1,1.0
-2008-1,E01022106,Pavement /Footway Defects,1,1,1.0
-2008-1,E01022106,Potholes,1,1,1.0
-2008-1,E01022107,Street Lights,2,2,1.0
-2008-1,E01022123,Traffic Lights,1,1,1.0
-2008-1,E01022129,Parking,1,1,1.0
-2008-1,E01022130,Street Signs,1,1,1.0
-2008-1,E01022136,Street Cleaning,1,1,1.0
-2008-1,E01022137,Fly-tipping,1,1,1.0
-2008-1,E01022138,Highway Condition,1,1,1.0
-2008-1,E01022141,Highway Condition,1,1,1.0
-2008-1,E01022142,Street Lights,1,1,1.0
-2008-1,E01022153,Highway Condition,1,1,1.0
-2008-1,E01022153,Pavement /Footway Defects,1,1,1.0
-2008-1,E01022158,Fly-tipping,1,1,1.0
-2008-1,E01022160,Rubbish,1,1,1.0
-2008-1,E01022160,Street Lights,1,1,1.0
-2008-1,E01022168,Street Lights,1,1,1.0
-2008-1,E01022176,Potholes,1,1,1.0
-2008-1,E01022187,Highway Condition,1,1,1.0
-2008-1,E01022194,Pavement /Footway Defects,1,1,1.0
-2008-1,E01022205,Potholes,2,1,2.0
-2008-1,E01022263,Potholes,2,1,2.0
-2008-1,E01022264,Potholes,3,1,3.0
-2008-1,E01022331,Abandoned Vehicles,1,1,1.0
-2008-1,E01022409,Highway Condition,1,1,1.0
-2008-1,E01022409,Street Lights,1,1,1.0
-2008-1,E01022410,Street Lights,1,1,1.0
-2008-1,E01022412,Potholes,1,1,1.0
-2008-1,E01022422,Potholes,1,1,1.0
-2008-1,E01022462,Other,1,1,1.0
-2008-1,E01022472,Potholes,1,1,1.0
-2008-1,E01022528,Graffiti,1,1,1.0
-2008-1,E01022540,Abandoned Vehicles,1,1,1.0
-2008-1,E01022601,Potholes,1,1,1.0
-2008-1,E01022618,Potholes,1,1,1.0
-2008-1,E01022653,Potholes,1,1,1.0
-2008-1,E01022721,Highway Condition,1,1,1.0
-2008-1,E01022721,Potholes,1,1,1.0
-2008-1,E01022723,Abandoned Vehicles,1,1,1.0
-2008-1,E01022867,Street Lights,1,1,1.0
-2008-1,E01022947,Potholes,1,1,1.0
-2008-1,E01023014,Potholes,1,1,1.0
-2008-1,E01023022,Street Lights,1,1,1.0
-2008-1,E01023023,Fly-tipping,1,1,1.0
-2008-1,E01023031,Dog Fouling,1,1,1.0
-2008-1,E01023135,Other,1,1,1.0
-2008-1,E01023135,Street Cleaning,1,1,1.0
-2008-1,E01023162,Potholes,1,1,1.0
-2008-1,E01023175,Pavement /Footway Defects,1,1,1.0
-2008-1,E01023178,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01023224,Fly-tipping,2,1,2.0
-2008-1,E01023224,Highway Condition,2,1,2.0
-2008-1,E01023224,Potholes,1,1,1.0
-2008-1,E01023249,Potholes,1,1,1.0
-2008-1,E01023258,Pavement /Footway Defects,1,1,1.0
-2008-1,E01023287,Other,1,1,1.0
-2008-1,E01023287,Potholes,1,1,1.0
-2008-1,E01023313,Rubbish,1,1,1.0
-2008-1,E01023330,Highway Condition,1,1,1.0
-2008-1,E01023361,Potholes,1,1,1.0
-2008-1,E01023366,Graffiti,1,1,1.0
-2008-1,E01023474,Pavement /Footway Defects,1,1,1.0
-2008-1,E01023477,Abandoned Vehicles,1,1,1.0
-2008-1,E01023482,Graffiti,1,1,1.0
-2008-1,E01023512,Potholes,1,1,1.0
-2008-1,E01023513,Pavement /Footway Defects,1,1,1.0
-2008-1,E01023513,Potholes,2,2,1.0
-2008-1,E01023514,Highway Condition,2,2,1.0
-2008-1,E01023514,Potholes,1,1,1.0
-2008-1,E01023514,Street Signs,1,1,1.0
-2008-1,E01023517,Highway Condition,1,1,1.0
-2008-1,E01023559,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01023559,Highway Condition,1,1,1.0
-2008-1,E01023559,Pavement /Footway Defects,1,1,1.0
-2008-1,E01023602,Graffiti,1,1,1.0
-2008-1,E01023613,Fly-tipping,1,1,1.0
-2008-1,E01023613,Parking,1,1,1.0
-2008-1,E01023660,Potholes,1,1,1.0
-2008-1,E01023660,Street Lights,1,1,1.0
-2008-1,E01023673,Potholes,1,1,1.0
-2008-1,E01023704,Highway Condition,1,1,1.0
-2008-1,E01023708,Potholes,1,1,1.0
-2008-1,E01023727,Potholes,1,1,1.0
-2008-1,E01023727,Street Cleaning,1,1,1.0
-2008-1,E01023733,Potholes,1,1,1.0
-2008-1,E01023779,Potholes,1,1,1.0
-2008-1,E01023790,Street Lights,1,1,1.0
-2008-1,E01023820,Street Lights,1,1,1.0
-2008-1,E01023833,Street Lights,1,1,1.0
-2008-1,E01023850,Street Lights,1,1,1.0
-2008-1,E01023917,Graffiti,1,1,1.0
-2008-1,E01023918,Pavement /Footway Defects,1,1,1.0
-2008-1,E01023919,Abandoned Vehicles,1,1,1.0
-2008-1,E01023940,Other,1,1,1.0
-2008-1,E01023940,Potholes,1,1,1.0
-2008-1,E01023940,Street Signs,1,1,1.0
-2008-1,E01023944,Other,1,1,1.0
-2008-1,E01023944,Street Lights,2,1,2.0
-2008-1,E01023952,Street Lights,1,1,1.0
-2008-1,E01024020,Street Lights,1,1,1.0
-2008-1,E01024042,Potholes,3,1,3.0
-2008-1,E01024140,Abandoned Vehicles,1,1,1.0
-2008-1,E01024149,Dog Fouling,1,1,1.0
-2008-1,E01024162,Rubbish,1,1,1.0
-2008-1,E01024331,Abandoned Vehicles,1,1,1.0
-2008-1,E01024332,Pavement /Footway Defects,1,1,1.0
-2008-1,E01024345,Highway Condition,1,1,1.0
-2008-1,E01024361,Street Lights,1,1,1.0
-2008-1,E01024429,Potholes,1,1,1.0
-2008-1,E01024433,Street Lights,1,1,1.0
-2008-1,E01024445,Potholes,1,1,1.0
-2008-1,E01024445,Street Name Plates,1,1,1.0
-2008-1,E01024465,Abandoned Vehicles,2,1,2.0
-2008-1,E01024490,Potholes,2,1,2.0
-2008-1,E01024533,Fly-tipping,1,1,1.0
-2008-1,E01024533,Other,1,1,1.0
-2008-1,E01024547,Street Lights,1,1,1.0
-2008-1,E01024550,Potholes,1,1,1.0
-2008-1,E01024567,Pavement /Footway Defects,1,1,1.0
-2008-1,E01024567,Street Cleaning,1,1,1.0
-2008-1,E01024667,Street Lights,1,1,1.0
-2008-1,E01024671,Parking,1,1,1.0
-2008-1,E01024692,Dog Fouling,1,1,1.0
-2008-1,E01024698,Other,1,1,1.0
-2008-1,E01024701,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01024755,Pavement /Footway Defects,1,1,1.0
-2008-1,E01024768,Street Lights,1,1,1.0
-2008-1,E01024777,Street Lights,1,1,1.0
-2008-1,E01024781,Pavement /Footway Defects,1,1,1.0
-2008-1,E01024783,Potholes,1,1,1.0
-2008-1,E01024793,Fly-tipping,1,1,1.0
-2008-1,E01024798,Highway Condition,1,1,1.0
-2008-1,E01024798,Potholes,1,1,1.0
-2008-1,E01024801,Street Lights,1,1,1.0
-2008-1,E01024802,Potholes,1,1,1.0
-2008-1,E01024813,Dog Fouling,1,1,1.0
-2008-1,E01024824,Potholes,1,1,1.0
-2008-1,E01024825,Street Lights,1,1,1.0
-2008-1,E01024828,Parking,1,1,1.0
-2008-1,E01024829,Abandoned Vehicles,1,1,1.0
-2008-1,E01024852,Street Lights,1,1,1.0
-2008-1,E01024913,Highway Condition,1,1,1.0
-2008-1,E01024936,Graffiti,1,1,1.0
-2008-1,E01024936,Rubbish,1,1,1.0
-2008-1,E01024954,Street Lights,1,1,1.0
-2008-1,E01024988,Dog Fouling,1,1,1.0
-2008-1,E01025000,Dog Fouling,1,1,1.0
-2008-1,E01025031,Fly-tipping,1,1,1.0
-2008-1,E01025077,Potholes,1,1,1.0
-2008-1,E01025083,Potholes,1,1,1.0
-2008-1,E01025179,Parking,1,1,1.0
-2008-1,E01025179,Pavement /Footway Defects,1,1,1.0
-2008-1,E01025185,Abandoned Vehicles,1,1,1.0
-2008-1,E01025231,Rubbish,1,1,1.0
-2008-1,E01025262,Pavement /Footway Defects,1,1,1.0
-2008-1,E01025263,Street Cleaning,1,1,1.0
-2008-1,E01025264,Bus Stops Damage,1,1,1.0
-2008-1,E01025290,Street Signs,1,1,1.0
-2008-1,E01025425,Graffiti,1,1,1.0
-2008-1,E01025593,Rubbish,1,1,1.0
-2008-1,E01025615,Street Lights,1,1,1.0
-2008-1,E01025625,Potholes,1,1,1.0
-2008-1,E01025627,Dog Fouling,1,1,1.0
-2008-1,E01025646,Parking,1,1,1.0
-2008-1,E01025693,Dog Fouling,1,1,1.0
-2008-1,E01025761,Dog Fouling,1,1,1.0
-2008-1,E01025890,Potholes,1,1,1.0
-2008-1,E01026095,Potholes,1,1,1.0
-2008-1,E01026169,Potholes,1,1,1.0
-2008-1,E01026169,Street Lights,1,1,1.0
-2008-1,E01026176,Street Lights,1,1,1.0
-2008-1,E01026226,Potholes,1,1,1.0
-2008-1,E01026263,Highway Condition,1,1,1.0
-2008-1,E01026328,Fly-tipping,1,1,1.0
-2008-1,E01026328,Other,2,1,2.0
-2008-1,E01026452,Rubbish,1,1,1.0
-2008-1,E01026478,Street Lights,1,1,1.0
-2008-1,E01026479,Fly-tipping,2,1,2.0
-2008-1,E01026495,Potholes,1,1,1.0
-2008-1,E01026559,Highway Condition,1,1,1.0
-2008-1,E01026574,Other,1,1,1.0
-2008-1,E01026575,Street Lights,1,1,1.0
-2008-1,E01026598,Fly-tipping,1,1,1.0
-2008-1,E01026622,Fly-tipping,1,1,1.0
-2008-1,E01026623,Dog Fouling,1,1,1.0
-2008-1,E01026625,Fly-tipping,4,1,4.0
-2008-1,E01026626,Fly-tipping,2,1,2.0
-2008-1,E01026629,Street Signs,1,1,1.0
-2008-1,E01026663,Street Lights,1,1,1.0
-2008-1,E01026677,Pavement /Footway Defects,1,1,1.0
-2008-1,E01026682,Potholes,1,1,1.0
-2008-1,E01026713,Fly-tipping,1,1,1.0
-2008-1,E01026713,Rubbish,1,1,1.0
-2008-1,E01026742,Street Name Plates,1,1,1.0
-2008-1,E01026743,Parking,1,1,1.0
-2008-1,E01026743,Pavement /Footway Defects,1,1,1.0
-2008-1,E01026743,Public Toilets,1,1,1.0
-2008-1,E01026750,Dog Fouling,1,1,1.0
-2008-1,E01026769,Fly-tipping,1,1,1.0
-2008-1,E01026772,Street Lights,1,1,1.0
-2008-1,E01026811,Highway Condition,1,1,1.0
-2008-1,E01026863,Fly-tipping,1,1,1.0
-2008-1,E01026916,Potholes,1,1,1.0
-2008-1,E01026946,Dog Fouling,1,1,1.0
-2008-1,E01026954,Street Lights,1,1,1.0
-2008-1,E01026980,Street Lights,1,1,1.0
-2008-1,E01026993,Potholes,1,1,1.0
-2008-1,E01026994,Potholes,1,1,1.0
-2008-1,E01027073,Street Lights,1,1,1.0
-2008-1,E01027117,Street Signs,1,1,1.0
-2008-1,E01027140,Potholes,1,1,1.0
-2008-1,E01027177,Abandoned Vehicles,1,1,1.0
-2008-1,E01027183,Potholes,2,1,2.0
-2008-1,E01027185,Abandoned Vehicles,1,1,1.0
-2008-1,E01027211,Street Lights,1,1,1.0
-2008-1,E01027223,Other,1,1,1.0
-2008-1,E01027252,Fly-tipping,1,1,1.0
-2008-1,E01027255,Other,1,1,1.0
-2008-1,E01027259,Highway Condition,1,1,1.0
-2008-1,E01027268,Other,1,1,1.0
-2008-1,E01027344,Street Lights,1,1,1.0
-2008-1,E01027356,Potholes,1,1,1.0
-2008-1,E01027388,Dog Fouling,1,1,1.0
-2008-1,E01027394,Pavement /Footway Defects,1,1,1.0
-2008-1,E01027483,Dog Fouling,1,1,1.0
-2008-1,E01027488,Potholes,2,1,2.0
-2008-1,E01027657,Street Lights,1,1,1.0
-2008-1,E01027678,Graffiti,1,1,1.0
-2008-1,E01027732,Open Spaces/Parks,1,1,1.0
-2008-1,E01027758,Dog Fouling,1,1,1.0
-2008-1,E01027942,Potholes,1,1,1.0
-2008-1,E01027975,Street Lights,1,1,1.0
-2008-1,E01027995,Rubbish,1,1,1.0
-2008-1,E01028180,Rubbish,1,1,1.0
-2008-1,E01028189,Fly-tipping,1,1,1.0
-2008-1,E01028199,Graffiti,1,1,1.0
-2008-1,E01028207,Dog Fouling,1,1,1.0
-2008-1,E01028274,Pavement /Footway Defects,1,1,1.0
-2008-1,E01028312,Potholes,2,1,2.0
-2008-1,E01028405,Street Lights,1,1,1.0
-2008-1,E01028438,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01028498,Dog Fouling,1,1,1.0
-2008-1,E01028521,Highway Condition,1,1,1.0
-2008-1,E01028521,Traffic Lights,1,1,1.0
-2008-1,E01028553,Abandoned Vehicles,1,1,1.0
-2008-1,E01028611,Potholes,1,1,1.0
-2008-1,E01028618,Dog Fouling,1,1,1.0
-2008-1,E01028638,Fly-tipping,1,1,1.0
-2008-1,E01028648,Dog Fouling,1,1,1.0
-2008-1,E01028648,Street Lights,1,1,1.0
-2008-1,E01028668,Potholes,1,1,1.0
-2008-1,E01028726,Potholes,1,1,1.0
-2008-1,E01028735,Potholes,1,1,1.0
-2008-1,E01028736,Street Signs,1,1,1.0
-2008-1,E01028744,Potholes,1,1,1.0
-2008-1,E01028779,Dog Fouling,1,1,1.0
-2008-1,E01028840,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01028840,Highway Condition,1,1,1.0
-2008-1,E01028840,Other,1,1,1.0
-2008-1,E01028840,Street Lights,3,1,3.0
-2008-1,E01029035,Street Lights,1,1,1.0
-2008-1,E01029070,Potholes,1,1,1.0
-2008-1,E01029128,Highway Condition,1,1,1.0
-2008-1,E01029256,Highway Condition,1,1,1.0
-2008-1,E01029521,Potholes,1,1,1.0
-2008-1,E01029808,Dog Fouling,1,1,1.0
-2008-1,E01029861,Rubbish,1,1,1.0
-2008-1,E01030000,Dog Fouling,1,1,1.0
-2008-1,E01030007,Dog Fouling,1,1,1.0
-2008-1,E01030008,Abandoned Vehicles,1,1,1.0
-2008-1,E01030159,Dog Fouling,1,1,1.0
-2008-1,E01030350,Highway Condition,1,1,1.0
-2008-1,E01030369,Pavement /Footway Defects,1,1,1.0
-2008-1,E01030376,Street Lights,1,1,1.0
-2008-1,E01030441,Potholes,1,1,1.0
-2008-1,E01030452,Rubbish,1,1,1.0
-2008-1,E01030460,Potholes,1,1,1.0
-2008-1,E01030463,Other,1,1,1.0
-2008-1,E01030463,Pavement /Footway Defects,1,1,1.0
-2008-1,E01030470,Potholes,1,1,1.0
-2008-1,E01030499,Highway Condition,1,1,1.0
-2008-1,E01030504,Other,1,1,1.0
-2008-1,E01030504,Potholes,1,1,1.0
-2008-1,E01030537,Highway Condition,1,1,1.0
-2008-1,E01030537,Pavement /Footway Defects,1,1,1.0
-2008-1,E01030537,Street Lights,1,1,1.0
-2008-1,E01030547,Other,1,1,1.0
-2008-1,E01030550,Potholes,1,1,1.0
-2008-1,E01030552,Parking,1,1,1.0
-2008-1,E01030571,Potholes,1,1,1.0
-2008-1,E01030574,Dog Fouling,1,1,1.0
-2008-1,E01030579,Street Lights,1,1,1.0
-2008-1,E01030581,Street Lights,1,1,1.0
-2008-1,E01030611,Highway Condition,1,1,1.0
-2008-1,E01030612,Street Cleaning,1,1,1.0
-2008-1,E01030617,Highway Condition,1,1,1.0
-2008-1,E01030619,Potholes,1,1,1.0
-2008-1,E01030625,Potholes,1,1,1.0
-2008-1,E01030707,Abandoned Vehicles,1,1,1.0
-2008-1,E01030717,Potholes,1,1,1.0
-2008-1,E01030753,Potholes,1,1,1.0
-2008-1,E01030852,Potholes,1,1,1.0
-2008-1,E01030855,Potholes,3,1,3.0
-2008-1,E01030859,Pavement /Footway Defects,1,1,1.0
-2008-1,E01030864,Potholes,1,1,1.0
-2008-1,E01030875,Bus Stops Damage,1,1,1.0
-2008-1,E01030881,Fallen/Dangerous Trees,1,1,1.0
-2008-1,E01030881,Potholes,3,1,3.0
-2008-1,E01030899,Highway Condition,1,1,1.0
-2008-1,E01030905,Potholes,1,1,1.0
-2008-1,E01030906,Potholes,1,1,1.0
-2008-1,E01030908,Potholes,1,1,1.0
-2008-1,E01030909,Potholes,1,1,1.0
-2008-1,E01030910,Potholes,2,1,2.0
-2008-1,E01030954,Other,1,1,1.0
-2008-1,E01030962,Street Lights,2,1,2.0
-2008-1,E01030979,Abandoned Vehicles,1,1,1.0
-2008-1,E01030979,Rubbish,1,1,1.0
-2008-1,E01030990,Potholes,1,1,1.0
-2008-1,E01031000,Highway Condition,1,1,1.0
-2008-1,E01031027,Fly-tipping,1,1,1.0
-2008-1,E01031027,Street Signs,3,1,3.0
-2008-1,E01031049,Dog Fouling,1,1,1.0
-2008-1,E01031049,Rubbish,1,1,1.0
-2008-1,E01031146,Open Spaces/Parks,1,1,1.0
-2008-1,E01031214,Potholes,1,1,1.0
-2008-1,E01031234,Other,1,1,1.0
-2008-1,E01031243,Street Cleaning,1,1,1.0
-2008-1,E01031282,Highway Condition,1,1,1.0
-2008-1,E01031282,Pavement /Footway Defects,2,2,1.0
-2008-1,E01031283,Dog Fouling,1,1,1.0
-2008-1,E01031382,Parking,1,1,1.0
-2008-1,E01031384,Potholes,1,1,1.0
-2008-1,E01031394,Street Lights,1,1,1.0
-2008-1,E01031409,Abandoned Vehicles,1,1,1.0
-2008-1,E01031459,Dog Fouling,1,1,1.0
-2008-1,E01031521,Abandoned Vehicles,1,1,1.0
-2008-1,E01031557,Potholes,1,1,1.0
-2008-1,E01031647,Abandoned Vehicles,1,1,1.0
-2008-1,E01031687,Dog Fouling,1,1,1.0
-2008-1,E01031687,Rubbish,1,1,1.0
-2008-1,E01031687,Street Cleaning,1,1,1.0
-2008-1,E01031703,Potholes,1,1,1.0
-2008-1,E01031710,Abandoned Vehicles,1,1,1.0
-2008-1,E01031715,Potholes,1,1,1.0
-2008-1,E01031729,Street Lights,1,1,1.0
-2008-1,E01031733,Pavement /Footway Defects,1,1,1.0
-2008-1,E01031741,Potholes,1,1,1.0
-2008-1,E01031764,Highway Condition,1,1,1.0
-2008-1,E01031766,Highway Condition,2,1,2.0
-2008-1,E01031785,Street Lights,1,1,1.0
-2008-1,E01031833,Dog Fouling,1,1,1.0
-2008-1,E01031865,Potholes,1,1,1.0
-2008-1,E01031870,Potholes,1,1,1.0
-2008-1,E01031885,Potholes,2,1,2.0
-2008-1,E01031894,Potholes,2,1,2.0
-2008-1,E01031988,Dog Fouling,1,1,1.0
-2008-1,E01031991,Potholes,1,1,1.0
-2008-1,E01031991,Street Signs,1,1,1.0
-2008-1,E01032014,Highway Condition,1,1,1.0
-2008-1,E01032022,Highway Condition,1,1,1.0
-2008-1,E01032067,Highway Condition,1,1,1.0
-2008-1,E01032114,Graffiti,1,1,1.0
-2008-1,E01032123,Potholes,1,1,1.0
-2008-1,E01032127,Potholes,1,1,1.0
-2008-1,E01032130,Other,1,1,1.0
-2008-1,E01032130,Street Cleaning,1,1,1.0
-2008-1,E01032132,Other,1,1,1.0
-2008-1,E01032133,Pavement /Footway Defects,1,1,1.0
-2008-1,E01032134,Highway Condition,1,1,1.0
-2008-1,E01032134,Potholes,1,1,1.0
-2008-1,E01032134,Street Signs,1,1,1.0
-2008-1,E01032152,Potholes,2,1,2.0
-2008-1,E01032156,Bus Stops Damage,1,1,1.0
-2008-1,E01032156,Potholes,1,1,1.0
-2008-1,E01032169,Potholes,1,1,1.0
-2008-1,E01032173,Street Cleaning,1,1,1.0
-2008-1,E01032178,Street Cleaning,1,1,1.0
-2008-1,E01032193,Potholes,1,1,1.0
-2008-1,E01032214,Potholes,2,2,1.0
-2008-1,E01032239,Potholes,1,1,1.0
-2008-1,E01032240,Potholes,1,1,1.0
-2008-1,E01032250,Dog Fouling,1,1,1.0
-2008-1,E01032256,Street Lights,1,1,1.0
-2008-1,E01032272,Abandoned Vehicles,1,1,1.0
-2008-1,E01032299,Dog Fouling,1,1,1.0
-2008-1,E01032427,Potholes,1,1,1.0
-2008-1,E01032435,Potholes,1,1,1.0
-2008-1,E01032440,Dog Fouling,1,1,1.0
-2008-1,E01032462,Potholes,1,1,1.0
-2008-1,E01032471,Rubbish,1,1,1.0
-2008-1,E01032471,Street Cleaning,1,1,1.0
-2008-1,E01032472,Potholes,1,1,1.0
-2008-1,E01032477,Potholes,2,1,2.0
-2008-1,E01032480,Flyposting,1,1,1.0
-2008-1,E01032482,Street Cleaning,1,1,1.0
-2008-1,E01032504,Potholes,1,1,1.0
-2008-1,E01032531,Dog Fouling,1,1,1.0
-2008-1,E01032610,Potholes,1,1,1.0
-2008-1,E01032680,Potholes,1,1,1.0
-2008-1,E01032687,Potholes,1,1,1.0
-2008-1,E01032711,Street Lights,1,1,1.0
-2008-1,E01032716,Fly-tipping,1,1,1.0
-2008-1,E01032720,Potholes,1,1,1.0
-2008-1,E01032726,Fly-tipping,1,1,1.0
-2008-1,E01032739,Other,1,1,1.0
-2008-1,E01032739,Potholes,1,1,1.0
-2008-1,E01032764,Pavement /Footway Defects,1,1,1.0
-2008-1,E01032785,Fly-tipping,2,2,1.0
-2008-1,E01032795,Potholes,1,1,1.0
-2008-1,E01032797,Potholes,2,1,2.0
-2008-1,E01032797,Traffic Lights,2,2,1.0
-2008-1,E01032802,Street Lights,1,1,1.0
-2008-1,E01032805,Dog Fouling,1,1,1.0
-2008-1,E01032813,Dog Fouling,1,1,1.0
-2008-1,E01032852,Street Lights,1,1,1.0
-2008-1,E01032900,Street Lights,1,1,1.0
-2008-1,E01032907,Potholes,1,1,1.0
-2008-1,E01032922,Other,1,1,1.0
-2008-1,E01032925,Graffiti,1,1,1.0
-2008-1,E01032925,Street Cleaning,1,1,1.0
-2008-1,E01032939,Graffiti,1,1,1.0
-2008-1,E01032973,Street Lights,1,1,1.0
-2008-1,E01032993,Dog Fouling,1,1,1.0
-2008-1,E01033005,Rubbish,1,1,1.0
-2008-1,E01033006,Potholes,1,1,1.0
-2008-1,E01033061,Potholes,1,1,1.0
-2008-1,E01033082,Street Lights,1,1,1.0
-2008-1,E01033083,Street Lights,1,1,1.0
-2008-1,E01033098,Potholes,1,1,1.0
-2008-1,E01033127,Abandoned Vehicles,1,1,1.0
-2008-1,E01033127,Fly-tipping,1,1,1.0
-2008-1,E01033127,Graffiti,1,1,1.0
-2008-1,E01033127,Street Cleaning,1,1,1.0
-2008-1,E01033181,Abandoned Vehicles,1,1,1.0
-2008-1,E01033213,Potholes,1,1,1.0
-2008-1,E01033279,Street Name Plates,1,1,1.0
-2008-1,E01033300,Potholes,1,1,1.0
-2008-1,E01033367,Other,1,1,1.0
-2008-1,E01033489,Potholes,2,2,1.0
-2008-1,E01033503,Potholes,2,1,2.0
-2008-1,E01033520,Dog Fouling,1,1,1.0
-2008-1,E01033572,Other,1,1,1.0
-2008-1,E01033595,Traffic Lights,1,1,1.0
-2008-1,E01033606,Dog Fouling,1,1,1.0
-2008-1,E01033620,Potholes,1,1,1.0
-2008-1,E01033690,Street Cleaning,1,1,1.0
-2008-1,E01033690,Street Signs,1,1,1.0
-2008-1,E01033694,Rubbish,1,1,1.0
-2008-1,E01033700,Street Lights,1,1,1.0
-2008-1,E01033702,Street Cleaning,1,1,1.0
-2008-1,E01033704,Fly-tipping,1,1,1.0
-2008-1,E01033708,Graffiti,1,1,1.0
-2008-1,S01006510,Other,1,1,1.0
-2008-1,S01006514,Street Signs,1,1,1.0
-2008-1,S01006516,Street Signs,2,1,2.0
-2008-1,S01006517,Highway Condition,2,1,2.0
-2008-1,S01006518,Street Lights,1,1,1.0
-2008-1,S01006521,Street Signs,2,1,2.0
-2008-1,S01006523,Street Signs,2,1,2.0
-2008-1,S01006529,Highway Condition,1,1,1.0
-2008-1,S01006529,Traffic Lights,1,1,1.0
-2008-1,S01006538,Street Signs,1,1,1.0
-2008-1,S01006544,Highway Condition,2,1,2.0
-2008-1,S01006551,Traffic Lights,1,1,1.0
-2008-1,S01006569,Abandoned Vehicles,1,1,1.0
-2008-1,S01006577,Other,1,1,1.0
-2008-1,S01006577,Potholes,1,1,1.0
-2008-1,S01006586,Highway Condition,1,1,1.0
-2008-1,S01006587,Pavement /Footway Defects,2,1,2.0
-2008-1,S01006593,Street Lights,1,1,1.0
-2008-1,S01006602,Other,1,1,1.0
-2008-1,S01006616,Dog Fouling,1,1,1.0
-2008-1,S01006663,Street Cleaning,1,1,1.0
-2008-1,S01006685,Pavement /Footway Defects,1,1,1.0
-2008-1,S01006685,Street Lights,1,1,1.0
-2008-1,S01006685,Street Signs,1,1,1.0
-2008-1,S01006694,Traffic Lights,1,1,1.0
-2008-1,S01006696,Other,1,1,1.0
-2008-1,S01006696,Street Lights,1,1,1.0
-2008-1,S01006697,Street Signs,1,1,1.0
-2008-1,S01006822,Street Signs,1,1,1.0
-2008-1,S01006888,Highway Condition,1,1,1.0
-2008-1,S01006908,Street Signs,1,1,1.0
-2008-1,S01007097,Street Cleaning,1,1,1.0
-2008-1,S01007106,Highway Condition,1,1,1.0
-2008-1,S01007160,Potholes,1,1,1.0
-2008-1,S01007171,Street Lights,1,1,1.0
-2008-1,S01007286,Potholes,2,2,1.0
-2008-1,S01007304,Abandoned Vehicles,1,1,1.0
-2008-1,S01007316,Potholes,1,1,1.0
-2008-1,S01007329,Potholes,1,1,1.0
-2008-1,S01007331,Potholes,3,1,3.0
-2008-1,S01007417,Open Spaces/Parks,1,1,1.0
-2008-1,S01007453,Other,2,1,2.0
-2008-1,S01007454,Highway Condition,1,1,1.0
-2008-1,S01007462,Highway Condition,1,1,1.0
-2008-1,S01007463,Other,1,1,1.0
-2008-1,S01007465,Street Lights,1,1,1.0
-2008-1,S01007467,Highway Condition,1,1,1.0
-2008-1,S01007467,Potholes,1,1,1.0
-2008-1,S01007475,Highway Condition,1,1,1.0
-2008-1,S01007475,Potholes,1,1,1.0
-2008-1,S01007476,Highway Condition,1,1,1.0
-2008-1,S01007504,Fallen/Dangerous Trees,1,1,1.0
-2008-1,S01007554,Highway Condition,1,1,1.0
-2008-1,S01007592,Pavement /Footway Defects,1,1,1.0
-2008-1,S01007613,Pavement /Footway Defects,1,1,1.0
-2008-1,S01007637,Potholes,1,1,1.0
-2008-1,S01007646,Highway Condition,1,1,1.0
-2008-1,S01007648,Street Lights,1,1,1.0
-2008-1,S01007663,Parking,1,1,1.0
-2008-1,S01007711,Pavement /Footway Defects,1,1,1.0
-2008-1,S01007735,Highway Condition,1,1,1.0
-2008-1,S01007867,Abandoned Vehicles,1,1,1.0
-2008-1,S01007899,Street Lights,2,2,1.0
-2008-1,S01007910,Street Lights,1,1,1.0
-2008-1,S01007911,Street Lights,1,1,1.0
-2008-1,S01007916,Highway Condition,1,1,1.0
-2008-1,S01007929,Potholes,1,1,1.0
-2008-1,S01007945,Dog Fouling,1,1,1.0
-2008-1,S01007949,Dog Fouling,1,1,1.0
-2008-1,S01007988,Street Lights,1,1,1.0
-2008-1,S01007997,Bus Stops Damage,1,1,1.0
-2008-1,S01007997,Street Name Plates,1,1,1.0
-2008-1,S01008003,Potholes,1,1,1.0
-2008-1,S01008007,Street Lights,1,1,1.0
-2008-1,S01008046,Other,1,1,1.0
-2008-1,S01008057,Potholes,1,1,1.0
-2008-1,S01008068,Street Cleaning,1,1,1.0
-2008-1,S01008070,Other,1,1,1.0
-2008-1,S01008070,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008086,Traffic Lights,3,1,3.0
-2008-1,S01008094,Other,1,1,1.0
-2008-1,S01008111,Dog Fouling,1,1,1.0
-2008-1,S01008124,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008127,Open Spaces/Parks,2,1,2.0
-2008-1,S01008127,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008132,Bus Stops Damage,1,1,1.0
-2008-1,S01008142,Fallen/Dangerous Trees,1,1,1.0
-2008-1,S01008143,Street Cleaning,1,1,1.0
-2008-1,S01008191,Street Lights,1,1,1.0
-2008-1,S01008200,Highway Condition,1,1,1.0
-2008-1,S01008202,Highway Condition,1,1,1.0
-2008-1,S01008236,Street Lights,1,1,1.0
-2008-1,S01008245,Bus Stops Damage,1,1,1.0
-2008-1,S01008253,Potholes,1,1,1.0
-2008-1,S01008266,Potholes,1,1,1.0
-2008-1,S01008278,Potholes,1,1,1.0
-2008-1,S01008279,Street Lights,1,1,1.0
-2008-1,S01008280,Street Lights,1,1,1.0
-2008-1,S01008328,Potholes,1,1,1.0
-2008-1,S01008338,Parking,1,1,1.0
-2008-1,S01008342,Bus Stops Damage,1,1,1.0
-2008-1,S01008345,Potholes,1,1,1.0
-2008-1,S01008354,Other,1,1,1.0
-2008-1,S01008359,Potholes,1,1,1.0
-2008-1,S01008361,Potholes,1,1,1.0
-2008-1,S01008366,Potholes,1,1,1.0
-2008-1,S01008369,Potholes,1,1,1.0
-2008-1,S01008375,Graffiti,1,1,1.0
-2008-1,S01008377,Parking,1,1,1.0
-2008-1,S01008388,Street Lights,1,1,1.0
-2008-1,S01008392,Street Signs,1,1,1.0
-2008-1,S01008421,Potholes,1,1,1.0
-2008-1,S01008425,Potholes,1,1,1.0
-2008-1,S01008427,Street Lights,1,1,1.0
-2008-1,S01008428,Parking,1,1,1.0
-2008-1,S01008432,Highway Condition,2,1,2.0
-2008-1,S01008456,Other,4,1,4.0
-2008-1,S01008456,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008456,Rubbish,1,1,1.0
-2008-1,S01008456,Street Cleaning,1,1,1.0
-2008-1,S01008460,Other,1,1,1.0
-2008-1,S01008463,Parking,1,1,1.0
-2008-1,S01008464,Parking,1,1,1.0
-2008-1,S01008486,Bus Stops Damage,1,1,1.0
-2008-1,S01008506,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008508,Graffiti,1,1,1.0
-2008-1,S01008508,Highway Condition,1,1,1.0
-2008-1,S01008544,Highway Condition,1,1,1.0
-2008-1,S01008573,Street Lights,1,1,1.0
-2008-1,S01008586,Highway Condition,1,1,1.0
-2008-1,S01008587,Other,1,1,1.0
-2008-1,S01008593,Other,2,2,1.0
-2008-1,S01008598,Bus Stops Damage,1,1,1.0
-2008-1,S01008599,Potholes,1,1,1.0
-2008-1,S01008599,Rubbish,1,1,1.0
-2008-1,S01008599,Street Lights,1,1,1.0
-2008-1,S01008624,Street Lights,1,1,1.0
-2008-1,S01008628,Graffiti,1,1,1.0
-2008-1,S01008631,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008652,Other,1,1,1.0
-2008-1,S01008652,Pavement /Footway Defects,1,1,1.0
-2008-1,S01008654,Highway Condition,1,1,1.0
-2008-1,S01008654,Street Signs,1,1,1.0
-2008-1,S01008662,Rubbish,1,1,1.0
-2008-1,S01008678,Street Lights,1,1,1.0
-2008-1,S01008704,Street Lights,1,1,1.0
-2008-1,S01008728,Dog Fouling,1,1,1.0
-2008-1,S01008755,Abandoned Vehicles,1,1,1.0
-2008-1,S01008755,Rubbish,1,1,1.0
-2008-1,S01008764,Street Lights,1,1,1.0
-2008-1,S01008774,Dog Fouling,1,1,1.0
-2008-1,S01008775,Dog Fouling,1,1,1.0
-2008-1,S01008788,Dog Fouling,1,1,1.0
-2008-1,S01008803,Abandoned Vehicles,1,1,1.0
-2008-1,S01008812,Fly-tipping,1,1,1.0
-2008-1,S01008813,Abandoned Vehicles,1,1,1.0
-2008-1,S01008813,Other,1,1,1.0
-2008-1,S01008813,Rubbish,1,1,1.0
-2008-1,S01008820,Dog Fouling,1,1,1.0
-2008-1,S01008828,Rubbish,1,1,1.0
-2008-1,S01008860,Dog Fouling,1,1,1.0
-2008-1,S01008900,Potholes,1,1,1.0
-2008-1,S01008901,Dog Fouling,1,1,1.0
-2008-1,S01008901,Highway Condition,1,1,1.0
-2008-1,S01008904,Potholes,1,1,1.0
-2008-1,S01008917,Potholes,1,1,1.0
-2008-1,S01008977,Dog Fouling,1,1,1.0
-2008-1,S01008997,Highway Condition,1,1,1.0
-2008-1,S01008997,Open Spaces/Parks,1,1,1.0
-2008-1,S01009000,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009002,Potholes,1,1,1.0
-2008-1,S01009005,Potholes,1,1,1.0
-2008-1,S01009045,Abandoned Vehicles,1,1,1.0
-2008-1,S01009055,Highway Condition,1,1,1.0
-2008-1,S01009055,Potholes,1,1,1.0
-2008-1,S01009057,Traffic Lights,1,1,1.0
-2008-1,S01009059,Street Lights,1,1,1.0
-2008-1,S01009060,Open Spaces/Parks,1,1,1.0
-2008-1,S01009061,Other,1,1,1.0
-2008-1,S01009061,Street Lights,1,1,1.0
-2008-1,S01009075,Bus Stops Damage,1,1,1.0
-2008-1,S01009075,Other,1,1,1.0
-2008-1,S01009079,Potholes,1,1,1.0
-2008-1,S01009082,Potholes,1,1,1.0
-2008-1,S01009084,Highway Condition,1,1,1.0
-2008-1,S01009084,Potholes,1,1,1.0
-2008-1,S01009084,Rubbish,1,1,1.0
-2008-1,S01009090,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009091,Street Lights,1,1,1.0
-2008-1,S01009092,Other,1,1,1.0
-2008-1,S01009092,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009098,Street Lights,1,1,1.0
-2008-1,S01009104,Street Lights,1,1,1.0
-2008-1,S01009115,Highway Condition,1,1,1.0
-2008-1,S01009116,Rubbish,1,1,1.0
-2008-1,S01009125,Street Lights,1,1,1.0
-2008-1,S01009130,Street Cleaning,1,1,1.0
-2008-1,S01009136,Street Lights,1,1,1.0
-2008-1,S01009137,Street Lights,2,2,1.0
-2008-1,S01009141,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009144,Street Lights,1,1,1.0
-2008-1,S01009146,Street Lights,1,1,1.0
-2008-1,S01009148,Potholes,1,1,1.0
-2008-1,S01009153,Pavement /Footway Defects,2,2,1.0
-2008-1,S01009161,Traffic Lights,1,1,1.0
-2008-1,S01009164,Highway Condition,1,1,1.0
-2008-1,S01009165,Potholes,1,1,1.0
-2008-1,S01009166,Potholes,1,1,1.0
-2008-1,S01009166,Street Lights,1,1,1.0
-2008-1,S01009170,Street Lights,1,1,1.0
-2008-1,S01009175,Highway Condition,1,1,1.0
-2008-1,S01009181,Street Lights,3,2,1.5
-2008-1,S01009187,Highway Condition,1,1,1.0
-2008-1,S01009187,Potholes,4,1,4.0
-2008-1,S01009190,Traffic Lights,1,1,1.0
-2008-1,S01009191,Street Lights,1,1,1.0
-2008-1,S01009192,Highway Condition,1,1,1.0
-2008-1,S01009195,Street Lights,1,1,1.0
-2008-1,S01009196,Street Signs,1,1,1.0
-2008-1,S01009200,Highway Condition,1,1,1.0
-2008-1,S01009203,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009203,Street Lights,1,1,1.0
-2008-1,S01009204,Street Lights,1,1,1.0
-2008-1,S01009206,Street Lights,1,1,1.0
-2008-1,S01009210,Potholes,2,2,1.0
-2008-1,S01009210,Street Lights,1,1,1.0
-2008-1,S01009211,Potholes,1,1,1.0
-2008-1,S01009213,Highway Condition,1,1,1.0
-2008-1,S01009216,Other,1,1,1.0
-2008-1,S01009217,Street Lights,1,1,1.0
-2008-1,S01009239,Open Spaces/Parks,1,1,1.0
-2008-1,S01009244,Potholes,1,1,1.0
-2008-1,S01009248,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009248,Potholes,1,1,1.0
-2008-1,S01009255,Highway Condition,1,1,1.0
-2008-1,S01009257,Street Cleaning,1,1,1.0
-2008-1,S01009257,Street Lights,1,1,1.0
-2008-1,S01009258,Potholes,1,1,1.0
-2008-1,S01009260,Highway Condition,1,1,1.0
-2008-1,S01009261,Highway Condition,1,1,1.0
-2008-1,S01009263,Street Lights,1,1,1.0
-2008-1,S01009298,Potholes,1,1,1.0
-2008-1,S01009299,Highway Condition,1,1,1.0
-2008-1,S01009315,Highway Condition,1,1,1.0
-2008-1,S01009327,Graffiti,1,1,1.0
-2008-1,S01009327,Street Lights,1,1,1.0
-2008-1,S01009351,Potholes,1,1,1.0
-2008-1,S01009378,Parking,1,1,1.0
-2008-1,S01009396,Street Name Plates,1,1,1.0
-2008-1,S01009424,Other,1,1,1.0
-2008-1,S01009489,Dog Fouling,1,1,1.0
-2008-1,S01009494,Other,1,1,1.0
-2008-1,S01009522,Graffiti,1,1,1.0
-2008-1,S01009527,Rubbish,1,1,1.0
-2008-1,S01009544,Other,1,1,1.0
-2008-1,S01009546,Open Spaces/Parks,1,1,1.0
-2008-1,S01009552,Parking,1,1,1.0
-2008-1,S01009559,Parking,1,1,1.0
-2008-1,S01009591,Fallen/Dangerous Trees,1,1,1.0
-2008-1,S01009591,Street Lights,1,1,1.0
-2008-1,S01009647,Dog Fouling,1,1,1.0
-2008-1,S01009663,Potholes,1,1,1.0
-2008-1,S01009667,Street Lights,1,1,1.0
-2008-1,S01009702,Other,1,1,1.0
-2008-1,S01009722,Street Lights,1,1,1.0
-2008-1,S01009737,Dog Fouling,1,1,1.0
-2008-1,S01009755,Other,1,1,1.0
-2008-1,S01009764,Open Spaces/Parks,1,1,1.0
-2008-1,S01009765,Street Lights,1,1,1.0
-2008-1,S01009786,Pavement /Footway Defects,1,1,1.0
-2008-1,S01009790,Dog Fouling,1,1,1.0
-2008-1,S01009794,Dog Fouling,1,1,1.0
-2008-1,S01009795,Graffiti,1,1,1.0
-2008-1,S01009797,Highway Condition,1,1,1.0
-2008-1,S01009849,Other,1,1,1.0
-2008-1,S01009852,Potholes,1,1,1.0
-2008-1,S01009863,Dog Fouling,1,1,1.0
-2008-1,S01009870,Rubbish,1,1,1.0
-2008-1,S01009871,Street Lights,1,1,1.0
-2008-1,S01009898,Potholes,1,1,1.0
-2008-1,S01009899,Dog Fouling,1,1,1.0
-2008-1,S01009904,Potholes,1,1,1.0
-2008-1,S01009905,Potholes,1,1,1.0
-2008-1,S01009908,Potholes,1,1,1.0
-2008-1,S01009909,Abandoned Vehicles,1,1,1.0
-2008-1,S01009909,Graffiti,1,1,1.0
-2008-1,S01009909,Rubbish,1,1,1.0
-2008-1,S01009934,Potholes,1,1,1.0
-2008-1,S01009945,Highway Condition,1,1,1.0
-2008-1,S01009966,Other,1,1,1.0
-2008-1,S01009969,Parking,1,1,1.0
-2008-1,S01009970,Potholes,1,1,1.0
-2008-1,S01010005,Rubbish,1,1,1.0
-2008-1,S01010015,Abandoned Vehicles,1,1,1.0
-2008-1,S01010015,Fly-tipping,1,1,1.0
-2008-1,S01010021,Dog Fouling,1,1,1.0
-2008-1,S01010029,Highway Condition,1,1,1.0
-2008-1,S01010032,Potholes,1,1,1.0
-2008-1,S01010034,Potholes,1,1,1.0
-2008-1,S01010044,Rubbish,1,1,1.0
-2008-1,S01010051,Bus Stops Damage,1,1,1.0
-2008-1,S01010051,Street Lights,1,1,1.0
-2008-1,S01010053,Graffiti,1,1,1.0
-2008-1,S01010056,Traffic Lights,1,1,1.0
-2008-1,S01010058,Dog Fouling,1,1,1.0
-2008-1,S01010058,Highway Condition,1,1,1.0
-2008-1,S01010074,Dog Fouling,1,1,1.0
-2008-1,S01010078,Other,1,1,1.0
-2008-1,S01010078,Parking,1,1,1.0
-2008-1,S01010113,Street Cleaning,1,1,1.0
-2008-1,S01010137,Street Cleaning,1,1,1.0
-2008-1,S01010147,Dog Fouling,1,1,1.0
-2008-1,S01010162,Rubbish,1,1,1.0
-2008-1,S01010236,Dog Fouling,1,1,1.0
-2008-1,S01010248,Dog Fouling,1,1,1.0
-2008-1,S01010260,Potholes,1,1,1.0
-2008-1,S01010286,Abandoned Vehicles,2,1,2.0
-2008-1,S01010315,Highway Condition,1,1,1.0
-2008-1,S01010333,Other,1,1,1.0
-2008-1,S01010364,Highway Condition,1,1,1.0
-2008-1,S01010364,Other,1,1,1.0
-2008-1,S01010365,Other,1,1,1.0
-2008-1,S01010382,Abandoned Vehicles,1,1,1.0
-2008-1,S01010400,Other,1,1,1.0
-2008-1,S01010413,Parking,1,1,1.0
-2008-1,S01010417,Parking,1,1,1.0
-2008-1,S01010422,Highway Condition,1,1,1.0
-2008-1,S01010429,Dog Fouling,1,1,1.0
-2008-1,S01010436,Highway Condition,1,1,1.0
-2008-1,S01010441,Abandoned Vehicles,1,1,1.0
-2008-1,S01010459,Rubbish,1,1,1.0
-2008-1,S01010470,Pavement /Footway Defects,1,1,1.0
-2008-1,S01010472,Abandoned Vehicles,1,1,1.0
-2008-1,S01010473,Other,1,1,1.0
-2008-1,S01010473,Street Signs,1,1,1.0
-2008-1,S01010485,Dog Fouling,1,1,1.0
-2008-1,S01010500,Rubbish,1,1,1.0
-2008-1,S01010566,Other,1,1,1.0
-2008-1,S01010639,Potholes,1,1,1.0
-2008-1,S01010674,Highway Condition,2,2,1.0
-2008-1,S01010674,Pavement /Footway Defects,2,2,1.0
-2008-1,S01010697,Other,1,1,1.0
-2008-1,S01010718,Dog Fouling,1,1,1.0
-2008-1,S01010754,Street Lights,1,1,1.0
-2008-1,S01010782,Dog Fouling,1,1,1.0
-2008-1,S01010787,Dog Fouling,2,2,1.0
-2008-1,S01010787,Pavement /Footway Defects,1,1,1.0
-2008-1,S01010829,Highway Condition,1,1,1.0
-2008-1,S01010829,Potholes,1,1,1.0
-2008-1,S01010853,Potholes,1,1,1.0
-2008-1,S01010884,Street Cleaning,1,1,1.0
-2008-1,S01010912,Fly-tipping,1,1,1.0
-2008-1,S01010913,Pavement /Footway Defects,1,1,1.0
-2008-1,S01010926,Highway Condition,1,1,1.0
-2008-1,S01010965,Dog Fouling,1,1,1.0
-2008-1,S01010968,Potholes,1,1,1.0
-2008-1,S01010993,Other,1,1,1.0
-2008-1,S01011038,Other,1,1,1.0
-2008-1,S01011062,Dog Fouling,1,1,1.0
-2008-1,S01011063,Street Name Plates,1,1,1.0
-2008-1,S01011080,Parking,1,1,1.0
-2008-1,S01011162,Highway Condition,1,1,1.0
-2008-1,S01011180,Dog Fouling,1,1,1.0
-2008-1,S01011180,Fly-tipping,1,1,1.0
-2008-1,S01011220,Other,1,1,1.0
-2008-1,S01011220,Street Lights,1,1,1.0
-2008-1,S01011250,Dog Fouling,1,1,1.0
-2008-1,S01011328,Highway Condition,1,1,1.0
-2008-1,S01011341,Potholes,1,1,1.0
-2008-1,S01011352,Pavement /Footway Defects,1,1,1.0
-2008-1,S01011436,Highway Condition,1,1,1.0
-2008-1,S01011471,Other,1,1,1.0
-2008-1,S01011471,Street Cleaning,1,1,1.0
-2008-1,S01011482,Other,1,1,1.0
-2008-1,S01011486,Dog Fouling,1,1,1.0
-2008-1,S01011490,Parking,1,1,1.0
-2008-1,S01011523,Pavement /Footway Defects,1,1,1.0
-2008-1,S01011541,Parking,1,1,1.0
-2008-1,S01011541,Street Cleaning,1,1,1.0
-2008-1,S01011542,Highway Condition,1,1,1.0
-2008-1,S01011594,Highway Condition,1,1,1.0
-2008-1,S01011600,Fly-tipping,1,1,1.0
-2008-1,S01011601,Street Signs,1,1,1.0
-2008-1,S01011633,Rubbish,1,1,1.0
-2008-1,S01011635,Potholes,1,1,1.0
-2008-1,S01011638,Pavement /Footway Defects,1,1,1.0
-2008-1,S01011695,Fly-tipping,1,1,1.0
-2008-1,S01011697,Highway Condition,1,1,1.0
-2008-1,S01011732,Other,1,1,1.0
-2008-1,S01011747,Other,1,1,1.0
-2008-1,S01011789,Pavement /Footway Defects,1,1,1.0
-2008-1,S01011792,Street Lights,1,1,1.0
-2008-1,S01011837,Other,1,1,1.0
-2008-1,S01011849,Fly-tipping,1,1,1.0
-2008-1,S01011857,Street Cleaning,1,1,1.0
-2008-1,S01011865,Dog Fouling,1,1,1.0
-2008-1,S01011878,Highway Condition,1,1,1.0
-2008-1,S01011908,Pavement /Footway Defects,1,1,1.0
-2008-1,S01012002,Dog Fouling,1,1,1.0
-2008-1,S01012030,Highway Condition,2,1,2.0
-2008-1,S01012032,Potholes,1,1,1.0
-2008-1,S01012045,Highway Condition,1,1,1.0
-2008-1,S01012045,Street Lights,1,1,1.0
-2008-1,S01012051,Potholes,1,1,1.0
-2008-1,S01012052,Street Cleaning,1,1,1.0
-2008-1,S01012080,Potholes,1,1,1.0
-2008-1,S01012093,Street Lights,1,1,1.0
-2008-1,S01012109,Potholes,1,1,1.0
-2008-1,S01012110,Rubbish,1,1,1.0
-2008-1,S01012111,Potholes,1,1,1.0
-2008-1,S01012111,Street Lights,2,1,2.0
-2008-1,S01012122,Street Lights,1,1,1.0
-2008-1,S01012128,Other,1,1,1.0
-2008-1,S01012154,Pavement /Footway Defects,1,1,1.0
-2008-1,S01012165,Dog Fouling,1,1,1.0
-2008-1,S01012199,Street Lights,1,1,1.0
-2008-1,S01012207,Rubbish,1,1,1.0
-2008-1,S01012230,Street Lights,1,1,1.0
-2008-1,S01012231,Rubbish,1,1,1.0
-2008-1,S01012240,Highway Condition,1,1,1.0
-2008-1,S01012288,Other,1,1,1.0
-2008-1,S01012443,Dog Fouling,1,1,1.0
-2008-1,S01012454,Highway Condition,1,1,1.0
-2008-1,S01012466,Potholes,1,1,1.0
-2008-1,S01012515,Highway Condition,1,1,1.0
-2008-1,S01012523,Pavement /Footway Defects,1,1,1.0
-2008-1,S01012541,Potholes,1,1,1.0
-2008-1,S01012585,Open Spaces/Parks,1,1,1.0
-2008-1,S01012616,Abandoned Vehicles,1,1,1.0
-2008-1,S01012616,Dog Fouling,1,1,1.0
-2008-1,S01012616,Graffiti,2,1,2.0
-2008-1,S01012617,Highway Condition,1,1,1.0
-2008-1,S01012617,Potholes,1,1,1.0
-2008-1,S01012618,Highway Condition,1,1,1.0
-2008-1,S01012636,Highway Condition,3,1,3.0
-2008-1,S01012684,Pavement /Footway Defects,1,1,1.0
-2008-1,S01012692,Highway Condition,1,1,1.0
-2008-1,S01012697,Potholes,1,1,1.0
-2008-1,S01012716,Highway Condition,1,1,1.0
-2008-1,S01012764,Rubbish,1,1,1.0
-2008-1,S01012771,Street Lights,1,1,1.0
-2008-1,S01012775,Street Cleaning,1,1,1.0
-2008-1,S01012796,Potholes,1,1,1.0
-2008-1,S01012815,Graffiti,1,1,1.0
-2008-1,S01012848,Highway Condition,1,1,1.0
-2008-1,S01012864,Dog Fouling,1,1,1.0
-2008-1,S01012878,Dog Fouling,1,1,1.0
-2008-1,S01012879,Parking,1,1,1.0
-2008-1,S01012880,Parking,1,1,1.0
-2008-1,S01012881,Street Lights,1,1,1.0
-2008-1,S01012883,Potholes,1,1,1.0
-2008-1,S01012889,Other,1,1,1.0
-2008-1,S01012926,Rubbish,1,1,1.0
-2008-1,S01012952,Potholes,1,1,1.0
-2008-1,S01012993,Pavement /Footway Defects,1,1,1.0
-2008-1,S01013047,Highway Condition,1,1,1.0
-2008-1,S01013047,Potholes,1,1,1.0
-2008-1,S01013052,Street Lights,1,1,1.0
-2008-1,S01013054,Other,1,1,1.0
-2008-1,S01013070,Highway Condition,1,1,1.0
-2008-1,S01013101,Other,1,1,1.0
-2008-1,S01013108,Potholes,1,1,1.0
-2008-1,S01013123,Highway Condition,1,1,1.0
-2008-1,S01013129,Graffiti,1,1,1.0
-2008-1,S01013149,Parking,1,1,1.0
-2008-1,S01013204,Other,1,1,1.0
-2008-1,S01013221,Pavement /Footway Defects,1,1,1.0
-2008-1,S01013221,Rubbish,1,1,1.0
-2008-1,S01013229,Other,1,1,1.0
-2008-1,S01013236,Other,1,1,1.0
-2008-1,S01013312,Street Name Plates,1,1,1.0
-2008-1,S01013314,Highway Condition,1,1,1.0
-2008-1,S01013332,Street Cleaning,1,1,1.0
-2008-1,S01013333,Street Lights,1,1,1.0
-2008-1,S01013349,Other,2,2,1.0
-2008-1,S01013368,Dog Fouling,1,1,1.0
-2008-1,S01013385,Other,1,1,1.0
-2008-1,S01013404,Potholes,1,1,1.0
-2008-1,S01013408,Pavement /Footway Defects,1,1,1.0
-2008-1,S01013413,Other,1,1,1.0
-2008-1,S01013423,Potholes,1,1,1.0
-2008-1,S01013433,Potholes,1,1,1.0
-2008-1,S01013448,Street Signs,1,1,1.0
-2008-1,W01000286,Other,1,1,1.0
-2008-1,W01000478,Dog Fouling,1,1,1.0
-2008-1,W01000618,Fly-tipping,1,1,1.0
-2008-1,W01000618,Street Lights,1,1,1.0
-2008-1,W01000656,Highway Condition,1,1,1.0
-2008-1,W01000656,Other,1,1,1.0
-2008-1,W01000678,Other,1,1,1.0
-2008-1,W01000736,Potholes,1,1,1.0
-2008-1,W01000772,Fly-tipping,1,1,1.0
-2008-1,W01000869,Potholes,1,1,1.0
-2008-1,W01000874,Street Lights,1,1,1.0
-2008-1,W01001174,Dog Fouling,1,1,1.0
-2008-1,W01001351,Dog Fouling,1,1,1.0
-2008-1,W01001396,Graffiti,1,1,1.0
-2008-1,W01001397,Abandoned Vehicles,1,1,1.0
-2008-1,W01001427,Highway Condition,1,1,1.0
-2008-1,W01001431,Street Lights,1,1,1.0
-2008-1,W01001485,Street Lights,1,1,1.0
-2008-1,W01001553,Street Signs,1,1,1.0
-2008-1,W01001559,Graffiti,1,1,1.0
-2008-1,W01001559,Potholes,2,1,2.0
-2008-1,W01001559,Rubbish,1,1,1.0
-2008-1,W01001559,Street Cleaning,1,1,1.0
-2008-1,W01001559,Street Lights,1,1,1.0
-2008-1,W01001559,Street Name Plates,1,1,1.0
-2008-1,W01001565,Potholes,1,1,1.0
-2008-1,W01001568,Potholes,1,1,1.0
-2008-1,W01001574,Dog Fouling,1,1,1.0
-2008-1,W01001584,Bus Stops Damage,2,1,2.0
-2008-1,W01001586,Highway Condition,1,1,1.0
-2008-1,W01001586,Potholes,5,1,5.0
-2008-1,W01001586,Street Lights,1,1,1.0
-2008-1,W01001586,Street Name Plates,1,1,1.0
-2008-1,W01001587,Flyposting,1,1,1.0
-2008-1,W01001587,Potholes,1,1,1.0
-2008-1,W01001587,Street Lights,1,1,1.0
-2008-1,W01001590,Highway Condition,1,1,1.0
-2008-1,W01001590,Potholes,1,1,1.0
-2008-1,W01001592,Street Signs,1,1,1.0
-2008-1,W01001615,Abandoned Vehicles,1,1,1.0
-2008-1,W01001697,Parking,2,1,2.0
-2008-1,W01001697,Street Lights,1,1,1.0
-2008-1,W01001713,Highway Condition,1,1,1.0
-2008-1,W01001729,Highway Condition,1,1,1.0
-2008-1,W01001729,Potholes,1,1,1.0
-2008-1,W01001772,Street Lights,2,1,2.0
-2008-1,W01001842,Abandoned Vehicles,1,1,1.0
-2008-1,W01001853,Street Lights,1,1,1.0
-2008-1,W01001955,Potholes,1,1,1.0
+period,LSOA,SHEF_A_CODE,report_count,user_count,average
+2008-1,E01000001,A33,1,1,1.0
+2008-1,E01000003,A33,1,1,1.0
+2008-1,E01000003,A81,1,1,1.0
+2008-1,E01000024,A1,1,1,1.0
+2008-1,E01000073,A1,1,1,1.0
+2008-1,E01000161,A41,1,1,1.0
+2008-1,E01000163,A1,1,1,1.0
+2008-1,E01000196,A60,1,1,1.0
+2008-1,E01000204,A86,1,1,1.0
+2008-1,E01000218,A1,1,1,1.0
+2008-1,E01000236,A54,1,1,1.0
+2008-1,E01000281,A86,1,1,1.0
+2008-1,E01000302,A60,1,1,1.0
+2008-1,E01000462,A60,1,1,1.0
+2008-1,E01000469,A1,1,1,1.0
+2008-1,E01000481,A54,1,1,1.0
+2008-1,E01000575,A81,1,1,1.0
+2008-1,E01000656,A60,1,1,1.0
+2008-1,E01000732,A20,1,1,1.0
+2008-1,E01000850,A41,1,1,1.0
+2008-1,E01000852,A41,1,1,1.0
+2008-1,E01000914,A54,1,1,1.0
+2008-1,E01000918,A57,1,1,1.0
+2008-1,E01000918,A60,1,1,1.0
+2008-1,E01000919,A41,1,1,1.0
+2008-1,E01000953,A33,1,1,1.0
+2008-1,E01000953,A83,1,1,1.0
+2008-1,E01000985,A73,1,1,1.0
+2008-1,E01001083,A28,1,1,1.0
+2008-1,E01001094,A29,1,1,1.0
+2008-1,E01001097,A1,1,1,1.0
+2008-1,E01001097,A57,1,1,1.0
+2008-1,E01001237,A73,1,1,1.0
+2008-1,E01001246,A1,1,1,1.0
+2008-1,E01001251,A57,1,1,1.0
+2008-1,E01001283,A60,1,1,1.0
+2008-1,E01001283,A73,1,1,1.0
+2008-1,E01001307,A20,1,1,1.0
+2008-1,E01001311,A29,1,1,1.0
+2008-1,E01001387,A41,1,1,1.0
+2008-1,E01001419,A57,1,1,1.0
+2008-1,E01001470,A60,1,1,1.0
+2008-1,E01001498,A1,1,1,1.0
+2008-1,E01001518,A41,1,1,1.0
+2008-1,E01001521,A81,1,1,1.0
+2008-1,E01001530,A60,1,1,1.0
+2008-1,E01001532,A57,1,1,1.0
+2008-1,E01001567,A60,1,1,1.0
+2008-1,E01001568,A29,1,1,1.0
+2008-1,E01001584,A54,1,1,1.0
+2008-1,E01001590,A73,1,1,1.0
+2008-1,E01001608,A56,1,1,1.0
+2008-1,E01001640,A54,1,1,1.0
+2008-1,E01001666,A29,1,1,1.0
+2008-1,E01001666,A33,3,1,3.0
+2008-1,E01001666,A73,1,1,1.0
+2008-1,E01001709,A33,1,1,1.0
+2008-1,E01001736,A73,1,1,1.0
+2008-1,E01001738,A83,1,1,1.0
+2008-1,E01001755,A54,1,1,1.0
+2008-1,E01001788,A20,1,1,1.0
+2008-1,E01001836,A1,1,1,1.0
+2008-1,E01001879,A20,1,1,1.0
+2008-1,E01001968,A54,1,1,1.0
+2008-1,E01001969,A60,1,1,1.0
+2008-1,E01001971,A60,1,1,1.0
+2008-1,E01001975,A60,1,1,1.0
+2008-1,E01002015,A60,1,1,1.0
+2008-1,E01002018,A1,1,1,1.0
+2008-1,E01002018,A20,1,1,1.0
+2008-1,E01002061,A1,1,1,1.0
+2008-1,E01002063,A57,1,1,1.0
+2008-1,E01002065,A41,1,1,1.0
+2008-1,E01002065,A54,1,1,1.0
+2008-1,E01002084,A60,1,1,1.0
+2008-1,E01002113,A1,1,1,1.0
+2008-1,E01002137,A60,1,1,1.0
+2008-1,E01002177,A1,1,1,1.0
+2008-1,E01002181,A20,1,1,1.0
+2008-1,E01002217,A20,1,1,1.0
+2008-1,E01002273,A20,1,1,1.0
+2008-1,E01002286,A20,1,1,1.0
+2008-1,E01002469,A1,1,1,1.0
+2008-1,E01002506,A57,1,1,1.0
+2008-1,E01002554,A1,1,1,1.0
+2008-1,E01002566,A81,1,1,1.0
+2008-1,E01002568,A60,1,1,1.0
+2008-1,E01002581,A1,1,1,1.0
+2008-1,E01002626,A1,1,1,1.0
+2008-1,E01002635,A1,1,1,1.0
+2008-1,E01002664,A60,1,1,1.0
+2008-1,E01002684,A54,1,1,1.0
+2008-1,E01002684,A60,1,1,1.0
+2008-1,E01002686,A60,1,1,1.0
+2008-1,E01002687,A81,1,1,1.0
+2008-1,E01002687,A86,1,1,1.0
+2008-1,E01002704,A29,4,1,4.0
+2008-1,E01002704,A33,5,1,5.0
+2008-1,E01002704,A54,2,1,2.0
+2008-1,E01002704,A57,2,1,2.0
+2008-1,E01002704,A60,2,1,2.0
+2008-1,E01002704,A81,2,1,2.0
+2008-1,E01002704,A83,1,1,1.0
+2008-1,E01002707,A86,1,1,1.0
+2008-1,E01002708,A29,1,1,1.0
+2008-1,E01002708,A33,2,1,2.0
+2008-1,E01002708,A41,1,1,1.0
+2008-1,E01002708,A60,1,1,1.0
+2008-1,E01002708,A81,1,1,1.0
+2008-1,E01002709,A29,2,1,2.0
+2008-1,E01002709,A33,1,1,1.0
+2008-1,E01002709,A41,1,1,1.0
+2008-1,E01002710,A29,1,1,1.0
+2008-1,E01002710,A33,2,1,2.0
+2008-1,E01002712,A12,1,1,1.0
+2008-1,E01002712,A33,1,1,1.0
+2008-1,E01002713,A29,1,1,1.0
+2008-1,E01002714,A54,1,1,1.0
+2008-1,E01002715,A29,1,1,1.0
+2008-1,E01002718,A73,1,1,1.0
+2008-1,E01002720,A1,1,1,1.0
+2008-1,E01002726,A33,1,1,1.0
+2008-1,E01002741,A83,1,1,1.0
+2008-1,E01002747,A41,1,1,1.0
+2008-1,E01002756,A29,1,1,1.0
+2008-1,E01002798,A81,1,1,1.0
+2008-1,E01002928,A12,1,1,1.0
+2008-1,E01002934,A60,1,1,1.0
+2008-1,E01002962,A41,1,1,1.0
+2008-1,E01002984,A56,1,1,1.0
+2008-1,E01003041,A60,1,1,1.0
+2008-1,E01003053,A60,1,1,1.0
+2008-1,E01003057,A60,1,1,1.0
+2008-1,E01003062,A73,1,1,1.0
+2008-1,E01003063,A54,1,1,1.0
+2008-1,E01003073,A54,1,1,1.0
+2008-1,E01003074,A73,1,1,1.0
+2008-1,E01003076,A83,1,1,1.0
+2008-1,E01003081,A57,1,1,1.0
+2008-1,E01003107,A41,1,1,1.0
+2008-1,E01003118,A56,1,1,1.0
+2008-1,E01003131,A29,1,1,1.0
+2008-1,E01003132,A41,1,1,1.0
+2008-1,E01003166,A29,1,1,1.0
+2008-1,E01003183,A60,1,1,1.0
+2008-1,E01003226,A20,1,1,1.0
+2008-1,E01003227,A57,1,1,1.0
+2008-1,E01003252,A1,1,1,1.0
+2008-1,E01003283,A1,1,1,1.0
+2008-1,E01003287,A1,1,1,1.0
+2008-1,E01003310,A20,1,1,1.0
+2008-1,E01003336,A73,1,1,1.0
+2008-1,E01003421,A60,1,1,1.0
+2008-1,E01003426,A60,1,1,1.0
+2008-1,E01003459,A73,1,1,1.0
+2008-1,E01003554,A29,1,1,1.0
+2008-1,E01003562,A29,2,1,2.0
+2008-1,E01003622,A81,1,1,1.0
+2008-1,E01003637,A41,1,1,1.0
+2008-1,E01003669,A81,1,1,1.0
+2008-1,E01003691,A1,1,1,1.0
+2008-1,E01003698,A1,1,1,1.0
+2008-1,E01003746,A81,1,1,1.0
+2008-1,E01003750,A86,1,1,1.0
+2008-1,E01003793,A1,1,1,1.0
+2008-1,E01003793,A41,1,1,1.0
+2008-1,E01003804,A73,1,1,1.0
+2008-1,E01003837,A33,1,1,1.0
+2008-1,E01003844,A81,1,1,1.0
+2008-1,E01003846,A57,1,1,1.0
+2008-1,E01003865,A81,1,1,1.0
+2008-1,E01003874,A20,1,1,1.0
+2008-1,E01003884,A54,1,1,1.0
+2008-1,E01003884,A57,1,1,1.0
+2008-1,E01003896,A57,1,1,1.0
+2008-1,E01003909,A57,1,1,1.0
+2008-1,E01003929,A60,1,1,1.0
+2008-1,E01003934,A86,1,1,1.0
+2008-1,E01003939,A54,1,1,1.0
+2008-1,E01003960,A83,1,1,1.0
+2008-1,E01004014,A60,1,1,1.0
+2008-1,E01004027,A60,1,1,1.0
+2008-1,E01004033,A41,1,1,1.0
+2008-1,E01004033,A81,1,1,1.0
+2008-1,E01004103,A81,1,1,1.0
+2008-1,E01004145,A1,2,2,1.0
+2008-1,E01004170,A79,1,1,1.0
+2008-1,E01004230,A33,1,1,1.0
+2008-1,E01004274,A41,1,1,1.0
+2008-1,E01004350,A54,1,1,1.0
+2008-1,E01004397,A57,1,1,1.0
+2008-1,E01004399,A73,1,1,1.0
+2008-1,E01004405,A33,1,1,1.0
+2008-1,E01004409,A33,1,1,1.0
+2008-1,E01004410,A56,1,1,1.0
+2008-1,E01004411,A57,1,1,1.0
+2008-1,E01004411,A60,1,1,1.0
+2008-1,E01004411,A73,1,1,1.0
+2008-1,E01004443,A79,1,1,1.0
+2008-1,E01004453,A60,1,1,1.0
+2008-1,E01004458,A73,1,1,1.0
+2008-1,E01004462,A81,1,1,1.0
+2008-1,E01004466,A20,1,1,1.0
+2008-1,E01004515,A73,1,1,1.0
+2008-1,E01004558,A24,1,1,1.0
+2008-1,E01004569,A57,1,1,1.0
+2008-1,E01004572,A73,1,1,1.0
+2008-1,E01004573,A33,2,1,2.0
+2008-1,E01004577,A54,1,1,1.0
+2008-1,E01004590,A1,1,1,1.0
+2008-1,E01004614,A57,1,1,1.0
+2008-1,E01004654,A41,1,1,1.0
+2008-1,E01004687,A41,1,1,1.0
+2008-1,E01004727,A81,1,1,1.0
+2008-1,E01004733,A41,1,1,1.0
+2008-1,E01004735,A60,1,1,1.0
+2008-1,E01004750,A41,1,1,1.0
+2008-1,E01004750,A57,1,1,1.0
+2008-1,E01004761,A41,1,1,1.0
+2008-1,E01004766,A20,1,1,1.0
+2008-1,E01004818,A60,1,1,1.0
+2008-1,E01004823,A29,1,1,1.0
+2008-1,E01004823,A81,1,1,1.0
+2008-1,E01004841,A24,1,1,1.0
+2008-1,E01004897,A56,2,1,2.0
+2008-1,E01004916,A73,1,1,1.0
+2008-1,E01004917,A24,1,1,1.0
+2008-1,E01004927,A60,1,1,1.0
+2008-1,E01004934,A81,1,1,1.0
+2008-1,E01004937,A57,1,1,1.0
+2008-1,E01005062,A54,1,1,1.0
+2008-1,E01005079,A60,1,1,1.0
+2008-1,E01005105,A60,1,1,1.0
+2008-1,E01005158,A20,2,2,1.0
+2008-1,E01005197,A20,1,1,1.0
+2008-1,E01005200,A29,1,1,1.0
+2008-1,E01005200,A73,1,1,1.0
+2008-1,E01005260,A60,1,1,1.0
+2008-1,E01005269,A60,1,1,1.0
+2008-1,E01005281,A1,1,1,1.0
+2008-1,E01005281,A29,1,1,1.0
+2008-1,E01005284,A60,1,1,1.0
+2008-1,E01005286,A29,1,1,1.0
+2008-1,E01005286,A54,1,1,1.0
+2008-1,E01005286,A73,1,1,1.0
+2008-1,E01005386,A29,1,1,1.0
+2008-1,E01005411,A83,1,1,1.0
+2008-1,E01005412,A54,1,1,1.0
+2008-1,E01005412,A81,1,1,1.0
+2008-1,E01005503,A20,1,1,1.0
+2008-1,E01005508,A60,1,1,1.0
+2008-1,E01005554,A83,1,1,1.0
+2008-1,E01005555,A79,1,1,1.0
+2008-1,E01005602,A24,1,1,1.0
+2008-1,E01005604,A53,1,1,1.0
+2008-1,E01005618,A60,1,1,1.0
+2008-1,E01005642,A20,1,1,1.0
+2008-1,E01005667,A54,1,1,1.0
+2008-1,E01005667,A73,1,1,1.0
+2008-1,E01005691,A20,1,1,1.0
+2008-1,E01005766,A1,1,1,1.0
+2008-1,E01005768,A60,1,1,1.0
+2008-1,E01005772,A60,1,1,1.0
+2008-1,E01005799,A20,1,1,1.0
+2008-1,E01005836,A1,1,1,1.0
+2008-1,E01005871,A20,1,1,1.0
+2008-1,E01005897,A60,1,1,1.0
+2008-1,E01005897,A81,1,1,1.0
+2008-1,E01005971,A20,1,1,1.0
+2008-1,E01005971,A73,1,1,1.0
+2008-1,E01005984,A81,1,1,1.0
+2008-1,E01006035,A54,1,1,1.0
+2008-1,E01006158,A73,1,1,1.0
+2008-1,E01006170,A73,1,1,1.0
+2008-1,E01006231,A60,1,1,1.0
+2008-1,E01006332,A41,1,1,1.0
+2008-1,E01006341,A20,1,1,1.0
+2008-1,E01006346,A29,1,1,1.0
+2008-1,E01006440,A83,1,1,1.0
+2008-1,E01006454,A81,1,1,1.0
+2008-1,E01006520,A60,1,1,1.0
+2008-1,E01006551,A79,1,1,1.0
+2008-1,E01006632,A20,1,1,1.0
+2008-1,E01007003,A20,1,1,1.0
+2008-1,E01007040,A20,1,1,1.0
+2008-1,E01007062,A60,1,1,1.0
+2008-1,E01007096,A60,1,1,1.0
+2008-1,E01007138,A54,1,1,1.0
+2008-1,E01007163,A54,1,1,1.0
+2008-1,E01007208,A60,1,1,1.0
+2008-1,E01007209,A81,1,1,1.0
+2008-1,E01007399,A54,1,1,1.0
+2008-1,E01007403,A41,1,1,1.0
+2008-1,E01007406,A54,1,1,1.0
+2008-1,E01007416,A56,1,1,1.0
+2008-1,E01007417,A79,1,1,1.0
+2008-1,E01007426,A41,1,1,1.0
+2008-1,E01007434,A33,1,1,1.0
+2008-1,E01007435,A73,1,1,1.0
+2008-1,E01007438,A54,1,1,1.0
+2008-1,E01007448,A60,1,1,1.0
+2008-1,E01007450,A29,1,1,1.0
+2008-1,E01007465,A57,1,1,1.0
+2008-1,E01007521,A1,1,1,1.0
+2008-1,E01007522,A20,1,1,1.0
+2008-1,E01007522,A81,1,1,1.0
+2008-1,E01007579,A29,7,1,7.0
+2008-1,E01007579,A73,1,1,1.0
+2008-1,E01007584,A73,1,1,1.0
+2008-1,E01007586,A41,1,1,1.0
+2008-1,E01007645,A54,1,1,1.0
+2008-1,E01007666,A60,1,1,1.0
+2008-1,E01007693,A54,1,1,1.0
+2008-1,E01007693,A81,1,1,1.0
+2008-1,E01007705,A81,1,1,1.0
+2008-1,E01007711,A54,1,1,1.0
+2008-1,E01007715,A79,1,1,1.0
+2008-1,E01007732,A81,1,1,1.0
+2008-1,E01007742,A41,1,1,1.0
+2008-1,E01007747,A60,1,1,1.0
+2008-1,E01007755,A81,1,1,1.0
+2008-1,E01007781,A57,1,1,1.0
+2008-1,E01007816,A81,1,1,1.0
+2008-1,E01007817,A82,1,1,1.0
+2008-1,E01007819,A57,1,1,1.0
+2008-1,E01007819,A81,3,1,3.0
+2008-1,E01007819,A83,1,1,1.0
+2008-1,E01007820,A29,1,1,1.0
+2008-1,E01007820,A54,2,1,2.0
+2008-1,E01007820,A57,1,1,1.0
+2008-1,E01007820,A81,1,1,1.0
+2008-1,E01007821,A33,1,1,1.0
+2008-1,E01007821,A81,1,1,1.0
+2008-1,E01007822,A54,1,1,1.0
+2008-1,E01007822,A73,1,1,1.0
+2008-1,E01007838,A60,2,1,2.0
+2008-1,E01007838,A73,1,1,1.0
+2008-1,E01007843,A33,1,1,1.0
+2008-1,E01007847,A60,1,1,1.0
+2008-1,E01007847,A79,1,1,1.0
+2008-1,E01007879,A57,1,1,1.0
+2008-1,E01007894,A81,1,1,1.0
+2008-1,E01007897,A56,1,1,1.0
+2008-1,E01007904,A81,1,1,1.0
+2008-1,E01007909,A20,2,2,1.0
+2008-1,E01007909,A54,1,1,1.0
+2008-1,E01007910,A20,1,1,1.0
+2008-1,E01007912,A56,1,1,1.0
+2008-1,E01007943,A54,1,1,1.0
+2008-1,E01007971,A54,1,1,1.0
+2008-1,E01007972,A33,1,1,1.0
+2008-1,E01007973,A57,1,1,1.0
+2008-1,E01008001,A82,1,1,1.0
+2008-1,E01008004,A79,1,1,1.0
+2008-1,E01008004,A81,1,1,1.0
+2008-1,E01008037,A1,1,1,1.0
+2008-1,E01008077,A60,1,1,1.0
+2008-1,E01008088,A41,1,1,1.0
+2008-1,E01008105,A81,1,1,1.0
+2008-1,E01008112,A41,1,1,1.0
+2008-1,E01008134,A57,1,1,1.0
+2008-1,E01008140,A60,1,1,1.0
+2008-1,E01008142,A20,1,1,1.0
+2008-1,E01008145,A41,1,1,1.0
+2008-1,E01008149,A20,1,1,1.0
+2008-1,E01008150,A20,1,1,1.0
+2008-1,E01008161,A29,1,1,1.0
+2008-1,E01008161,A41,1,1,1.0
+2008-1,E01008532,A20,1,1,1.0
+2008-1,E01008553,A81,1,1,1.0
+2008-1,E01008558,A1,1,1,1.0
+2008-1,E01008849,A81,1,1,1.0
+2008-1,E01008874,A20,1,1,1.0
+2008-1,E01008874,A54,1,1,1.0
+2008-1,E01008954,A60,1,1,1.0
+2008-1,E01008980,A79,1,1,1.0
+2008-1,E01008994,A33,1,1,1.0
+2008-1,E01009074,A1,1,1,1.0
+2008-1,E01009110,A79,1,1,1.0
+2008-1,E01009112,A60,1,1,1.0
+2008-1,E01009120,A79,1,1,1.0
+2008-1,E01009160,A60,1,1,1.0
+2008-1,E01009175,A33,1,1,1.0
+2008-1,E01009189,A33,4,1,4.0
+2008-1,E01009217,A79,1,1,1.0
+2008-1,E01009266,A73,1,1,1.0
+2008-1,E01009296,A81,1,1,1.0
+2008-1,E01009424,A60,1,1,1.0
+2008-1,E01009441,A33,1,1,1.0
+2008-1,E01009441,A41,1,1,1.0
+2008-1,E01009441,A83,3,1,3.0
+2008-1,E01009590,A81,1,1,1.0
+2008-1,E01009671,A24,1,1,1.0
+2008-1,E01009672,A60,1,1,1.0
+2008-1,E01009731,A79,1,1,1.0
+2008-1,E01009808,A81,1,1,1.0
+2008-1,E01009833,A41,1,1,1.0
+2008-1,E01009964,A54,1,1,1.0
+2008-1,E01009972,A1,1,1,1.0
+2008-1,E01009994,A79,1,1,1.0
+2008-1,E01010109,A60,1,1,1.0
+2008-1,E01010167,A56,1,1,1.0
+2008-1,E01010171,A81,1,1,1.0
+2008-1,E01010181,A20,1,1,1.0
+2008-1,E01010261,A20,1,1,1.0
+2008-1,E01010331,A57,2,1,2.0
+2008-1,E01010333,A60,1,1,1.0
+2008-1,E01010337,A60,1,1,1.0
+2008-1,E01010347,A54,1,1,1.0
+2008-1,E01010363,A60,1,1,1.0
+2008-1,E01010371,A29,1,1,1.0
+2008-1,E01010577,A81,1,1,1.0
+2008-1,E01010663,A20,1,1,1.0
+2008-1,E01010670,A81,1,1,1.0
+2008-1,E01010792,A1,1,1,1.0
+2008-1,E01010937,A41,1,1,1.0
+2008-1,E01011042,A20,1,1,1.0
+2008-1,E01011334,A29,1,1,1.0
+2008-1,E01011341,A29,1,1,1.0
+2008-1,E01011406,A57,1,1,1.0
+2008-1,E01011406,A60,1,1,1.0
+2008-1,E01011409,A60,1,1,1.0
+2008-1,E01011417,A57,1,1,1.0
+2008-1,E01011431,A41,1,1,1.0
+2008-1,E01011433,A73,1,1,1.0
+2008-1,E01011447,A20,1,1,1.0
+2008-1,E01011505,A57,1,1,1.0
+2008-1,E01011507,A54,1,1,1.0
+2008-1,E01011507,A81,1,1,1.0
+2008-1,E01011529,A79,1,1,1.0
+2008-1,E01011554,A60,1,1,1.0
+2008-1,E01011572,A33,1,1,1.0
+2008-1,E01011591,A41,1,1,1.0
+2008-1,E01011639,A20,1,1,1.0
+2008-1,E01011649,A79,1,1,1.0
+2008-1,E01011665,A73,1,1,1.0
+2008-1,E01011667,A81,1,1,1.0
+2008-1,E01011691,A60,1,1,1.0
+2008-1,E01011692,A60,1,1,1.0
+2008-1,E01011719,A60,1,1,1.0
+2008-1,E01011735,A20,1,1,1.0
+2008-1,E01012022,A1,1,1,1.0
+2008-1,E01012165,A1,1,1,1.0
+2008-1,E01012200,A79,1,1,1.0
+2008-1,E01012314,A1,1,1,1.0
+2008-1,E01012443,A29,1,1,1.0
+2008-1,E01012446,A60,1,1,1.0
+2008-1,E01012474,A41,1,1,1.0
+2008-1,E01012514,A41,1,1,1.0
+2008-1,E01012515,A60,1,1,1.0
+2008-1,E01012557,A41,1,1,1.0
+2008-1,E01012560,A81,1,1,1.0
+2008-1,E01012863,A24,1,1,1.0
+2008-1,E01012927,A60,2,1,2.0
+2008-1,E01012962,A33,1,1,1.0
+2008-1,E01012981,A60,2,1,2.0
+2008-1,E01012983,A41,1,1,1.0
+2008-1,E01012990,A60,1,1,1.0
+2008-1,E01012991,A60,1,1,1.0
+2008-1,E01012996,A41,1,1,1.0
+2008-1,E01012996,A57,1,1,1.0
+2008-1,E01013025,A60,1,1,1.0
+2008-1,E01013030,A60,1,1,1.0
+2008-1,E01013034,A81,1,1,1.0
+2008-1,E01013047,A20,1,1,1.0
+2008-1,E01013062,A57,1,1,1.0
+2008-1,E01013120,A20,1,1,1.0
+2008-1,E01013127,A41,1,1,1.0
+2008-1,E01013127,A60,2,1,2.0
+2008-1,E01013191,A20,1,1,1.0
+2008-1,E01013260,A56,1,1,1.0
+2008-1,E01013336,A81,1,1,1.0
+2008-1,E01013410,A20,1,1,1.0
+2008-1,E01013414,A20,1,1,1.0
+2008-1,E01013528,A60,1,1,1.0
+2008-1,E01013596,A60,1,1,1.0
+2008-1,E01013677,A20,1,1,1.0
+2008-1,E01013734,A73,1,1,1.0
+2008-1,E01013757,A57,1,1,1.0
+2008-1,E01013779,A33,1,1,1.0
+2008-1,E01013810,A33,1,1,1.0
+2008-1,E01013810,A41,1,1,1.0
+2008-1,E01013810,A54,2,1,2.0
+2008-1,E01013810,A81,2,1,2.0
+2008-1,E01013810,A82,1,1,1.0
+2008-1,E01013811,A82,1,1,1.0
+2008-1,E01013816,A54,1,1,1.0
+2008-1,E01013842,A33,2,1,2.0
+2008-1,E01013842,A41,1,1,1.0
+2008-1,E01013842,A83,2,1,2.0
+2008-1,E01013844,A81,1,1,1.0
+2008-1,E01013928,A41,1,1,1.0
+2008-1,E01013930,A20,1,1,1.0
+2008-1,E01013930,A33,9,1,9.0
+2008-1,E01013930,A54,5,1,5.0
+2008-1,E01013930,A79,1,1,1.0
+2008-1,E01013930,A81,4,1,4.0
+2008-1,E01013931,A41,2,1,2.0
+2008-1,E01013938,A41,1,1,1.0
+2008-1,E01013974,A83,1,1,1.0
+2008-1,E01013991,A57,1,1,1.0
+2008-1,E01014008,A56,1,1,1.0
+2008-1,E01014016,A54,1,1,1.0
+2008-1,E01014016,A60,1,1,1.0
+2008-1,E01014026,A33,1,1,1.0
+2008-1,E01014031,A41,1,1,1.0
+2008-1,E01014041,A41,1,1,1.0
+2008-1,E01014042,A28,1,1,1.0
+2008-1,E01014043,A57,1,1,1.0
+2008-1,E01014046,A1,1,1,1.0
+2008-1,E01014055,A83,1,1,1.0
+2008-1,E01014084,A41,1,1,1.0
+2008-1,E01014149,A41,1,1,1.0
+2008-1,E01014151,A60,1,1,1.0
+2008-1,E01014153,A60,2,1,2.0
+2008-1,E01014191,A57,1,1,1.0
+2008-1,E01014262,A54,1,1,1.0
+2008-1,E01014388,A60,1,1,1.0
+2008-1,E01014397,A1,1,1,1.0
+2008-1,E01014416,A60,1,1,1.0
+2008-1,E01014444,A81,1,1,1.0
+2008-1,E01014515,A57,1,1,1.0
+2008-1,E01014539,A29,1,1,1.0
+2008-1,E01014560,A56,1,1,1.0
+2008-1,E01014560,A57,1,1,1.0
+2008-1,E01014560,A81,1,1,1.0
+2008-1,E01014561,A57,1,1,1.0
+2008-1,E01014561,A73,1,1,1.0
+2008-1,E01014563,A41,4,2,2.0
+2008-1,E01014563,A54,1,1,1.0
+2008-1,E01014563,A57,1,1,1.0
+2008-1,E01014563,A73,2,2,1.0
+2008-1,E01014577,A24,1,1,1.0
+2008-1,E01014577,A81,1,1,1.0
+2008-1,E01014630,A73,2,1,2.0
+2008-1,E01014654,A81,1,1,1.0
+2008-1,E01014659,A41,1,1,1.0
+2008-1,E01014695,A1,1,1,1.0
+2008-1,E01014696,A33,1,1,1.0
+2008-1,E01014699,A56,1,1,1.0
+2008-1,E01014701,A83,1,1,1.0
+2008-1,E01014738,A1,1,1,1.0
+2008-1,E01014781,A41,1,1,1.0
+2008-1,E01014789,A57,1,1,1.0
+2008-1,E01014793,A83,1,1,1.0
+2008-1,E01014811,A1,1,1,1.0
+2008-1,E01014883,A57,1,1,1.0
+2008-1,E01014891,A54,2,1,2.0
+2008-1,E01014962,A60,1,1,1.0
+2008-1,E01015129,A1,2,1,2.0
+2008-1,E01015203,A20,1,1,1.0
+2008-1,E01015363,A1,1,1,1.0
+2008-1,E01015480,A41,1,1,1.0
+2008-1,E01015526,A20,1,1,1.0
+2008-1,E01015579,A20,1,1,1.0
+2008-1,E01015580,A73,1,1,1.0
+2008-1,E01015591,A57,1,1,1.0
+2008-1,E01015612,A29,1,1,1.0
+2008-1,E01015612,A57,1,1,1.0
+2008-1,E01015612,A73,1,1,1.0
+2008-1,E01015622,A81,1,1,1.0
+2008-1,E01015624,A29,1,1,1.0
+2008-1,E01015632,A81,1,1,1.0
+2008-1,E01015634,A29,1,1,1.0
+2008-1,E01015640,A79,1,1,1.0
+2008-1,E01015667,A29,1,1,1.0
+2008-1,E01015691,A81,1,1,1.0
+2008-1,E01015717,A20,1,1,1.0
+2008-1,E01015778,A82,1,1,1.0
+2008-1,E01015798,A1,1,1,1.0
+2008-1,E01015971,A60,1,1,1.0
+2008-1,E01015980,A20,1,1,1.0
+2008-1,E01016082,A1,1,1,1.0
+2008-1,E01016170,A1,1,1,1.0
+2008-1,E01016213,A81,1,1,1.0
+2008-1,E01016277,A20,1,1,1.0
+2008-1,E01016279,A57,1,1,1.0
+2008-1,E01016345,A60,1,1,1.0
+2008-1,E01016353,A73,1,1,1.0
+2008-1,E01016358,A81,1,1,1.0
+2008-1,E01016362,A60,1,1,1.0
+2008-1,E01016398,A33,1,1,1.0
+2008-1,E01016427,A82,1,1,1.0
+2008-1,E01016442,A20,1,1,1.0
+2008-1,E01016535,A33,1,1,1.0
+2008-1,E01016535,A73,1,1,1.0
+2008-1,E01016673,A60,1,1,1.0
+2008-1,E01016682,A54,1,1,1.0
+2008-1,E01016682,A81,1,1,1.0
+2008-1,E01016703,A81,1,1,1.0
+2008-1,E01016735,A81,1,1,1.0
+2008-1,E01016823,A81,1,1,1.0
+2008-1,E01016849,A64,1,1,1.0
+2008-1,E01016850,A54,2,1,2.0
+2008-1,E01016874,A33,1,1,1.0
+2008-1,E01016885,A57,1,1,1.0
+2008-1,E01016889,A79,1,1,1.0
+2008-1,E01016908,A56,1,1,1.0
+2008-1,E01016925,A1,1,1,1.0
+2008-1,E01016950,A57,2,1,2.0
+2008-1,E01016954,A64,1,1,1.0
+2008-1,E01016954,A83,1,1,1.0
+2008-1,E01016963,A54,1,1,1.0
+2008-1,E01016986,A1,1,1,1.0
+2008-1,E01016992,A56,1,1,1.0
+2008-1,E01017008,A54,1,1,1.0
+2008-1,E01017154,A1,1,1,1.0
+2008-1,E01017193,A60,1,1,1.0
+2008-1,E01017210,A60,1,1,1.0
+2008-1,E01017260,A56,1,1,1.0
+2008-1,E01017311,A86,1,1,1.0
+2008-1,E01017363,A29,1,1,1.0
+2008-1,E01017363,A60,2,1,2.0
+2008-1,E01017367,A82,1,1,1.0
+2008-1,E01017369,A41,1,1,1.0
+2008-1,E01017384,A1,1,1,1.0
+2008-1,E01017384,A20,1,1,1.0
+2008-1,E01017411,A24,1,1,1.0
+2008-1,E01017411,A54,1,1,1.0
+2008-1,E01017419,A60,1,1,1.0
+2008-1,E01017474,A29,1,1,1.0
+2008-1,E01017478,A60,1,1,1.0
+2008-1,E01017550,A60,1,1,1.0
+2008-1,E01017558,A29,1,1,1.0
+2008-1,E01017567,A60,1,1,1.0
+2008-1,E01017586,A20,12,1,12.0
+2008-1,E01017586,A29,1,1,1.0
+2008-1,E01017655,A20,1,1,1.0
+2008-1,E01017655,A56,1,1,1.0
+2008-1,E01017655,A57,1,1,1.0
+2008-1,E01017666,A41,1,1,1.0
+2008-1,E01017671,A81,1,1,1.0
+2008-1,E01017678,A57,1,1,1.0
+2008-1,E01017681,A1,1,1,1.0
+2008-1,E01017700,A60,1,1,1.0
+2008-1,E01017734,A60,1,1,1.0
+2008-1,E01017774,A57,1,1,1.0
+2008-1,E01017777,A1,1,1,1.0
+2008-1,E01017786,A60,1,1,1.0
+2008-1,E01017794,A60,1,1,1.0
+2008-1,E01017796,A20,1,1,1.0
+2008-1,E01017808,A60,1,1,1.0
+2008-1,E01017823,A29,2,1,2.0
+2008-1,E01017842,A1,1,1,1.0
+2008-1,E01017849,A1,1,1,1.0
+2008-1,E01017871,A81,2,1,2.0
+2008-1,E01017898,A81,1,1,1.0
+2008-1,E01017904,A1,1,1,1.0
+2008-1,E01017908,A20,1,1,1.0
+2008-1,E01017922,A81,1,1,1.0
+2008-1,E01017947,A86,1,1,1.0
+2008-1,E01017953,A83,1,1,1.0
+2008-1,E01017954,A81,1,1,1.0
+2008-1,E01017965,A81,1,1,1.0
+2008-1,E01017971,A33,2,1,2.0
+2008-1,E01017973,A60,1,1,1.0
+2008-1,E01017983,A60,1,1,1.0
+2008-1,E01017991,A79,1,1,1.0
+2008-1,E01017993,A12,2,1,2.0
+2008-1,E01017998,A57,1,1,1.0
+2008-1,E01018006,A60,5,2,2.5
+2008-1,E01018008,A41,1,1,1.0
+2008-1,E01018008,A60,1,1,1.0
+2008-1,E01018012,A60,1,1,1.0
+2008-1,E01018017,A83,1,1,1.0
+2008-1,E01018123,A20,1,1,1.0
+2008-1,E01018154,A81,1,1,1.0
+2008-1,E01018197,A81,1,1,1.0
+2008-1,E01018198,A81,1,1,1.0
+2008-1,E01018204,A41,1,1,1.0
+2008-1,E01018208,A73,1,1,1.0
+2008-1,E01018209,A81,1,1,1.0
+2008-1,E01018223,A60,1,1,1.0
+2008-1,E01018236,A81,1,1,1.0
+2008-1,E01018272,A41,1,1,1.0
+2008-1,E01018272,A81,1,1,1.0
+2008-1,E01018273,A60,1,1,1.0
+2008-1,E01018273,A83,1,1,1.0
+2008-1,E01018280,A54,1,1,1.0
+2008-1,E01018281,A81,1,1,1.0
+2008-1,E01018289,A41,1,1,1.0
+2008-1,E01018299,A60,1,1,1.0
+2008-1,E01018301,A60,1,1,1.0
+2008-1,E01018320,A20,1,1,1.0
+2008-1,E01018339,A20,1,1,1.0
+2008-1,E01018342,A60,1,1,1.0
+2008-1,E01018367,A60,1,1,1.0
+2008-1,E01018403,A60,1,1,1.0
+2008-1,E01018407,A81,1,1,1.0
+2008-1,E01018432,A1,1,1,1.0
+2008-1,E01018432,A20,1,1,1.0
+2008-1,E01018490,A56,2,1,2.0
+2008-1,E01018504,A1,1,1,1.0
+2008-1,E01018593,A73,1,1,1.0
+2008-1,E01018606,A60,1,1,1.0
+2008-1,E01018614,A81,1,1,1.0
+2008-1,E01018624,A73,1,1,1.0
+2008-1,E01018624,A81,1,1,1.0
+2008-1,E01018633,A81,1,1,1.0
+2008-1,E01018651,A73,1,1,1.0
+2008-1,E01018688,A41,1,1,1.0
+2008-1,E01018800,A41,1,1,1.0
+2008-1,E01018804,A81,1,1,1.0
+2008-1,E01018971,A57,1,1,1.0
+2008-1,E01019109,A29,3,2,1.5
+2008-1,E01019109,A79,2,1,2.0
+2008-1,E01019109,A81,1,1,1.0
+2008-1,E01019111,A29,1,1,1.0
+2008-1,E01019113,A29,1,1,1.0
+2008-1,E01019113,A54,1,1,1.0
+2008-1,E01019190,A81,1,1,1.0
+2008-1,E01019236,A73,1,1,1.0
+2008-1,E01019296,A60,2,1,2.0
+2008-1,E01019311,A20,1,1,1.0
+2008-1,E01019343,A79,1,1,1.0
+2008-1,E01019429,A81,1,1,1.0
+2008-1,E01019457,A41,1,1,1.0
+2008-1,E01019468,A60,1,1,1.0
+2008-1,E01019630,A60,1,1,1.0
+2008-1,E01019643,A41,1,1,1.0
+2008-1,E01019653,A20,1,1,1.0
+2008-1,E01019653,A73,1,1,1.0
+2008-1,E01019656,A20,1,1,1.0
+2008-1,E01019656,A54,1,1,1.0
+2008-1,E01019656,A60,1,1,1.0
+2008-1,E01019656,A73,1,1,1.0
+2008-1,E01019656,A79,1,1,1.0
+2008-1,E01019664,A53,1,1,1.0
+2008-1,E01019675,A41,1,1,1.0
+2008-1,E01019675,A79,1,1,1.0
+2008-1,E01019681,A79,1,1,1.0
+2008-1,E01019697,A20,2,1,2.0
+2008-1,E01019697,A41,2,1,2.0
+2008-1,E01019697,A53,1,1,1.0
+2008-1,E01019697,A54,1,1,1.0
+2008-1,E01019697,A82,1,1,1.0
+2008-1,E01019698,A41,1,1,1.0
+2008-1,E01019698,A57,1,1,1.0
+2008-1,E01019700,A41,3,1,3.0
+2008-1,E01019700,A57,1,1,1.0
+2008-1,E01019701,A20,1,1,1.0
+2008-1,E01019816,A20,1,1,1.0
+2008-1,E01019887,A1,1,1,1.0
+2008-1,E01019894,A20,2,1,2.0
+2008-1,E01019895,A20,1,1,1.0
+2008-1,E01019895,A54,1,1,1.0
+2008-1,E01019897,A1,1,1,1.0
+2008-1,E01019897,A20,6,1,6.0
+2008-1,E01019919,A86,2,1,2.0
+2008-1,E01019939,A60,1,1,1.0
+2008-1,E01020043,A60,1,1,1.0
+2008-1,E01020067,A81,1,1,1.0
+2008-1,E01020189,A81,1,1,1.0
+2008-1,E01020315,A60,1,1,1.0
+2008-1,E01020340,A20,1,1,1.0
+2008-1,E01020345,A81,1,1,1.0
+2008-1,E01020424,A20,1,1,1.0
+2008-1,E01020539,A41,4,2,2.0
+2008-1,E01020539,A54,2,2,1.0
+2008-1,E01020539,A60,3,1,3.0
+2008-1,E01020551,A54,1,1,1.0
+2008-1,E01020557,A54,1,1,1.0
+2008-1,E01020702,A12,1,1,1.0
+2008-1,E01020740,A20,2,1,2.0
+2008-1,E01020742,A60,1,1,1.0
+2008-1,E01020802,A20,1,1,1.0
+2008-1,E01020899,A20,1,1,1.0
+2008-1,E01020910,A79,1,1,1.0
+2008-1,E01020987,A54,1,1,1.0
+2008-1,E01021035,A73,1,1,1.0
+2008-1,E01021128,A1,1,1,1.0
+2008-1,E01021132,A29,1,1,1.0
+2008-1,E01021140,A81,1,1,1.0
+2008-1,E01021141,A24,1,1,1.0
+2008-1,E01021155,A60,1,1,1.0
+2008-1,E01021189,A54,1,1,1.0
+2008-1,E01021190,A54,1,1,1.0
+2008-1,E01021193,A33,1,1,1.0
+2008-1,E01021216,A60,1,1,1.0
+2008-1,E01021267,A56,1,1,1.0
+2008-1,E01021267,A73,1,1,1.0
+2008-1,E01021300,A79,1,1,1.0
+2008-1,E01021335,A60,1,1,1.0
+2008-1,E01021443,A60,1,1,1.0
+2008-1,E01021748,A83,2,1,2.0
+2008-1,E01021750,A81,4,1,4.0
+2008-1,E01021750,A83,5,1,5.0
+2008-1,E01021768,A60,1,1,1.0
+2008-1,E01021771,A81,2,1,2.0
+2008-1,E01021772,A60,1,1,1.0
+2008-1,E01021776,A57,1,1,1.0
+2008-1,E01021778,A57,1,1,1.0
+2008-1,E01021781,A81,1,1,1.0
+2008-1,E01021789,A41,1,1,1.0
+2008-1,E01021789,A60,3,1,3.0
+2008-1,E01021790,A86,1,1,1.0
+2008-1,E01021791,A60,1,1,1.0
+2008-1,E01021791,A81,1,1,1.0
+2008-1,E01021801,A41,1,1,1.0
+2008-1,E01021836,A57,1,1,1.0
+2008-1,E01021857,A60,1,1,1.0
+2008-1,E01022101,A81,1,1,1.0
+2008-1,E01022105,A81,1,1,1.0
+2008-1,E01022106,A57,1,1,1.0
+2008-1,E01022106,A60,1,1,1.0
+2008-1,E01022107,A81,2,2,1.0
+2008-1,E01022123,A86,1,1,1.0
+2008-1,E01022129,A56,1,1,1.0
+2008-1,E01022130,A83,1,1,1.0
+2008-1,E01022136,A79,1,1,1.0
+2008-1,E01022137,A29,1,1,1.0
+2008-1,E01022138,A41,1,1,1.0
+2008-1,E01022141,A41,1,1,1.0
+2008-1,E01022142,A81,1,1,1.0
+2008-1,E01022153,A41,1,1,1.0
+2008-1,E01022153,A57,1,1,1.0
+2008-1,E01022158,A29,1,1,1.0
+2008-1,E01022160,A73,1,1,1.0
+2008-1,E01022160,A81,1,1,1.0
+2008-1,E01022168,A81,1,1,1.0
+2008-1,E01022176,A60,1,1,1.0
+2008-1,E01022187,A41,1,1,1.0
+2008-1,E01022194,A57,1,1,1.0
+2008-1,E01022205,A60,2,1,2.0
+2008-1,E01022263,A60,2,1,2.0
+2008-1,E01022264,A60,3,1,3.0
+2008-1,E01022331,A1,1,1,1.0
+2008-1,E01022409,A41,1,1,1.0
+2008-1,E01022409,A81,1,1,1.0
+2008-1,E01022410,A81,1,1,1.0
+2008-1,E01022412,A60,1,1,1.0
+2008-1,E01022422,A60,1,1,1.0
+2008-1,E01022462,A54,1,1,1.0
+2008-1,E01022472,A60,1,1,1.0
+2008-1,E01022528,A33,1,1,1.0
+2008-1,E01022540,A1,1,1,1.0
+2008-1,E01022601,A60,1,1,1.0
+2008-1,E01022618,A60,1,1,1.0
+2008-1,E01022653,A60,1,1,1.0
+2008-1,E01022721,A41,1,1,1.0
+2008-1,E01022721,A60,1,1,1.0
+2008-1,E01022723,A1,1,1,1.0
+2008-1,E01022867,A81,1,1,1.0
+2008-1,E01022947,A60,1,1,1.0
+2008-1,E01023014,A60,1,1,1.0
+2008-1,E01023022,A81,1,1,1.0
+2008-1,E01023023,A29,1,1,1.0
+2008-1,E01023031,A20,1,1,1.0
+2008-1,E01023135,A54,1,1,1.0
+2008-1,E01023135,A79,1,1,1.0
+2008-1,E01023162,A60,1,1,1.0
+2008-1,E01023175,A57,1,1,1.0
+2008-1,E01023178,A24,1,1,1.0
+2008-1,E01023224,A29,2,1,2.0
+2008-1,E01023224,A41,2,1,2.0
+2008-1,E01023224,A60,1,1,1.0
+2008-1,E01023249,A60,1,1,1.0
+2008-1,E01023258,A57,1,1,1.0
+2008-1,E01023287,A54,1,1,1.0
+2008-1,E01023287,A60,1,1,1.0
+2008-1,E01023313,A73,1,1,1.0
+2008-1,E01023330,A41,1,1,1.0
+2008-1,E01023361,A60,1,1,1.0
+2008-1,E01023366,A33,1,1,1.0
+2008-1,E01023474,A57,1,1,1.0
+2008-1,E01023477,A1,1,1,1.0
+2008-1,E01023482,A33,1,1,1.0
+2008-1,E01023512,A60,1,1,1.0
+2008-1,E01023513,A57,1,1,1.0
+2008-1,E01023513,A60,2,2,1.0
+2008-1,E01023514,A41,2,2,1.0
+2008-1,E01023514,A60,1,1,1.0
+2008-1,E01023514,A83,1,1,1.0
+2008-1,E01023517,A41,1,1,1.0
+2008-1,E01023559,A24,1,1,1.0
+2008-1,E01023559,A41,1,1,1.0
+2008-1,E01023559,A57,1,1,1.0
+2008-1,E01023602,A33,1,1,1.0
+2008-1,E01023613,A29,1,1,1.0
+2008-1,E01023613,A56,1,1,1.0
+2008-1,E01023660,A60,1,1,1.0
+2008-1,E01023660,A81,1,1,1.0
+2008-1,E01023673,A60,1,1,1.0
+2008-1,E01023704,A41,1,1,1.0
+2008-1,E01023708,A60,1,1,1.0
+2008-1,E01023727,A60,1,1,1.0
+2008-1,E01023727,A79,1,1,1.0
+2008-1,E01023733,A60,1,1,1.0
+2008-1,E01023779,A60,1,1,1.0
+2008-1,E01023790,A81,1,1,1.0
+2008-1,E01023820,A81,1,1,1.0
+2008-1,E01023833,A81,1,1,1.0
+2008-1,E01023850,A81,1,1,1.0
+2008-1,E01023917,A33,1,1,1.0
+2008-1,E01023918,A57,1,1,1.0
+2008-1,E01023919,A1,1,1,1.0
+2008-1,E01023940,A54,1,1,1.0
+2008-1,E01023940,A60,1,1,1.0
+2008-1,E01023940,A83,1,1,1.0
+2008-1,E01023944,A54,1,1,1.0
+2008-1,E01023944,A81,2,1,2.0
+2008-1,E01023952,A81,1,1,1.0
+2008-1,E01024020,A81,1,1,1.0
+2008-1,E01024042,A60,3,1,3.0
+2008-1,E01024140,A1,1,1,1.0
+2008-1,E01024149,A20,1,1,1.0
+2008-1,E01024162,A73,1,1,1.0
+2008-1,E01024331,A1,1,1,1.0
+2008-1,E01024332,A57,1,1,1.0
+2008-1,E01024345,A41,1,1,1.0
+2008-1,E01024361,A81,1,1,1.0
+2008-1,E01024429,A60,1,1,1.0
+2008-1,E01024433,A81,1,1,1.0
+2008-1,E01024445,A60,1,1,1.0
+2008-1,E01024445,A82,1,1,1.0
+2008-1,E01024465,A1,2,1,2.0
+2008-1,E01024490,A60,2,1,2.0
+2008-1,E01024533,A29,1,1,1.0
+2008-1,E01024533,A54,1,1,1.0
+2008-1,E01024547,A81,1,1,1.0
+2008-1,E01024550,A60,1,1,1.0
+2008-1,E01024567,A57,1,1,1.0
+2008-1,E01024567,A79,1,1,1.0
+2008-1,E01024667,A81,1,1,1.0
+2008-1,E01024671,A56,1,1,1.0
+2008-1,E01024692,A20,1,1,1.0
+2008-1,E01024698,A54,1,1,1.0
+2008-1,E01024701,A24,1,1,1.0
+2008-1,E01024755,A57,1,1,1.0
+2008-1,E01024768,A81,1,1,1.0
+2008-1,E01024777,A81,1,1,1.0
+2008-1,E01024781,A57,1,1,1.0
+2008-1,E01024783,A60,1,1,1.0
+2008-1,E01024793,A29,1,1,1.0
+2008-1,E01024798,A41,1,1,1.0
+2008-1,E01024798,A60,1,1,1.0
+2008-1,E01024801,A81,1,1,1.0
+2008-1,E01024802,A60,1,1,1.0
+2008-1,E01024813,A20,1,1,1.0
+2008-1,E01024824,A60,1,1,1.0
+2008-1,E01024825,A81,1,1,1.0
+2008-1,E01024828,A56,1,1,1.0
+2008-1,E01024829,A1,1,1,1.0
+2008-1,E01024852,A81,1,1,1.0
+2008-1,E01024913,A41,1,1,1.0
+2008-1,E01024936,A33,1,1,1.0
+2008-1,E01024936,A73,1,1,1.0
+2008-1,E01024954,A81,1,1,1.0
+2008-1,E01024988,A20,1,1,1.0
+2008-1,E01025000,A20,1,1,1.0
+2008-1,E01025031,A29,1,1,1.0
+2008-1,E01025077,A60,1,1,1.0
+2008-1,E01025083,A60,1,1,1.0
+2008-1,E01025179,A56,1,1,1.0
+2008-1,E01025179,A57,1,1,1.0
+2008-1,E01025185,A1,1,1,1.0
+2008-1,E01025231,A73,1,1,1.0
+2008-1,E01025262,A57,1,1,1.0
+2008-1,E01025263,A79,1,1,1.0
+2008-1,E01025264,A12,1,1,1.0
+2008-1,E01025290,A83,1,1,1.0
+2008-1,E01025425,A33,1,1,1.0
+2008-1,E01025593,A73,1,1,1.0
+2008-1,E01025615,A81,1,1,1.0
+2008-1,E01025625,A60,1,1,1.0
+2008-1,E01025627,A20,1,1,1.0
+2008-1,E01025646,A56,1,1,1.0
+2008-1,E01025693,A20,1,1,1.0
+2008-1,E01025761,A20,1,1,1.0
+2008-1,E01025890,A60,1,1,1.0
+2008-1,E01026095,A60,1,1,1.0
+2008-1,E01026169,A60,1,1,1.0
+2008-1,E01026169,A81,1,1,1.0
+2008-1,E01026176,A81,1,1,1.0
+2008-1,E01026226,A60,1,1,1.0
+2008-1,E01026263,A41,1,1,1.0
+2008-1,E01026328,A29,1,1,1.0
+2008-1,E01026328,A54,2,1,2.0
+2008-1,E01026452,A73,1,1,1.0
+2008-1,E01026478,A81,1,1,1.0
+2008-1,E01026479,A29,2,1,2.0
+2008-1,E01026495,A60,1,1,1.0
+2008-1,E01026559,A41,1,1,1.0
+2008-1,E01026574,A54,1,1,1.0
+2008-1,E01026575,A81,1,1,1.0
+2008-1,E01026598,A29,1,1,1.0
+2008-1,E01026622,A29,1,1,1.0
+2008-1,E01026623,A20,1,1,1.0
+2008-1,E01026625,A29,4,1,4.0
+2008-1,E01026626,A29,2,1,2.0
+2008-1,E01026629,A83,1,1,1.0
+2008-1,E01026663,A81,1,1,1.0
+2008-1,E01026677,A57,1,1,1.0
+2008-1,E01026682,A60,1,1,1.0
+2008-1,E01026713,A29,1,1,1.0
+2008-1,E01026713,A73,1,1,1.0
+2008-1,E01026742,A82,1,1,1.0
+2008-1,E01026743,A56,1,1,1.0
+2008-1,E01026743,A57,1,1,1.0
+2008-1,E01026743,A63,1,1,1.0
+2008-1,E01026750,A20,1,1,1.0
+2008-1,E01026769,A29,1,1,1.0
+2008-1,E01026772,A81,1,1,1.0
+2008-1,E01026811,A41,1,1,1.0
+2008-1,E01026863,A29,1,1,1.0
+2008-1,E01026916,A60,1,1,1.0
+2008-1,E01026946,A20,1,1,1.0
+2008-1,E01026954,A81,1,1,1.0
+2008-1,E01026980,A81,1,1,1.0
+2008-1,E01026993,A60,1,1,1.0
+2008-1,E01026994,A60,1,1,1.0
+2008-1,E01027073,A81,1,1,1.0
+2008-1,E01027117,A83,1,1,1.0
+2008-1,E01027140,A60,1,1,1.0
+2008-1,E01027177,A1,1,1,1.0
+2008-1,E01027183,A60,2,1,2.0
+2008-1,E01027185,A1,1,1,1.0
+2008-1,E01027211,A81,1,1,1.0
+2008-1,E01027223,A54,1,1,1.0
+2008-1,E01027252,A29,1,1,1.0
+2008-1,E01027255,A54,1,1,1.0
+2008-1,E01027259,A41,1,1,1.0
+2008-1,E01027268,A54,1,1,1.0
+2008-1,E01027344,A81,1,1,1.0
+2008-1,E01027356,A60,1,1,1.0
+2008-1,E01027388,A20,1,1,1.0
+2008-1,E01027394,A57,1,1,1.0
+2008-1,E01027483,A20,1,1,1.0
+2008-1,E01027488,A60,2,1,2.0
+2008-1,E01027657,A81,1,1,1.0
+2008-1,E01027678,A33,1,1,1.0
+2008-1,E01027732,A53,1,1,1.0
+2008-1,E01027758,A20,1,1,1.0
+2008-1,E01027942,A60,1,1,1.0
+2008-1,E01027975,A81,1,1,1.0
+2008-1,E01027995,A73,1,1,1.0
+2008-1,E01028180,A73,1,1,1.0
+2008-1,E01028189,A29,1,1,1.0
+2008-1,E01028199,A33,1,1,1.0
+2008-1,E01028207,A20,1,1,1.0
+2008-1,E01028274,A57,1,1,1.0
+2008-1,E01028312,A60,2,1,2.0
+2008-1,E01028405,A81,1,1,1.0
+2008-1,E01028438,A24,1,1,1.0
+2008-1,E01028498,A20,1,1,1.0
+2008-1,E01028521,A41,1,1,1.0
+2008-1,E01028521,A86,1,1,1.0
+2008-1,E01028553,A1,1,1,1.0
+2008-1,E01028611,A60,1,1,1.0
+2008-1,E01028618,A20,1,1,1.0
+2008-1,E01028638,A29,1,1,1.0
+2008-1,E01028648,A20,1,1,1.0
+2008-1,E01028648,A81,1,1,1.0
+2008-1,E01028668,A60,1,1,1.0
+2008-1,E01028726,A60,1,1,1.0
+2008-1,E01028735,A60,1,1,1.0
+2008-1,E01028736,A83,1,1,1.0
+2008-1,E01028744,A60,1,1,1.0
+2008-1,E01028779,A20,1,1,1.0
+2008-1,E01028840,A24,1,1,1.0
+2008-1,E01028840,A41,1,1,1.0
+2008-1,E01028840,A54,1,1,1.0
+2008-1,E01028840,A81,3,1,3.0
+2008-1,E01029035,A81,1,1,1.0
+2008-1,E01029070,A60,1,1,1.0
+2008-1,E01029128,A41,1,1,1.0
+2008-1,E01029256,A41,1,1,1.0
+2008-1,E01029521,A60,1,1,1.0
+2008-1,E01029808,A20,1,1,1.0
+2008-1,E01029861,A73,1,1,1.0
+2008-1,E01030000,A20,1,1,1.0
+2008-1,E01030007,A20,1,1,1.0
+2008-1,E01030008,A1,1,1,1.0
+2008-1,E01030159,A20,1,1,1.0
+2008-1,E01030350,A41,1,1,1.0
+2008-1,E01030369,A57,1,1,1.0
+2008-1,E01030376,A81,1,1,1.0
+2008-1,E01030441,A60,1,1,1.0
+2008-1,E01030452,A73,1,1,1.0
+2008-1,E01030460,A60,1,1,1.0
+2008-1,E01030463,A54,1,1,1.0
+2008-1,E01030463,A57,1,1,1.0
+2008-1,E01030470,A60,1,1,1.0
+2008-1,E01030499,A41,1,1,1.0
+2008-1,E01030504,A54,1,1,1.0
+2008-1,E01030504,A60,1,1,1.0
+2008-1,E01030537,A41,1,1,1.0
+2008-1,E01030537,A57,1,1,1.0
+2008-1,E01030537,A81,1,1,1.0
+2008-1,E01030547,A54,1,1,1.0
+2008-1,E01030550,A60,1,1,1.0
+2008-1,E01030552,A56,1,1,1.0
+2008-1,E01030571,A60,1,1,1.0
+2008-1,E01030574,A20,1,1,1.0
+2008-1,E01030579,A81,1,1,1.0
+2008-1,E01030581,A81,1,1,1.0
+2008-1,E01030611,A41,1,1,1.0
+2008-1,E01030612,A79,1,1,1.0
+2008-1,E01030617,A41,1,1,1.0
+2008-1,E01030619,A60,1,1,1.0
+2008-1,E01030625,A60,1,1,1.0
+2008-1,E01030707,A1,1,1,1.0
+2008-1,E01030717,A60,1,1,1.0
+2008-1,E01030753,A60,1,1,1.0
+2008-1,E01030852,A60,1,1,1.0
+2008-1,E01030855,A60,3,1,3.0
+2008-1,E01030859,A57,1,1,1.0
+2008-1,E01030864,A60,1,1,1.0
+2008-1,E01030875,A12,1,1,1.0
+2008-1,E01030881,A24,1,1,1.0
+2008-1,E01030881,A60,3,1,3.0
+2008-1,E01030899,A41,1,1,1.0
+2008-1,E01030905,A60,1,1,1.0
+2008-1,E01030906,A60,1,1,1.0
+2008-1,E01030908,A60,1,1,1.0
+2008-1,E01030909,A60,1,1,1.0
+2008-1,E01030910,A60,2,1,2.0
+2008-1,E01030954,A54,1,1,1.0
+2008-1,E01030962,A81,2,1,2.0
+2008-1,E01030979,A1,1,1,1.0
+2008-1,E01030979,A73,1,1,1.0
+2008-1,E01030990,A60,1,1,1.0
+2008-1,E01031000,A41,1,1,1.0
+2008-1,E01031027,A29,1,1,1.0
+2008-1,E01031027,A83,3,1,3.0
+2008-1,E01031049,A20,1,1,1.0
+2008-1,E01031049,A73,1,1,1.0
+2008-1,E01031146,A53,1,1,1.0
+2008-1,E01031214,A60,1,1,1.0
+2008-1,E01031234,A54,1,1,1.0
+2008-1,E01031243,A79,1,1,1.0
+2008-1,E01031282,A41,1,1,1.0
+2008-1,E01031282,A57,2,2,1.0
+2008-1,E01031283,A20,1,1,1.0
+2008-1,E01031382,A56,1,1,1.0
+2008-1,E01031384,A60,1,1,1.0
+2008-1,E01031394,A81,1,1,1.0
+2008-1,E01031409,A1,1,1,1.0
+2008-1,E01031459,A20,1,1,1.0
+2008-1,E01031521,A1,1,1,1.0
+2008-1,E01031557,A60,1,1,1.0
+2008-1,E01031647,A1,1,1,1.0
+2008-1,E01031687,A20,1,1,1.0
+2008-1,E01031687,A73,1,1,1.0
+2008-1,E01031687,A79,1,1,1.0
+2008-1,E01031703,A60,1,1,1.0
+2008-1,E01031710,A1,1,1,1.0
+2008-1,E01031715,A60,1,1,1.0
+2008-1,E01031729,A81,1,1,1.0
+2008-1,E01031733,A57,1,1,1.0
+2008-1,E01031741,A60,1,1,1.0
+2008-1,E01031764,A41,1,1,1.0
+2008-1,E01031766,A41,2,1,2.0
+2008-1,E01031785,A81,1,1,1.0
+2008-1,E01031833,A20,1,1,1.0
+2008-1,E01031865,A60,1,1,1.0
+2008-1,E01031870,A60,1,1,1.0
+2008-1,E01031885,A60,2,1,2.0
+2008-1,E01031894,A60,2,1,2.0
+2008-1,E01031988,A20,1,1,1.0
+2008-1,E01031991,A60,1,1,1.0
+2008-1,E01031991,A83,1,1,1.0
+2008-1,E01032014,A41,1,1,1.0
+2008-1,E01032022,A41,1,1,1.0
+2008-1,E01032067,A41,1,1,1.0
+2008-1,E01032114,A33,1,1,1.0
+2008-1,E01032123,A60,1,1,1.0
+2008-1,E01032127,A60,1,1,1.0
+2008-1,E01032130,A54,1,1,1.0
+2008-1,E01032130,A79,1,1,1.0
+2008-1,E01032132,A54,1,1,1.0
+2008-1,E01032133,A57,1,1,1.0
+2008-1,E01032134,A41,1,1,1.0
+2008-1,E01032134,A60,1,1,1.0
+2008-1,E01032134,A83,1,1,1.0
+2008-1,E01032152,A60,2,1,2.0
+2008-1,E01032156,A12,1,1,1.0
+2008-1,E01032156,A60,1,1,1.0
+2008-1,E01032169,A60,1,1,1.0
+2008-1,E01032173,A79,1,1,1.0
+2008-1,E01032178,A79,1,1,1.0
+2008-1,E01032193,A60,1,1,1.0
+2008-1,E01032214,A60,2,2,1.0
+2008-1,E01032239,A60,1,1,1.0
+2008-1,E01032240,A60,1,1,1.0
+2008-1,E01032250,A20,1,1,1.0
+2008-1,E01032256,A81,1,1,1.0
+2008-1,E01032272,A1,1,1,1.0
+2008-1,E01032299,A20,1,1,1.0
+2008-1,E01032427,A60,1,1,1.0
+2008-1,E01032435,A60,1,1,1.0
+2008-1,E01032440,A20,1,1,1.0
+2008-1,E01032462,A60,1,1,1.0
+2008-1,E01032471,A73,1,1,1.0
+2008-1,E01032471,A79,1,1,1.0
+2008-1,E01032472,A60,1,1,1.0
+2008-1,E01032477,A60,2,1,2.0
+2008-1,E01032480,A28,1,1,1.0
+2008-1,E01032482,A79,1,1,1.0
+2008-1,E01032504,A60,1,1,1.0
+2008-1,E01032531,A20,1,1,1.0
+2008-1,E01032610,A60,1,1,1.0
+2008-1,E01032680,A60,1,1,1.0
+2008-1,E01032687,A60,1,1,1.0
+2008-1,E01032711,A81,1,1,1.0
+2008-1,E01032716,A29,1,1,1.0
+2008-1,E01032720,A60,1,1,1.0
+2008-1,E01032726,A29,1,1,1.0
+2008-1,E01032739,A54,1,1,1.0
+2008-1,E01032739,A60,1,1,1.0
+2008-1,E01032764,A57,1,1,1.0
+2008-1,E01032785,A29,2,2,1.0
+2008-1,E01032795,A60,1,1,1.0
+2008-1,E01032797,A60,2,1,2.0
+2008-1,E01032797,A86,2,2,1.0
+2008-1,E01032802,A81,1,1,1.0
+2008-1,E01032805,A20,1,1,1.0
+2008-1,E01032813,A20,1,1,1.0
+2008-1,E01032852,A81,1,1,1.0
+2008-1,E01032900,A81,1,1,1.0
+2008-1,E01032907,A60,1,1,1.0
+2008-1,E01032922,A54,1,1,1.0
+2008-1,E01032925,A33,1,1,1.0
+2008-1,E01032925,A79,1,1,1.0
+2008-1,E01032939,A33,1,1,1.0
+2008-1,E01032973,A81,1,1,1.0
+2008-1,E01032993,A20,1,1,1.0
+2008-1,E01033005,A73,1,1,1.0
+2008-1,E01033006,A60,1,1,1.0
+2008-1,E01033061,A60,1,1,1.0
+2008-1,E01033082,A81,1,1,1.0
+2008-1,E01033083,A81,1,1,1.0
+2008-1,E01033098,A60,1,1,1.0
+2008-1,E01033127,A1,1,1,1.0
+2008-1,E01033127,A29,1,1,1.0
+2008-1,E01033127,A33,1,1,1.0
+2008-1,E01033127,A79,1,1,1.0
+2008-1,E01033181,A1,1,1,1.0
+2008-1,E01033213,A60,1,1,1.0
+2008-1,E01033279,A82,1,1,1.0
+2008-1,E01033300,A60,1,1,1.0
+2008-1,E01033367,A54,1,1,1.0
+2008-1,E01033489,A60,2,2,1.0
+2008-1,E01033503,A60,2,1,2.0
+2008-1,E01033520,A20,1,1,1.0
+2008-1,E01033572,A54,1,1,1.0
+2008-1,E01033595,A86,1,1,1.0
+2008-1,E01033606,A20,1,1,1.0
+2008-1,E01033620,A60,1,1,1.0
+2008-1,E01033690,A79,1,1,1.0
+2008-1,E01033690,A83,1,1,1.0
+2008-1,E01033694,A73,1,1,1.0
+2008-1,E01033700,A81,1,1,1.0
+2008-1,E01033702,A79,1,1,1.0
+2008-1,E01033704,A29,1,1,1.0
+2008-1,E01033708,A33,1,1,1.0
+2008-1,S01006510,A54,1,1,1.0
+2008-1,S01006514,A83,1,1,1.0
+2008-1,S01006516,A83,2,1,2.0
+2008-1,S01006517,A41,2,1,2.0
+2008-1,S01006518,A81,1,1,1.0
+2008-1,S01006521,A83,2,1,2.0
+2008-1,S01006523,A83,2,1,2.0
+2008-1,S01006529,A41,1,1,1.0
+2008-1,S01006529,A86,1,1,1.0
+2008-1,S01006538,A83,1,1,1.0
+2008-1,S01006544,A41,2,1,2.0
+2008-1,S01006551,A86,1,1,1.0
+2008-1,S01006569,A1,1,1,1.0
+2008-1,S01006577,A54,1,1,1.0
+2008-1,S01006577,A60,1,1,1.0
+2008-1,S01006586,A41,1,1,1.0
+2008-1,S01006587,A57,2,1,2.0
+2008-1,S01006593,A81,1,1,1.0
+2008-1,S01006602,A54,1,1,1.0
+2008-1,S01006616,A20,1,1,1.0
+2008-1,S01006663,A79,1,1,1.0
+2008-1,S01006685,A57,1,1,1.0
+2008-1,S01006685,A81,1,1,1.0
+2008-1,S01006685,A83,1,1,1.0
+2008-1,S01006694,A86,1,1,1.0
+2008-1,S01006696,A54,1,1,1.0
+2008-1,S01006696,A81,1,1,1.0
+2008-1,S01006697,A83,1,1,1.0
+2008-1,S01006822,A83,1,1,1.0
+2008-1,S01006888,A41,1,1,1.0
+2008-1,S01006908,A83,1,1,1.0
+2008-1,S01007097,A79,1,1,1.0
+2008-1,S01007106,A41,1,1,1.0
+2008-1,S01007160,A60,1,1,1.0
+2008-1,S01007171,A81,1,1,1.0
+2008-1,S01007286,A60,2,2,1.0
+2008-1,S01007304,A1,1,1,1.0
+2008-1,S01007316,A60,1,1,1.0
+2008-1,S01007329,A60,1,1,1.0
+2008-1,S01007331,A60,3,1,3.0
+2008-1,S01007417,A53,1,1,1.0
+2008-1,S01007453,A54,2,1,2.0
+2008-1,S01007454,A41,1,1,1.0
+2008-1,S01007462,A41,1,1,1.0
+2008-1,S01007463,A54,1,1,1.0
+2008-1,S01007465,A81,1,1,1.0
+2008-1,S01007467,A41,1,1,1.0
+2008-1,S01007467,A60,1,1,1.0
+2008-1,S01007475,A41,1,1,1.0
+2008-1,S01007475,A60,1,1,1.0
+2008-1,S01007476,A41,1,1,1.0
+2008-1,S01007504,A24,1,1,1.0
+2008-1,S01007554,A41,1,1,1.0
+2008-1,S01007592,A57,1,1,1.0
+2008-1,S01007613,A57,1,1,1.0
+2008-1,S01007637,A60,1,1,1.0
+2008-1,S01007646,A41,1,1,1.0
+2008-1,S01007648,A81,1,1,1.0
+2008-1,S01007663,A56,1,1,1.0
+2008-1,S01007711,A57,1,1,1.0
+2008-1,S01007735,A41,1,1,1.0
+2008-1,S01007867,A1,1,1,1.0
+2008-1,S01007899,A81,2,2,1.0
+2008-1,S01007910,A81,1,1,1.0
+2008-1,S01007911,A81,1,1,1.0
+2008-1,S01007916,A41,1,1,1.0
+2008-1,S01007929,A60,1,1,1.0
+2008-1,S01007945,A20,1,1,1.0
+2008-1,S01007949,A20,1,1,1.0
+2008-1,S01007988,A81,1,1,1.0
+2008-1,S01007997,A12,1,1,1.0
+2008-1,S01007997,A82,1,1,1.0
+2008-1,S01008003,A60,1,1,1.0
+2008-1,S01008007,A81,1,1,1.0
+2008-1,S01008046,A54,1,1,1.0
+2008-1,S01008057,A60,1,1,1.0
+2008-1,S01008068,A79,1,1,1.0
+2008-1,S01008070,A54,1,1,1.0
+2008-1,S01008070,A57,1,1,1.0
+2008-1,S01008086,A86,3,1,3.0
+2008-1,S01008094,A54,1,1,1.0
+2008-1,S01008111,A20,1,1,1.0
+2008-1,S01008124,A57,1,1,1.0
+2008-1,S01008127,A53,2,1,2.0
+2008-1,S01008127,A57,1,1,1.0
+2008-1,S01008132,A12,1,1,1.0
+2008-1,S01008142,A24,1,1,1.0
+2008-1,S01008143,A79,1,1,1.0
+2008-1,S01008191,A81,1,1,1.0
+2008-1,S01008200,A41,1,1,1.0
+2008-1,S01008202,A41,1,1,1.0
+2008-1,S01008236,A81,1,1,1.0
+2008-1,S01008245,A12,1,1,1.0
+2008-1,S01008253,A60,1,1,1.0
+2008-1,S01008266,A60,1,1,1.0
+2008-1,S01008278,A60,1,1,1.0
+2008-1,S01008279,A81,1,1,1.0
+2008-1,S01008280,A81,1,1,1.0
+2008-1,S01008328,A60,1,1,1.0
+2008-1,S01008338,A56,1,1,1.0
+2008-1,S01008342,A12,1,1,1.0
+2008-1,S01008345,A60,1,1,1.0
+2008-1,S01008354,A54,1,1,1.0
+2008-1,S01008359,A60,1,1,1.0
+2008-1,S01008361,A60,1,1,1.0
+2008-1,S01008366,A60,1,1,1.0
+2008-1,S01008369,A60,1,1,1.0
+2008-1,S01008375,A33,1,1,1.0
+2008-1,S01008377,A56,1,1,1.0
+2008-1,S01008388,A81,1,1,1.0
+2008-1,S01008392,A83,1,1,1.0
+2008-1,S01008421,A60,1,1,1.0
+2008-1,S01008425,A60,1,1,1.0
+2008-1,S01008427,A81,1,1,1.0
+2008-1,S01008428,A56,1,1,1.0
+2008-1,S01008432,A41,2,1,2.0
+2008-1,S01008456,A54,4,1,4.0
+2008-1,S01008456,A57,1,1,1.0
+2008-1,S01008456,A73,1,1,1.0
+2008-1,S01008456,A79,1,1,1.0
+2008-1,S01008460,A54,1,1,1.0
+2008-1,S01008463,A56,1,1,1.0
+2008-1,S01008464,A56,1,1,1.0
+2008-1,S01008486,A12,1,1,1.0
+2008-1,S01008506,A57,1,1,1.0
+2008-1,S01008508,A33,1,1,1.0
+2008-1,S01008508,A41,1,1,1.0
+2008-1,S01008544,A41,1,1,1.0
+2008-1,S01008573,A81,1,1,1.0
+2008-1,S01008586,A41,1,1,1.0
+2008-1,S01008587,A54,1,1,1.0
+2008-1,S01008593,A54,2,2,1.0
+2008-1,S01008598,A12,1,1,1.0
+2008-1,S01008599,A60,1,1,1.0
+2008-1,S01008599,A73,1,1,1.0
+2008-1,S01008599,A81,1,1,1.0
+2008-1,S01008624,A81,1,1,1.0
+2008-1,S01008628,A33,1,1,1.0
+2008-1,S01008631,A57,1,1,1.0
+2008-1,S01008652,A54,1,1,1.0
+2008-1,S01008652,A57,1,1,1.0
+2008-1,S01008654,A41,1,1,1.0
+2008-1,S01008654,A83,1,1,1.0
+2008-1,S01008662,A73,1,1,1.0
+2008-1,S01008678,A81,1,1,1.0
+2008-1,S01008704,A81,1,1,1.0
+2008-1,S01008728,A20,1,1,1.0
+2008-1,S01008755,A1,1,1,1.0
+2008-1,S01008755,A73,1,1,1.0
+2008-1,S01008764,A81,1,1,1.0
+2008-1,S01008774,A20,1,1,1.0
+2008-1,S01008775,A20,1,1,1.0
+2008-1,S01008788,A20,1,1,1.0
+2008-1,S01008803,A1,1,1,1.0
+2008-1,S01008812,A29,1,1,1.0
+2008-1,S01008813,A1,1,1,1.0
+2008-1,S01008813,A54,1,1,1.0
+2008-1,S01008813,A73,1,1,1.0
+2008-1,S01008820,A20,1,1,1.0
+2008-1,S01008828,A73,1,1,1.0
+2008-1,S01008860,A20,1,1,1.0
+2008-1,S01008900,A60,1,1,1.0
+2008-1,S01008901,A20,1,1,1.0
+2008-1,S01008901,A41,1,1,1.0
+2008-1,S01008904,A60,1,1,1.0
+2008-1,S01008917,A60,1,1,1.0
+2008-1,S01008977,A20,1,1,1.0
+2008-1,S01008997,A41,1,1,1.0
+2008-1,S01008997,A53,1,1,1.0
+2008-1,S01009000,A57,1,1,1.0
+2008-1,S01009002,A60,1,1,1.0
+2008-1,S01009005,A60,1,1,1.0
+2008-1,S01009045,A1,1,1,1.0
+2008-1,S01009055,A41,1,1,1.0
+2008-1,S01009055,A60,1,1,1.0
+2008-1,S01009057,A86,1,1,1.0
+2008-1,S01009059,A81,1,1,1.0
+2008-1,S01009060,A53,1,1,1.0
+2008-1,S01009061,A54,1,1,1.0
+2008-1,S01009061,A81,1,1,1.0
+2008-1,S01009075,A12,1,1,1.0
+2008-1,S01009075,A54,1,1,1.0
+2008-1,S01009079,A60,1,1,1.0
+2008-1,S01009082,A60,1,1,1.0
+2008-1,S01009084,A41,1,1,1.0
+2008-1,S01009084,A60,1,1,1.0
+2008-1,S01009084,A73,1,1,1.0
+2008-1,S01009090,A57,1,1,1.0
+2008-1,S01009091,A81,1,1,1.0
+2008-1,S01009092,A54,1,1,1.0
+2008-1,S01009092,A57,1,1,1.0
+2008-1,S01009098,A81,1,1,1.0
+2008-1,S01009104,A81,1,1,1.0
+2008-1,S01009115,A41,1,1,1.0
+2008-1,S01009116,A73,1,1,1.0
+2008-1,S01009125,A81,1,1,1.0
+2008-1,S01009130,A79,1,1,1.0
+2008-1,S01009136,A81,1,1,1.0
+2008-1,S01009137,A81,2,2,1.0
+2008-1,S01009141,A57,1,1,1.0
+2008-1,S01009144,A81,1,1,1.0
+2008-1,S01009146,A81,1,1,1.0
+2008-1,S01009148,A60,1,1,1.0
+2008-1,S01009153,A57,2,2,1.0
+2008-1,S01009161,A86,1,1,1.0
+2008-1,S01009164,A41,1,1,1.0
+2008-1,S01009165,A60,1,1,1.0
+2008-1,S01009166,A60,1,1,1.0
+2008-1,S01009166,A81,1,1,1.0
+2008-1,S01009170,A81,1,1,1.0
+2008-1,S01009175,A41,1,1,1.0
+2008-1,S01009181,A81,3,2,1.5
+2008-1,S01009187,A41,1,1,1.0
+2008-1,S01009187,A60,4,1,4.0
+2008-1,S01009190,A86,1,1,1.0
+2008-1,S01009191,A81,1,1,1.0
+2008-1,S01009192,A41,1,1,1.0
+2008-1,S01009195,A81,1,1,1.0
+2008-1,S01009196,A83,1,1,1.0
+2008-1,S01009200,A41,1,1,1.0
+2008-1,S01009203,A57,1,1,1.0
+2008-1,S01009203,A81,1,1,1.0
+2008-1,S01009204,A81,1,1,1.0
+2008-1,S01009206,A81,1,1,1.0
+2008-1,S01009210,A60,2,2,1.0
+2008-1,S01009210,A81,1,1,1.0
+2008-1,S01009211,A60,1,1,1.0
+2008-1,S01009213,A41,1,1,1.0
+2008-1,S01009216,A54,1,1,1.0
+2008-1,S01009217,A81,1,1,1.0
+2008-1,S01009239,A53,1,1,1.0
+2008-1,S01009244,A60,1,1,1.0
+2008-1,S01009248,A57,1,1,1.0
+2008-1,S01009248,A60,1,1,1.0
+2008-1,S01009255,A41,1,1,1.0
+2008-1,S01009257,A79,1,1,1.0
+2008-1,S01009257,A81,1,1,1.0
+2008-1,S01009258,A60,1,1,1.0
+2008-1,S01009260,A41,1,1,1.0
+2008-1,S01009261,A41,1,1,1.0
+2008-1,S01009263,A81,1,1,1.0
+2008-1,S01009298,A60,1,1,1.0
+2008-1,S01009299,A41,1,1,1.0
+2008-1,S01009315,A41,1,1,1.0
+2008-1,S01009327,A33,1,1,1.0
+2008-1,S01009327,A81,1,1,1.0
+2008-1,S01009351,A60,1,1,1.0
+2008-1,S01009378,A56,1,1,1.0
+2008-1,S01009396,A82,1,1,1.0
+2008-1,S01009424,A54,1,1,1.0
+2008-1,S01009489,A20,1,1,1.0
+2008-1,S01009494,A54,1,1,1.0
+2008-1,S01009522,A33,1,1,1.0
+2008-1,S01009527,A73,1,1,1.0
+2008-1,S01009544,A54,1,1,1.0
+2008-1,S01009546,A53,1,1,1.0
+2008-1,S01009552,A56,1,1,1.0
+2008-1,S01009559,A56,1,1,1.0
+2008-1,S01009591,A24,1,1,1.0
+2008-1,S01009591,A81,1,1,1.0
+2008-1,S01009647,A20,1,1,1.0
+2008-1,S01009663,A60,1,1,1.0
+2008-1,S01009667,A81,1,1,1.0
+2008-1,S01009702,A54,1,1,1.0
+2008-1,S01009722,A81,1,1,1.0
+2008-1,S01009737,A20,1,1,1.0
+2008-1,S01009755,A54,1,1,1.0
+2008-1,S01009764,A53,1,1,1.0
+2008-1,S01009765,A81,1,1,1.0
+2008-1,S01009786,A57,1,1,1.0
+2008-1,S01009790,A20,1,1,1.0
+2008-1,S01009794,A20,1,1,1.0
+2008-1,S01009795,A33,1,1,1.0
+2008-1,S01009797,A41,1,1,1.0
+2008-1,S01009849,A54,1,1,1.0
+2008-1,S01009852,A60,1,1,1.0
+2008-1,S01009863,A20,1,1,1.0
+2008-1,S01009870,A73,1,1,1.0
+2008-1,S01009871,A81,1,1,1.0
+2008-1,S01009898,A60,1,1,1.0
+2008-1,S01009899,A20,1,1,1.0
+2008-1,S01009904,A60,1,1,1.0
+2008-1,S01009905,A60,1,1,1.0
+2008-1,S01009908,A60,1,1,1.0
+2008-1,S01009909,A1,1,1,1.0
+2008-1,S01009909,A33,1,1,1.0
+2008-1,S01009909,A73,1,1,1.0
+2008-1,S01009934,A60,1,1,1.0
+2008-1,S01009945,A41,1,1,1.0
+2008-1,S01009966,A54,1,1,1.0
+2008-1,S01009969,A56,1,1,1.0
+2008-1,S01009970,A60,1,1,1.0
+2008-1,S01010005,A73,1,1,1.0
+2008-1,S01010015,A1,1,1,1.0
+2008-1,S01010015,A29,1,1,1.0
+2008-1,S01010021,A20,1,1,1.0
+2008-1,S01010029,A41,1,1,1.0
+2008-1,S01010032,A60,1,1,1.0
+2008-1,S01010034,A60,1,1,1.0
+2008-1,S01010044,A73,1,1,1.0
+2008-1,S01010051,A12,1,1,1.0
+2008-1,S01010051,A81,1,1,1.0
+2008-1,S01010053,A33,1,1,1.0
+2008-1,S01010056,A86,1,1,1.0
+2008-1,S01010058,A20,1,1,1.0
+2008-1,S01010058,A41,1,1,1.0
+2008-1,S01010074,A20,1,1,1.0
+2008-1,S01010078,A54,1,1,1.0
+2008-1,S01010078,A56,1,1,1.0
+2008-1,S01010113,A79,1,1,1.0
+2008-1,S01010137,A79,1,1,1.0
+2008-1,S01010147,A20,1,1,1.0
+2008-1,S01010162,A73,1,1,1.0
+2008-1,S01010236,A20,1,1,1.0
+2008-1,S01010248,A20,1,1,1.0
+2008-1,S01010260,A60,1,1,1.0
+2008-1,S01010286,A1,2,1,2.0
+2008-1,S01010315,A41,1,1,1.0
+2008-1,S01010333,A54,1,1,1.0
+2008-1,S01010364,A41,1,1,1.0
+2008-1,S01010364,A54,1,1,1.0
+2008-1,S01010365,A54,1,1,1.0
+2008-1,S01010382,A1,1,1,1.0
+2008-1,S01010400,A54,1,1,1.0
+2008-1,S01010413,A56,1,1,1.0
+2008-1,S01010417,A56,1,1,1.0
+2008-1,S01010422,A41,1,1,1.0
+2008-1,S01010429,A20,1,1,1.0
+2008-1,S01010436,A41,1,1,1.0
+2008-1,S01010441,A1,1,1,1.0
+2008-1,S01010459,A73,1,1,1.0
+2008-1,S01010470,A57,1,1,1.0
+2008-1,S01010472,A1,1,1,1.0
+2008-1,S01010473,A54,1,1,1.0
+2008-1,S01010473,A83,1,1,1.0
+2008-1,S01010485,A20,1,1,1.0
+2008-1,S01010500,A73,1,1,1.0
+2008-1,S01010566,A54,1,1,1.0
+2008-1,S01010639,A60,1,1,1.0
+2008-1,S01010674,A41,2,2,1.0
+2008-1,S01010674,A57,2,2,1.0
+2008-1,S01010697,A54,1,1,1.0
+2008-1,S01010718,A20,1,1,1.0
+2008-1,S01010754,A81,1,1,1.0
+2008-1,S01010782,A20,1,1,1.0
+2008-1,S01010787,A20,2,2,1.0
+2008-1,S01010787,A57,1,1,1.0
+2008-1,S01010829,A41,1,1,1.0
+2008-1,S01010829,A60,1,1,1.0
+2008-1,S01010853,A60,1,1,1.0
+2008-1,S01010884,A79,1,1,1.0
+2008-1,S01010912,A29,1,1,1.0
+2008-1,S01010913,A57,1,1,1.0
+2008-1,S01010926,A41,1,1,1.0
+2008-1,S01010965,A20,1,1,1.0
+2008-1,S01010968,A60,1,1,1.0
+2008-1,S01010993,A54,1,1,1.0
+2008-1,S01011038,A54,1,1,1.0
+2008-1,S01011062,A20,1,1,1.0
+2008-1,S01011063,A82,1,1,1.0
+2008-1,S01011080,A56,1,1,1.0
+2008-1,S01011162,A41,1,1,1.0
+2008-1,S01011180,A20,1,1,1.0
+2008-1,S01011180,A29,1,1,1.0
+2008-1,S01011220,A54,1,1,1.0
+2008-1,S01011220,A81,1,1,1.0
+2008-1,S01011250,A20,1,1,1.0
+2008-1,S01011328,A41,1,1,1.0
+2008-1,S01011341,A60,1,1,1.0
+2008-1,S01011352,A57,1,1,1.0
+2008-1,S01011436,A41,1,1,1.0
+2008-1,S01011471,A54,1,1,1.0
+2008-1,S01011471,A79,1,1,1.0
+2008-1,S01011482,A54,1,1,1.0
+2008-1,S01011486,A20,1,1,1.0
+2008-1,S01011490,A56,1,1,1.0
+2008-1,S01011523,A57,1,1,1.0
+2008-1,S01011541,A56,1,1,1.0
+2008-1,S01011541,A79,1,1,1.0
+2008-1,S01011542,A41,1,1,1.0
+2008-1,S01011594,A41,1,1,1.0
+2008-1,S01011600,A29,1,1,1.0
+2008-1,S01011601,A83,1,1,1.0
+2008-1,S01011633,A73,1,1,1.0
+2008-1,S01011635,A60,1,1,1.0
+2008-1,S01011638,A57,1,1,1.0
+2008-1,S01011695,A29,1,1,1.0
+2008-1,S01011697,A41,1,1,1.0
+2008-1,S01011732,A54,1,1,1.0
+2008-1,S01011747,A54,1,1,1.0
+2008-1,S01011789,A57,1,1,1.0
+2008-1,S01011792,A81,1,1,1.0
+2008-1,S01011837,A54,1,1,1.0
+2008-1,S01011849,A29,1,1,1.0
+2008-1,S01011857,A79,1,1,1.0
+2008-1,S01011865,A20,1,1,1.0
+2008-1,S01011878,A41,1,1,1.0
+2008-1,S01011908,A57,1,1,1.0
+2008-1,S01012002,A20,1,1,1.0
+2008-1,S01012030,A41,2,1,2.0
+2008-1,S01012032,A60,1,1,1.0
+2008-1,S01012045,A41,1,1,1.0
+2008-1,S01012045,A81,1,1,1.0
+2008-1,S01012051,A60,1,1,1.0
+2008-1,S01012052,A79,1,1,1.0
+2008-1,S01012080,A60,1,1,1.0
+2008-1,S01012093,A81,1,1,1.0
+2008-1,S01012109,A60,1,1,1.0
+2008-1,S01012110,A73,1,1,1.0
+2008-1,S01012111,A60,1,1,1.0
+2008-1,S01012111,A81,2,1,2.0
+2008-1,S01012122,A81,1,1,1.0
+2008-1,S01012128,A54,1,1,1.0
+2008-1,S01012154,A57,1,1,1.0
+2008-1,S01012165,A20,1,1,1.0
+2008-1,S01012199,A81,1,1,1.0
+2008-1,S01012207,A73,1,1,1.0
+2008-1,S01012230,A81,1,1,1.0
+2008-1,S01012231,A73,1,1,1.0
+2008-1,S01012240,A41,1,1,1.0
+2008-1,S01012288,A54,1,1,1.0
+2008-1,S01012443,A20,1,1,1.0
+2008-1,S01012454,A41,1,1,1.0
+2008-1,S01012466,A60,1,1,1.0
+2008-1,S01012515,A41,1,1,1.0
+2008-1,S01012523,A57,1,1,1.0
+2008-1,S01012541,A60,1,1,1.0
+2008-1,S01012585,A53,1,1,1.0
+2008-1,S01012616,A1,1,1,1.0
+2008-1,S01012616,A20,1,1,1.0
+2008-1,S01012616,A33,2,1,2.0
+2008-1,S01012617,A41,1,1,1.0
+2008-1,S01012617,A60,1,1,1.0
+2008-1,S01012618,A41,1,1,1.0
+2008-1,S01012636,A41,3,1,3.0
+2008-1,S01012684,A57,1,1,1.0
+2008-1,S01012692,A41,1,1,1.0
+2008-1,S01012697,A60,1,1,1.0
+2008-1,S01012716,A41,1,1,1.0
+2008-1,S01012764,A73,1,1,1.0
+2008-1,S01012771,A81,1,1,1.0
+2008-1,S01012775,A79,1,1,1.0
+2008-1,S01012796,A60,1,1,1.0
+2008-1,S01012815,A33,1,1,1.0
+2008-1,S01012848,A41,1,1,1.0
+2008-1,S01012864,A20,1,1,1.0
+2008-1,S01012878,A20,1,1,1.0
+2008-1,S01012879,A56,1,1,1.0
+2008-1,S01012880,A56,1,1,1.0
+2008-1,S01012881,A81,1,1,1.0
+2008-1,S01012883,A60,1,1,1.0
+2008-1,S01012889,A54,1,1,1.0
+2008-1,S01012926,A73,1,1,1.0
+2008-1,S01012952,A60,1,1,1.0
+2008-1,S01012993,A57,1,1,1.0
+2008-1,S01013047,A41,1,1,1.0
+2008-1,S01013047,A60,1,1,1.0
+2008-1,S01013052,A81,1,1,1.0
+2008-1,S01013054,A54,1,1,1.0
+2008-1,S01013070,A41,1,1,1.0
+2008-1,S01013101,A54,1,1,1.0
+2008-1,S01013108,A60,1,1,1.0
+2008-1,S01013123,A41,1,1,1.0
+2008-1,S01013129,A33,1,1,1.0
+2008-1,S01013149,A56,1,1,1.0
+2008-1,S01013204,A54,1,1,1.0
+2008-1,S01013221,A57,1,1,1.0
+2008-1,S01013221,A73,1,1,1.0
+2008-1,S01013229,A54,1,1,1.0
+2008-1,S01013236,A54,1,1,1.0
+2008-1,S01013312,A82,1,1,1.0
+2008-1,S01013314,A41,1,1,1.0
+2008-1,S01013332,A79,1,1,1.0
+2008-1,S01013333,A81,1,1,1.0
+2008-1,S01013349,A54,2,2,1.0
+2008-1,S01013368,A20,1,1,1.0
+2008-1,S01013385,A54,1,1,1.0
+2008-1,S01013404,A60,1,1,1.0
+2008-1,S01013408,A57,1,1,1.0
+2008-1,S01013413,A54,1,1,1.0
+2008-1,S01013423,A60,1,1,1.0
+2008-1,S01013433,A60,1,1,1.0
+2008-1,S01013448,A83,1,1,1.0
+2008-1,W01000286,A54,1,1,1.0
+2008-1,W01000478,A20,1,1,1.0
+2008-1,W01000618,A29,1,1,1.0
+2008-1,W01000618,A81,1,1,1.0
+2008-1,W01000656,A41,1,1,1.0
+2008-1,W01000656,A54,1,1,1.0
+2008-1,W01000678,A54,1,1,1.0
+2008-1,W01000736,A60,1,1,1.0
+2008-1,W01000772,A29,1,1,1.0
+2008-1,W01000869,A60,1,1,1.0
+2008-1,W01000874,A81,1,1,1.0
+2008-1,W01001174,A20,1,1,1.0
+2008-1,W01001351,A20,1,1,1.0
+2008-1,W01001396,A33,1,1,1.0
+2008-1,W01001397,A1,1,1,1.0
+2008-1,W01001427,A41,1,1,1.0
+2008-1,W01001431,A81,1,1,1.0
+2008-1,W01001485,A81,1,1,1.0
+2008-1,W01001553,A83,1,1,1.0
+2008-1,W01001559,A33,1,1,1.0
+2008-1,W01001559,A60,2,1,2.0
+2008-1,W01001559,A73,1,1,1.0
+2008-1,W01001559,A79,1,1,1.0
+2008-1,W01001559,A81,1,1,1.0
+2008-1,W01001559,A82,1,1,1.0
+2008-1,W01001565,A60,1,1,1.0
+2008-1,W01001568,A60,1,1,1.0
+2008-1,W01001574,A20,1,1,1.0
+2008-1,W01001584,A12,2,1,2.0
+2008-1,W01001586,A41,1,1,1.0
+2008-1,W01001586,A60,5,1,5.0
+2008-1,W01001586,A81,1,1,1.0
+2008-1,W01001586,A82,1,1,1.0
+2008-1,W01001587,A28,1,1,1.0
+2008-1,W01001587,A60,1,1,1.0
+2008-1,W01001587,A81,1,1,1.0
+2008-1,W01001590,A41,1,1,1.0
+2008-1,W01001590,A60,1,1,1.0
+2008-1,W01001592,A83,1,1,1.0
+2008-1,W01001615,A1,1,1,1.0
+2008-1,W01001697,A56,2,1,2.0
+2008-1,W01001697,A81,1,1,1.0
+2008-1,W01001713,A41,1,1,1.0
+2008-1,W01001729,A41,1,1,1.0
+2008-1,W01001729,A60,1,1,1.0
+2008-1,W01001772,A81,2,1,2.0
+2008-1,W01001842,A1,1,1,1.0
+2008-1,W01001853,A81,1,1,1.0
+2008-1,W01001955,A60,1,1,1.0

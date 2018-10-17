@@ -1,2383 +1,2382 @@
-period,LSOA,SHEF_B,report_count,user_count,average
-2014-11,E01000115,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000115,Street Lights,1,1,1.0
-2014-11,E01000116,Highways Enquiries,1,1,1.0
-2014-11,E01000116,Road Surface Defects,1,1,1.0
-2014-11,E01000117,Abandoned Vehicles,1,1,1.0
-2014-11,E01000117,Pavement /Footway Defects,3,2,1.5
-2014-11,E01000117,Road Surface Defects,1,1,1.0
-2014-11,E01000117,Rubbish,1,1,1.0
-2014-11,E01000117,Street Lights,1,1,1.0
-2014-11,E01000118,Abandoned Vehicles,1,1,1.0
-2014-11,E01000118,Dog Fouling,1,1,1.0
-2014-11,E01000119,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000120,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000121,Dog Fouling,1,1,1.0
-2014-11,E01000122,Abandoned Vehicles,1,1,1.0
-2014-11,E01000122,Bin Replacement,1,1,1.0
-2014-11,E01000122,Highways Enquiries,1,1,1.0
-2014-11,E01000123,Rubbish,2,2,1.0
-2014-11,E01000125,Pavement /Footway Defects,2,1,2.0
-2014-11,E01000125,Rubbish,2,2,1.0
-2014-11,E01000125,Street Lights,2,2,1.0
-2014-11,E01000126,Rubbish,1,1,1.0
-2014-11,E01000126,Street Lights,1,1,1.0
-2014-11,E01000127,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000129,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000131,Abandoned Vehicles,1,1,1.0
-2014-11,E01000131,Grounds Maintenance,1,1,1.0
-2014-11,E01000131,Highways Enquiries,1,1,1.0
-2014-11,E01000135,Highways Enquiries,1,1,1.0
-2014-11,E01000135,Pavement /Footway Defects,2,1,2.0
-2014-11,E01000135,Road Surface Defects,2,2,1.0
-2014-11,E01000136,Drainage,1,1,1.0
-2014-11,E01000136,Highways Enquiries,1,1,1.0
-2014-11,E01000136,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000136,Rubbish,1,1,1.0
-2014-11,E01000136,Street Lights,2,2,1.0
-2014-11,E01000137,Road Safety,1,1,1.0
-2014-11,E01000138,Abandoned Vehicles,1,1,1.0
-2014-11,E01000138,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000138,Road Safety,1,1,1.0
-2014-11,E01000138,Rubbish,1,1,1.0
-2014-11,E01000139,Highways Enquiries,1,1,1.0
-2014-11,E01000139,Road Surface Defects,1,1,1.0
-2014-11,E01000139,Rubbish,1,1,1.0
-2014-11,E01000140,Road Surface Defects,1,1,1.0
-2014-11,E01000140,Rubbish,1,1,1.0
-2014-11,E01000142,Abandoned Vehicles,1,1,1.0
-2014-11,E01000142,Highways Enquiries,5,4,1.25
-2014-11,E01000142,Rubbish,4,3,1.3333333333333333
-2014-11,E01000142,Street Lights,1,1,1.0
-2014-11,E01000143,Abandoned Vehicles,2,2,1.0
-2014-11,E01000144,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000144,Road Surface Defects,1,1,1.0
-2014-11,E01000144,Rubbish,2,2,1.0
-2014-11,E01000145,Highways Enquiries,1,1,1.0
-2014-11,E01000145,Rubbish,1,1,1.0
-2014-11,E01000146,Drainage,1,1,1.0
-2014-11,E01000146,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000146,Road Surface Defects,1,1,1.0
-2014-11,E01000146,Rubbish,1,1,1.0
-2014-11,E01000147,Abandoned Vehicles,1,1,1.0
-2014-11,E01000147,Road Surface Defects,1,1,1.0
-2014-11,E01000147,Rubbish,1,1,1.0
-2014-11,E01000148,Abandoned Vehicles,1,1,1.0
-2014-11,E01000148,Drainage,1,1,1.0
-2014-11,E01000148,Grounds Maintenance,1,1,1.0
-2014-11,E01000148,Highways Enquiries,1,1,1.0
-2014-11,E01000148,Street Lights,1,1,1.0
-2014-11,E01000150,Abandoned Vehicles,1,1,1.0
-2014-11,E01000150,Grounds Maintenance,1,1,1.0
-2014-11,E01000151,Rubbish,1,1,1.0
-2014-11,E01000152,Abandoned Vehicles,1,1,1.0
-2014-11,E01000155,Incivilities,1,1,1.0
-2014-11,E01000155,Road Surface Defects,1,1,1.0
-2014-11,E01000155,Rubbish,1,1,1.0
-2014-11,E01000156,Drainage,1,1,1.0
-2014-11,E01000156,Grounds Maintenance,1,1,1.0
-2014-11,E01000156,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000157,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000158,Rubbish,1,1,1.0
-2014-11,E01000159,Drainage,1,1,1.0
-2014-11,E01000160,Drainage,1,1,1.0
-2014-11,E01000160,Highways Enquiries,2,2,1.0
-2014-11,E01000160,Road Surface Defects,1,1,1.0
-2014-11,E01000160,Rubbish,1,1,1.0
-2014-11,E01000162,Rubbish,2,2,1.0
-2014-11,E01000164,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000165,Highways Enquiries,1,1,1.0
-2014-11,E01000165,Rubbish,1,1,1.0
-2014-11,E01000166,Highways Enquiries,1,1,1.0
-2014-11,E01000166,Rubbish,1,1,1.0
-2014-11,E01000167,Grounds Maintenance,1,1,1.0
-2014-11,E01000167,Pavement /Footway Defects,3,3,1.0
-2014-11,E01000168,Highways Enquiries,1,1,1.0
-2014-11,E01000169,Abandoned Vehicles,1,1,1.0
-2014-11,E01000169,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000169,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000170,Drainage,1,1,1.0
-2014-11,E01000171,Highways Enquiries,1,1,1.0
-2014-11,E01000172,Road Safety,1,1,1.0
-2014-11,E01000173,Drainage,1,1,1.0
-2014-11,E01000173,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000173,Rubbish,1,1,1.0
-2014-11,E01000174,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000175,Highways Enquiries,1,1,1.0
-2014-11,E01000175,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000175,Street Lights,3,3,1.0
-2014-11,E01000176,Road Surface Defects,1,1,1.0
-2014-11,E01000176,Rubbish,2,2,1.0
-2014-11,E01000177,Abandoned Vehicles,1,1,1.0
-2014-11,E01000177,Rubbish,1,1,1.0
-2014-11,E01000179,Abandoned Vehicles,1,1,1.0
-2014-11,E01000179,Rubbish,1,1,1.0
-2014-11,E01000180,Highways Enquiries,2,2,1.0
-2014-11,E01000180,Rubbish,1,1,1.0
-2014-11,E01000181,Drainage,2,2,1.0
-2014-11,E01000181,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000181,Rubbish,1,1,1.0
-2014-11,E01000181,Street Lights,1,1,1.0
-2014-11,E01000182,Highways Enquiries,1,1,1.0
-2014-11,E01000182,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000182,Road Surface Defects,1,1,1.0
-2014-11,E01000183,Highways Enquiries,1,1,1.0
-2014-11,E01000183,Road Safety,1,1,1.0
-2014-11,E01000184,Abandoned Vehicles,1,1,1.0
-2014-11,E01000184,Road Surface Defects,1,1,1.0
-2014-11,E01000186,Highways Enquiries,1,1,1.0
-2014-11,E01000187,Abandoned Vehicles,2,2,1.0
-2014-11,E01000187,Incivilities,1,1,1.0
-2014-11,E01000188,Rubbish,1,1,1.0
-2014-11,E01000190,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000190,Street Lights,1,1,1.0
-2014-11,E01000191,Abandoned Vehicles,2,2,1.0
-2014-11,E01000192,Rubbish,1,1,1.0
-2014-11,E01000195,Highways Enquiries,1,1,1.0
-2014-11,E01000196,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000196,Road Surface Defects,2,1,2.0
-2014-11,E01000197,Grounds Maintenance,1,1,1.0
-2014-11,E01000197,Highways Enquiries,1,1,1.0
-2014-11,E01000197,Pavement /Footway Defects,2,1,2.0
-2014-11,E01000197,Road Surface Defects,1,1,1.0
-2014-11,E01000197,Rubbish,1,1,1.0
-2014-11,E01000198,Highways Enquiries,1,1,1.0
-2014-11,E01000200,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000202,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000202,Road Safety,1,1,1.0
-2014-11,E01000202,Rubbish,2,1,2.0
-2014-11,E01000203,Drainage,1,1,1.0
-2014-11,E01000203,Highways Enquiries,1,1,1.0
-2014-11,E01000203,Rubbish,1,1,1.0
-2014-11,E01000204,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000205,Abandoned Vehicles,1,1,1.0
-2014-11,E01000205,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000205,Road Surface Defects,1,1,1.0
-2014-11,E01000206,Highways Enquiries,1,1,1.0
-2014-11,E01000206,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000206,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01000206,Rubbish,1,1,1.0
-2014-11,E01000207,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000207,Rubbish,1,1,1.0
-2014-11,E01000208,Highways Enquiries,1,1,1.0
-2014-11,E01000208,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000208,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000210,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000210,Rubbish,3,3,1.0
-2014-11,E01000211,Abandoned Vehicles,2,1,2.0
-2014-11,E01000211,Rubbish,1,1,1.0
-2014-11,E01000212,Drainage,1,1,1.0
-2014-11,E01000213,Drainage,1,1,1.0
-2014-11,E01000213,Pavement /Footway Defects,3,2,1.5
-2014-11,E01000214,Street Lights,1,1,1.0
-2014-11,E01000215,Drainage,3,1,3.0
-2014-11,E01000215,Rubbish,1,1,1.0
-2014-11,E01000217,Abandoned Vehicles,1,1,1.0
-2014-11,E01000217,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000217,Rubbish,1,1,1.0
-2014-11,E01000217,Street Lights,2,2,1.0
-2014-11,E01000218,Rubbish,1,1,1.0
-2014-11,E01000219,Drainage,2,2,1.0
-2014-11,E01000219,Highways Enquiries,1,1,1.0
-2014-11,E01000219,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000221,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000221,Road Surface Defects,1,1,1.0
-2014-11,E01000221,Rubbish,1,1,1.0
-2014-11,E01000221,Street Lights,1,1,1.0
-2014-11,E01000222,Rubbish,1,1,1.0
-2014-11,E01000223,Road Safety,1,1,1.0
-2014-11,E01000223,Road Surface Defects,1,1,1.0
-2014-11,E01000223,Rubbish,1,1,1.0
-2014-11,E01000224,Highways Enquiries,3,2,1.5
-2014-11,E01000224,Road Safety,1,1,1.0
-2014-11,E01000224,Rubbish,1,1,1.0
-2014-11,E01000224,Street Lights,1,1,1.0
-2014-11,E01000225,Abandoned Vehicles,1,1,1.0
-2014-11,E01000225,Rubbish,1,1,1.0
-2014-11,E01000226,Abandoned Vehicles,1,1,1.0
-2014-11,E01000228,Abandoned Vehicles,1,1,1.0
-2014-11,E01000228,Dog Fouling,1,1,1.0
-2014-11,E01000228,Road Surface Defects,3,3,1.0
-2014-11,E01000229,Abandoned Vehicles,1,1,1.0
-2014-11,E01000229,Highways Enquiries,1,1,1.0
-2014-11,E01000229,Street Lights,1,1,1.0
-2014-11,E01000232,Abandoned Vehicles,1,1,1.0
-2014-11,E01000233,Dog Fouling,1,1,1.0
-2014-11,E01000233,Rubbish,1,1,1.0
-2014-11,E01000234,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000235,Drainage,1,1,1.0
-2014-11,E01000235,Road Surface Defects,1,1,1.0
-2014-11,E01000236,Drainage,1,1,1.0
-2014-11,E01000236,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000236,Rubbish,1,1,1.0
-2014-11,E01000237,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000238,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000238,Road Safety,1,1,1.0
-2014-11,E01000238,Rubbish,1,1,1.0
-2014-11,E01000239,Highways Enquiries,1,1,1.0
-2014-11,E01000240,Abandoned Vehicles,1,1,1.0
-2014-11,E01000241,Road Surface Defects,1,1,1.0
-2014-11,E01000241,Street Lights,1,1,1.0
-2014-11,E01000242,Drainage,1,1,1.0
-2014-11,E01000242,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000242,Rubbish,1,1,1.0
-2014-11,E01000243,Rubbish,2,2,1.0
-2014-11,E01000245,Street Lights,1,1,1.0
-2014-11,E01000246,Road Safety,1,1,1.0
-2014-11,E01000246,Street Lights,1,1,1.0
-2014-11,E01000247,Abandoned Vehicles,1,1,1.0
-2014-11,E01000247,Rubbish,1,1,1.0
-2014-11,E01000249,Drainage,1,1,1.0
-2014-11,E01000249,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000250,Road Surface Defects,1,1,1.0
-2014-11,E01000250,Rubbish,3,3,1.0
-2014-11,E01000251,Road Safety,1,1,1.0
-2014-11,E01000252,Abandoned Vehicles,1,1,1.0
-2014-11,E01000253,Drainage,1,1,1.0
-2014-11,E01000253,Highways Enquiries,4,2,2.0
-2014-11,E01000253,Road Safety,1,1,1.0
-2014-11,E01000253,Road Surface Defects,1,1,1.0
-2014-11,E01000253,Rubbish,1,1,1.0
-2014-11,E01000255,Abandoned Vehicles,1,1,1.0
-2014-11,E01000255,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000255,Street Lights,1,1,1.0
-2014-11,E01000256,Drainage,1,1,1.0
-2014-11,E01000256,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000256,Street Lights,1,1,1.0
-2014-11,E01000257,Abandoned Vehicles,1,1,1.0
-2014-11,E01000257,Highways Enquiries,2,2,1.0
-2014-11,E01000257,Rubbish,1,1,1.0
-2014-11,E01000258,Drainage,1,1,1.0
-2014-11,E01000258,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000258,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000260,Abandoned Vehicles,1,1,1.0
-2014-11,E01000260,Drainage,1,1,1.0
-2014-11,E01000260,Road Safety,1,1,1.0
-2014-11,E01000260,Road Surface Defects,3,3,1.0
-2014-11,E01000261,Road Surface Defects,1,1,1.0
-2014-11,E01000262,Highways Enquiries,2,2,1.0
-2014-11,E01000263,Highways Enquiries,2,2,1.0
-2014-11,E01000263,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000263,Street Lights,1,1,1.0
-2014-11,E01000264,Highways Enquiries,1,1,1.0
-2014-11,E01000264,Road Safety,1,1,1.0
-2014-11,E01000264,Rubbish,1,1,1.0
-2014-11,E01000264,Street Lights,1,1,1.0
-2014-11,E01000265,Abandoned Vehicles,1,1,1.0
-2014-11,E01000265,Highways Enquiries,1,1,1.0
-2014-11,E01000265,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000266,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000266,Road Surface Defects,1,1,1.0
-2014-11,E01000267,Street Lights,1,1,1.0
-2014-11,E01000269,Drainage,1,1,1.0
-2014-11,E01000269,Rubbish,1,1,1.0
-2014-11,E01000270,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000271,Abandoned Vehicles,1,1,1.0
-2014-11,E01000271,Rubbish,1,1,1.0
-2014-11,E01000271,Street Lights,1,1,1.0
-2014-11,E01000272,Highways Enquiries,1,1,1.0
-2014-11,E01000272,Road Surface Defects,1,1,1.0
-2014-11,E01000273,Highways Enquiries,2,1,2.0
-2014-11,E01000274,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000275,Road Surface Defects,1,1,1.0
-2014-11,E01000275,Rubbish,1,1,1.0
-2014-11,E01000278,Highways Enquiries,1,1,1.0
-2014-11,E01000279,Highways Enquiries,1,1,1.0
-2014-11,E01000280,Abandoned Vehicles,1,1,1.0
-2014-11,E01000280,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000280,Street Lights,2,1,2.0
-2014-11,E01000281,Drainage,1,1,1.0
-2014-11,E01000282,Highways Enquiries,1,1,1.0
-2014-11,E01000282,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000282,Rubbish,1,1,1.0
-2014-11,E01000283,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000284,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000284,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000285,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000285,Street Lights,2,2,1.0
-2014-11,E01000286,Drainage,1,1,1.0
-2014-11,E01000286,Rubbish,1,1,1.0
-2014-11,E01000288,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000288,Rubbish,1,1,1.0
-2014-11,E01000289,Abandoned Vehicles,2,2,1.0
-2014-11,E01000289,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000290,Highways Enquiries,1,1,1.0
-2014-11,E01000290,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000290,Rubbish,3,1,3.0
-2014-11,E01000290,Street Lights,1,1,1.0
-2014-11,E01000292,Drainage,1,1,1.0
-2014-11,E01000292,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000292,Rubbish,2,2,1.0
-2014-11,E01000293,Highways Enquiries,1,1,1.0
-2014-11,E01000293,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000294,Abandoned Vehicles,1,1,1.0
-2014-11,E01000294,Drainage,1,1,1.0
-2014-11,E01000294,Rubbish,2,2,1.0
-2014-11,E01000295,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000296,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000296,Rubbish,1,1,1.0
-2014-11,E01000297,Rubbish,1,1,1.0
-2014-11,E01000298,Rubbish,1,1,1.0
-2014-11,E01000299,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000299,Rubbish,2,2,1.0
-2014-11,E01000299,Street Lights,1,1,1.0
-2014-11,E01000301,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000301,Street Lights,1,1,1.0
-2014-11,E01000302,Highways Enquiries,1,1,1.0
-2014-11,E01000302,Road Surface Defects,2,2,1.0
-2014-11,E01000302,Rubbish,1,1,1.0
-2014-11,E01000303,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000303,Road Surface Defects,1,1,1.0
-2014-11,E01000304,Drainage,1,1,1.0
-2014-11,E01000304,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000304,Rubbish,1,1,1.0
-2014-11,E01000305,Drainage,1,1,1.0
-2014-11,E01000306,Abandoned Vehicles,1,1,1.0
-2014-11,E01000306,Rubbish,1,1,1.0
-2014-11,E01000307,Drainage,2,1,2.0
-2014-11,E01000307,Road Surface Defects,1,1,1.0
-2014-11,E01000307,Rubbish,3,2,1.5
-2014-11,E01000308,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000309,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000309,Road Safety,1,1,1.0
-2014-11,E01000309,Rubbish,1,1,1.0
-2014-11,E01000310,Rubbish,2,2,1.0
-2014-11,E01000310,Street Lights,1,1,1.0
-2014-11,E01000311,Dog Fouling,1,1,1.0
-2014-11,E01000312,Abandoned Vehicles,1,1,1.0
-2014-11,E01000315,Rubbish,1,1,1.0
-2014-11,E01000316,Drainage,1,1,1.0
-2014-11,E01000316,Highways Enquiries,2,2,1.0
-2014-11,E01000316,Road Safety,1,1,1.0
-2014-11,E01000317,Rubbish,2,1,2.0
-2014-11,E01000318,Rubbish,2,2,1.0
-2014-11,E01000319,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000319,Rubbish,2,2,1.0
-2014-11,E01000321,Rubbish,2,2,1.0
-2014-11,E01000322,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000322,Rubbish,1,1,1.0
-2014-11,E01000323,Highways Enquiries,2,1,2.0
-2014-11,E01000324,Abandoned Vehicles,1,1,1.0
-2014-11,E01000324,Highways Enquiries,1,1,1.0
-2014-11,E01000645,Environmental Health,1,1,1.0
-2014-11,E01000645,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000645,Right of Way,1,1,1.0
-2014-11,E01000645,Road Surface Defects,1,1,1.0
-2014-11,E01000645,Rubbish,5,3,1.6666666666666667
-2014-11,E01000646,Pavement /Footway Defects,2,1,2.0
-2014-11,E01000646,Rubbish,4,4,1.0
-2014-11,E01000647,Rubbish,1,1,1.0
-2014-11,E01000648,Abandoned Vehicles,1,1,1.0
-2014-11,E01000648,Drainage,1,1,1.0
-2014-11,E01000648,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000648,Rubbish,7,4,1.75
-2014-11,E01000649,Environmental Health,1,1,1.0
-2014-11,E01000649,Rubbish,1,1,1.0
-2014-11,E01000649,Street Lights,2,2,1.0
-2014-11,E01000650,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000650,Street Lights,3,2,1.5
-2014-11,E01000651,Abandoned Vehicles,1,1,1.0
-2014-11,E01000651,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000651,Rubbish,1,1,1.0
-2014-11,E01000651,Street Lights,1,1,1.0
-2014-11,E01000652,Rubbish,2,2,1.0
-2014-11,E01000653,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000653,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000653,Rubbish,1,1,1.0
-2014-11,E01000653,Street Lights,2,2,1.0
-2014-11,E01000654,Incivilities,1,1,1.0
-2014-11,E01000654,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000654,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000654,Street Lights,4,4,1.0
-2014-11,E01000655,Abandoned Vehicles,1,1,1.0
-2014-11,E01000655,Right of Way,1,1,1.0
-2014-11,E01000655,Rubbish,2,2,1.0
-2014-11,E01000656,Abandoned Vehicles,1,1,1.0
-2014-11,E01000656,Drainage,1,1,1.0
-2014-11,E01000656,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000656,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01000656,Street Lights,2,2,1.0
-2014-11,E01000657,Right of Way,1,1,1.0
-2014-11,E01000657,Road Surface Defects,2,2,1.0
-2014-11,E01000657,Rubbish,1,1,1.0
-2014-11,E01000658,Open Spaces/Parks,1,1,1.0
-2014-11,E01000658,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000658,Rubbish,1,1,1.0
-2014-11,E01000658,Street Lights,4,3,1.3333333333333333
-2014-11,E01000659,Abandoned Vehicles,2,2,1.0
-2014-11,E01000659,Street Lights,1,1,1.0
-2014-11,E01000661,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000661,Road Surface Defects,1,1,1.0
-2014-11,E01000661,Rubbish,1,1,1.0
-2014-11,E01000662,Abandoned Vehicles,1,1,1.0
-2014-11,E01000662,Environmental Health,1,1,1.0
-2014-11,E01000662,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000662,Road Surface Defects,1,1,1.0
-2014-11,E01000662,Rubbish,3,3,1.0
-2014-11,E01000663,Rubbish,1,1,1.0
-2014-11,E01000663,Street Lights,1,1,1.0
-2014-11,E01000664,Drainage,1,1,1.0
-2014-11,E01000664,Open Spaces/Parks,1,1,1.0
-2014-11,E01000664,Rubbish,1,1,1.0
-2014-11,E01000664,Street Lights,2,2,1.0
-2014-11,E01000665,Environmental Health,1,1,1.0
-2014-11,E01000665,Road Safety,1,1,1.0
-2014-11,E01000665,Rubbish,2,2,1.0
-2014-11,E01000666,Abandoned Vehicles,1,1,1.0
-2014-11,E01000666,Drainage,1,1,1.0
-2014-11,E01000666,Road Safety,1,1,1.0
-2014-11,E01000666,Road Surface Defects,4,4,1.0
-2014-11,E01000666,Rubbish,3,1,3.0
-2014-11,E01000666,Street Lights,1,1,1.0
-2014-11,E01000667,Open Spaces/Parks,1,1,1.0
-2014-11,E01000667,Right of Way,2,1,2.0
-2014-11,E01000667,Rubbish,2,2,1.0
-2014-11,E01000668,Drainage,1,1,1.0
-2014-11,E01000668,Environmental Health,1,1,1.0
-2014-11,E01000668,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000668,Rubbish,12,2,6.0
-2014-11,E01000669,Abandoned Vehicles,1,1,1.0
-2014-11,E01000669,Incivilities,1,1,1.0
-2014-11,E01000669,Right of Way,1,1,1.0
-2014-11,E01000669,Road Safety,1,1,1.0
-2014-11,E01000670,Abandoned Vehicles,2,2,1.0
-2014-11,E01000670,Drainage,1,1,1.0
-2014-11,E01000670,Incivilities,2,2,1.0
-2014-11,E01000670,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000670,Road Surface Defects,1,1,1.0
-2014-11,E01000670,Rubbish,4,2,2.0
-2014-11,E01000671,Floral Displays,1,1,1.0
-2014-11,E01000671,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000671,Rubbish,8,6,1.3333333333333333
-2014-11,E01000672,Road Surface Defects,1,1,1.0
-2014-11,E01000672,Rubbish,2,2,1.0
-2014-11,E01000673,Abandoned Vehicles,1,1,1.0
-2014-11,E01000673,Rubbish,3,3,1.0
-2014-11,E01000673,Street Lights,1,1,1.0
-2014-11,E01000674,Environmental Health,1,1,1.0
-2014-11,E01000674,Right of Way,1,1,1.0
-2014-11,E01000675,Abandoned Vehicles,1,1,1.0
-2014-11,E01000675,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000675,Road Safety,1,1,1.0
-2014-11,E01000675,Road Surface Defects,1,1,1.0
-2014-11,E01000675,Rubbish,9,9,1.0
-2014-11,E01000675,Street Lights,1,1,1.0
-2014-11,E01000676,Drainage,1,1,1.0
-2014-11,E01000676,Environmental Health,1,1,1.0
-2014-11,E01000676,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000676,Road Surface Defects,1,1,1.0
-2014-11,E01000676,Rubbish,3,3,1.0
-2014-11,E01000677,Open Spaces/Parks,2,2,1.0
-2014-11,E01000677,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000677,Right of Way,2,1,2.0
-2014-11,E01000677,Road Surface Defects,1,1,1.0
-2014-11,E01000677,Rubbish,5,5,1.0
-2014-11,E01000678,Abandoned Vehicles,1,1,1.0
-2014-11,E01000678,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000678,Right of Way,1,1,1.0
-2014-11,E01000678,Rubbish,2,2,1.0
-2014-11,E01000679,Right of Way,1,1,1.0
-2014-11,E01000679,Rubbish,4,1,4.0
-2014-11,E01000679,Street Lights,2,2,1.0
-2014-11,E01000680,Abandoned Vehicles,1,1,1.0
-2014-11,E01000680,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000680,Road Surface Defects,1,1,1.0
-2014-11,E01000680,Rubbish,4,4,1.0
-2014-11,E01000681,Incivilities,1,1,1.0
-2014-11,E01000681,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000681,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000681,Right of Way,1,1,1.0
-2014-11,E01000681,Rubbish,1,1,1.0
-2014-11,E01000682,Drainage,1,1,1.0
-2014-11,E01000682,Road Surface Defects,1,1,1.0
-2014-11,E01000682,Rubbish,2,2,1.0
-2014-11,E01000682,Street Lights,3,2,1.5
-2014-11,E01000683,Incivilities,1,1,1.0
-2014-11,E01000683,Rubbish,2,2,1.0
-2014-11,E01000684,Rubbish,1,1,1.0
-2014-11,E01000685,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000685,Rubbish,4,4,1.0
-2014-11,E01000686,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000686,Road Safety,1,1,1.0
-2014-11,E01000686,Rubbish,3,3,1.0
-2014-11,E01000686,Street Lights,2,2,1.0
-2014-11,E01000687,Abandoned Vehicles,1,1,1.0
-2014-11,E01000687,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000687,Road Surface Defects,3,2,1.5
-2014-11,E01000687,Rubbish,6,4,1.5
-2014-11,E01000688,Rubbish,1,1,1.0
-2014-11,E01000689,Abandoned Vehicles,1,1,1.0
-2014-11,E01000689,Street Lights,1,1,1.0
-2014-11,E01000690,Abandoned Vehicles,1,1,1.0
-2014-11,E01000690,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000690,Rubbish,2,1,2.0
-2014-11,E01000690,Street Lights,1,1,1.0
-2014-11,E01000691,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000691,Rubbish,1,1,1.0
-2014-11,E01000691,Street Lights,1,1,1.0
-2014-11,E01000692,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000692,Rubbish,1,1,1.0
-2014-11,E01000693,Drainage,1,1,1.0
-2014-11,E01000693,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000693,Street Lights,1,1,1.0
-2014-11,E01000694,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000694,Road Surface Defects,1,1,1.0
-2014-11,E01000694,Rubbish,1,1,1.0
-2014-11,E01000694,Street Lights,1,1,1.0
-2014-11,E01000695,Drainage,1,1,1.0
-2014-11,E01000695,Right of Way,1,1,1.0
-2014-11,E01000695,Road Surface Defects,2,2,1.0
-2014-11,E01000695,Rubbish,2,2,1.0
-2014-11,E01000695,Street Lights,1,1,1.0
-2014-11,E01000696,Drainage,1,1,1.0
-2014-11,E01000696,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000696,Road Surface Defects,2,2,1.0
-2014-11,E01000696,Rubbish,1,1,1.0
-2014-11,E01000697,Abandoned Vehicles,1,1,1.0
-2014-11,E01000697,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000697,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000697,Rubbish,3,3,1.0
-2014-11,E01000697,Street Lights,1,1,1.0
-2014-11,E01000698,Environmental Health,1,1,1.0
-2014-11,E01000698,Incivilities,1,1,1.0
-2014-11,E01000698,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000698,Rubbish,2,2,1.0
-2014-11,E01000699,Abandoned Vehicles,1,1,1.0
-2014-11,E01000699,Environmental Health,1,1,1.0
-2014-11,E01000699,Incivilities,2,1,2.0
-2014-11,E01000699,Right of Way,3,1,3.0
-2014-11,E01000699,Rubbish,44,2,22.0
-2014-11,E01000700,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000700,Road Safety,1,1,1.0
-2014-11,E01000700,Rubbish,8,6,1.3333333333333333
-2014-11,E01000701,Environmental Health,1,1,1.0
-2014-11,E01000701,Rubbish,6,6,1.0
-2014-11,E01000702,Abandoned Vehicles,1,1,1.0
-2014-11,E01000702,Drainage,1,1,1.0
-2014-11,E01000702,Environmental Health,2,2,1.0
-2014-11,E01000702,Rubbish,3,3,1.0
-2014-11,E01000703,Floral Displays,1,1,1.0
-2014-11,E01000703,Incivilities,1,1,1.0
-2014-11,E01000703,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000703,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000703,Road Surface Defects,1,1,1.0
-2014-11,E01000703,Rubbish,3,2,1.5
-2014-11,E01000703,Street Lights,2,2,1.0
-2014-11,E01000704,Abandoned Vehicles,1,1,1.0
-2014-11,E01000704,Incivilities,1,1,1.0
-2014-11,E01000704,Rubbish,11,3,3.6666666666666665
-2014-11,E01000705,Incivilities,1,1,1.0
-2014-11,E01000705,Road Surface Defects,3,3,1.0
-2014-11,E01000705,Rubbish,22,6,3.6666666666666665
-2014-11,E01000706,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000706,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000706,Right of Way,2,2,1.0
-2014-11,E01000706,Road Surface Defects,1,1,1.0
-2014-11,E01000706,Rubbish,2,2,1.0
-2014-11,E01000706,Street Lights,2,2,1.0
-2014-11,E01000707,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000707,Right of Way,1,1,1.0
-2014-11,E01000707,Street Lights,3,3,1.0
-2014-11,E01000708,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000709,Abandoned Vehicles,1,1,1.0
-2014-11,E01000709,Incivilities,1,1,1.0
-2014-11,E01000709,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000709,Rubbish,4,4,1.0
-2014-11,E01000709,Street Lights,1,1,1.0
-2014-11,E01000710,Drainage,1,1,1.0
-2014-11,E01000710,Environmental Health,1,1,1.0
-2014-11,E01000710,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000710,Rubbish,3,3,1.0
-2014-11,E01000711,Overgrown/Fallen Veg/Trees,2,1,2.0
-2014-11,E01000711,Rubbish,4,4,1.0
-2014-11,E01000712,Environmental Health,1,1,1.0
-2014-11,E01000712,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000712,Right of Way,1,1,1.0
-2014-11,E01000712,Rubbish,6,6,1.0
-2014-11,E01000712,Street Lights,1,1,1.0
-2014-11,E01000713,Abandoned Vehicles,1,1,1.0
-2014-11,E01000713,Road Safety,1,1,1.0
-2014-11,E01000713,Street Lights,1,1,1.0
-2014-11,E01000714,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000714,Road Surface Defects,3,2,1.5
-2014-11,E01000714,Rubbish,5,4,1.25
-2014-11,E01000715,Drainage,1,1,1.0
-2014-11,E01000715,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000715,Road Surface Defects,1,1,1.0
-2014-11,E01000715,Rubbish,2,2,1.0
-2014-11,E01000716,Abandoned Vehicles,2,2,1.0
-2014-11,E01000716,Right of Way,1,1,1.0
-2014-11,E01000716,Rubbish,1,1,1.0
-2014-11,E01000716,Street Lights,1,1,1.0
-2014-11,E01000717,Rubbish,2,2,1.0
-2014-11,E01000718,Abandoned Vehicles,1,1,1.0
-2014-11,E01000718,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000718,Rubbish,2,2,1.0
-2014-11,E01000719,Drainage,1,1,1.0
-2014-11,E01000719,Right of Way,1,1,1.0
-2014-11,E01000719,Road Surface Defects,1,1,1.0
-2014-11,E01000719,Rubbish,3,2,1.5
-2014-11,E01000719,Street Lights,1,1,1.0
-2014-11,E01000720,Abandoned Vehicles,1,1,1.0
-2014-11,E01000720,Drainage,1,1,1.0
-2014-11,E01000720,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000720,Road Surface Defects,2,2,1.0
-2014-11,E01000720,Rubbish,8,8,1.0
-2014-11,E01000720,Street Lights,1,1,1.0
-2014-11,E01000721,Road Surface Defects,1,1,1.0
-2014-11,E01000721,Rubbish,3,2,1.5
-2014-11,E01000722,Open Spaces/Parks,1,1,1.0
-2014-11,E01000722,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000722,Road Surface Defects,1,1,1.0
-2014-11,E01000722,Rubbish,2,2,1.0
-2014-11,E01000722,Street Lights,2,2,1.0
-2014-11,E01000723,Rubbish,1,1,1.0
-2014-11,E01000723,Street Lights,1,1,1.0
-2014-11,E01000724,Abandoned Vehicles,1,1,1.0
-2014-11,E01000724,Drainage,1,1,1.0
-2014-11,E01000724,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000724,Road Surface Defects,1,1,1.0
-2014-11,E01000724,Rubbish,2,2,1.0
-2014-11,E01000725,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000725,Right of Way,1,1,1.0
-2014-11,E01000725,Rubbish,5,3,1.6666666666666667
-2014-11,E01000725,Street Lights,1,1,1.0
-2014-11,E01000726,Environmental Health,1,1,1.0
-2014-11,E01000726,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000726,Road Surface Defects,2,2,1.0
-2014-11,E01000726,Rubbish,3,3,1.0
-2014-11,E01000726,Street Lights,1,1,1.0
-2014-11,E01000727,Abandoned Vehicles,1,1,1.0
-2014-11,E01000727,Incivilities,1,1,1.0
-2014-11,E01000727,Open Spaces/Parks,2,1,2.0
-2014-11,E01000727,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000727,Pavement /Footway Defects,3,3,1.0
-2014-11,E01000727,Road Safety,1,1,1.0
-2014-11,E01000727,Rubbish,4,3,1.3333333333333333
-2014-11,E01000727,Street Lights,1,1,1.0
-2014-11,E01000728,Abandoned Vehicles,2,1,2.0
-2014-11,E01000728,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000728,Right of Way,1,1,1.0
-2014-11,E01000728,Rubbish,4,3,1.3333333333333333
-2014-11,E01000728,Street Lights,2,2,1.0
-2014-11,E01000729,Abandoned Vehicles,2,1,2.0
-2014-11,E01000729,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000729,Right of Way,1,1,1.0
-2014-11,E01000729,Rubbish,10,4,2.5
-2014-11,E01000729,Street Lights,3,3,1.0
-2014-11,E01000730,Right of Way,1,1,1.0
-2014-11,E01000730,Road Safety,2,1,2.0
-2014-11,E01000730,Rubbish,5,2,2.5
-2014-11,E01000731,Street Lights,1,1,1.0
-2014-11,E01000732,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000732,Road Safety,1,1,1.0
-2014-11,E01000732,Rubbish,1,1,1.0
-2014-11,E01000732,Street Lights,1,1,1.0
-2014-11,E01000733,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000733,Rubbish,5,3,1.6666666666666667
-2014-11,E01000733,Street Lights,1,1,1.0
-2014-11,E01000734,Environmental Health,1,1,1.0
-2014-11,E01000734,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000734,Road Surface Defects,2,2,1.0
-2014-11,E01000734,Street Lights,2,2,1.0
-2014-11,E01000735,Abandoned Vehicles,1,1,1.0
-2014-11,E01000735,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000735,Rubbish,3,2,1.5
-2014-11,E01000736,Road Safety,1,1,1.0
-2014-11,E01000736,Rubbish,1,1,1.0
-2014-11,E01000737,Open Spaces/Parks,1,1,1.0
-2014-11,E01000737,Rubbish,3,2,1.5
-2014-11,E01000737,Street Lights,1,1,1.0
-2014-11,E01000738,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000738,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000738,Rubbish,3,2,1.5
-2014-11,E01000739,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000739,Right of Way,2,2,1.0
-2014-11,E01000739,Rubbish,5,2,2.5
-2014-11,E01000739,Street Lights,1,1,1.0
-2014-11,E01000740,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000740,Rubbish,2,2,1.0
-2014-11,E01000740,Street Lights,1,1,1.0
-2014-11,E01000741,Abandoned Vehicles,3,2,1.5
-2014-11,E01000741,Incivilities,2,1,2.0
-2014-11,E01000741,Road Surface Defects,1,1,1.0
-2014-11,E01000741,Rubbish,1,1,1.0
-2014-11,E01000742,Abandoned Vehicles,1,1,1.0
-2014-11,E01000742,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000742,Road Surface Defects,1,1,1.0
-2014-11,E01000742,Rubbish,4,4,1.0
-2014-11,E01000742,Street Lights,1,1,1.0
-2014-11,E01000743,Abandoned Vehicles,1,1,1.0
-2014-11,E01000743,Incivilities,4,2,2.0
-2014-11,E01000743,Rubbish,15,5,3.0
-2014-11,E01000744,Open Spaces/Parks,1,1,1.0
-2014-11,E01000744,Road Surface Defects,1,1,1.0
-2014-11,E01000744,Rubbish,6,4,1.5
-2014-11,E01000745,Rubbish,7,6,1.1666666666666667
-2014-11,E01000746,Abandoned Vehicles,1,1,1.0
-2014-11,E01000746,Rubbish,3,3,1.0
-2014-11,E01000747,Open Spaces/Parks,1,1,1.0
-2014-11,E01000747,Right of Way,1,1,1.0
-2014-11,E01000747,Road Safety,1,1,1.0
-2014-11,E01000747,Road Surface Defects,2,1,2.0
-2014-11,E01000747,Rubbish,2,2,1.0
-2014-11,E01000747,Street Lights,1,1,1.0
-2014-11,E01000748,Rubbish,4,4,1.0
-2014-11,E01000748,Street Lights,2,2,1.0
-2014-11,E01000749,Incivilities,1,1,1.0
-2014-11,E01000749,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000749,Street Lights,1,1,1.0
-2014-11,E01000750,Street Lights,1,1,1.0
-2014-11,E01000751,Overgrown/Fallen Veg/Trees,3,3,1.0
-2014-11,E01000752,Abandoned Vehicles,1,1,1.0
-2014-11,E01000752,Drainage,1,1,1.0
-2014-11,E01000752,Environmental Health,1,1,1.0
-2014-11,E01000752,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000752,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000752,Right of Way,1,1,1.0
-2014-11,E01000752,Rubbish,6,6,1.0
-2014-11,E01000752,Street Lights,1,1,1.0
-2014-11,E01000753,Environmental Health,1,1,1.0
-2014-11,E01000753,Right of Way,1,1,1.0
-2014-11,E01000753,Road Surface Defects,2,2,1.0
-2014-11,E01000753,Rubbish,2,2,1.0
-2014-11,E01000753,Street Lights,2,1,2.0
-2014-11,E01000754,Abandoned Vehicles,1,1,1.0
-2014-11,E01000754,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000754,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000754,Rubbish,1,1,1.0
-2014-11,E01000755,Abandoned Vehicles,1,1,1.0
-2014-11,E01000755,Rubbish,2,2,1.0
-2014-11,E01000755,Street Lights,2,2,1.0
-2014-11,E01000756,Abandoned Vehicles,2,2,1.0
-2014-11,E01000756,Right of Way,1,1,1.0
-2014-11,E01000756,Rubbish,3,2,1.5
-2014-11,E01000756,Street Lights,4,2,2.0
-2014-11,E01000757,Right of Way,1,1,1.0
-2014-11,E01000757,Road Surface Defects,2,2,1.0
-2014-11,E01000757,Rubbish,2,2,1.0
-2014-11,E01000758,Incivilities,3,1,3.0
-2014-11,E01000758,Rubbish,1,1,1.0
-2014-11,E01000758,Street Lights,2,2,1.0
-2014-11,E01000759,Abandoned Vehicles,1,1,1.0
-2014-11,E01000759,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000759,Road Safety,1,1,1.0
-2014-11,E01000759,Road Surface Defects,1,1,1.0
-2014-11,E01000759,Rubbish,3,2,1.5
-2014-11,E01000759,Street Lights,1,1,1.0
-2014-11,E01000760,Abandoned Vehicles,1,1,1.0
-2014-11,E01000760,Incivilities,1,1,1.0
-2014-11,E01000760,Open Spaces/Parks,1,1,1.0
-2014-11,E01000760,Road Safety,1,1,1.0
-2014-11,E01000760,Road Surface Defects,1,1,1.0
-2014-11,E01000760,Rubbish,2,2,1.0
-2014-11,E01000760,Street Lights,1,1,1.0
-2014-11,E01000762,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000762,Rubbish,2,2,1.0
-2014-11,E01000762,Street Lights,1,1,1.0
-2014-11,E01000763,Road Surface Defects,1,1,1.0
-2014-11,E01000763,Street Lights,1,1,1.0
-2014-11,E01000764,Road Safety,1,1,1.0
-2014-11,E01000764,Road Surface Defects,2,2,1.0
-2014-11,E01000764,Rubbish,4,4,1.0
-2014-11,E01000765,Abandoned Vehicles,1,1,1.0
-2014-11,E01000765,Environmental Health,1,1,1.0
-2014-11,E01000765,Incivilities,2,2,1.0
-2014-11,E01000765,Road Safety,1,1,1.0
-2014-11,E01000765,Rubbish,2,2,1.0
-2014-11,E01000765,Street Lights,2,1,2.0
-2014-11,E01000766,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000767,Open Spaces/Parks,2,1,2.0
-2014-11,E01000767,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000767,Right of Way,1,1,1.0
-2014-11,E01000767,Street Lights,1,1,1.0
-2014-11,E01000768,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000768,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000769,Drainage,1,1,1.0
-2014-11,E01000769,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000769,Right of Way,1,1,1.0
-2014-11,E01000769,Road Surface Defects,1,1,1.0
-2014-11,E01000769,Rubbish,1,1,1.0
-2014-11,E01000770,Abandoned Vehicles,2,2,1.0
-2014-11,E01000770,Drainage,1,1,1.0
-2014-11,E01000770,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000770,Right of Way,1,1,1.0
-2014-11,E01000770,Road Surface Defects,2,1,2.0
-2014-11,E01000771,Drainage,1,1,1.0
-2014-11,E01000771,Road Surface Defects,3,3,1.0
-2014-11,E01000771,Rubbish,2,2,1.0
-2014-11,E01000772,Rubbish,1,1,1.0
-2014-11,E01000773,Abandoned Vehicles,2,2,1.0
-2014-11,E01000773,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000773,Rubbish,2,2,1.0
-2014-11,E01000774,Open Spaces/Parks,1,1,1.0
-2014-11,E01000774,Rubbish,2,2,1.0
-2014-11,E01000775,Abandoned Vehicles,1,1,1.0
-2014-11,E01000775,Drainage,1,1,1.0
-2014-11,E01000775,Open Spaces/Parks,2,2,1.0
-2014-11,E01000775,Rubbish,4,3,1.3333333333333333
-2014-11,E01000775,Street Lights,1,1,1.0
-2014-11,E01000777,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000777,Rubbish,1,1,1.0
-2014-11,E01000778,Rubbish,1,1,1.0
-2014-11,E01000778,Street Lights,1,1,1.0
-2014-11,E01000779,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000779,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000779,Rubbish,6,4,1.5
-2014-11,E01000780,Abandoned Vehicles,1,1,1.0
-2014-11,E01000780,Rubbish,1,1,1.0
-2014-11,E01000781,Road Safety,1,1,1.0
-2014-11,E01000781,Rubbish,4,4,1.0
-2014-11,E01000783,Rubbish,3,3,1.0
-2014-11,E01000783,Street Lights,1,1,1.0
-2014-11,E01000784,Rubbish,3,3,1.0
-2014-11,E01000785,Road Surface Defects,2,1,2.0
-2014-11,E01000785,Rubbish,1,1,1.0
-2014-11,E01000785,Street Lights,1,1,1.0
-2014-11,E01000786,Open Spaces/Parks,1,1,1.0
-2014-11,E01000786,Rubbish,2,2,1.0
-2014-11,E01000787,Abandoned Vehicles,1,1,1.0
-2014-11,E01000787,Rubbish,1,1,1.0
-2014-11,E01000787,Street Lights,1,1,1.0
-2014-11,E01000788,Environmental Health,1,1,1.0
-2014-11,E01000788,Road Surface Defects,1,1,1.0
-2014-11,E01000788,Rubbish,5,2,2.5
-2014-11,E01000790,Incivilities,4,1,4.0
-2014-11,E01000790,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000790,Road Safety,1,1,1.0
-2014-11,E01000790,Road Surface Defects,3,3,1.0
-2014-11,E01000790,Rubbish,4,3,1.3333333333333333
-2014-11,E01000790,Street Lights,2,2,1.0
-2014-11,E01000791,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000791,Rubbish,2,2,1.0
-2014-11,E01000793,Rubbish,2,2,1.0
-2014-11,E01000793,Street Lights,1,1,1.0
-2014-11,E01000795,Abandoned Vehicles,1,1,1.0
-2014-11,E01000795,Rubbish,2,2,1.0
-2014-11,E01000796,Abandoned Vehicles,1,1,1.0
-2014-11,E01000796,Rubbish,1,1,1.0
-2014-11,E01000797,Drainage,3,3,1.0
-2014-11,E01000797,Open Spaces/Parks,2,2,1.0
-2014-11,E01000797,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01000797,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000797,Right of Way,3,3,1.0
-2014-11,E01000797,Rubbish,7,5,1.4
-2014-11,E01000798,Abandoned Vehicles,1,1,1.0
-2014-11,E01000798,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000798,Rubbish,9,2,4.5
-2014-11,E01000799,Abandoned Vehicles,3,3,1.0
-2014-11,E01000799,Rubbish,10,9,1.1111111111111112
-2014-11,E01000799,Street Lights,1,1,1.0
-2014-11,E01000800,Road Surface Defects,1,1,1.0
-2014-11,E01000800,Rubbish,2,2,1.0
-2014-11,E01000801,Abandoned Vehicles,2,1,2.0
-2014-11,E01000801,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000801,Rubbish,13,5,2.6
-2014-11,E01000802,Abandoned Vehicles,2,2,1.0
-2014-11,E01000802,Right of Way,1,1,1.0
-2014-11,E01000802,Rubbish,7,7,1.0
-2014-11,E01000803,Incivilities,2,1,2.0
-2014-11,E01000803,Rubbish,6,4,1.5
-2014-11,E01000803,Street Lights,1,1,1.0
-2014-11,E01000804,Rubbish,2,2,1.0
-2014-11,E01000804,Street Lights,1,1,1.0
-2014-11,E01000805,Abandoned Vehicles,1,1,1.0
-2014-11,E01000805,Road Surface Defects,1,1,1.0
-2014-11,E01000805,Rubbish,2,2,1.0
-2014-11,E01000805,Street Lights,1,1,1.0
-2014-11,E01000806,Rubbish,6,5,1.2
-2014-11,E01000806,Street Lights,1,1,1.0
-2014-11,E01000807,Abandoned Vehicles,1,1,1.0
-2014-11,E01000807,Drainage,1,1,1.0
-2014-11,E01000807,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000807,Rubbish,3,3,1.0
-2014-11,E01000807,Street Lights,2,2,1.0
-2014-11,E01000808,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000808,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000809,Rubbish,1,1,1.0
-2014-11,E01000809,Street Lights,1,1,1.0
-2014-11,E01000810,Abandoned Vehicles,1,1,1.0
-2014-11,E01000810,Street Lights,1,1,1.0
-2014-11,E01000811,Road Safety,1,1,1.0
-2014-11,E01000811,Rubbish,1,1,1.0
-2014-11,E01000811,Street Lights,1,1,1.0
-2014-11,E01000812,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000812,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000812,Rubbish,4,4,1.0
-2014-11,E01000813,Right of Way,1,1,1.0
-2014-11,E01000813,Road Surface Defects,1,1,1.0
-2014-11,E01000813,Rubbish,5,5,1.0
-2014-11,E01000814,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000814,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000814,Road Surface Defects,1,1,1.0
-2014-11,E01000814,Rubbish,4,3,1.3333333333333333
-2014-11,E01000815,Right of Way,1,1,1.0
-2014-11,E01000815,Rubbish,3,2,1.5
-2014-11,E01000815,Street Lights,2,2,1.0
-2014-11,E01000816,Abandoned Vehicles,1,1,1.0
-2014-11,E01000816,Rubbish,4,4,1.0
-2014-11,E01000816,Street Lights,2,2,1.0
-2014-11,E01000818,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000818,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000818,Rubbish,3,3,1.0
-2014-11,E01000819,Road Surface Defects,1,1,1.0
-2014-11,E01000819,Rubbish,5,4,1.25
-2014-11,E01000819,Street Lights,1,1,1.0
-2014-11,E01000820,Environmental Health,1,1,1.0
-2014-11,E01000820,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000820,Rubbish,1,1,1.0
-2014-11,E01000822,Environmental Health,1,1,1.0
-2014-11,E01000822,Rubbish,5,5,1.0
-2014-11,E01000822,Street Lights,1,1,1.0
-2014-11,E01000823,Abandoned Vehicles,1,1,1.0
-2014-11,E01000823,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000823,Road Surface Defects,1,1,1.0
-2014-11,E01000823,Rubbish,4,3,1.3333333333333333
-2014-11,E01000824,Abandoned Vehicles,1,1,1.0
-2014-11,E01000824,Rubbish,5,5,1.0
-2014-11,E01000825,Drainage,1,1,1.0
-2014-11,E01000825,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000826,Pavement /Footway Defects,2,1,2.0
-2014-11,E01000826,Road Surface Defects,1,1,1.0
-2014-11,E01000826,Street Lights,2,2,1.0
-2014-11,E01000827,Rubbish,7,5,1.4
-2014-11,E01000828,Environmental Health,1,1,1.0
-2014-11,E01000828,Pavement /Footway Defects,2,1,2.0
-2014-11,E01000828,Right of Way,1,1,1.0
-2014-11,E01000828,Road Surface Defects,1,1,1.0
-2014-11,E01000828,Street Lights,1,1,1.0
-2014-11,E01000829,Drainage,1,1,1.0
-2014-11,E01000829,Rubbish,7,6,1.1666666666666667
-2014-11,E01000831,Drainage,2,2,1.0
-2014-11,E01000831,Right of Way,2,2,1.0
-2014-11,E01000831,Rubbish,3,3,1.0
-2014-11,E01000832,Abandoned Vehicles,1,1,1.0
-2014-11,E01000832,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000832,Road Surface Defects,1,1,1.0
-2014-11,E01000832,Rubbish,1,1,1.0
-2014-11,E01000832,Street Lights,2,2,1.0
-2014-11,E01000833,Drainage,1,1,1.0
-2014-11,E01000833,Street Lights,1,1,1.0
-2014-11,E01000834,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000834,Street Lights,1,1,1.0
-2014-11,E01000835,Abandoned Vehicles,1,1,1.0
-2014-11,E01000835,Road Surface Defects,1,1,1.0
-2014-11,E01000835,Street Lights,3,3,1.0
-2014-11,E01000836,Pavement /Footway Defects,2,2,1.0
-2014-11,E01000836,Rubbish,2,1,2.0
-2014-11,E01000837,Abandoned Vehicles,1,1,1.0
-2014-11,E01000837,Overgrown/Fallen Veg/Trees,2,1,2.0
-2014-11,E01000837,Road Surface Defects,1,1,1.0
-2014-11,E01000837,Rubbish,1,1,1.0
-2014-11,E01000837,Street Lights,1,1,1.0
-2014-11,E01000839,Rubbish,2,2,1.0
-2014-11,E01000840,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000840,Rubbish,2,2,1.0
-2014-11,E01000841,Abandoned Vehicles,1,1,1.0
-2014-11,E01000841,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01000841,Pavement /Footway Defects,1,1,1.0
-2014-11,E01000841,Road Surface Defects,1,1,1.0
-2014-11,E01001534,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01015523,Road Surface Defects,1,1,1.0
-2014-11,E01020911,Road Surface Defects,2,2,1.0
-2014-11,E01020913,Highways Enquiries,1,1,1.0
-2014-11,E01020914,Road Surface Defects,2,2,1.0
-2014-11,E01020914,Rubbish,1,1,1.0
-2014-11,E01020914,Street Lights,2,2,1.0
-2014-11,E01020916,Drainage,1,1,1.0
-2014-11,E01020916,Road Safety,1,1,1.0
-2014-11,E01020916,Road Surface Defects,1,1,1.0
-2014-11,E01020918,Right of Way,1,1,1.0
-2014-11,E01020919,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020921,Drainage,1,1,1.0
-2014-11,E01020921,Pavement /Footway Defects,2,2,1.0
-2014-11,E01020921,Road Surface Defects,1,1,1.0
-2014-11,E01020921,Street Lights,1,1,1.0
-2014-11,E01020922,Drainage,1,1,1.0
-2014-11,E01020922,Road Surface Defects,2,2,1.0
-2014-11,E01020922,Street Lights,4,3,1.3333333333333333
-2014-11,E01020923,Street Lights,1,1,1.0
-2014-11,E01020924,Road Surface Defects,1,1,1.0
-2014-11,E01020925,Dog Fouling,1,1,1.0
-2014-11,E01020925,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01020926,Road Surface Defects,1,1,1.0
-2014-11,E01020926,Street Lights,2,2,1.0
-2014-11,E01020927,Dog Fouling,4,1,4.0
-2014-11,E01020927,Road Surface Defects,1,1,1.0
-2014-11,E01020927,Street Lights,1,1,1.0
-2014-11,E01020928,Road Surface Defects,3,2,1.5
-2014-11,E01020929,Parking,1,1,1.0
-2014-11,E01020929,Road Surface Defects,2,2,1.0
-2014-11,E01020931,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020932,Drainage,1,1,1.0
-2014-11,E01020936,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020936,Road Surface Defects,1,1,1.0
-2014-11,E01020937,Highways Enquiries,1,1,1.0
-2014-11,E01020938,Parking,1,1,1.0
-2014-11,E01020938,Road Surface Defects,1,1,1.0
-2014-11,E01020939,Street Lights,1,1,1.0
-2014-11,E01020941,Street Furniture,1,1,1.0
-2014-11,E01020943,Road Safety,1,1,1.0
-2014-11,E01020944,Street Lights,1,1,1.0
-2014-11,E01020945,Pavement /Footway Defects,2,2,1.0
-2014-11,E01020945,Road Surface Defects,2,2,1.0
-2014-11,E01020945,Street Furniture,1,1,1.0
-2014-11,E01020949,Right of Way,1,1,1.0
-2014-11,E01020950,Drainage,1,1,1.0
-2014-11,E01020950,Open Spaces/Parks,1,1,1.0
-2014-11,E01020950,Road Surface Defects,1,1,1.0
-2014-11,E01020951,Drainage,1,1,1.0
-2014-11,E01020951,Highways Enquiries,1,1,1.0
-2014-11,E01020953,Drainage,1,1,1.0
-2014-11,E01020953,Street Furniture,1,1,1.0
-2014-11,E01020954,Drainage,4,1,4.0
-2014-11,E01020954,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020954,Road Surface Defects,1,1,1.0
-2014-11,E01020955,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020955,Road Surface Defects,1,1,1.0
-2014-11,E01020964,Parking,1,1,1.0
-2014-11,E01020964,Rubbish,1,1,1.0
-2014-11,E01020966,Drainage,1,1,1.0
-2014-11,E01020966,Road Surface Defects,1,1,1.0
-2014-11,E01020967,Street Lights,1,1,1.0
-2014-11,E01020968,Drainage,1,1,1.0
-2014-11,E01020968,Right of Way,1,1,1.0
-2014-11,E01020968,Road Safety,1,1,1.0
-2014-11,E01020968,Road Surface Defects,1,1,1.0
-2014-11,E01020968,Street Lights,3,3,1.0
-2014-11,E01020969,Drainage,2,1,2.0
-2014-11,E01020969,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01020969,Road Safety,1,1,1.0
-2014-11,E01020970,Road Safety,1,1,1.0
-2014-11,E01020970,Street Lights,1,1,1.0
-2014-11,E01020971,Road Surface Defects,1,1,1.0
-2014-11,E01020972,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020972,Road Surface Defects,1,1,1.0
-2014-11,E01020972,Rubbish,1,1,1.0
-2014-11,E01020974,Street Lights,1,1,1.0
-2014-11,E01020975,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020975,Road Surface Defects,1,1,1.0
-2014-11,E01020976,Highways Enquiries,1,1,1.0
-2014-11,E01020977,Road Surface Defects,1,1,1.0
-2014-11,E01020978,Drainage,1,1,1.0
-2014-11,E01020978,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020978,Street Lights,2,2,1.0
-2014-11,E01020979,Pavement /Footway Defects,1,1,1.0
-2014-11,E01020979,Road Surface Defects,1,1,1.0
-2014-11,E01020979,Street Lights,1,1,1.0
-2014-11,E01020982,Road Surface Defects,1,1,1.0
-2014-11,E01020984,Road Safety,1,1,1.0
-2014-11,E01020985,Drainage,1,1,1.0
-2014-11,E01020985,Rubbish,1,1,1.0
-2014-11,E01020986,Road Surface Defects,3,3,1.0
-2014-11,E01020986,Street Lights,1,1,1.0
-2014-11,E01020988,Drainage,1,1,1.0
-2014-11,E01020988,Road Surface Defects,1,1,1.0
-2014-11,E01020988,Street Lights,1,1,1.0
-2014-11,E01020989,Pavement /Footway Defects,2,2,1.0
-2014-11,E01020990,Drainage,1,1,1.0
-2014-11,E01020990,Street Lights,1,1,1.0
-2014-11,E01020991,Road Surface Defects,2,2,1.0
-2014-11,E01020992,Road Surface Defects,1,1,1.0
-2014-11,E01020993,Drainage,1,1,1.0
-2014-11,E01020994,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01020994,Street Lights,3,3,1.0
-2014-11,E01020995,Drainage,1,1,1.0
-2014-11,E01020995,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01020995,Street Lights,1,1,1.0
-2014-11,E01020996,Right of Way,1,1,1.0
-2014-11,E01020996,Road Surface Defects,1,1,1.0
-2014-11,E01020996,Street Lights,1,1,1.0
-2014-11,E01020998,Street Lights,1,1,1.0
-2014-11,E01020999,Road Surface Defects,1,1,1.0
-2014-11,E01021001,Rubbish,1,1,1.0
-2014-11,E01021002,Drainage,1,1,1.0
-2014-11,E01021002,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021002,Road Surface Defects,1,1,1.0
-2014-11,E01021002,Street Lights,2,2,1.0
-2014-11,E01021003,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021003,Street Lights,1,1,1.0
-2014-11,E01021004,Highways Enquiries,2,2,1.0
-2014-11,E01021004,Other,1,1,1.0
-2014-11,E01021004,Right of Way,1,1,1.0
-2014-11,E01021004,Road Surface Defects,2,2,1.0
-2014-11,E01021004,Street Lights,1,1,1.0
-2014-11,E01021005,Utility Works,1,1,1.0
-2014-11,E01021006,Highways Enquiries,1,1,1.0
-2014-11,E01021006,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021006,Road Surface Defects,2,2,1.0
-2014-11,E01021007,Highways Enquiries,1,1,1.0
-2014-11,E01021009,Other,1,1,1.0
-2014-11,E01021014,Road Surface Defects,1,1,1.0
-2014-11,E01021015,Dog Fouling,1,1,1.0
-2014-11,E01021015,Street Lights,2,2,1.0
-2014-11,E01021016,Right of Way,1,1,1.0
-2014-11,E01021016,Road Safety,1,1,1.0
-2014-11,E01021016,Road Surface Defects,2,2,1.0
-2014-11,E01021016,Rubbish,1,1,1.0
-2014-11,E01021016,Street Lights,1,1,1.0
-2014-11,E01021017,Road Surface Defects,1,1,1.0
-2014-11,E01021017,Rubbish,1,1,1.0
-2014-11,E01021018,Drainage,1,1,1.0
-2014-11,E01021018,Highways Enquiries,1,1,1.0
-2014-11,E01021018,Other,1,1,1.0
-2014-11,E01021018,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021018,Road Safety,1,1,1.0
-2014-11,E01021020,Street Lights,1,1,1.0
-2014-11,E01021021,Street Lights,2,2,1.0
-2014-11,E01021022,Drainage,1,1,1.0
-2014-11,E01021022,Other,1,1,1.0
-2014-11,E01021022,Road Surface Defects,1,1,1.0
-2014-11,E01021023,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021023,Road Surface Defects,2,2,1.0
-2014-11,E01021023,Street Lights,1,1,1.0
-2014-11,E01021025,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021026,Bridge/Culvert Defects,1,1,1.0
-2014-11,E01021026,Drainage,1,1,1.0
-2014-11,E01021026,Highways Enquiries,1,1,1.0
-2014-11,E01021026,Other,1,1,1.0
-2014-11,E01021026,Road Surface Defects,3,3,1.0
-2014-11,E01021027,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021027,Right of Way,1,1,1.0
-2014-11,E01021027,Street Lights,1,1,1.0
-2014-11,E01021028,Road Surface Defects,2,2,1.0
-2014-11,E01021028,Street Furniture,1,1,1.0
-2014-11,E01021028,Street Lights,3,3,1.0
-2014-11,E01021029,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021029,Street Lights,2,1,2.0
-2014-11,E01021031,Highways Enquiries,1,1,1.0
-2014-11,E01021031,Road Safety,1,1,1.0
-2014-11,E01021031,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01021032,Road Surface Defects,3,3,1.0
-2014-11,E01021032,Rubbish,1,1,1.0
-2014-11,E01021033,Drainage,2,2,1.0
-2014-11,E01021033,Road Safety,1,1,1.0
-2014-11,E01021033,Road Surface Defects,1,1,1.0
-2014-11,E01021033,Street Lights,1,1,1.0
-2014-11,E01021034,Drainage,2,2,1.0
-2014-11,E01021034,Right of Way,1,1,1.0
-2014-11,E01021034,Street Lights,3,3,1.0
-2014-11,E01021035,Drainage,4,3,1.3333333333333333
-2014-11,E01021035,Highways Enquiries,1,1,1.0
-2014-11,E01021035,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021035,Pavement /Footway Defects,2,2,1.0
-2014-11,E01021035,Property Damage,1,1,1.0
-2014-11,E01021035,Rubbish,1,1,1.0
-2014-11,E01021036,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021036,Road Surface Defects,1,1,1.0
-2014-11,E01021036,Street Lights,1,1,1.0
-2014-11,E01021037,Drainage,1,1,1.0
-2014-11,E01021037,Highways Enquiries,1,1,1.0
-2014-11,E01021038,Road Safety,1,1,1.0
-2014-11,E01021038,Road Surface Defects,3,2,1.5
-2014-11,E01021038,Street Lights,1,1,1.0
-2014-11,E01021039,Drainage,2,2,1.0
-2014-11,E01021039,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021039,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01021040,Drainage,1,1,1.0
-2014-11,E01021040,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021040,Pavement /Footway Defects,2,2,1.0
-2014-11,E01021040,Road Safety,2,2,1.0
-2014-11,E01021040,Road Surface Defects,1,1,1.0
-2014-11,E01021040,Rubbish,1,1,1.0
-2014-11,E01021040,Street Lights,2,2,1.0
-2014-11,E01021041,Road Surface Defects,1,1,1.0
-2014-11,E01021041,Rubbish,1,1,1.0
-2014-11,E01021041,Street Lights,1,1,1.0
-2014-11,E01021043,Drainage,4,3,1.3333333333333333
-2014-11,E01021043,Highways Enquiries,1,1,1.0
-2014-11,E01021043,Right of Way,1,1,1.0
-2014-11,E01021043,Road Surface Defects,1,1,1.0
-2014-11,E01021044,Parking,1,1,1.0
-2014-11,E01021046,Parking,1,1,1.0
-2014-11,E01021046,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021047,Drainage,1,1,1.0
-2014-11,E01021047,Rubbish,2,2,1.0
-2014-11,E01021047,Street Lights,3,3,1.0
-2014-11,E01021048,Parking,1,1,1.0
-2014-11,E01021049,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021049,Road Safety,2,2,1.0
-2014-11,E01021049,Road Surface Defects,1,1,1.0
-2014-11,E01021049,Street Lights,2,2,1.0
-2014-11,E01021051,Parking,1,1,1.0
-2014-11,E01021051,Street Lights,1,1,1.0
-2014-11,E01021053,Road Safety,1,1,1.0
-2014-11,E01021054,Other,1,1,1.0
-2014-11,E01021054,Rubbish,1,1,1.0
-2014-11,E01021055,Incivilities,1,1,1.0
-2014-11,E01021056,Drainage,1,1,1.0
-2014-11,E01021056,Rubbish,1,1,1.0
-2014-11,E01021057,Drainage,1,1,1.0
-2014-11,E01021057,Road Surface Defects,5,3,1.6666666666666667
-2014-11,E01021057,Rubbish,3,2,1.5
-2014-11,E01021058,Pavement /Footway Defects,3,2,1.5
-2014-11,E01021058,Street Lights,3,3,1.0
-2014-11,E01021059,Street Lights,2,2,1.0
-2014-11,E01021060,Other,1,1,1.0
-2014-11,E01021060,Street Lights,1,1,1.0
-2014-11,E01021062,Other,1,1,1.0
-2014-11,E01021062,Street Lights,1,1,1.0
-2014-11,E01021063,Drainage,1,1,1.0
-2014-11,E01021064,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021064,Right of Way,1,1,1.0
-2014-11,E01021064,Road Surface Defects,1,1,1.0
-2014-11,E01021064,Street Lights,3,3,1.0
-2014-11,E01021067,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021067,Right of Way,1,1,1.0
-2014-11,E01021068,Drainage,4,4,1.0
-2014-11,E01021068,Highways Enquiries,1,1,1.0
-2014-11,E01021068,Right of Way,1,1,1.0
-2014-11,E01021068,Road Surface Defects,2,2,1.0
-2014-11,E01021069,Road Surface Defects,1,1,1.0
-2014-11,E01021069,Street Lights,2,2,1.0
-2014-11,E01021070,Road Surface Defects,1,1,1.0
-2014-11,E01021071,Drainage,1,1,1.0
-2014-11,E01021071,Other,1,1,1.0
-2014-11,E01021071,Right of Way,1,1,1.0
-2014-11,E01021071,Road Surface Defects,3,1,3.0
-2014-11,E01021071,Street Furniture,1,1,1.0
-2014-11,E01021071,Street Lights,1,1,1.0
-2014-11,E01021072,Drainage,1,1,1.0
-2014-11,E01021072,Road Surface Defects,1,1,1.0
-2014-11,E01021072,Street Lights,2,2,1.0
-2014-11,E01021073,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021073,Street Lights,2,2,1.0
-2014-11,E01021074,Other,1,1,1.0
-2014-11,E01021074,Road Safety,1,1,1.0
-2014-11,E01021074,Road Surface Defects,1,1,1.0
-2014-11,E01021075,Highways Enquiries,1,1,1.0
-2014-11,E01021075,Open Spaces/Parks,1,1,1.0
-2014-11,E01021075,Rubbish,1,1,1.0
-2014-11,E01021075,Street Lights,1,1,1.0
-2014-11,E01021076,Drainage,1,1,1.0
-2014-11,E01021076,Highways Enquiries,1,1,1.0
-2014-11,E01021076,Rubbish,3,2,1.5
-2014-11,E01021077,Road Surface Defects,1,1,1.0
-2014-11,E01021078,Road Surface Defects,1,1,1.0
-2014-11,E01021079,Drainage,1,1,1.0
-2014-11,E01021079,Parking,1,1,1.0
-2014-11,E01021079,Road Surface Defects,2,2,1.0
-2014-11,E01021079,Rubbish,1,1,1.0
-2014-11,E01021079,Street Lights,1,1,1.0
-2014-11,E01021080,Right of Way,1,1,1.0
-2014-11,E01021080,Street Lights,2,2,1.0
-2014-11,E01021081,Road Surface Defects,3,3,1.0
-2014-11,E01021081,Street Lights,2,2,1.0
-2014-11,E01021082,Right of Way,2,1,2.0
-2014-11,E01021082,Road Surface Defects,1,1,1.0
-2014-11,E01021083,Rubbish,2,2,1.0
-2014-11,E01021083,Street Lights,3,3,1.0
-2014-11,E01021084,Highways Enquiries,1,1,1.0
-2014-11,E01021084,Street Lights,1,1,1.0
-2014-11,E01021085,Drainage,2,2,1.0
-2014-11,E01021085,Highways Enquiries,1,1,1.0
-2014-11,E01021086,Incivilities,1,1,1.0
-2014-11,E01021086,Rubbish,1,1,1.0
-2014-11,E01021086,Street Lights,1,1,1.0
-2014-11,E01021087,Drainage,3,2,1.5
-2014-11,E01021087,Highways Enquiries,2,1,2.0
-2014-11,E01021087,Other,1,1,1.0
-2014-11,E01021087,Road Safety,1,1,1.0
-2014-11,E01021087,Road Surface Defects,13,12,1.0833333333333333
-2014-11,E01021087,Rubbish,4,4,1.0
-2014-11,E01021088,Drainage,1,1,1.0
-2014-11,E01021088,Highways Enquiries,1,1,1.0
-2014-11,E01021088,Road Surface Defects,7,6,1.1666666666666667
-2014-11,E01021089,Highways Enquiries,2,2,1.0
-2014-11,E01021089,Other,1,1,1.0
-2014-11,E01021089,Road Safety,1,1,1.0
-2014-11,E01021089,Road Surface Defects,3,3,1.0
-2014-11,E01021090,Rubbish,2,2,1.0
-2014-11,E01021090,Street Lights,1,1,1.0
-2014-11,E01021091,Road Surface Defects,1,1,1.0
-2014-11,E01021092,Street Lights,1,1,1.0
-2014-11,E01021093,Rubbish,1,1,1.0
-2014-11,E01021094,Drainage,1,1,1.0
-2014-11,E01021094,Road Surface Defects,2,1,2.0
-2014-11,E01021096,Drainage,1,1,1.0
-2014-11,E01021096,Road Surface Defects,5,5,1.0
-2014-11,E01021097,Road Surface Defects,7,6,1.1666666666666667
-2014-11,E01021097,Rubbish,2,1,2.0
-2014-11,E01021098,Drainage,2,2,1.0
-2014-11,E01021098,Other,1,1,1.0
-2014-11,E01021098,Road Safety,1,1,1.0
-2014-11,E01021098,Rubbish,1,1,1.0
-2014-11,E01021098,Street Lights,1,1,1.0
-2014-11,E01021099,Drainage,2,2,1.0
-2014-11,E01021099,Highways Enquiries,1,1,1.0
-2014-11,E01021099,Road Safety,1,1,1.0
-2014-11,E01021099,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01021100,Highways Enquiries,1,1,1.0
-2014-11,E01021100,Right of Way,4,2,2.0
-2014-11,E01021100,Road Surface Defects,2,2,1.0
-2014-11,E01021100,Rubbish,1,1,1.0
-2014-11,E01021101,Right of Way,2,2,1.0
-2014-11,E01021101,Road Surface Defects,2,1,2.0
-2014-11,E01021102,Road Safety,1,1,1.0
-2014-11,E01021102,Road Surface Defects,1,1,1.0
-2014-11,E01021103,Drainage,1,1,1.0
-2014-11,E01021103,Highways Enquiries,1,1,1.0
-2014-11,E01021103,Other,1,1,1.0
-2014-11,E01021103,Road Safety,1,1,1.0
-2014-11,E01021103,Road Surface Defects,1,1,1.0
-2014-11,E01021104,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01021105,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021105,Road Surface Defects,2,2,1.0
-2014-11,E01021106,Rubbish,1,1,1.0
-2014-11,E01021106,Street Lights,1,1,1.0
-2014-11,E01021107,Street Lights,1,1,1.0
-2014-11,E01021108,Parking,1,1,1.0
-2014-11,E01021108,Rubbish,1,1,1.0
-2014-11,E01021109,Drainage,1,1,1.0
-2014-11,E01021109,Incivilities,1,1,1.0
-2014-11,E01021109,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021109,Right of Way,2,1,2.0
-2014-11,E01021109,Road Surface Defects,4,4,1.0
-2014-11,E01021109,Rubbish,3,1,3.0
-2014-11,E01021110,Drainage,2,2,1.0
-2014-11,E01021110,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021110,Road Surface Defects,1,1,1.0
-2014-11,E01021110,Rubbish,2,1,2.0
-2014-11,E01021111,Parking,1,1,1.0
-2014-11,E01021111,Road Surface Defects,1,1,1.0
-2014-11,E01021111,Street Lights,2,2,1.0
-2014-11,E01021112,Dog Fouling,1,1,1.0
-2014-11,E01021112,Street Lights,1,1,1.0
-2014-11,E01021113,Rubbish,2,2,1.0
-2014-11,E01021113,Street Lights,1,1,1.0
-2014-11,E01021114,Road Surface Defects,2,2,1.0
-2014-11,E01021115,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021115,Road Surface Defects,3,2,1.5
-2014-11,E01021115,Rubbish,1,1,1.0
-2014-11,E01021116,Highways Enquiries,1,1,1.0
-2014-11,E01021116,Road Surface Defects,2,2,1.0
-2014-11,E01021116,Rubbish,1,1,1.0
-2014-11,E01021117,Bridge/Culvert Defects,1,1,1.0
-2014-11,E01021117,Road Surface Defects,1,1,1.0
-2014-11,E01021118,Other,1,1,1.0
-2014-11,E01021118,Street Lights,1,1,1.0
-2014-11,E01021119,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021120,Drainage,1,1,1.0
-2014-11,E01021120,Road Surface Defects,1,1,1.0
-2014-11,E01021121,Parking,1,1,1.0
-2014-11,E01021122,Rubbish,2,2,1.0
-2014-11,E01021122,Street Lights,1,1,1.0
-2014-11,E01021123,Rubbish,1,1,1.0
-2014-11,E01021123,Street Lights,2,2,1.0
-2014-11,E01021124,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021124,Rubbish,1,1,1.0
-2014-11,E01021124,Street Lights,1,1,1.0
-2014-11,E01021125,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021125,Road Surface Defects,3,3,1.0
-2014-11,E01021126,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021126,Street Lights,1,1,1.0
-2014-11,E01021127,Road Surface Defects,1,1,1.0
-2014-11,E01021127,Street Lights,2,2,1.0
-2014-11,E01021128,Rubbish,1,1,1.0
-2014-11,E01021128,Street Lights,1,1,1.0
-2014-11,E01021129,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021129,Road Surface Defects,2,2,1.0
-2014-11,E01021129,Rubbish,1,1,1.0
-2014-11,E01021129,Street Lights,2,2,1.0
-2014-11,E01021130,Road Safety,1,1,1.0
-2014-11,E01021130,Road Surface Defects,2,2,1.0
-2014-11,E01021130,Street Lights,1,1,1.0
-2014-11,E01021131,Drainage,1,1,1.0
-2014-11,E01021131,Property Damage,1,1,1.0
-2014-11,E01021131,Road Safety,1,1,1.0
-2014-11,E01021133,Road Surface Defects,10,9,1.1111111111111112
-2014-11,E01021134,Drainage,2,2,1.0
-2014-11,E01021134,Road Surface Defects,3,3,1.0
-2014-11,E01021135,Highways Enquiries,1,1,1.0
-2014-11,E01021135,Street Lights,3,3,1.0
-2014-11,E01021136,Highways Enquiries,1,1,1.0
-2014-11,E01021137,Road Surface Defects,1,1,1.0
-2014-11,E01021138,Drainage,1,1,1.0
-2014-11,E01021138,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021138,Road Surface Defects,2,2,1.0
-2014-11,E01021138,Street Lights,1,1,1.0
-2014-11,E01021140,Road Surface Defects,1,1,1.0
-2014-11,E01021140,Street Lights,1,1,1.0
-2014-11,E01021141,Drainage,3,2,1.5
-2014-11,E01021141,Road Surface Defects,4,4,1.0
-2014-11,E01021142,Drainage,3,2,1.5
-2014-11,E01021143,Drainage,1,1,1.0
-2014-11,E01021143,Road Safety,1,1,1.0
-2014-11,E01021143,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01021143,Rubbish,1,1,1.0
-2014-11,E01021144,Highways Enquiries,1,1,1.0
-2014-11,E01021144,Other,1,1,1.0
-2014-11,E01021144,Road Surface Defects,3,3,1.0
-2014-11,E01021145,Drainage,1,1,1.0
-2014-11,E01021145,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01021145,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021145,Right of Way,2,1,2.0
-2014-11,E01021145,Road Safety,1,1,1.0
-2014-11,E01021145,Road Surface Defects,1,1,1.0
-2014-11,E01021146,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021146,Road Safety,1,1,1.0
-2014-11,E01021147,Drainage,1,1,1.0
-2014-11,E01021147,Highways Enquiries,1,1,1.0
-2014-11,E01021147,Road Safety,1,1,1.0
-2014-11,E01021147,Rubbish,2,2,1.0
-2014-11,E01021148,Drainage,1,1,1.0
-2014-11,E01021148,Street Lights,1,1,1.0
-2014-11,E01021149,Drainage,3,3,1.0
-2014-11,E01021149,Other,1,1,1.0
-2014-11,E01021149,Road Safety,1,1,1.0
-2014-11,E01021149,Road Surface Defects,15,15,1.0
-2014-11,E01021150,Road Surface Defects,1,1,1.0
-2014-11,E01021151,Highways Enquiries,2,2,1.0
-2014-11,E01021151,Right of Way,1,1,1.0
-2014-11,E01021151,Road Surface Defects,3,3,1.0
-2014-11,E01021151,Rubbish,1,1,1.0
-2014-11,E01021151,Street Furniture,1,1,1.0
-2014-11,E01021151,Street Lights,2,1,2.0
-2014-11,E01021151,Utility Works,1,1,1.0
-2014-11,E01021153,Road Surface Defects,1,1,1.0
-2014-11,E01021153,Street Lights,1,1,1.0
-2014-11,E01021154,Abandoned Vehicles,1,1,1.0
-2014-11,E01021155,Drainage,1,1,1.0
-2014-11,E01021155,Parking,1,1,1.0
-2014-11,E01021155,Road Safety,1,1,1.0
-2014-11,E01021156,Street Lights,2,2,1.0
-2014-11,E01021157,Parking,1,1,1.0
-2014-11,E01021158,Highways Enquiries,1,1,1.0
-2014-11,E01021158,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021158,Road Surface Defects,2,2,1.0
-2014-11,E01021159,Abandoned Vehicles,1,1,1.0
-2014-11,E01021159,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01021159,Road Safety,1,1,1.0
-2014-11,E01021159,Road Surface Defects,2,2,1.0
-2014-11,E01021160,Drainage,1,1,1.0
-2014-11,E01021160,Right of Way,1,1,1.0
-2014-11,E01021160,Road Surface Defects,2,2,1.0
-2014-11,E01021161,Road Surface Defects,2,2,1.0
-2014-11,E01021162,Drainage,5,4,1.25
-2014-11,E01021162,Highways Enquiries,1,1,1.0
-2014-11,E01021163,Drainage,2,2,1.0
-2014-11,E01021163,Rubbish,1,1,1.0
-2014-11,E01021164,Highways Enquiries,2,2,1.0
-2014-11,E01021164,Road Surface Defects,1,1,1.0
-2014-11,E01021164,Rubbish,2,2,1.0
-2014-11,E01021165,Road Safety,2,1,2.0
-2014-11,E01021166,Drainage,1,1,1.0
-2014-11,E01021166,Highways Enquiries,1,1,1.0
-2014-11,E01021166,Other,1,1,1.0
-2014-11,E01021166,Right of Way,1,1,1.0
-2014-11,E01021166,Road Safety,1,1,1.0
-2014-11,E01021166,Road Surface Defects,2,2,1.0
-2014-11,E01021166,Rubbish,1,1,1.0
-2014-11,E01021167,Drainage,6,3,2.0
-2014-11,E01021167,Road Surface Defects,5,2,2.5
-2014-11,E01021167,Rubbish,1,1,1.0
-2014-11,E01021167,Street Lights,1,1,1.0
-2014-11,E01021168,Drainage,1,1,1.0
-2014-11,E01021168,Road Surface Defects,1,1,1.0
-2014-11,E01021168,Street Lights,1,1,1.0
-2014-11,E01021169,Other,1,1,1.0
-2014-11,E01021169,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021169,Road Surface Defects,4,4,1.0
-2014-11,E01021170,Drainage,2,2,1.0
-2014-11,E01021170,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021170,Pavement /Footway Defects,2,2,1.0
-2014-11,E01021170,Road Safety,1,1,1.0
-2014-11,E01021170,Road Surface Defects,6,6,1.0
-2014-11,E01021171,Drainage,1,1,1.0
-2014-11,E01021171,Highways Enquiries,1,1,1.0
-2014-11,E01021171,Road Safety,1,1,1.0
-2014-11,E01021171,Road Surface Defects,11,9,1.2222222222222223
-2014-11,E01021171,Rubbish,5,3,1.6666666666666667
-2014-11,E01021172,Drainage,1,1,1.0
-2014-11,E01021172,Road Safety,1,1,1.0
-2014-11,E01021172,Road Surface Defects,5,3,1.6666666666666667
-2014-11,E01021172,Street Lights,2,1,2.0
-2014-11,E01021173,Drainage,1,1,1.0
-2014-11,E01021173,Highways Enquiries,1,1,1.0
-2014-11,E01021173,Parking,1,1,1.0
-2014-11,E01021173,Road Surface Defects,5,5,1.0
-2014-11,E01021173,Rubbish,1,1,1.0
-2014-11,E01021174,Road Surface Defects,1,1,1.0
-2014-11,E01021174,Street Lights,1,1,1.0
-2014-11,E01021176,Drainage,1,1,1.0
-2014-11,E01021178,Abandoned Vehicles,1,1,1.0
-2014-11,E01021178,Drainage,1,1,1.0
-2014-11,E01021178,Right of Way,1,1,1.0
-2014-11,E01021178,Rubbish,2,1,2.0
-2014-11,E01021179,Right of Way,1,1,1.0
-2014-11,E01021180,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021180,Road Surface Defects,1,1,1.0
-2014-11,E01021180,Street Lights,2,2,1.0
-2014-11,E01021181,Highways Enquiries,3,3,1.0
-2014-11,E01021181,Rubbish,1,1,1.0
-2014-11,E01021181,Street Lights,2,2,1.0
-2014-11,E01021182,Abandoned Vehicles,3,1,3.0
-2014-11,E01021182,Parking,1,1,1.0
-2014-11,E01021182,Street Lights,1,1,1.0
-2014-11,E01021183,Road Safety,1,1,1.0
-2014-11,E01021183,Street Furniture,1,1,1.0
-2014-11,E01021183,Street Lights,4,3,1.3333333333333333
-2014-11,E01021184,Drainage,1,1,1.0
-2014-11,E01021184,Road Surface Defects,1,1,1.0
-2014-11,E01021184,Street Lights,2,2,1.0
-2014-11,E01021185,Dog Fouling,1,1,1.0
-2014-11,E01021186,Road Surface Defects,2,2,1.0
-2014-11,E01021187,Road Surface Defects,1,1,1.0
-2014-11,E01021187,Rubbish,1,1,1.0
-2014-11,E01021188,Road Surface Defects,5,5,1.0
-2014-11,E01021188,Rubbish,2,2,1.0
-2014-11,E01021189,Highways Enquiries,1,1,1.0
-2014-11,E01021189,Road Safety,3,3,1.0
-2014-11,E01021189,Road Surface Defects,8,6,1.3333333333333333
-2014-11,E01021189,Street Lights,1,1,1.0
-2014-11,E01021190,Drainage,1,1,1.0
-2014-11,E01021190,Other,1,1,1.0
-2014-11,E01021190,Right of Way,1,1,1.0
-2014-11,E01021191,Street Lights,2,2,1.0
-2014-11,E01021192,Other,1,1,1.0
-2014-11,E01021192,Right of Way,1,1,1.0
-2014-11,E01021193,Dog Fouling,1,1,1.0
-2014-11,E01021193,Other,1,1,1.0
-2014-11,E01021193,Right of Way,1,1,1.0
-2014-11,E01021194,Highways Enquiries,1,1,1.0
-2014-11,E01021194,Other,2,1,2.0
-2014-11,E01021195,Highways Enquiries,1,1,1.0
-2014-11,E01021195,Rubbish,1,1,1.0
-2014-11,E01021195,Street Lights,1,1,1.0
-2014-11,E01021196,Street Lights,1,1,1.0
-2014-11,E01021197,Drainage,1,1,1.0
-2014-11,E01021197,Right of Way,1,1,1.0
-2014-11,E01021197,Road Safety,1,1,1.0
-2014-11,E01021197,Road Surface Defects,1,1,1.0
-2014-11,E01021197,Street Lights,2,2,1.0
-2014-11,E01021199,Drainage,1,1,1.0
-2014-11,E01021199,Highways Enquiries,1,1,1.0
-2014-11,E01021199,Road Safety,1,1,1.0
-2014-11,E01021199,Road Surface Defects,7,4,1.75
-2014-11,E01021200,Drainage,1,1,1.0
-2014-11,E01021200,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021200,Street Lights,2,1,2.0
-2014-11,E01021201,Drainage,2,2,1.0
-2014-11,E01021201,Other,1,1,1.0
-2014-11,E01021201,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021201,Road Surface Defects,3,3,1.0
-2014-11,E01021202,Highways Enquiries,1,1,1.0
-2014-11,E01021202,Pavement /Footway Defects,3,1,3.0
-2014-11,E01021202,Road Surface Defects,3,2,1.5
-2014-11,E01021203,Highways Enquiries,1,1,1.0
-2014-11,E01021203,Road Surface Defects,2,2,1.0
-2014-11,E01021203,Rubbish,1,1,1.0
-2014-11,E01021205,Drainage,1,1,1.0
-2014-11,E01021205,Road Safety,1,1,1.0
-2014-11,E01021205,Road Surface Defects,9,7,1.2857142857142858
-2014-11,E01021206,Right of Way,1,1,1.0
-2014-11,E01021206,Road Surface Defects,2,2,1.0
-2014-11,E01021207,Road Surface Defects,1,1,1.0
-2014-11,E01021207,Street Lights,1,1,1.0
-2014-11,E01021208,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01021208,Street Lights,1,1,1.0
-2014-11,E01021213,Other,1,1,1.0
-2014-11,E01021213,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021214,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021214,Road Surface Defects,1,1,1.0
-2014-11,E01021214,Rubbish,1,1,1.0
-2014-11,E01021214,Street Lights,1,1,1.0
-2014-11,E01021215,Rubbish,1,1,1.0
-2014-11,E01021215,Street Lights,1,1,1.0
-2014-11,E01021216,Drainage,1,1,1.0
-2014-11,E01021216,Street Lights,1,1,1.0
-2014-11,E01021217,Bridge/Culvert Defects,1,1,1.0
-2014-11,E01021217,Drainage,1,1,1.0
-2014-11,E01021217,Highways Enquiries,1,1,1.0
-2014-11,E01021217,Right of Way,1,1,1.0
-2014-11,E01021217,Road Surface Defects,5,3,1.6666666666666667
-2014-11,E01021217,Rubbish,1,1,1.0
-2014-11,E01021218,Drainage,1,1,1.0
-2014-11,E01021218,Highways Enquiries,1,1,1.0
-2014-11,E01021218,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01021219,Dog Fouling,1,1,1.0
-2014-11,E01021219,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021219,Street Lights,2,1,2.0
-2014-11,E01021220,Highways Enquiries,1,1,1.0
-2014-11,E01021220,Right of Way,1,1,1.0
-2014-11,E01021220,Street Lights,3,2,1.5
-2014-11,E01021221,Parking,1,1,1.0
-2014-11,E01021222,Street Lights,1,1,1.0
-2014-11,E01021224,Overgrown/Fallen Veg/Trees,2,1,2.0
-2014-11,E01021225,Road Safety,1,1,1.0
-2014-11,E01021226,Dog Fouling,1,1,1.0
-2014-11,E01021226,Road Surface Defects,1,1,1.0
-2014-11,E01021227,Drainage,1,1,1.0
-2014-11,E01021228,Abandoned Vehicles,1,1,1.0
-2014-11,E01021228,Parking,1,1,1.0
-2014-11,E01021228,Street Lights,2,2,1.0
-2014-11,E01021229,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021229,Right of Way,1,1,1.0
-2014-11,E01021229,Road Surface Defects,4,4,1.0
-2014-11,E01021230,Drainage,1,1,1.0
-2014-11,E01021230,Highways Enquiries,1,1,1.0
-2014-11,E01021230,Right of Way,1,1,1.0
-2014-11,E01021230,Road Surface Defects,3,3,1.0
-2014-11,E01021231,Drainage,4,1,4.0
-2014-11,E01021231,Highways Enquiries,1,1,1.0
-2014-11,E01021231,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021231,Road Surface Defects,8,8,1.0
-2014-11,E01021231,Rubbish,1,1,1.0
-2014-11,E01021231,Street Lights,2,1,2.0
-2014-11,E01021232,Highways Enquiries,1,1,1.0
-2014-11,E01021232,Pavement /Footway Defects,1,1,1.0
-2014-11,E01021232,Road Surface Defects,4,4,1.0
-2014-11,E01021232,Street Lights,1,1,1.0
-2014-11,E01021233,Incivilities,1,1,1.0
-2014-11,E01021233,Street Lights,2,2,1.0
-2014-11,E01021234,Road Surface Defects,1,1,1.0
-2014-11,E01021234,Street Lights,2,2,1.0
-2014-11,E01021236,Street Lights,1,1,1.0
-2014-11,E01022846,Other,1,1,1.0
-2014-11,E01022847,Incivilities,1,1,1.0
-2014-11,E01022849,Other,1,1,1.0
-2014-11,E01022850,Abandoned Vehicles,2,2,1.0
-2014-11,E01022850,Street Lights,1,1,1.0
-2014-11,E01022851,Rubbish,2,2,1.0
-2014-11,E01022853,Highways Enquiries,1,1,1.0
-2014-11,E01022853,Road Surface Defects,2,2,1.0
-2014-11,E01022854,Highways Enquiries,1,1,1.0
-2014-11,E01022854,Incivilities,1,1,1.0
-2014-11,E01022854,Pavement /Footway Defects,1,1,1.0
-2014-11,E01022856,Highways Enquiries,1,1,1.0
-2014-11,E01022857,Road Surface Defects,1,1,1.0
-2014-11,E01022858,Road Surface Defects,1,1,1.0
-2014-11,E01022858,Rubbish,1,1,1.0
-2014-11,E01022859,Highways Enquiries,1,1,1.0
-2014-11,E01022859,Rubbish,1,1,1.0
-2014-11,E01022861,Other,1,1,1.0
-2014-11,E01022862,Highways Enquiries,1,1,1.0
-2014-11,E01022862,Rubbish,1,1,1.0
-2014-11,E01022863,Road Surface Defects,1,1,1.0
-2014-11,E01022864,Other,1,1,1.0
-2014-11,E01022865,Parking,1,1,1.0
-2014-11,E01022865,Road Surface Defects,1,1,1.0
-2014-11,E01022867,Rubbish,1,1,1.0
-2014-11,E01022868,Other,1,1,1.0
-2014-11,E01022869,Highways Enquiries,1,1,1.0
-2014-11,E01022871,Other,1,1,1.0
-2014-11,E01022873,Abandoned Vehicles,1,1,1.0
-2014-11,E01022873,Highways Enquiries,1,1,1.0
-2014-11,E01022873,Rubbish,1,1,1.0
-2014-11,E01022873,Street Furniture,1,1,1.0
-2014-11,E01022874,Rubbish,1,1,1.0
-2014-11,E01022877,Parking,1,1,1.0
-2014-11,E01022878,Highways Enquiries,1,1,1.0
-2014-11,E01022879,Abandoned Vehicles,2,2,1.0
-2014-11,E01022879,Rubbish,1,1,1.0
-2014-11,E01022879,Street Lights,2,2,1.0
-2014-11,E01022880,Road Surface Defects,1,1,1.0
-2014-11,E01022880,Street Lights,1,1,1.0
-2014-11,E01022881,Rubbish,1,1,1.0
-2014-11,E01022881,Street Furniture,1,1,1.0
-2014-11,E01022884,Abandoned Vehicles,1,1,1.0
-2014-11,E01022884,Pavement /Footway Defects,1,1,1.0
-2014-11,E01022885,Pavement /Footway Defects,1,1,1.0
-2014-11,E01022887,Road Surface Defects,1,1,1.0
-2014-11,E01022887,Rubbish,1,1,1.0
-2014-11,E01022887,Street Furniture,1,1,1.0
-2014-11,E01022888,Highways Enquiries,1,1,1.0
-2014-11,E01022888,Other,1,1,1.0
-2014-11,E01022888,Parking,1,1,1.0
-2014-11,E01022889,Parking,1,1,1.0
-2014-11,E01022890,Rubbish,1,1,1.0
-2014-11,E01022891,Highways Enquiries,1,1,1.0
-2014-11,E01022891,Pavement /Footway Defects,1,1,1.0
-2014-11,E01022891,Road Surface Defects,1,1,1.0
-2014-11,E01022891,Rubbish,1,1,1.0
-2014-11,E01022893,Other,1,1,1.0
-2014-11,E01022893,Rubbish,1,1,1.0
-2014-11,E01022893,Street Lights,2,2,1.0
-2014-11,E01022894,Abandoned Vehicles,1,1,1.0
-2014-11,E01022894,Pavement /Footway Defects,1,1,1.0
-2014-11,E01022894,Rubbish,1,1,1.0
-2014-11,E01022896,Rubbish,1,1,1.0
-2014-11,E01022897,Rubbish,1,1,1.0
-2014-11,E01022898,Highways Enquiries,1,1,1.0
-2014-11,E01023750,Dog Fouling,2,2,1.0
-2014-11,E01023750,Rubbish,6,3,2.0
-2014-11,E01023751,Abandoned Vehicles,2,2,1.0
-2014-11,E01023751,Rubbish,3,1,3.0
-2014-11,E01023752,Dog Fouling,1,1,1.0
-2014-11,E01023752,Rubbish,4,4,1.0
-2014-11,E01023753,Dog Fouling,1,1,1.0
-2014-11,E01023753,Incivilities,1,1,1.0
-2014-11,E01023753,Other,2,2,1.0
-2014-11,E01023753,Pavement /Footway Defects,2,1,2.0
-2014-11,E01023753,Rubbish,8,3,2.6666666666666665
-2014-11,E01023754,Other,1,1,1.0
-2014-11,E01023754,Rubbish,6,3,2.0
-2014-11,E01023755,Abandoned Vehicles,1,1,1.0
-2014-11,E01023755,Incivilities,1,1,1.0
-2014-11,E01023755,Rubbish,3,2,1.5
-2014-11,E01023756,Abandoned Vehicles,1,1,1.0
-2014-11,E01023756,Incivilities,1,1,1.0
-2014-11,E01023756,Rubbish,7,2,3.5
-2014-11,E01023757,Abandoned Vehicles,1,1,1.0
-2014-11,E01023757,Rubbish,1,1,1.0
-2014-11,E01023758,Other,1,1,1.0
-2014-11,E01023758,Rubbish,7,4,1.75
-2014-11,E01023759,Dog Fouling,1,1,1.0
-2014-11,E01023759,Rubbish,7,2,3.5
-2014-11,E01023760,Incivilities,1,1,1.0
-2014-11,E01023760,Rubbish,4,2,2.0
-2014-11,E01023761,Abandoned Vehicles,2,2,1.0
-2014-11,E01023761,Other,1,1,1.0
-2014-11,E01023761,Rubbish,3,3,1.0
-2014-11,E01023761,Street Lights,1,1,1.0
-2014-11,E01023762,Abandoned Vehicles,3,2,1.5
-2014-11,E01023762,Highways Enquiries,1,1,1.0
-2014-11,E01023762,Rubbish,9,5,1.8
-2014-11,E01023764,Other,1,1,1.0
-2014-11,E01023764,Rubbish,5,3,1.6666666666666667
-2014-11,E01023765,Rubbish,4,2,2.0
-2014-11,E01023765,Street Lights,1,1,1.0
-2014-11,E01023766,Abandoned Vehicles,1,1,1.0
-2014-11,E01023766,Rubbish,5,2,2.5
-2014-11,E01023767,Abandoned Vehicles,1,1,1.0
-2014-11,E01023767,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01023767,Rubbish,3,2,1.5
-2014-11,E01023768,Street Lights,1,1,1.0
-2014-11,E01023769,Abandoned Vehicles,1,1,1.0
-2014-11,E01023769,Incivilities,1,1,1.0
-2014-11,E01023769,Rubbish,4,2,2.0
-2014-11,E01023770,Rubbish,2,2,1.0
-2014-11,E01023771,Abandoned Vehicles,2,1,2.0
-2014-11,E01023771,Other,1,1,1.0
-2014-11,E01023771,Rubbish,9,3,3.0
-2014-11,E01023772,Abandoned Vehicles,1,1,1.0
-2014-11,E01023772,Rubbish,5,3,1.6666666666666667
-2014-11,E01023773,Abandoned Vehicles,1,1,1.0
-2014-11,E01023773,Rubbish,2,2,1.0
-2014-11,E01023774,Abandoned Vehicles,1,1,1.0
-2014-11,E01023774,Rubbish,7,3,2.3333333333333335
-2014-11,E01023775,Incivilities,1,1,1.0
-2014-11,E01023775,Other,1,1,1.0
-2014-11,E01023775,Rubbish,6,2,3.0
-2014-11,E01023776,Abandoned Vehicles,1,1,1.0
-2014-11,E01023776,Rubbish,5,3,1.6666666666666667
-2014-11,E01023777,Abandoned Vehicles,2,2,1.0
-2014-11,E01023777,Other,1,1,1.0
-2014-11,E01023777,Rubbish,5,1,5.0
-2014-11,E01023778,Dog Fouling,2,1,2.0
-2014-11,E01023778,Rubbish,3,2,1.5
-2014-11,E01023779,Abandoned Vehicles,1,1,1.0
-2014-11,E01023779,Rubbish,3,2,1.5
-2014-11,E01023780,Rubbish,3,1,3.0
-2014-11,E01023781,Road Safety,1,1,1.0
-2014-11,E01023781,Rubbish,8,2,4.0
-2014-11,E01023782,Abandoned Vehicles,1,1,1.0
-2014-11,E01023782,Rubbish,3,3,1.0
-2014-11,E01023783,Abandoned Vehicles,1,1,1.0
-2014-11,E01023783,Rubbish,2,1,2.0
-2014-11,E01023784,Abandoned Vehicles,1,1,1.0
-2014-11,E01023784,Rubbish,4,3,1.3333333333333333
-2014-11,E01023785,Rubbish,1,1,1.0
-2014-11,E01023786,Environmental Health,1,1,1.0
-2014-11,E01023786,Other,1,1,1.0
-2014-11,E01023786,Rubbish,4,3,1.3333333333333333
-2014-11,E01023787,Dog Fouling,1,1,1.0
-2014-11,E01023787,Incivilities,1,1,1.0
-2014-11,E01023787,Rubbish,9,2,4.5
-2014-11,E01023787,Street Lights,1,1,1.0
-2014-11,E01023788,Abandoned Vehicles,1,1,1.0
-2014-11,E01023788,Rubbish,8,2,4.0
-2014-11,E01023789,Dog Fouling,1,1,1.0
-2014-11,E01023789,Incivilities,2,2,1.0
-2014-11,E01023789,Rubbish,5,3,1.6666666666666667
-2014-11,E01023790,Abandoned Vehicles,1,1,1.0
-2014-11,E01023790,Dog Fouling,1,1,1.0
-2014-11,E01023790,Rubbish,5,2,2.5
-2014-11,E01023791,Rubbish,3,3,1.0
-2014-11,E01023792,Other,2,1,2.0
-2014-11,E01023792,Rubbish,7,2,3.5
-2014-11,E01023793,Rubbish,2,1,2.0
-2014-11,E01023794,Rubbish,9,3,3.0
-2014-11,E01023795,Rubbish,5,1,5.0
-2014-11,E01023796,Abandoned Vehicles,1,1,1.0
-2014-11,E01023796,Rubbish,2,1,2.0
-2014-11,E01023797,Abandoned Vehicles,2,2,1.0
-2014-11,E01023797,Highways Enquiries,1,1,1.0
-2014-11,E01023798,Rubbish,9,5,1.8
-2014-11,E01023799,Rubbish,2,2,1.0
-2014-11,E01023800,Highways Enquiries,1,1,1.0
-2014-11,E01023800,Rubbish,6,3,2.0
-2014-11,E01023801,Dog Fouling,5,3,1.6666666666666667
-2014-11,E01023801,Incivilities,1,1,1.0
-2014-11,E01023801,Other,1,1,1.0
-2014-11,E01023801,Rubbish,8,2,4.0
-2014-11,E01028423,Road Safety,1,1,1.0
-2014-11,E01028423,Road Surface Defects,1,1,1.0
-2014-11,E01028424,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01028425,Drainage,1,1,1.0
-2014-11,E01028425,Road Surface Defects,1,1,1.0
-2014-11,E01028426,Street Lights,1,1,1.0
-2014-11,E01028427,Road Surface Defects,1,1,1.0
-2014-11,E01028429,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028429,Right of Way,1,1,1.0
-2014-11,E01028429,Road Surface Defects,1,1,1.0
-2014-11,E01028429,Street Lights,1,1,1.0
-2014-11,E01028430,Road Surface Defects,1,1,1.0
-2014-11,E01028431,Road Surface Defects,3,2,1.5
-2014-11,E01028433,Street Lights,1,1,1.0
-2014-11,E01028435,Parking,1,1,1.0
-2014-11,E01028437,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028439,Road Safety,1,1,1.0
-2014-11,E01028441,Drainage,1,1,1.0
-2014-11,E01028443,Road Surface Defects,1,1,1.0
-2014-11,E01028445,Drainage,1,1,1.0
-2014-11,E01028448,Other,1,1,1.0
-2014-11,E01028451,Road Surface Defects,1,1,1.0
-2014-11,E01028462,Road Surface Defects,1,1,1.0
-2014-11,E01028463,Parking,1,1,1.0
-2014-11,E01028466,Drainage,1,1,1.0
-2014-11,E01028469,Road Safety,1,1,1.0
-2014-11,E01028477,Highways Enquiries,1,1,1.0
-2014-11,E01028477,Rubbish,1,1,1.0
-2014-11,E01028478,Street Furniture,1,1,1.0
-2014-11,E01028480,Road Surface Defects,1,1,1.0
-2014-11,E01028481,Drainage,2,1,2.0
-2014-11,E01028481,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028481,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028481,Road Surface Defects,4,2,2.0
-2014-11,E01028484,Road Surface Defects,1,1,1.0
-2014-11,E01028488,Abandoned Vehicles,3,1,3.0
-2014-11,E01028488,Drainage,2,1,2.0
-2014-11,E01028488,Street Lights,1,1,1.0
-2014-11,E01028489,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028492,Road Surface Defects,1,1,1.0
-2014-11,E01028497,Drainage,1,1,1.0
-2014-11,E01028497,Road Surface Defects,1,1,1.0
-2014-11,E01028498,Highways Enquiries,1,1,1.0
-2014-11,E01028498,Open Spaces/Parks,1,1,1.0
-2014-11,E01028501,Drainage,1,1,1.0
-2014-11,E01028501,Road Surface Defects,1,1,1.0
-2014-11,E01028502,Road Surface Defects,3,3,1.0
-2014-11,E01028503,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028503,Road Surface Defects,1,1,1.0
-2014-11,E01028504,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028505,Drainage,1,1,1.0
-2014-11,E01028505,Pavement /Footway Defects,2,1,2.0
-2014-11,E01028505,Rubbish,1,1,1.0
-2014-11,E01028506,Other,1,1,1.0
-2014-11,E01028507,Drainage,1,1,1.0
-2014-11,E01028507,Pavement /Footway Defects,2,1,2.0
-2014-11,E01028508,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028509,Road Surface Defects,1,1,1.0
-2014-11,E01028510,Road Surface Defects,1,1,1.0
-2014-11,E01028511,Other,1,1,1.0
-2014-11,E01028511,Road Safety,1,1,1.0
-2014-11,E01028513,Highways Enquiries,1,1,1.0
-2014-11,E01028515,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028516,Road Surface Defects,1,1,1.0
-2014-11,E01028521,Drainage,2,2,1.0
-2014-11,E01028521,Highways Enquiries,2,2,1.0
-2014-11,E01028521,Pavement /Footway Defects,3,3,1.0
-2014-11,E01028521,Road Safety,2,2,1.0
-2014-11,E01028521,Road Surface Defects,1,1,1.0
-2014-11,E01028522,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028522,Road Surface Defects,2,2,1.0
-2014-11,E01028526,Drainage,8,7,1.1428571428571428
-2014-11,E01028526,Highways Enquiries,4,4,1.0
-2014-11,E01028526,Other,1,1,1.0
-2014-11,E01028527,Pavement /Footway Defects,2,2,1.0
-2014-11,E01028533,Highways Enquiries,1,1,1.0
-2014-11,E01028535,Drainage,1,1,1.0
-2014-11,E01028537,Drainage,1,1,1.0
-2014-11,E01028539,Drainage,1,1,1.0
-2014-11,E01028539,Road Safety,1,1,1.0
-2014-11,E01028540,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028542,Road Safety,1,1,1.0
-2014-11,E01028547,Highways Enquiries,1,1,1.0
-2014-11,E01028548,Highways Enquiries,1,1,1.0
-2014-11,E01028548,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028549,Highways Enquiries,1,1,1.0
-2014-11,E01028551,Highways Enquiries,1,1,1.0
-2014-11,E01028551,Road Surface Defects,1,1,1.0
-2014-11,E01028555,Drainage,1,1,1.0
-2014-11,E01028555,Street Lights,1,1,1.0
-2014-11,E01028557,Road Surface Defects,1,1,1.0
-2014-11,E01028561,Other,1,1,1.0
-2014-11,E01028563,Parking,1,1,1.0
-2014-11,E01028568,Drainage,1,1,1.0
-2014-11,E01028568,Road Safety,1,1,1.0
-2014-11,E01028568,Road Surface Defects,1,1,1.0
-2014-11,E01028570,Road Safety,1,1,1.0
-2014-11,E01028571,Highways Enquiries,1,1,1.0
-2014-11,E01028571,Parking,1,1,1.0
-2014-11,E01028575,Road Surface Defects,1,1,1.0
-2014-11,E01028578,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028581,Drainage,18,14,1.2857142857142858
-2014-11,E01028581,Highways Enquiries,1,1,1.0
-2014-11,E01028585,Highways Enquiries,1,1,1.0
-2014-11,E01028586,Road Surface Defects,1,1,1.0
-2014-11,E01028587,Parking,1,1,1.0
-2014-11,E01028591,Pavement /Footway Defects,2,2,1.0
-2014-11,E01028592,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028592,Road Surface Defects,1,1,1.0
-2014-11,E01028594,Drainage,1,1,1.0
-2014-11,E01028594,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028596,Parking,1,1,1.0
-2014-11,E01028598,Drainage,3,3,1.0
-2014-11,E01028598,Highways Enquiries,1,1,1.0
-2014-11,E01028598,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028600,Street Lights,2,2,1.0
-2014-11,E01028601,Drainage,1,1,1.0
-2014-11,E01028601,Highways Enquiries,2,1,2.0
-2014-11,E01028601,Overgrown/Fallen Veg/Trees,2,2,1.0
-2014-11,E01028601,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028601,Road Surface Defects,3,3,1.0
-2014-11,E01028605,Road Safety,1,1,1.0
-2014-11,E01028605,Road Surface Defects,1,1,1.0
-2014-11,E01028605,Street Lights,1,1,1.0
-2014-11,E01028606,Property Damage,1,1,1.0
-2014-11,E01028607,Road Surface Defects,2,2,1.0
-2014-11,E01028608,Drainage,1,1,1.0
-2014-11,E01028608,Road Surface Defects,1,1,1.0
-2014-11,E01028611,Drainage,1,1,1.0
-2014-11,E01028611,Road Surface Defects,1,1,1.0
-2014-11,E01028612,Drainage,2,1,2.0
-2014-11,E01028612,Road Safety,1,1,1.0
-2014-11,E01028612,Road Surface Defects,7,4,1.75
-2014-11,E01028612,Rubbish,1,1,1.0
-2014-11,E01028613,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028615,Road Surface Defects,1,1,1.0
-2014-11,E01028617,Drainage,2,2,1.0
-2014-11,E01028617,Road Surface Defects,2,2,1.0
-2014-11,E01028618,Drainage,1,1,1.0
-2014-11,E01028618,Highways Enquiries,1,1,1.0
-2014-11,E01028618,Road Surface Defects,3,3,1.0
-2014-11,E01028619,Highways Enquiries,1,1,1.0
-2014-11,E01028619,Road Surface Defects,1,1,1.0
-2014-11,E01028619,Rubbish,1,1,1.0
-2014-11,E01028620,Road Surface Defects,1,1,1.0
-2014-11,E01028621,Road Surface Defects,1,1,1.0
-2014-11,E01028623,Overgrown/Fallen Veg/Trees,1,1,1.0
+period,LSOA,SHEF_B_CODE,report_count,user_count,average
+2014-11,E01000115,B19,2,2,1.0
+2014-11,E01000115,B28,1,1,1.0
+2014-11,E01000116,B13,1,1,1.0
+2014-11,E01000116,B25,1,1,1.0
+2014-11,E01000117,B1,1,1,1.0
+2014-11,E01000117,B19,3,2,1.5
+2014-11,E01000117,B25,1,1,1.0
+2014-11,E01000117,B26,1,1,1.0
+2014-11,E01000117,B28,1,1,1.0
+2014-11,E01000118,B1,1,1,1.0
+2014-11,E01000118,B6,1,1,1.0
+2014-11,E01000119,B19,2,2,1.0
+2014-11,E01000120,B19,1,1,1.0
+2014-11,E01000121,B6,1,1,1.0
+2014-11,E01000122,B1,1,1,1.0
+2014-11,E01000122,B13,1,1,1.0
+2014-11,E01000122,B2,1,1,1.0
+2014-11,E01000123,B26,2,2,1.0
+2014-11,E01000125,B19,2,1,2.0
+2014-11,E01000125,B26,2,2,1.0
+2014-11,E01000125,B28,2,2,1.0
+2014-11,E01000126,B26,1,1,1.0
+2014-11,E01000126,B28,1,1,1.0
+2014-11,E01000127,B19,1,1,1.0
+2014-11,E01000129,B19,2,2,1.0
+2014-11,E01000131,B1,1,1,1.0
+2014-11,E01000131,B12,1,1,1.0
+2014-11,E01000131,B13,1,1,1.0
+2014-11,E01000135,B13,1,1,1.0
+2014-11,E01000135,B19,2,1,2.0
+2014-11,E01000135,B25,2,2,1.0
+2014-11,E01000136,B13,1,1,1.0
+2014-11,E01000136,B19,1,1,1.0
+2014-11,E01000136,B26,1,1,1.0
+2014-11,E01000136,B28,2,2,1.0
+2014-11,E01000136,B7,1,1,1.0
+2014-11,E01000137,B24,1,1,1.0
+2014-11,E01000138,B1,1,1,1.0
+2014-11,E01000138,B19,1,1,1.0
+2014-11,E01000138,B24,1,1,1.0
+2014-11,E01000138,B26,1,1,1.0
+2014-11,E01000139,B13,1,1,1.0
+2014-11,E01000139,B25,1,1,1.0
+2014-11,E01000139,B26,1,1,1.0
+2014-11,E01000140,B25,1,1,1.0
+2014-11,E01000140,B26,1,1,1.0
+2014-11,E01000142,B1,1,1,1.0
+2014-11,E01000142,B13,5,4,1.25
+2014-11,E01000142,B26,4,3,1.3333333333333333
+2014-11,E01000142,B28,1,1,1.0
+2014-11,E01000143,B1,2,2,1.0
+2014-11,E01000144,B19,1,1,1.0
+2014-11,E01000144,B25,1,1,1.0
+2014-11,E01000144,B26,2,2,1.0
+2014-11,E01000145,B13,1,1,1.0
+2014-11,E01000145,B26,1,1,1.0
+2014-11,E01000146,B19,1,1,1.0
+2014-11,E01000146,B25,1,1,1.0
+2014-11,E01000146,B26,1,1,1.0
+2014-11,E01000146,B7,1,1,1.0
+2014-11,E01000147,B1,1,1,1.0
+2014-11,E01000147,B25,1,1,1.0
+2014-11,E01000147,B26,1,1,1.0
+2014-11,E01000148,B1,1,1,1.0
+2014-11,E01000148,B12,1,1,1.0
+2014-11,E01000148,B13,1,1,1.0
+2014-11,E01000148,B28,1,1,1.0
+2014-11,E01000148,B7,1,1,1.0
+2014-11,E01000150,B1,1,1,1.0
+2014-11,E01000150,B12,1,1,1.0
+2014-11,E01000151,B26,1,1,1.0
+2014-11,E01000152,B1,1,1,1.0
+2014-11,E01000155,B14,1,1,1.0
+2014-11,E01000155,B25,1,1,1.0
+2014-11,E01000155,B26,1,1,1.0
+2014-11,E01000156,B12,1,1,1.0
+2014-11,E01000156,B19,2,2,1.0
+2014-11,E01000156,B7,1,1,1.0
+2014-11,E01000157,B19,1,1,1.0
+2014-11,E01000158,B26,1,1,1.0
+2014-11,E01000159,B7,1,1,1.0
+2014-11,E01000160,B13,2,2,1.0
+2014-11,E01000160,B25,1,1,1.0
+2014-11,E01000160,B26,1,1,1.0
+2014-11,E01000160,B7,1,1,1.0
+2014-11,E01000162,B26,2,2,1.0
+2014-11,E01000164,B19,1,1,1.0
+2014-11,E01000165,B13,1,1,1.0
+2014-11,E01000165,B26,1,1,1.0
+2014-11,E01000166,B13,1,1,1.0
+2014-11,E01000166,B26,1,1,1.0
+2014-11,E01000167,B12,1,1,1.0
+2014-11,E01000167,B19,3,3,1.0
+2014-11,E01000168,B13,1,1,1.0
+2014-11,E01000169,B1,1,1,1.0
+2014-11,E01000169,B17,1,1,1.0
+2014-11,E01000169,B19,1,1,1.0
+2014-11,E01000170,B7,1,1,1.0
+2014-11,E01000171,B13,1,1,1.0
+2014-11,E01000172,B24,1,1,1.0
+2014-11,E01000173,B19,1,1,1.0
+2014-11,E01000173,B26,1,1,1.0
+2014-11,E01000173,B7,1,1,1.0
+2014-11,E01000174,B17,1,1,1.0
+2014-11,E01000175,B13,1,1,1.0
+2014-11,E01000175,B19,2,2,1.0
+2014-11,E01000175,B28,3,3,1.0
+2014-11,E01000176,B25,1,1,1.0
+2014-11,E01000176,B26,2,2,1.0
+2014-11,E01000177,B1,1,1,1.0
+2014-11,E01000177,B26,1,1,1.0
+2014-11,E01000179,B1,1,1,1.0
+2014-11,E01000179,B26,1,1,1.0
+2014-11,E01000180,B13,2,2,1.0
+2014-11,E01000180,B26,1,1,1.0
+2014-11,E01000181,B19,1,1,1.0
+2014-11,E01000181,B26,1,1,1.0
+2014-11,E01000181,B28,1,1,1.0
+2014-11,E01000181,B7,2,2,1.0
+2014-11,E01000182,B13,1,1,1.0
+2014-11,E01000182,B19,1,1,1.0
+2014-11,E01000182,B25,1,1,1.0
+2014-11,E01000183,B13,1,1,1.0
+2014-11,E01000183,B24,1,1,1.0
+2014-11,E01000184,B1,1,1,1.0
+2014-11,E01000184,B25,1,1,1.0
+2014-11,E01000186,B13,1,1,1.0
+2014-11,E01000187,B1,2,2,1.0
+2014-11,E01000187,B14,1,1,1.0
+2014-11,E01000188,B26,1,1,1.0
+2014-11,E01000190,B19,2,2,1.0
+2014-11,E01000190,B28,1,1,1.0
+2014-11,E01000191,B1,2,2,1.0
+2014-11,E01000192,B26,1,1,1.0
+2014-11,E01000195,B13,1,1,1.0
+2014-11,E01000196,B19,1,1,1.0
+2014-11,E01000196,B25,2,1,2.0
+2014-11,E01000197,B12,1,1,1.0
+2014-11,E01000197,B13,1,1,1.0
+2014-11,E01000197,B19,2,1,2.0
+2014-11,E01000197,B25,1,1,1.0
+2014-11,E01000197,B26,1,1,1.0
+2014-11,E01000198,B13,1,1,1.0
+2014-11,E01000200,B19,1,1,1.0
+2014-11,E01000202,B19,2,2,1.0
+2014-11,E01000202,B24,1,1,1.0
+2014-11,E01000202,B26,2,1,2.0
+2014-11,E01000203,B13,1,1,1.0
+2014-11,E01000203,B26,1,1,1.0
+2014-11,E01000203,B7,1,1,1.0
+2014-11,E01000204,B19,1,1,1.0
+2014-11,E01000205,B1,1,1,1.0
+2014-11,E01000205,B19,2,2,1.0
+2014-11,E01000205,B25,1,1,1.0
+2014-11,E01000206,B13,1,1,1.0
+2014-11,E01000206,B19,2,2,1.0
+2014-11,E01000206,B25,4,3,1.3333333333333333
+2014-11,E01000206,B26,1,1,1.0
+2014-11,E01000207,B19,1,1,1.0
+2014-11,E01000207,B26,1,1,1.0
+2014-11,E01000208,B13,1,1,1.0
+2014-11,E01000208,B17,2,2,1.0
+2014-11,E01000208,B19,1,1,1.0
+2014-11,E01000210,B19,1,1,1.0
+2014-11,E01000210,B26,3,3,1.0
+2014-11,E01000211,B1,2,1,2.0
+2014-11,E01000211,B26,1,1,1.0
+2014-11,E01000212,B7,1,1,1.0
+2014-11,E01000213,B19,3,2,1.5
+2014-11,E01000213,B7,1,1,1.0
+2014-11,E01000214,B28,1,1,1.0
+2014-11,E01000215,B26,1,1,1.0
+2014-11,E01000215,B7,3,1,3.0
+2014-11,E01000217,B1,1,1,1.0
+2014-11,E01000217,B19,1,1,1.0
+2014-11,E01000217,B26,1,1,1.0
+2014-11,E01000217,B28,2,2,1.0
+2014-11,E01000218,B26,1,1,1.0
+2014-11,E01000219,B13,1,1,1.0
+2014-11,E01000219,B19,1,1,1.0
+2014-11,E01000219,B7,2,2,1.0
+2014-11,E01000221,B17,1,1,1.0
+2014-11,E01000221,B25,1,1,1.0
+2014-11,E01000221,B26,1,1,1.0
+2014-11,E01000221,B28,1,1,1.0
+2014-11,E01000222,B26,1,1,1.0
+2014-11,E01000223,B24,1,1,1.0
+2014-11,E01000223,B25,1,1,1.0
+2014-11,E01000223,B26,1,1,1.0
+2014-11,E01000224,B13,3,2,1.5
+2014-11,E01000224,B24,1,1,1.0
+2014-11,E01000224,B26,1,1,1.0
+2014-11,E01000224,B28,1,1,1.0
+2014-11,E01000225,B1,1,1,1.0
+2014-11,E01000225,B26,1,1,1.0
+2014-11,E01000226,B1,1,1,1.0
+2014-11,E01000228,B1,1,1,1.0
+2014-11,E01000228,B25,3,3,1.0
+2014-11,E01000228,B6,1,1,1.0
+2014-11,E01000229,B1,1,1,1.0
+2014-11,E01000229,B13,1,1,1.0
+2014-11,E01000229,B28,1,1,1.0
+2014-11,E01000232,B1,1,1,1.0
+2014-11,E01000233,B26,1,1,1.0
+2014-11,E01000233,B6,1,1,1.0
+2014-11,E01000234,B19,1,1,1.0
+2014-11,E01000235,B25,1,1,1.0
+2014-11,E01000235,B7,1,1,1.0
+2014-11,E01000236,B19,1,1,1.0
+2014-11,E01000236,B26,1,1,1.0
+2014-11,E01000236,B7,1,1,1.0
+2014-11,E01000237,B19,2,2,1.0
+2014-11,E01000238,B19,1,1,1.0
+2014-11,E01000238,B24,1,1,1.0
+2014-11,E01000238,B26,1,1,1.0
+2014-11,E01000239,B13,1,1,1.0
+2014-11,E01000240,B1,1,1,1.0
+2014-11,E01000241,B25,1,1,1.0
+2014-11,E01000241,B28,1,1,1.0
+2014-11,E01000242,B19,1,1,1.0
+2014-11,E01000242,B26,1,1,1.0
+2014-11,E01000242,B7,1,1,1.0
+2014-11,E01000243,B26,2,2,1.0
+2014-11,E01000245,B28,1,1,1.0
+2014-11,E01000246,B24,1,1,1.0
+2014-11,E01000246,B28,1,1,1.0
+2014-11,E01000247,B1,1,1,1.0
+2014-11,E01000247,B26,1,1,1.0
+2014-11,E01000249,B17,2,2,1.0
+2014-11,E01000249,B7,1,1,1.0
+2014-11,E01000250,B25,1,1,1.0
+2014-11,E01000250,B26,3,3,1.0
+2014-11,E01000251,B24,1,1,1.0
+2014-11,E01000252,B1,1,1,1.0
+2014-11,E01000253,B13,4,2,2.0
+2014-11,E01000253,B24,1,1,1.0
+2014-11,E01000253,B25,1,1,1.0
+2014-11,E01000253,B26,1,1,1.0
+2014-11,E01000253,B7,1,1,1.0
+2014-11,E01000255,B1,1,1,1.0
+2014-11,E01000255,B17,1,1,1.0
+2014-11,E01000255,B28,1,1,1.0
+2014-11,E01000256,B19,1,1,1.0
+2014-11,E01000256,B28,1,1,1.0
+2014-11,E01000256,B7,1,1,1.0
+2014-11,E01000257,B1,1,1,1.0
+2014-11,E01000257,B13,2,2,1.0
+2014-11,E01000257,B26,1,1,1.0
+2014-11,E01000258,B17,1,1,1.0
+2014-11,E01000258,B19,1,1,1.0
+2014-11,E01000258,B7,1,1,1.0
+2014-11,E01000260,B1,1,1,1.0
+2014-11,E01000260,B24,1,1,1.0
+2014-11,E01000260,B25,3,3,1.0
+2014-11,E01000260,B7,1,1,1.0
+2014-11,E01000261,B25,1,1,1.0
+2014-11,E01000262,B13,2,2,1.0
+2014-11,E01000263,B13,2,2,1.0
+2014-11,E01000263,B17,1,1,1.0
+2014-11,E01000263,B28,1,1,1.0
+2014-11,E01000264,B13,1,1,1.0
+2014-11,E01000264,B24,1,1,1.0
+2014-11,E01000264,B26,1,1,1.0
+2014-11,E01000264,B28,1,1,1.0
+2014-11,E01000265,B1,1,1,1.0
+2014-11,E01000265,B13,1,1,1.0
+2014-11,E01000265,B19,1,1,1.0
+2014-11,E01000266,B19,1,1,1.0
+2014-11,E01000266,B25,1,1,1.0
+2014-11,E01000267,B28,1,1,1.0
+2014-11,E01000269,B26,1,1,1.0
+2014-11,E01000269,B7,1,1,1.0
+2014-11,E01000270,B19,1,1,1.0
+2014-11,E01000271,B1,1,1,1.0
+2014-11,E01000271,B26,1,1,1.0
+2014-11,E01000271,B28,1,1,1.0
+2014-11,E01000272,B13,1,1,1.0
+2014-11,E01000272,B25,1,1,1.0
+2014-11,E01000273,B13,2,1,2.0
+2014-11,E01000274,B19,1,1,1.0
+2014-11,E01000275,B25,1,1,1.0
+2014-11,E01000275,B26,1,1,1.0
+2014-11,E01000278,B13,1,1,1.0
+2014-11,E01000279,B13,1,1,1.0
+2014-11,E01000280,B1,1,1,1.0
+2014-11,E01000280,B19,1,1,1.0
+2014-11,E01000280,B28,2,1,2.0
+2014-11,E01000281,B7,1,1,1.0
+2014-11,E01000282,B13,1,1,1.0
+2014-11,E01000282,B17,1,1,1.0
+2014-11,E01000282,B26,1,1,1.0
+2014-11,E01000283,B19,2,2,1.0
+2014-11,E01000284,B17,1,1,1.0
+2014-11,E01000284,B19,1,1,1.0
+2014-11,E01000285,B19,1,1,1.0
+2014-11,E01000285,B28,2,2,1.0
+2014-11,E01000286,B26,1,1,1.0
+2014-11,E01000286,B7,1,1,1.0
+2014-11,E01000288,B19,1,1,1.0
+2014-11,E01000288,B26,1,1,1.0
+2014-11,E01000289,B1,2,2,1.0
+2014-11,E01000289,B17,1,1,1.0
+2014-11,E01000290,B13,1,1,1.0
+2014-11,E01000290,B19,1,1,1.0
+2014-11,E01000290,B26,3,1,3.0
+2014-11,E01000290,B28,1,1,1.0
+2014-11,E01000292,B19,1,1,1.0
+2014-11,E01000292,B26,2,2,1.0
+2014-11,E01000292,B7,1,1,1.0
+2014-11,E01000293,B13,1,1,1.0
+2014-11,E01000293,B19,1,1,1.0
+2014-11,E01000294,B1,1,1,1.0
+2014-11,E01000294,B26,2,2,1.0
+2014-11,E01000294,B7,1,1,1.0
+2014-11,E01000295,B19,1,1,1.0
+2014-11,E01000296,B19,1,1,1.0
+2014-11,E01000296,B26,1,1,1.0
+2014-11,E01000297,B26,1,1,1.0
+2014-11,E01000298,B26,1,1,1.0
+2014-11,E01000299,B19,1,1,1.0
+2014-11,E01000299,B26,2,2,1.0
+2014-11,E01000299,B28,1,1,1.0
+2014-11,E01000301,B17,1,1,1.0
+2014-11,E01000301,B28,1,1,1.0
+2014-11,E01000302,B13,1,1,1.0
+2014-11,E01000302,B25,2,2,1.0
+2014-11,E01000302,B26,1,1,1.0
+2014-11,E01000303,B17,1,1,1.0
+2014-11,E01000303,B25,1,1,1.0
+2014-11,E01000304,B19,1,1,1.0
+2014-11,E01000304,B26,1,1,1.0
+2014-11,E01000304,B7,1,1,1.0
+2014-11,E01000305,B7,1,1,1.0
+2014-11,E01000306,B1,1,1,1.0
+2014-11,E01000306,B26,1,1,1.0
+2014-11,E01000307,B25,1,1,1.0
+2014-11,E01000307,B26,3,2,1.5
+2014-11,E01000307,B7,2,1,2.0
+2014-11,E01000308,B19,1,1,1.0
+2014-11,E01000309,B19,2,2,1.0
+2014-11,E01000309,B24,1,1,1.0
+2014-11,E01000309,B26,1,1,1.0
+2014-11,E01000310,B26,2,2,1.0
+2014-11,E01000310,B28,1,1,1.0
+2014-11,E01000311,B6,1,1,1.0
+2014-11,E01000312,B1,1,1,1.0
+2014-11,E01000315,B26,1,1,1.0
+2014-11,E01000316,B13,2,2,1.0
+2014-11,E01000316,B24,1,1,1.0
+2014-11,E01000316,B7,1,1,1.0
+2014-11,E01000317,B26,2,1,2.0
+2014-11,E01000318,B26,2,2,1.0
+2014-11,E01000319,B19,1,1,1.0
+2014-11,E01000319,B26,2,2,1.0
+2014-11,E01000321,B26,2,2,1.0
+2014-11,E01000322,B19,1,1,1.0
+2014-11,E01000322,B26,1,1,1.0
+2014-11,E01000323,B13,2,1,2.0
+2014-11,E01000324,B1,1,1,1.0
+2014-11,E01000324,B13,1,1,1.0
+2014-11,E01000645,B17,1,1,1.0
+2014-11,E01000645,B23,1,1,1.0
+2014-11,E01000645,B25,1,1,1.0
+2014-11,E01000645,B26,5,3,1.6666666666666667
+2014-11,E01000645,B8,1,1,1.0
+2014-11,E01000646,B19,2,1,2.0
+2014-11,E01000646,B26,4,4,1.0
+2014-11,E01000647,B26,1,1,1.0
+2014-11,E01000648,B1,1,1,1.0
+2014-11,E01000648,B17,2,2,1.0
+2014-11,E01000648,B26,7,4,1.75
+2014-11,E01000648,B7,1,1,1.0
+2014-11,E01000649,B26,1,1,1.0
+2014-11,E01000649,B28,2,2,1.0
+2014-11,E01000649,B8,1,1,1.0
+2014-11,E01000650,B17,1,1,1.0
+2014-11,E01000650,B28,3,2,1.5
+2014-11,E01000651,B1,1,1,1.0
+2014-11,E01000651,B19,1,1,1.0
+2014-11,E01000651,B26,1,1,1.0
+2014-11,E01000651,B28,1,1,1.0
+2014-11,E01000652,B26,2,2,1.0
+2014-11,E01000653,B17,1,1,1.0
+2014-11,E01000653,B19,1,1,1.0
+2014-11,E01000653,B26,1,1,1.0
+2014-11,E01000653,B28,2,2,1.0
+2014-11,E01000654,B14,1,1,1.0
+2014-11,E01000654,B17,1,1,1.0
+2014-11,E01000654,B19,1,1,1.0
+2014-11,E01000654,B28,4,4,1.0
+2014-11,E01000655,B1,1,1,1.0
+2014-11,E01000655,B23,1,1,1.0
+2014-11,E01000655,B26,2,2,1.0
+2014-11,E01000656,B1,1,1,1.0
+2014-11,E01000656,B17,1,1,1.0
+2014-11,E01000656,B25,4,3,1.3333333333333333
+2014-11,E01000656,B28,2,2,1.0
+2014-11,E01000656,B7,1,1,1.0
+2014-11,E01000657,B23,1,1,1.0
+2014-11,E01000657,B25,2,2,1.0
+2014-11,E01000657,B26,1,1,1.0
+2014-11,E01000658,B15,1,1,1.0
+2014-11,E01000658,B19,1,1,1.0
+2014-11,E01000658,B26,1,1,1.0
+2014-11,E01000658,B28,4,3,1.3333333333333333
+2014-11,E01000659,B1,2,2,1.0
+2014-11,E01000659,B28,1,1,1.0
+2014-11,E01000661,B17,1,1,1.0
+2014-11,E01000661,B25,1,1,1.0
+2014-11,E01000661,B26,1,1,1.0
+2014-11,E01000662,B1,1,1,1.0
+2014-11,E01000662,B17,1,1,1.0
+2014-11,E01000662,B25,1,1,1.0
+2014-11,E01000662,B26,3,3,1.0
+2014-11,E01000662,B8,1,1,1.0
+2014-11,E01000663,B26,1,1,1.0
+2014-11,E01000663,B28,1,1,1.0
+2014-11,E01000664,B15,1,1,1.0
+2014-11,E01000664,B26,1,1,1.0
+2014-11,E01000664,B28,2,2,1.0
+2014-11,E01000664,B7,1,1,1.0
+2014-11,E01000665,B24,1,1,1.0
+2014-11,E01000665,B26,2,2,1.0
+2014-11,E01000665,B8,1,1,1.0
+2014-11,E01000666,B1,1,1,1.0
+2014-11,E01000666,B24,1,1,1.0
+2014-11,E01000666,B25,4,4,1.0
+2014-11,E01000666,B26,3,1,3.0
+2014-11,E01000666,B28,1,1,1.0
+2014-11,E01000666,B7,1,1,1.0
+2014-11,E01000667,B15,1,1,1.0
+2014-11,E01000667,B23,2,1,2.0
+2014-11,E01000667,B26,2,2,1.0
+2014-11,E01000668,B19,1,1,1.0
+2014-11,E01000668,B26,12,2,6.0
+2014-11,E01000668,B7,1,1,1.0
+2014-11,E01000668,B8,1,1,1.0
+2014-11,E01000669,B1,1,1,1.0
+2014-11,E01000669,B14,1,1,1.0
+2014-11,E01000669,B23,1,1,1.0
+2014-11,E01000669,B24,1,1,1.0
+2014-11,E01000670,B1,2,2,1.0
+2014-11,E01000670,B14,2,2,1.0
+2014-11,E01000670,B19,1,1,1.0
+2014-11,E01000670,B25,1,1,1.0
+2014-11,E01000670,B26,4,2,2.0
+2014-11,E01000670,B7,1,1,1.0
+2014-11,E01000671,B10,1,1,1.0
+2014-11,E01000671,B17,1,1,1.0
+2014-11,E01000671,B26,8,6,1.3333333333333333
+2014-11,E01000672,B25,1,1,1.0
+2014-11,E01000672,B26,2,2,1.0
+2014-11,E01000673,B1,1,1,1.0
+2014-11,E01000673,B26,3,3,1.0
+2014-11,E01000673,B28,1,1,1.0
+2014-11,E01000674,B23,1,1,1.0
+2014-11,E01000674,B8,1,1,1.0
+2014-11,E01000675,B1,1,1,1.0
+2014-11,E01000675,B19,2,2,1.0
+2014-11,E01000675,B24,1,1,1.0
+2014-11,E01000675,B25,1,1,1.0
+2014-11,E01000675,B26,9,9,1.0
+2014-11,E01000675,B28,1,1,1.0
+2014-11,E01000676,B19,2,2,1.0
+2014-11,E01000676,B25,1,1,1.0
+2014-11,E01000676,B26,3,3,1.0
+2014-11,E01000676,B7,1,1,1.0
+2014-11,E01000676,B8,1,1,1.0
+2014-11,E01000677,B15,2,2,1.0
+2014-11,E01000677,B19,2,2,1.0
+2014-11,E01000677,B23,2,1,2.0
+2014-11,E01000677,B25,1,1,1.0
+2014-11,E01000677,B26,5,5,1.0
+2014-11,E01000678,B1,1,1,1.0
+2014-11,E01000678,B19,1,1,1.0
+2014-11,E01000678,B23,1,1,1.0
+2014-11,E01000678,B26,2,2,1.0
+2014-11,E01000679,B23,1,1,1.0
+2014-11,E01000679,B26,4,1,4.0
+2014-11,E01000679,B28,2,2,1.0
+2014-11,E01000680,B1,1,1,1.0
+2014-11,E01000680,B17,1,1,1.0
+2014-11,E01000680,B25,1,1,1.0
+2014-11,E01000680,B26,4,4,1.0
+2014-11,E01000681,B14,1,1,1.0
+2014-11,E01000681,B17,1,1,1.0
+2014-11,E01000681,B19,1,1,1.0
+2014-11,E01000681,B23,1,1,1.0
+2014-11,E01000681,B26,1,1,1.0
+2014-11,E01000682,B25,1,1,1.0
+2014-11,E01000682,B26,2,2,1.0
+2014-11,E01000682,B28,3,2,1.5
+2014-11,E01000682,B7,1,1,1.0
+2014-11,E01000683,B14,1,1,1.0
+2014-11,E01000683,B26,2,2,1.0
+2014-11,E01000684,B26,1,1,1.0
+2014-11,E01000685,B17,1,1,1.0
+2014-11,E01000685,B26,4,4,1.0
+2014-11,E01000686,B17,1,1,1.0
+2014-11,E01000686,B24,1,1,1.0
+2014-11,E01000686,B26,3,3,1.0
+2014-11,E01000686,B28,2,2,1.0
+2014-11,E01000687,B1,1,1,1.0
+2014-11,E01000687,B19,1,1,1.0
+2014-11,E01000687,B25,3,2,1.5
+2014-11,E01000687,B26,6,4,1.5
+2014-11,E01000688,B26,1,1,1.0
+2014-11,E01000689,B1,1,1,1.0
+2014-11,E01000689,B28,1,1,1.0
+2014-11,E01000690,B1,1,1,1.0
+2014-11,E01000690,B19,1,1,1.0
+2014-11,E01000690,B26,2,1,2.0
+2014-11,E01000690,B28,1,1,1.0
+2014-11,E01000691,B19,1,1,1.0
+2014-11,E01000691,B26,1,1,1.0
+2014-11,E01000691,B28,1,1,1.0
+2014-11,E01000692,B19,1,1,1.0
+2014-11,E01000692,B26,1,1,1.0
+2014-11,E01000693,B19,1,1,1.0
+2014-11,E01000693,B28,1,1,1.0
+2014-11,E01000693,B7,1,1,1.0
+2014-11,E01000694,B19,1,1,1.0
+2014-11,E01000694,B25,1,1,1.0
+2014-11,E01000694,B26,1,1,1.0
+2014-11,E01000694,B28,1,1,1.0
+2014-11,E01000695,B23,1,1,1.0
+2014-11,E01000695,B25,2,2,1.0
+2014-11,E01000695,B26,2,2,1.0
+2014-11,E01000695,B28,1,1,1.0
+2014-11,E01000695,B7,1,1,1.0
+2014-11,E01000696,B19,1,1,1.0
+2014-11,E01000696,B25,2,2,1.0
+2014-11,E01000696,B26,1,1,1.0
+2014-11,E01000696,B7,1,1,1.0
+2014-11,E01000697,B1,1,1,1.0
+2014-11,E01000697,B17,1,1,1.0
+2014-11,E01000697,B19,1,1,1.0
+2014-11,E01000697,B26,3,3,1.0
+2014-11,E01000697,B28,1,1,1.0
+2014-11,E01000698,B14,1,1,1.0
+2014-11,E01000698,B19,2,2,1.0
+2014-11,E01000698,B26,2,2,1.0
+2014-11,E01000698,B8,1,1,1.0
+2014-11,E01000699,B1,1,1,1.0
+2014-11,E01000699,B14,2,1,2.0
+2014-11,E01000699,B23,3,1,3.0
+2014-11,E01000699,B26,44,2,22.0
+2014-11,E01000699,B8,1,1,1.0
+2014-11,E01000700,B19,1,1,1.0
+2014-11,E01000700,B24,1,1,1.0
+2014-11,E01000700,B26,8,6,1.3333333333333333
+2014-11,E01000701,B26,6,6,1.0
+2014-11,E01000701,B8,1,1,1.0
+2014-11,E01000702,B1,1,1,1.0
+2014-11,E01000702,B26,3,3,1.0
+2014-11,E01000702,B7,1,1,1.0
+2014-11,E01000702,B8,2,2,1.0
+2014-11,E01000703,B10,1,1,1.0
+2014-11,E01000703,B14,1,1,1.0
+2014-11,E01000703,B17,1,1,1.0
+2014-11,E01000703,B19,1,1,1.0
+2014-11,E01000703,B25,1,1,1.0
+2014-11,E01000703,B26,3,2,1.5
+2014-11,E01000703,B28,2,2,1.0
+2014-11,E01000704,B1,1,1,1.0
+2014-11,E01000704,B14,1,1,1.0
+2014-11,E01000704,B26,11,3,3.6666666666666665
+2014-11,E01000705,B14,1,1,1.0
+2014-11,E01000705,B25,3,3,1.0
+2014-11,E01000705,B26,22,6,3.6666666666666665
+2014-11,E01000706,B17,1,1,1.0
+2014-11,E01000706,B19,1,1,1.0
+2014-11,E01000706,B23,2,2,1.0
+2014-11,E01000706,B25,1,1,1.0
+2014-11,E01000706,B26,2,2,1.0
+2014-11,E01000706,B28,2,2,1.0
+2014-11,E01000707,B17,1,1,1.0
+2014-11,E01000707,B23,1,1,1.0
+2014-11,E01000707,B28,3,3,1.0
+2014-11,E01000708,B19,1,1,1.0
+2014-11,E01000709,B1,1,1,1.0
+2014-11,E01000709,B14,1,1,1.0
+2014-11,E01000709,B19,1,1,1.0
+2014-11,E01000709,B26,4,4,1.0
+2014-11,E01000709,B28,1,1,1.0
+2014-11,E01000710,B19,1,1,1.0
+2014-11,E01000710,B26,3,3,1.0
+2014-11,E01000710,B7,1,1,1.0
+2014-11,E01000710,B8,1,1,1.0
+2014-11,E01000711,B17,2,1,2.0
+2014-11,E01000711,B26,4,4,1.0
+2014-11,E01000712,B17,1,1,1.0
+2014-11,E01000712,B23,1,1,1.0
+2014-11,E01000712,B26,6,6,1.0
+2014-11,E01000712,B28,1,1,1.0
+2014-11,E01000712,B8,1,1,1.0
+2014-11,E01000713,B1,1,1,1.0
+2014-11,E01000713,B24,1,1,1.0
+2014-11,E01000713,B28,1,1,1.0
+2014-11,E01000714,B17,1,1,1.0
+2014-11,E01000714,B25,3,2,1.5
+2014-11,E01000714,B26,5,4,1.25
+2014-11,E01000715,B17,1,1,1.0
+2014-11,E01000715,B25,1,1,1.0
+2014-11,E01000715,B26,2,2,1.0
+2014-11,E01000715,B7,1,1,1.0
+2014-11,E01000716,B1,2,2,1.0
+2014-11,E01000716,B23,1,1,1.0
+2014-11,E01000716,B26,1,1,1.0
+2014-11,E01000716,B28,1,1,1.0
+2014-11,E01000717,B26,2,2,1.0
+2014-11,E01000718,B1,1,1,1.0
+2014-11,E01000718,B17,1,1,1.0
+2014-11,E01000718,B26,2,2,1.0
+2014-11,E01000719,B23,1,1,1.0
+2014-11,E01000719,B25,1,1,1.0
+2014-11,E01000719,B26,3,2,1.5
+2014-11,E01000719,B28,1,1,1.0
+2014-11,E01000719,B7,1,1,1.0
+2014-11,E01000720,B1,1,1,1.0
+2014-11,E01000720,B19,1,1,1.0
+2014-11,E01000720,B25,2,2,1.0
+2014-11,E01000720,B26,8,8,1.0
+2014-11,E01000720,B28,1,1,1.0
+2014-11,E01000720,B7,1,1,1.0
+2014-11,E01000721,B25,1,1,1.0
+2014-11,E01000721,B26,3,2,1.5
+2014-11,E01000722,B15,1,1,1.0
+2014-11,E01000722,B19,1,1,1.0
+2014-11,E01000722,B25,1,1,1.0
+2014-11,E01000722,B26,2,2,1.0
+2014-11,E01000722,B28,2,2,1.0
+2014-11,E01000723,B26,1,1,1.0
+2014-11,E01000723,B28,1,1,1.0
+2014-11,E01000724,B1,1,1,1.0
+2014-11,E01000724,B17,1,1,1.0
+2014-11,E01000724,B25,1,1,1.0
+2014-11,E01000724,B26,2,2,1.0
+2014-11,E01000724,B7,1,1,1.0
+2014-11,E01000725,B19,1,1,1.0
+2014-11,E01000725,B23,1,1,1.0
+2014-11,E01000725,B26,5,3,1.6666666666666667
+2014-11,E01000725,B28,1,1,1.0
+2014-11,E01000726,B17,1,1,1.0
+2014-11,E01000726,B25,2,2,1.0
+2014-11,E01000726,B26,3,3,1.0
+2014-11,E01000726,B28,1,1,1.0
+2014-11,E01000726,B8,1,1,1.0
+2014-11,E01000727,B1,1,1,1.0
+2014-11,E01000727,B14,1,1,1.0
+2014-11,E01000727,B15,2,1,2.0
+2014-11,E01000727,B17,1,1,1.0
+2014-11,E01000727,B19,3,3,1.0
+2014-11,E01000727,B24,1,1,1.0
+2014-11,E01000727,B26,4,3,1.3333333333333333
+2014-11,E01000727,B28,1,1,1.0
+2014-11,E01000728,B1,2,1,2.0
+2014-11,E01000728,B17,1,1,1.0
+2014-11,E01000728,B23,1,1,1.0
+2014-11,E01000728,B26,4,3,1.3333333333333333
+2014-11,E01000728,B28,2,2,1.0
+2014-11,E01000729,B1,2,1,2.0
+2014-11,E01000729,B17,2,2,1.0
+2014-11,E01000729,B23,1,1,1.0
+2014-11,E01000729,B26,10,4,2.5
+2014-11,E01000729,B28,3,3,1.0
+2014-11,E01000730,B23,1,1,1.0
+2014-11,E01000730,B24,2,1,2.0
+2014-11,E01000730,B26,5,2,2.5
+2014-11,E01000731,B28,1,1,1.0
+2014-11,E01000732,B19,1,1,1.0
+2014-11,E01000732,B24,1,1,1.0
+2014-11,E01000732,B26,1,1,1.0
+2014-11,E01000732,B28,1,1,1.0
+2014-11,E01000733,B17,2,2,1.0
+2014-11,E01000733,B26,5,3,1.6666666666666667
+2014-11,E01000733,B28,1,1,1.0
+2014-11,E01000734,B19,1,1,1.0
+2014-11,E01000734,B25,2,2,1.0
+2014-11,E01000734,B28,2,2,1.0
+2014-11,E01000734,B8,1,1,1.0
+2014-11,E01000735,B1,1,1,1.0
+2014-11,E01000735,B19,1,1,1.0
+2014-11,E01000735,B26,3,2,1.5
+2014-11,E01000736,B24,1,1,1.0
+2014-11,E01000736,B26,1,1,1.0
+2014-11,E01000737,B15,1,1,1.0
+2014-11,E01000737,B26,3,2,1.5
+2014-11,E01000737,B28,1,1,1.0
+2014-11,E01000738,B17,1,1,1.0
+2014-11,E01000738,B19,1,1,1.0
+2014-11,E01000738,B26,3,2,1.5
+2014-11,E01000739,B17,2,2,1.0
+2014-11,E01000739,B23,2,2,1.0
+2014-11,E01000739,B26,5,2,2.5
+2014-11,E01000739,B28,1,1,1.0
+2014-11,E01000740,B19,1,1,1.0
+2014-11,E01000740,B26,2,2,1.0
+2014-11,E01000740,B28,1,1,1.0
+2014-11,E01000741,B1,3,2,1.5
+2014-11,E01000741,B14,2,1,2.0
+2014-11,E01000741,B25,1,1,1.0
+2014-11,E01000741,B26,1,1,1.0
+2014-11,E01000742,B1,1,1,1.0
+2014-11,E01000742,B17,1,1,1.0
+2014-11,E01000742,B25,1,1,1.0
+2014-11,E01000742,B26,4,4,1.0
+2014-11,E01000742,B28,1,1,1.0
+2014-11,E01000743,B1,1,1,1.0
+2014-11,E01000743,B14,4,2,2.0
+2014-11,E01000743,B26,15,5,3.0
+2014-11,E01000744,B15,1,1,1.0
+2014-11,E01000744,B25,1,1,1.0
+2014-11,E01000744,B26,6,4,1.5
+2014-11,E01000745,B26,7,6,1.1666666666666667
+2014-11,E01000746,B1,1,1,1.0
+2014-11,E01000746,B26,3,3,1.0
+2014-11,E01000747,B15,1,1,1.0
+2014-11,E01000747,B23,1,1,1.0
+2014-11,E01000747,B24,1,1,1.0
+2014-11,E01000747,B25,2,1,2.0
+2014-11,E01000747,B26,2,2,1.0
+2014-11,E01000747,B28,1,1,1.0
+2014-11,E01000748,B26,4,4,1.0
+2014-11,E01000748,B28,2,2,1.0
+2014-11,E01000749,B14,1,1,1.0
+2014-11,E01000749,B17,1,1,1.0
+2014-11,E01000749,B28,1,1,1.0
+2014-11,E01000750,B28,1,1,1.0
+2014-11,E01000751,B17,3,3,1.0
+2014-11,E01000752,B1,1,1,1.0
+2014-11,E01000752,B17,1,1,1.0
+2014-11,E01000752,B19,2,2,1.0
+2014-11,E01000752,B23,1,1,1.0
+2014-11,E01000752,B26,6,6,1.0
+2014-11,E01000752,B28,1,1,1.0
+2014-11,E01000752,B7,1,1,1.0
+2014-11,E01000752,B8,1,1,1.0
+2014-11,E01000753,B23,1,1,1.0
+2014-11,E01000753,B25,2,2,1.0
+2014-11,E01000753,B26,2,2,1.0
+2014-11,E01000753,B28,2,1,2.0
+2014-11,E01000753,B8,1,1,1.0
+2014-11,E01000754,B1,1,1,1.0
+2014-11,E01000754,B17,1,1,1.0
+2014-11,E01000754,B19,2,2,1.0
+2014-11,E01000754,B26,1,1,1.0
+2014-11,E01000755,B1,1,1,1.0
+2014-11,E01000755,B26,2,2,1.0
+2014-11,E01000755,B28,2,2,1.0
+2014-11,E01000756,B1,2,2,1.0
+2014-11,E01000756,B23,1,1,1.0
+2014-11,E01000756,B26,3,2,1.5
+2014-11,E01000756,B28,4,2,2.0
+2014-11,E01000757,B23,1,1,1.0
+2014-11,E01000757,B25,2,2,1.0
+2014-11,E01000757,B26,2,2,1.0
+2014-11,E01000758,B14,3,1,3.0
+2014-11,E01000758,B26,1,1,1.0
+2014-11,E01000758,B28,2,2,1.0
+2014-11,E01000759,B1,1,1,1.0
+2014-11,E01000759,B17,1,1,1.0
+2014-11,E01000759,B24,1,1,1.0
+2014-11,E01000759,B25,1,1,1.0
+2014-11,E01000759,B26,3,2,1.5
+2014-11,E01000759,B28,1,1,1.0
+2014-11,E01000760,B1,1,1,1.0
+2014-11,E01000760,B14,1,1,1.0
+2014-11,E01000760,B15,1,1,1.0
+2014-11,E01000760,B24,1,1,1.0
+2014-11,E01000760,B25,1,1,1.0
+2014-11,E01000760,B26,2,2,1.0
+2014-11,E01000760,B28,1,1,1.0
+2014-11,E01000762,B17,1,1,1.0
+2014-11,E01000762,B26,2,2,1.0
+2014-11,E01000762,B28,1,1,1.0
+2014-11,E01000763,B25,1,1,1.0
+2014-11,E01000763,B28,1,1,1.0
+2014-11,E01000764,B24,1,1,1.0
+2014-11,E01000764,B25,2,2,1.0
+2014-11,E01000764,B26,4,4,1.0
+2014-11,E01000765,B1,1,1,1.0
+2014-11,E01000765,B14,2,2,1.0
+2014-11,E01000765,B24,1,1,1.0
+2014-11,E01000765,B26,2,2,1.0
+2014-11,E01000765,B28,2,1,2.0
+2014-11,E01000765,B8,1,1,1.0
+2014-11,E01000766,B19,2,2,1.0
+2014-11,E01000767,B15,2,1,2.0
+2014-11,E01000767,B19,1,1,1.0
+2014-11,E01000767,B23,1,1,1.0
+2014-11,E01000767,B28,1,1,1.0
+2014-11,E01000768,B17,1,1,1.0
+2014-11,E01000768,B19,1,1,1.0
+2014-11,E01000769,B19,1,1,1.0
+2014-11,E01000769,B23,1,1,1.0
+2014-11,E01000769,B25,1,1,1.0
+2014-11,E01000769,B26,1,1,1.0
+2014-11,E01000769,B7,1,1,1.0
+2014-11,E01000770,B1,2,2,1.0
+2014-11,E01000770,B17,2,2,1.0
+2014-11,E01000770,B23,1,1,1.0
+2014-11,E01000770,B25,2,1,2.0
+2014-11,E01000770,B7,1,1,1.0
+2014-11,E01000771,B25,3,3,1.0
+2014-11,E01000771,B26,2,2,1.0
+2014-11,E01000771,B7,1,1,1.0
+2014-11,E01000772,B26,1,1,1.0
+2014-11,E01000773,B1,2,2,1.0
+2014-11,E01000773,B19,2,2,1.0
+2014-11,E01000773,B26,2,2,1.0
+2014-11,E01000774,B15,1,1,1.0
+2014-11,E01000774,B26,2,2,1.0
+2014-11,E01000775,B1,1,1,1.0
+2014-11,E01000775,B15,2,2,1.0
+2014-11,E01000775,B26,4,3,1.3333333333333333
+2014-11,E01000775,B28,1,1,1.0
+2014-11,E01000775,B7,1,1,1.0
+2014-11,E01000777,B19,1,1,1.0
+2014-11,E01000777,B26,1,1,1.0
+2014-11,E01000778,B26,1,1,1.0
+2014-11,E01000778,B28,1,1,1.0
+2014-11,E01000779,B17,1,1,1.0
+2014-11,E01000779,B19,1,1,1.0
+2014-11,E01000779,B26,6,4,1.5
+2014-11,E01000780,B1,1,1,1.0
+2014-11,E01000780,B26,1,1,1.0
+2014-11,E01000781,B24,1,1,1.0
+2014-11,E01000781,B26,4,4,1.0
+2014-11,E01000783,B26,3,3,1.0
+2014-11,E01000783,B28,1,1,1.0
+2014-11,E01000784,B26,3,3,1.0
+2014-11,E01000785,B25,2,1,2.0
+2014-11,E01000785,B26,1,1,1.0
+2014-11,E01000785,B28,1,1,1.0
+2014-11,E01000786,B15,1,1,1.0
+2014-11,E01000786,B26,2,2,1.0
+2014-11,E01000787,B1,1,1,1.0
+2014-11,E01000787,B26,1,1,1.0
+2014-11,E01000787,B28,1,1,1.0
+2014-11,E01000788,B25,1,1,1.0
+2014-11,E01000788,B26,5,2,2.5
+2014-11,E01000788,B8,1,1,1.0
+2014-11,E01000790,B14,4,1,4.0
+2014-11,E01000790,B19,1,1,1.0
+2014-11,E01000790,B24,1,1,1.0
+2014-11,E01000790,B25,3,3,1.0
+2014-11,E01000790,B26,4,3,1.3333333333333333
+2014-11,E01000790,B28,2,2,1.0
+2014-11,E01000791,B17,1,1,1.0
+2014-11,E01000791,B26,2,2,1.0
+2014-11,E01000793,B26,2,2,1.0
+2014-11,E01000793,B28,1,1,1.0
+2014-11,E01000795,B1,1,1,1.0
+2014-11,E01000795,B26,2,2,1.0
+2014-11,E01000796,B1,1,1,1.0
+2014-11,E01000796,B26,1,1,1.0
+2014-11,E01000797,B15,2,2,1.0
+2014-11,E01000797,B17,2,2,1.0
+2014-11,E01000797,B19,1,1,1.0
+2014-11,E01000797,B23,3,3,1.0
+2014-11,E01000797,B26,7,5,1.4
+2014-11,E01000797,B7,3,3,1.0
+2014-11,E01000798,B1,1,1,1.0
+2014-11,E01000798,B17,1,1,1.0
+2014-11,E01000798,B26,9,2,4.5
+2014-11,E01000799,B1,3,3,1.0
+2014-11,E01000799,B26,10,9,1.1111111111111112
+2014-11,E01000799,B28,1,1,1.0
+2014-11,E01000800,B25,1,1,1.0
+2014-11,E01000800,B26,2,2,1.0
+2014-11,E01000801,B1,2,1,2.0
+2014-11,E01000801,B17,1,1,1.0
+2014-11,E01000801,B26,13,5,2.6
+2014-11,E01000802,B1,2,2,1.0
+2014-11,E01000802,B23,1,1,1.0
+2014-11,E01000802,B26,7,7,1.0
+2014-11,E01000803,B14,2,1,2.0
+2014-11,E01000803,B26,6,4,1.5
+2014-11,E01000803,B28,1,1,1.0
+2014-11,E01000804,B26,2,2,1.0
+2014-11,E01000804,B28,1,1,1.0
+2014-11,E01000805,B1,1,1,1.0
+2014-11,E01000805,B25,1,1,1.0
+2014-11,E01000805,B26,2,2,1.0
+2014-11,E01000805,B28,1,1,1.0
+2014-11,E01000806,B26,6,5,1.2
+2014-11,E01000806,B28,1,1,1.0
+2014-11,E01000807,B1,1,1,1.0
+2014-11,E01000807,B17,1,1,1.0
+2014-11,E01000807,B26,3,3,1.0
+2014-11,E01000807,B28,2,2,1.0
+2014-11,E01000807,B7,1,1,1.0
+2014-11,E01000808,B17,1,1,1.0
+2014-11,E01000808,B19,2,2,1.0
+2014-11,E01000809,B26,1,1,1.0
+2014-11,E01000809,B28,1,1,1.0
+2014-11,E01000810,B1,1,1,1.0
+2014-11,E01000810,B28,1,1,1.0
+2014-11,E01000811,B24,1,1,1.0
+2014-11,E01000811,B26,1,1,1.0
+2014-11,E01000811,B28,1,1,1.0
+2014-11,E01000812,B17,1,1,1.0
+2014-11,E01000812,B19,1,1,1.0
+2014-11,E01000812,B26,4,4,1.0
+2014-11,E01000813,B23,1,1,1.0
+2014-11,E01000813,B25,1,1,1.0
+2014-11,E01000813,B26,5,5,1.0
+2014-11,E01000814,B17,1,1,1.0
+2014-11,E01000814,B19,1,1,1.0
+2014-11,E01000814,B25,1,1,1.0
+2014-11,E01000814,B26,4,3,1.3333333333333333
+2014-11,E01000815,B23,1,1,1.0
+2014-11,E01000815,B26,3,2,1.5
+2014-11,E01000815,B28,2,2,1.0
+2014-11,E01000816,B1,1,1,1.0
+2014-11,E01000816,B26,4,4,1.0
+2014-11,E01000816,B28,2,2,1.0
+2014-11,E01000818,B17,1,1,1.0
+2014-11,E01000818,B19,1,1,1.0
+2014-11,E01000818,B26,3,3,1.0
+2014-11,E01000819,B25,1,1,1.0
+2014-11,E01000819,B26,5,4,1.25
+2014-11,E01000819,B28,1,1,1.0
+2014-11,E01000820,B19,1,1,1.0
+2014-11,E01000820,B26,1,1,1.0
+2014-11,E01000820,B8,1,1,1.0
+2014-11,E01000822,B26,5,5,1.0
+2014-11,E01000822,B28,1,1,1.0
+2014-11,E01000822,B8,1,1,1.0
+2014-11,E01000823,B1,1,1,1.0
+2014-11,E01000823,B19,1,1,1.0
+2014-11,E01000823,B25,1,1,1.0
+2014-11,E01000823,B26,4,3,1.3333333333333333
+2014-11,E01000824,B1,1,1,1.0
+2014-11,E01000824,B26,5,5,1.0
+2014-11,E01000825,B17,1,1,1.0
+2014-11,E01000825,B7,1,1,1.0
+2014-11,E01000826,B19,2,1,2.0
+2014-11,E01000826,B25,1,1,1.0
+2014-11,E01000826,B28,2,2,1.0
+2014-11,E01000827,B26,7,5,1.4
+2014-11,E01000828,B19,2,1,2.0
+2014-11,E01000828,B23,1,1,1.0
+2014-11,E01000828,B25,1,1,1.0
+2014-11,E01000828,B28,1,1,1.0
+2014-11,E01000828,B8,1,1,1.0
+2014-11,E01000829,B26,7,6,1.1666666666666667
+2014-11,E01000829,B7,1,1,1.0
+2014-11,E01000831,B23,2,2,1.0
+2014-11,E01000831,B26,3,3,1.0
+2014-11,E01000831,B7,2,2,1.0
+2014-11,E01000832,B1,1,1,1.0
+2014-11,E01000832,B19,1,1,1.0
+2014-11,E01000832,B25,1,1,1.0
+2014-11,E01000832,B26,1,1,1.0
+2014-11,E01000832,B28,2,2,1.0
+2014-11,E01000833,B28,1,1,1.0
+2014-11,E01000833,B7,1,1,1.0
+2014-11,E01000834,B19,1,1,1.0
+2014-11,E01000834,B28,1,1,1.0
+2014-11,E01000835,B1,1,1,1.0
+2014-11,E01000835,B25,1,1,1.0
+2014-11,E01000835,B28,3,3,1.0
+2014-11,E01000836,B19,2,2,1.0
+2014-11,E01000836,B26,2,1,2.0
+2014-11,E01000837,B1,1,1,1.0
+2014-11,E01000837,B17,2,1,2.0
+2014-11,E01000837,B25,1,1,1.0
+2014-11,E01000837,B26,1,1,1.0
+2014-11,E01000837,B28,1,1,1.0
+2014-11,E01000839,B26,2,2,1.0
+2014-11,E01000840,B17,1,1,1.0
+2014-11,E01000840,B26,2,2,1.0
+2014-11,E01000841,B1,1,1,1.0
+2014-11,E01000841,B17,1,1,1.0
+2014-11,E01000841,B19,1,1,1.0
+2014-11,E01000841,B25,1,1,1.0
+2014-11,E01001534,B17,1,1,1.0
+2014-11,E01015523,B25,1,1,1.0
+2014-11,E01020911,B25,2,2,1.0
+2014-11,E01020913,B13,1,1,1.0
+2014-11,E01020914,B25,2,2,1.0
+2014-11,E01020914,B26,1,1,1.0
+2014-11,E01020914,B28,2,2,1.0
+2014-11,E01020916,B24,1,1,1.0
+2014-11,E01020916,B25,1,1,1.0
+2014-11,E01020916,B7,1,1,1.0
+2014-11,E01020918,B23,1,1,1.0
+2014-11,E01020919,B19,1,1,1.0
+2014-11,E01020921,B19,2,2,1.0
+2014-11,E01020921,B25,1,1,1.0
+2014-11,E01020921,B28,1,1,1.0
+2014-11,E01020921,B7,1,1,1.0
+2014-11,E01020922,B25,2,2,1.0
+2014-11,E01020922,B28,4,3,1.3333333333333333
+2014-11,E01020922,B7,1,1,1.0
+2014-11,E01020923,B28,1,1,1.0
+2014-11,E01020924,B25,1,1,1.0
+2014-11,E01020925,B17,1,1,1.0
+2014-11,E01020925,B6,1,1,1.0
+2014-11,E01020926,B25,1,1,1.0
+2014-11,E01020926,B28,2,2,1.0
+2014-11,E01020927,B25,1,1,1.0
+2014-11,E01020927,B28,1,1,1.0
+2014-11,E01020927,B6,4,1,4.0
+2014-11,E01020928,B25,3,2,1.5
+2014-11,E01020929,B18,1,1,1.0
+2014-11,E01020929,B25,2,2,1.0
+2014-11,E01020931,B19,1,1,1.0
+2014-11,E01020932,B7,1,1,1.0
+2014-11,E01020936,B19,1,1,1.0
+2014-11,E01020936,B25,1,1,1.0
+2014-11,E01020937,B13,1,1,1.0
+2014-11,E01020938,B18,1,1,1.0
+2014-11,E01020938,B25,1,1,1.0
+2014-11,E01020939,B28,1,1,1.0
+2014-11,E01020941,B27,1,1,1.0
+2014-11,E01020943,B24,1,1,1.0
+2014-11,E01020944,B28,1,1,1.0
+2014-11,E01020945,B19,2,2,1.0
+2014-11,E01020945,B25,2,2,1.0
+2014-11,E01020945,B27,1,1,1.0
+2014-11,E01020949,B23,1,1,1.0
+2014-11,E01020950,B15,1,1,1.0
+2014-11,E01020950,B25,1,1,1.0
+2014-11,E01020950,B7,1,1,1.0
+2014-11,E01020951,B13,1,1,1.0
+2014-11,E01020951,B7,1,1,1.0
+2014-11,E01020953,B27,1,1,1.0
+2014-11,E01020953,B7,1,1,1.0
+2014-11,E01020954,B19,1,1,1.0
+2014-11,E01020954,B25,1,1,1.0
+2014-11,E01020954,B7,4,1,4.0
+2014-11,E01020955,B19,1,1,1.0
+2014-11,E01020955,B25,1,1,1.0
+2014-11,E01020964,B18,1,1,1.0
+2014-11,E01020964,B26,1,1,1.0
+2014-11,E01020966,B25,1,1,1.0
+2014-11,E01020966,B7,1,1,1.0
+2014-11,E01020967,B28,1,1,1.0
+2014-11,E01020968,B23,1,1,1.0
+2014-11,E01020968,B24,1,1,1.0
+2014-11,E01020968,B25,1,1,1.0
+2014-11,E01020968,B28,3,3,1.0
+2014-11,E01020968,B7,1,1,1.0
+2014-11,E01020969,B17,1,1,1.0
+2014-11,E01020969,B24,1,1,1.0
+2014-11,E01020969,B7,2,1,2.0
+2014-11,E01020970,B24,1,1,1.0
+2014-11,E01020970,B28,1,1,1.0
+2014-11,E01020971,B25,1,1,1.0
+2014-11,E01020972,B19,1,1,1.0
+2014-11,E01020972,B25,1,1,1.0
+2014-11,E01020972,B26,1,1,1.0
+2014-11,E01020974,B28,1,1,1.0
+2014-11,E01020975,B19,1,1,1.0
+2014-11,E01020975,B25,1,1,1.0
+2014-11,E01020976,B13,1,1,1.0
+2014-11,E01020977,B25,1,1,1.0
+2014-11,E01020978,B19,1,1,1.0
+2014-11,E01020978,B28,2,2,1.0
+2014-11,E01020978,B7,1,1,1.0
+2014-11,E01020979,B19,1,1,1.0
+2014-11,E01020979,B25,1,1,1.0
+2014-11,E01020979,B28,1,1,1.0
+2014-11,E01020982,B25,1,1,1.0
+2014-11,E01020984,B24,1,1,1.0
+2014-11,E01020985,B26,1,1,1.0
+2014-11,E01020985,B7,1,1,1.0
+2014-11,E01020986,B25,3,3,1.0
+2014-11,E01020986,B28,1,1,1.0
+2014-11,E01020988,B25,1,1,1.0
+2014-11,E01020988,B28,1,1,1.0
+2014-11,E01020988,B7,1,1,1.0
+2014-11,E01020989,B19,2,2,1.0
+2014-11,E01020990,B28,1,1,1.0
+2014-11,E01020990,B7,1,1,1.0
+2014-11,E01020991,B25,2,2,1.0
+2014-11,E01020992,B25,1,1,1.0
+2014-11,E01020993,B7,1,1,1.0
+2014-11,E01020994,B17,1,1,1.0
+2014-11,E01020994,B28,3,3,1.0
+2014-11,E01020995,B17,1,1,1.0
+2014-11,E01020995,B28,1,1,1.0
+2014-11,E01020995,B7,1,1,1.0
+2014-11,E01020996,B23,1,1,1.0
+2014-11,E01020996,B25,1,1,1.0
+2014-11,E01020996,B28,1,1,1.0
+2014-11,E01020998,B28,1,1,1.0
+2014-11,E01020999,B25,1,1,1.0
+2014-11,E01021001,B26,1,1,1.0
+2014-11,E01021002,B17,1,1,1.0
+2014-11,E01021002,B25,1,1,1.0
+2014-11,E01021002,B28,2,2,1.0
+2014-11,E01021002,B7,1,1,1.0
+2014-11,E01021003,B19,1,1,1.0
+2014-11,E01021003,B28,1,1,1.0
+2014-11,E01021004,B13,2,2,1.0
+2014-11,E01021004,B16,1,1,1.0
+2014-11,E01021004,B23,1,1,1.0
+2014-11,E01021004,B25,2,2,1.0
+2014-11,E01021004,B28,1,1,1.0
+2014-11,E01021005,B29,1,1,1.0
+2014-11,E01021006,B13,1,1,1.0
+2014-11,E01021006,B19,1,1,1.0
+2014-11,E01021006,B25,2,2,1.0
+2014-11,E01021007,B13,1,1,1.0
+2014-11,E01021009,B16,1,1,1.0
+2014-11,E01021014,B25,1,1,1.0
+2014-11,E01021015,B28,2,2,1.0
+2014-11,E01021015,B6,1,1,1.0
+2014-11,E01021016,B23,1,1,1.0
+2014-11,E01021016,B24,1,1,1.0
+2014-11,E01021016,B25,2,2,1.0
+2014-11,E01021016,B26,1,1,1.0
+2014-11,E01021016,B28,1,1,1.0
+2014-11,E01021017,B25,1,1,1.0
+2014-11,E01021017,B26,1,1,1.0
+2014-11,E01021018,B13,1,1,1.0
+2014-11,E01021018,B16,1,1,1.0
+2014-11,E01021018,B17,1,1,1.0
+2014-11,E01021018,B24,1,1,1.0
+2014-11,E01021018,B7,1,1,1.0
+2014-11,E01021020,B28,1,1,1.0
+2014-11,E01021021,B28,2,2,1.0
+2014-11,E01021022,B16,1,1,1.0
+2014-11,E01021022,B25,1,1,1.0
+2014-11,E01021022,B7,1,1,1.0
+2014-11,E01021023,B19,1,1,1.0
+2014-11,E01021023,B25,2,2,1.0
+2014-11,E01021023,B28,1,1,1.0
+2014-11,E01021025,B17,1,1,1.0
+2014-11,E01021026,B13,1,1,1.0
+2014-11,E01021026,B16,1,1,1.0
+2014-11,E01021026,B25,3,3,1.0
+2014-11,E01021026,B3,1,1,1.0
+2014-11,E01021026,B7,1,1,1.0
+2014-11,E01021027,B19,1,1,1.0
+2014-11,E01021027,B23,1,1,1.0
+2014-11,E01021027,B28,1,1,1.0
+2014-11,E01021028,B25,2,2,1.0
+2014-11,E01021028,B27,1,1,1.0
+2014-11,E01021028,B28,3,3,1.0
+2014-11,E01021029,B19,1,1,1.0
+2014-11,E01021029,B28,2,1,2.0
+2014-11,E01021031,B13,1,1,1.0
+2014-11,E01021031,B24,1,1,1.0
+2014-11,E01021031,B25,4,3,1.3333333333333333
+2014-11,E01021032,B25,3,3,1.0
+2014-11,E01021032,B26,1,1,1.0
+2014-11,E01021033,B24,1,1,1.0
+2014-11,E01021033,B25,1,1,1.0
+2014-11,E01021033,B28,1,1,1.0
+2014-11,E01021033,B7,2,2,1.0
+2014-11,E01021034,B23,1,1,1.0
+2014-11,E01021034,B28,3,3,1.0
+2014-11,E01021034,B7,2,2,1.0
+2014-11,E01021035,B13,1,1,1.0
+2014-11,E01021035,B17,1,1,1.0
+2014-11,E01021035,B19,2,2,1.0
+2014-11,E01021035,B20,1,1,1.0
+2014-11,E01021035,B26,1,1,1.0
+2014-11,E01021035,B7,4,3,1.3333333333333333
+2014-11,E01021036,B19,1,1,1.0
+2014-11,E01021036,B25,1,1,1.0
+2014-11,E01021036,B28,1,1,1.0
+2014-11,E01021037,B13,1,1,1.0
+2014-11,E01021037,B7,1,1,1.0
+2014-11,E01021038,B24,1,1,1.0
+2014-11,E01021038,B25,3,2,1.5
+2014-11,E01021038,B28,1,1,1.0
+2014-11,E01021039,B19,1,1,1.0
+2014-11,E01021039,B25,4,3,1.3333333333333333
+2014-11,E01021039,B7,2,2,1.0
+2014-11,E01021040,B17,1,1,1.0
+2014-11,E01021040,B19,2,2,1.0
+2014-11,E01021040,B24,2,2,1.0
+2014-11,E01021040,B25,1,1,1.0
+2014-11,E01021040,B26,1,1,1.0
+2014-11,E01021040,B28,2,2,1.0
+2014-11,E01021040,B7,1,1,1.0
+2014-11,E01021041,B25,1,1,1.0
+2014-11,E01021041,B26,1,1,1.0
+2014-11,E01021041,B28,1,1,1.0
+2014-11,E01021043,B13,1,1,1.0
+2014-11,E01021043,B23,1,1,1.0
+2014-11,E01021043,B25,1,1,1.0
+2014-11,E01021043,B7,4,3,1.3333333333333333
+2014-11,E01021044,B18,1,1,1.0
+2014-11,E01021046,B18,1,1,1.0
+2014-11,E01021046,B19,1,1,1.0
+2014-11,E01021047,B26,2,2,1.0
+2014-11,E01021047,B28,3,3,1.0
+2014-11,E01021047,B7,1,1,1.0
+2014-11,E01021048,B18,1,1,1.0
+2014-11,E01021049,B17,1,1,1.0
+2014-11,E01021049,B24,2,2,1.0
+2014-11,E01021049,B25,1,1,1.0
+2014-11,E01021049,B28,2,2,1.0
+2014-11,E01021051,B18,1,1,1.0
+2014-11,E01021051,B28,1,1,1.0
+2014-11,E01021053,B24,1,1,1.0
+2014-11,E01021054,B16,1,1,1.0
+2014-11,E01021054,B26,1,1,1.0
+2014-11,E01021055,B14,1,1,1.0
+2014-11,E01021056,B26,1,1,1.0
+2014-11,E01021056,B7,1,1,1.0
+2014-11,E01021057,B25,5,3,1.6666666666666667
+2014-11,E01021057,B26,3,2,1.5
+2014-11,E01021057,B7,1,1,1.0
+2014-11,E01021058,B19,3,2,1.5
+2014-11,E01021058,B28,3,3,1.0
+2014-11,E01021059,B28,2,2,1.0
+2014-11,E01021060,B16,1,1,1.0
+2014-11,E01021060,B28,1,1,1.0
+2014-11,E01021062,B16,1,1,1.0
+2014-11,E01021062,B28,1,1,1.0
+2014-11,E01021063,B7,1,1,1.0
+2014-11,E01021064,B19,1,1,1.0
+2014-11,E01021064,B23,1,1,1.0
+2014-11,E01021064,B25,1,1,1.0
+2014-11,E01021064,B28,3,3,1.0
+2014-11,E01021067,B19,1,1,1.0
+2014-11,E01021067,B23,1,1,1.0
+2014-11,E01021068,B13,1,1,1.0
+2014-11,E01021068,B23,1,1,1.0
+2014-11,E01021068,B25,2,2,1.0
+2014-11,E01021068,B7,4,4,1.0
+2014-11,E01021069,B25,1,1,1.0
+2014-11,E01021069,B28,2,2,1.0
+2014-11,E01021070,B25,1,1,1.0
+2014-11,E01021071,B16,1,1,1.0
+2014-11,E01021071,B23,1,1,1.0
+2014-11,E01021071,B25,3,1,3.0
+2014-11,E01021071,B27,1,1,1.0
+2014-11,E01021071,B28,1,1,1.0
+2014-11,E01021071,B7,1,1,1.0
+2014-11,E01021072,B25,1,1,1.0
+2014-11,E01021072,B28,2,2,1.0
+2014-11,E01021072,B7,1,1,1.0
+2014-11,E01021073,B17,1,1,1.0
+2014-11,E01021073,B28,2,2,1.0
+2014-11,E01021074,B16,1,1,1.0
+2014-11,E01021074,B24,1,1,1.0
+2014-11,E01021074,B25,1,1,1.0
+2014-11,E01021075,B13,1,1,1.0
+2014-11,E01021075,B15,1,1,1.0
+2014-11,E01021075,B26,1,1,1.0
+2014-11,E01021075,B28,1,1,1.0
+2014-11,E01021076,B13,1,1,1.0
+2014-11,E01021076,B26,3,2,1.5
+2014-11,E01021076,B7,1,1,1.0
+2014-11,E01021077,B25,1,1,1.0
+2014-11,E01021078,B25,1,1,1.0
+2014-11,E01021079,B18,1,1,1.0
+2014-11,E01021079,B25,2,2,1.0
+2014-11,E01021079,B26,1,1,1.0
+2014-11,E01021079,B28,1,1,1.0
+2014-11,E01021079,B7,1,1,1.0
+2014-11,E01021080,B23,1,1,1.0
+2014-11,E01021080,B28,2,2,1.0
+2014-11,E01021081,B25,3,3,1.0
+2014-11,E01021081,B28,2,2,1.0
+2014-11,E01021082,B23,2,1,2.0
+2014-11,E01021082,B25,1,1,1.0
+2014-11,E01021083,B26,2,2,1.0
+2014-11,E01021083,B28,3,3,1.0
+2014-11,E01021084,B13,1,1,1.0
+2014-11,E01021084,B28,1,1,1.0
+2014-11,E01021085,B13,1,1,1.0
+2014-11,E01021085,B7,2,2,1.0
+2014-11,E01021086,B14,1,1,1.0
+2014-11,E01021086,B26,1,1,1.0
+2014-11,E01021086,B28,1,1,1.0
+2014-11,E01021087,B13,2,1,2.0
+2014-11,E01021087,B16,1,1,1.0
+2014-11,E01021087,B24,1,1,1.0
+2014-11,E01021087,B25,13,12,1.0833333333333333
+2014-11,E01021087,B26,4,4,1.0
+2014-11,E01021087,B7,3,2,1.5
+2014-11,E01021088,B13,1,1,1.0
+2014-11,E01021088,B25,7,6,1.1666666666666667
+2014-11,E01021088,B7,1,1,1.0
+2014-11,E01021089,B13,2,2,1.0
+2014-11,E01021089,B16,1,1,1.0
+2014-11,E01021089,B24,1,1,1.0
+2014-11,E01021089,B25,3,3,1.0
+2014-11,E01021090,B26,2,2,1.0
+2014-11,E01021090,B28,1,1,1.0
+2014-11,E01021091,B25,1,1,1.0
+2014-11,E01021092,B28,1,1,1.0
+2014-11,E01021093,B26,1,1,1.0
+2014-11,E01021094,B25,2,1,2.0
+2014-11,E01021094,B7,1,1,1.0
+2014-11,E01021096,B25,5,5,1.0
+2014-11,E01021096,B7,1,1,1.0
+2014-11,E01021097,B25,7,6,1.1666666666666667
+2014-11,E01021097,B26,2,1,2.0
+2014-11,E01021098,B16,1,1,1.0
+2014-11,E01021098,B24,1,1,1.0
+2014-11,E01021098,B26,1,1,1.0
+2014-11,E01021098,B28,1,1,1.0
+2014-11,E01021098,B7,2,2,1.0
+2014-11,E01021099,B13,1,1,1.0
+2014-11,E01021099,B24,1,1,1.0
+2014-11,E01021099,B25,4,3,1.3333333333333333
+2014-11,E01021099,B7,2,2,1.0
+2014-11,E01021100,B13,1,1,1.0
+2014-11,E01021100,B23,4,2,2.0
+2014-11,E01021100,B25,2,2,1.0
+2014-11,E01021100,B26,1,1,1.0
+2014-11,E01021101,B23,2,2,1.0
+2014-11,E01021101,B25,2,1,2.0
+2014-11,E01021102,B24,1,1,1.0
+2014-11,E01021102,B25,1,1,1.0
+2014-11,E01021103,B13,1,1,1.0
+2014-11,E01021103,B16,1,1,1.0
+2014-11,E01021103,B24,1,1,1.0
+2014-11,E01021103,B25,1,1,1.0
+2014-11,E01021103,B7,1,1,1.0
+2014-11,E01021104,B25,4,3,1.3333333333333333
+2014-11,E01021105,B17,1,1,1.0
+2014-11,E01021105,B25,2,2,1.0
+2014-11,E01021106,B26,1,1,1.0
+2014-11,E01021106,B28,1,1,1.0
+2014-11,E01021107,B28,1,1,1.0
+2014-11,E01021108,B18,1,1,1.0
+2014-11,E01021108,B26,1,1,1.0
+2014-11,E01021109,B19,1,1,1.0
+2014-11,E01021109,B23,2,1,2.0
+2014-11,E01021109,B25,4,4,1.0
+2014-11,E01021109,B26,4,1,4.0
+2014-11,E01021109,B7,1,1,1.0
+2014-11,E01021110,B19,1,1,1.0
+2014-11,E01021110,B25,1,1,1.0
+2014-11,E01021110,B26,2,1,2.0
+2014-11,E01021110,B7,2,2,1.0
+2014-11,E01021111,B18,1,1,1.0
+2014-11,E01021111,B25,1,1,1.0
+2014-11,E01021111,B28,2,2,1.0
+2014-11,E01021112,B28,1,1,1.0
+2014-11,E01021112,B6,1,1,1.0
+2014-11,E01021113,B26,2,2,1.0
+2014-11,E01021113,B28,1,1,1.0
+2014-11,E01021114,B25,2,2,1.0
+2014-11,E01021115,B19,1,1,1.0
+2014-11,E01021115,B25,3,2,1.5
+2014-11,E01021115,B26,1,1,1.0
+2014-11,E01021116,B13,1,1,1.0
+2014-11,E01021116,B25,2,2,1.0
+2014-11,E01021116,B26,1,1,1.0
+2014-11,E01021117,B25,1,1,1.0
+2014-11,E01021117,B3,1,1,1.0
+2014-11,E01021118,B16,1,1,1.0
+2014-11,E01021118,B28,1,1,1.0
+2014-11,E01021119,B19,1,1,1.0
+2014-11,E01021120,B25,1,1,1.0
+2014-11,E01021120,B7,1,1,1.0
+2014-11,E01021121,B18,1,1,1.0
+2014-11,E01021122,B26,2,2,1.0
+2014-11,E01021122,B28,1,1,1.0
+2014-11,E01021123,B26,1,1,1.0
+2014-11,E01021123,B28,2,2,1.0
+2014-11,E01021124,B19,1,1,1.0
+2014-11,E01021124,B26,1,1,1.0
+2014-11,E01021124,B28,1,1,1.0
+2014-11,E01021125,B17,1,1,1.0
+2014-11,E01021125,B25,3,3,1.0
+2014-11,E01021126,B19,1,1,1.0
+2014-11,E01021126,B28,1,1,1.0
+2014-11,E01021127,B25,1,1,1.0
+2014-11,E01021127,B28,2,2,1.0
+2014-11,E01021128,B26,1,1,1.0
+2014-11,E01021128,B28,1,1,1.0
+2014-11,E01021129,B19,1,1,1.0
+2014-11,E01021129,B25,2,2,1.0
+2014-11,E01021129,B26,1,1,1.0
+2014-11,E01021129,B28,2,2,1.0
+2014-11,E01021130,B24,1,1,1.0
+2014-11,E01021130,B25,2,2,1.0
+2014-11,E01021130,B28,1,1,1.0
+2014-11,E01021131,B20,1,1,1.0
+2014-11,E01021131,B24,1,1,1.0
+2014-11,E01021131,B7,1,1,1.0
+2014-11,E01021133,B25,10,9,1.1111111111111112
+2014-11,E01021134,B25,3,3,1.0
+2014-11,E01021134,B7,2,2,1.0
+2014-11,E01021135,B13,1,1,1.0
+2014-11,E01021135,B28,3,3,1.0
+2014-11,E01021136,B13,1,1,1.0
+2014-11,E01021137,B25,1,1,1.0
+2014-11,E01021138,B19,1,1,1.0
+2014-11,E01021138,B25,2,2,1.0
+2014-11,E01021138,B28,1,1,1.0
+2014-11,E01021138,B7,1,1,1.0
+2014-11,E01021140,B25,1,1,1.0
+2014-11,E01021140,B28,1,1,1.0
+2014-11,E01021141,B25,4,4,1.0
+2014-11,E01021141,B7,3,2,1.5
+2014-11,E01021142,B7,3,2,1.5
+2014-11,E01021143,B24,1,1,1.0
+2014-11,E01021143,B25,4,3,1.3333333333333333
+2014-11,E01021143,B26,1,1,1.0
+2014-11,E01021143,B7,1,1,1.0
+2014-11,E01021144,B13,1,1,1.0
+2014-11,E01021144,B16,1,1,1.0
+2014-11,E01021144,B25,3,3,1.0
+2014-11,E01021145,B17,2,2,1.0
+2014-11,E01021145,B19,1,1,1.0
+2014-11,E01021145,B23,2,1,2.0
+2014-11,E01021145,B24,1,1,1.0
+2014-11,E01021145,B25,1,1,1.0
+2014-11,E01021145,B7,1,1,1.0
+2014-11,E01021146,B19,1,1,1.0
+2014-11,E01021146,B24,1,1,1.0
+2014-11,E01021147,B13,1,1,1.0
+2014-11,E01021147,B24,1,1,1.0
+2014-11,E01021147,B26,2,2,1.0
+2014-11,E01021147,B7,1,1,1.0
+2014-11,E01021148,B28,1,1,1.0
+2014-11,E01021148,B7,1,1,1.0
+2014-11,E01021149,B16,1,1,1.0
+2014-11,E01021149,B24,1,1,1.0
+2014-11,E01021149,B25,15,15,1.0
+2014-11,E01021149,B7,3,3,1.0
+2014-11,E01021150,B25,1,1,1.0
+2014-11,E01021151,B13,2,2,1.0
+2014-11,E01021151,B23,1,1,1.0
+2014-11,E01021151,B25,3,3,1.0
+2014-11,E01021151,B26,1,1,1.0
+2014-11,E01021151,B27,1,1,1.0
+2014-11,E01021151,B28,2,1,2.0
+2014-11,E01021151,B29,1,1,1.0
+2014-11,E01021153,B25,1,1,1.0
+2014-11,E01021153,B28,1,1,1.0
+2014-11,E01021154,B1,1,1,1.0
+2014-11,E01021155,B18,1,1,1.0
+2014-11,E01021155,B24,1,1,1.0
+2014-11,E01021155,B7,1,1,1.0
+2014-11,E01021156,B28,2,2,1.0
+2014-11,E01021157,B18,1,1,1.0
+2014-11,E01021158,B13,1,1,1.0
+2014-11,E01021158,B19,1,1,1.0
+2014-11,E01021158,B25,2,2,1.0
+2014-11,E01021159,B1,1,1,1.0
+2014-11,E01021159,B17,2,2,1.0
+2014-11,E01021159,B24,1,1,1.0
+2014-11,E01021159,B25,2,2,1.0
+2014-11,E01021160,B23,1,1,1.0
+2014-11,E01021160,B25,2,2,1.0
+2014-11,E01021160,B7,1,1,1.0
+2014-11,E01021161,B25,2,2,1.0
+2014-11,E01021162,B13,1,1,1.0
+2014-11,E01021162,B7,5,4,1.25
+2014-11,E01021163,B26,1,1,1.0
+2014-11,E01021163,B7,2,2,1.0
+2014-11,E01021164,B13,2,2,1.0
+2014-11,E01021164,B25,1,1,1.0
+2014-11,E01021164,B26,2,2,1.0
+2014-11,E01021165,B24,2,1,2.0
+2014-11,E01021166,B13,1,1,1.0
+2014-11,E01021166,B16,1,1,1.0
+2014-11,E01021166,B23,1,1,1.0
+2014-11,E01021166,B24,1,1,1.0
+2014-11,E01021166,B25,2,2,1.0
+2014-11,E01021166,B26,1,1,1.0
+2014-11,E01021166,B7,1,1,1.0
+2014-11,E01021167,B25,5,2,2.5
+2014-11,E01021167,B26,1,1,1.0
+2014-11,E01021167,B28,1,1,1.0
+2014-11,E01021167,B7,6,3,2.0
+2014-11,E01021168,B25,1,1,1.0
+2014-11,E01021168,B28,1,1,1.0
+2014-11,E01021168,B7,1,1,1.0
+2014-11,E01021169,B16,1,1,1.0
+2014-11,E01021169,B17,1,1,1.0
+2014-11,E01021169,B25,4,4,1.0
+2014-11,E01021170,B17,1,1,1.0
+2014-11,E01021170,B19,2,2,1.0
+2014-11,E01021170,B24,1,1,1.0
+2014-11,E01021170,B25,6,6,1.0
+2014-11,E01021170,B7,2,2,1.0
+2014-11,E01021171,B13,1,1,1.0
+2014-11,E01021171,B24,1,1,1.0
+2014-11,E01021171,B25,11,9,1.2222222222222223
+2014-11,E01021171,B26,5,3,1.6666666666666667
+2014-11,E01021171,B7,1,1,1.0
+2014-11,E01021172,B24,1,1,1.0
+2014-11,E01021172,B25,5,3,1.6666666666666667
+2014-11,E01021172,B28,2,1,2.0
+2014-11,E01021172,B7,1,1,1.0
+2014-11,E01021173,B13,1,1,1.0
+2014-11,E01021173,B18,1,1,1.0
+2014-11,E01021173,B25,5,5,1.0
+2014-11,E01021173,B26,1,1,1.0
+2014-11,E01021173,B7,1,1,1.0
+2014-11,E01021174,B25,1,1,1.0
+2014-11,E01021174,B28,1,1,1.0
+2014-11,E01021176,B7,1,1,1.0
+2014-11,E01021178,B1,1,1,1.0
+2014-11,E01021178,B23,1,1,1.0
+2014-11,E01021178,B26,2,1,2.0
+2014-11,E01021178,B7,1,1,1.0
+2014-11,E01021179,B23,1,1,1.0
+2014-11,E01021180,B17,1,1,1.0
+2014-11,E01021180,B25,1,1,1.0
+2014-11,E01021180,B28,2,2,1.0
+2014-11,E01021181,B13,3,3,1.0
+2014-11,E01021181,B26,1,1,1.0
+2014-11,E01021181,B28,2,2,1.0
+2014-11,E01021182,B1,3,1,3.0
+2014-11,E01021182,B18,1,1,1.0
+2014-11,E01021182,B28,1,1,1.0
+2014-11,E01021183,B24,1,1,1.0
+2014-11,E01021183,B27,1,1,1.0
+2014-11,E01021183,B28,4,3,1.3333333333333333
+2014-11,E01021184,B25,1,1,1.0
+2014-11,E01021184,B28,2,2,1.0
+2014-11,E01021184,B7,1,1,1.0
+2014-11,E01021185,B6,1,1,1.0
+2014-11,E01021186,B25,2,2,1.0
+2014-11,E01021187,B25,1,1,1.0
+2014-11,E01021187,B26,1,1,1.0
+2014-11,E01021188,B25,5,5,1.0
+2014-11,E01021188,B26,2,2,1.0
+2014-11,E01021189,B13,1,1,1.0
+2014-11,E01021189,B24,3,3,1.0
+2014-11,E01021189,B25,8,6,1.3333333333333333
+2014-11,E01021189,B28,1,1,1.0
+2014-11,E01021190,B16,1,1,1.0
+2014-11,E01021190,B23,1,1,1.0
+2014-11,E01021190,B7,1,1,1.0
+2014-11,E01021191,B28,2,2,1.0
+2014-11,E01021192,B16,1,1,1.0
+2014-11,E01021192,B23,1,1,1.0
+2014-11,E01021193,B16,1,1,1.0
+2014-11,E01021193,B23,1,1,1.0
+2014-11,E01021193,B6,1,1,1.0
+2014-11,E01021194,B13,1,1,1.0
+2014-11,E01021194,B16,2,1,2.0
+2014-11,E01021195,B13,1,1,1.0
+2014-11,E01021195,B26,1,1,1.0
+2014-11,E01021195,B28,1,1,1.0
+2014-11,E01021196,B28,1,1,1.0
+2014-11,E01021197,B23,1,1,1.0
+2014-11,E01021197,B24,1,1,1.0
+2014-11,E01021197,B25,1,1,1.0
+2014-11,E01021197,B28,2,2,1.0
+2014-11,E01021197,B7,1,1,1.0
+2014-11,E01021199,B13,1,1,1.0
+2014-11,E01021199,B24,1,1,1.0
+2014-11,E01021199,B25,7,4,1.75
+2014-11,E01021199,B7,1,1,1.0
+2014-11,E01021200,B19,1,1,1.0
+2014-11,E01021200,B28,2,1,2.0
+2014-11,E01021200,B7,1,1,1.0
+2014-11,E01021201,B16,1,1,1.0
+2014-11,E01021201,B19,1,1,1.0
+2014-11,E01021201,B25,3,3,1.0
+2014-11,E01021201,B7,2,2,1.0
+2014-11,E01021202,B13,1,1,1.0
+2014-11,E01021202,B19,3,1,3.0
+2014-11,E01021202,B25,3,2,1.5
+2014-11,E01021203,B13,1,1,1.0
+2014-11,E01021203,B25,2,2,1.0
+2014-11,E01021203,B26,1,1,1.0
+2014-11,E01021205,B24,1,1,1.0
+2014-11,E01021205,B25,9,7,1.2857142857142858
+2014-11,E01021205,B7,1,1,1.0
+2014-11,E01021206,B23,1,1,1.0
+2014-11,E01021206,B25,2,2,1.0
+2014-11,E01021207,B25,1,1,1.0
+2014-11,E01021207,B28,1,1,1.0
+2014-11,E01021208,B17,1,1,1.0
+2014-11,E01021208,B28,1,1,1.0
+2014-11,E01021213,B16,1,1,1.0
+2014-11,E01021213,B19,1,1,1.0
+2014-11,E01021214,B19,1,1,1.0
+2014-11,E01021214,B25,1,1,1.0
+2014-11,E01021214,B26,1,1,1.0
+2014-11,E01021214,B28,1,1,1.0
+2014-11,E01021215,B26,1,1,1.0
+2014-11,E01021215,B28,1,1,1.0
+2014-11,E01021216,B28,1,1,1.0
+2014-11,E01021216,B7,1,1,1.0
+2014-11,E01021217,B13,1,1,1.0
+2014-11,E01021217,B23,1,1,1.0
+2014-11,E01021217,B25,5,3,1.6666666666666667
+2014-11,E01021217,B26,1,1,1.0
+2014-11,E01021217,B3,1,1,1.0
+2014-11,E01021217,B7,1,1,1.0
+2014-11,E01021218,B13,1,1,1.0
+2014-11,E01021218,B25,4,3,1.3333333333333333
+2014-11,E01021218,B7,1,1,1.0
+2014-11,E01021219,B19,1,1,1.0
+2014-11,E01021219,B28,2,1,2.0
+2014-11,E01021219,B6,1,1,1.0
+2014-11,E01021220,B13,1,1,1.0
+2014-11,E01021220,B23,1,1,1.0
+2014-11,E01021220,B28,3,2,1.5
+2014-11,E01021221,B18,1,1,1.0
+2014-11,E01021222,B28,1,1,1.0
+2014-11,E01021224,B17,2,1,2.0
+2014-11,E01021225,B24,1,1,1.0
+2014-11,E01021226,B25,1,1,1.0
+2014-11,E01021226,B6,1,1,1.0
+2014-11,E01021227,B7,1,1,1.0
+2014-11,E01021228,B1,1,1,1.0
+2014-11,E01021228,B18,1,1,1.0
+2014-11,E01021228,B28,2,2,1.0
+2014-11,E01021229,B19,1,1,1.0
+2014-11,E01021229,B23,1,1,1.0
+2014-11,E01021229,B25,4,4,1.0
+2014-11,E01021230,B13,1,1,1.0
+2014-11,E01021230,B23,1,1,1.0
+2014-11,E01021230,B25,3,3,1.0
+2014-11,E01021230,B7,1,1,1.0
+2014-11,E01021231,B13,1,1,1.0
+2014-11,E01021231,B19,1,1,1.0
+2014-11,E01021231,B25,8,8,1.0
+2014-11,E01021231,B26,1,1,1.0
+2014-11,E01021231,B28,2,1,2.0
+2014-11,E01021231,B7,4,1,4.0
+2014-11,E01021232,B13,1,1,1.0
+2014-11,E01021232,B19,1,1,1.0
+2014-11,E01021232,B25,4,4,1.0
+2014-11,E01021232,B28,1,1,1.0
+2014-11,E01021233,B14,1,1,1.0
+2014-11,E01021233,B28,2,2,1.0
+2014-11,E01021234,B25,1,1,1.0
+2014-11,E01021234,B28,2,2,1.0
+2014-11,E01021236,B28,1,1,1.0
+2014-11,E01022846,B16,1,1,1.0
+2014-11,E01022847,B14,1,1,1.0
+2014-11,E01022849,B16,1,1,1.0
+2014-11,E01022850,B1,2,2,1.0
+2014-11,E01022850,B28,1,1,1.0
+2014-11,E01022851,B26,2,2,1.0
+2014-11,E01022853,B13,1,1,1.0
+2014-11,E01022853,B25,2,2,1.0
+2014-11,E01022854,B13,1,1,1.0
+2014-11,E01022854,B14,1,1,1.0
+2014-11,E01022854,B19,1,1,1.0
+2014-11,E01022856,B13,1,1,1.0
+2014-11,E01022857,B25,1,1,1.0
+2014-11,E01022858,B25,1,1,1.0
+2014-11,E01022858,B26,1,1,1.0
+2014-11,E01022859,B13,1,1,1.0
+2014-11,E01022859,B26,1,1,1.0
+2014-11,E01022861,B16,1,1,1.0
+2014-11,E01022862,B13,1,1,1.0
+2014-11,E01022862,B26,1,1,1.0
+2014-11,E01022863,B25,1,1,1.0
+2014-11,E01022864,B16,1,1,1.0
+2014-11,E01022865,B18,1,1,1.0
+2014-11,E01022865,B25,1,1,1.0
+2014-11,E01022867,B26,1,1,1.0
+2014-11,E01022868,B16,1,1,1.0
+2014-11,E01022869,B13,1,1,1.0
+2014-11,E01022871,B16,1,1,1.0
+2014-11,E01022873,B1,1,1,1.0
+2014-11,E01022873,B13,1,1,1.0
+2014-11,E01022873,B26,1,1,1.0
+2014-11,E01022873,B27,1,1,1.0
+2014-11,E01022874,B26,1,1,1.0
+2014-11,E01022877,B18,1,1,1.0
+2014-11,E01022878,B13,1,1,1.0
+2014-11,E01022879,B1,2,2,1.0
+2014-11,E01022879,B26,1,1,1.0
+2014-11,E01022879,B28,2,2,1.0
+2014-11,E01022880,B25,1,1,1.0
+2014-11,E01022880,B28,1,1,1.0
+2014-11,E01022881,B26,1,1,1.0
+2014-11,E01022881,B27,1,1,1.0
+2014-11,E01022884,B1,1,1,1.0
+2014-11,E01022884,B19,1,1,1.0
+2014-11,E01022885,B19,1,1,1.0
+2014-11,E01022887,B25,1,1,1.0
+2014-11,E01022887,B26,1,1,1.0
+2014-11,E01022887,B27,1,1,1.0
+2014-11,E01022888,B13,1,1,1.0
+2014-11,E01022888,B16,1,1,1.0
+2014-11,E01022888,B18,1,1,1.0
+2014-11,E01022889,B18,1,1,1.0
+2014-11,E01022890,B26,1,1,1.0
+2014-11,E01022891,B13,1,1,1.0
+2014-11,E01022891,B19,1,1,1.0
+2014-11,E01022891,B25,1,1,1.0
+2014-11,E01022891,B26,1,1,1.0
+2014-11,E01022893,B16,1,1,1.0
+2014-11,E01022893,B26,1,1,1.0
+2014-11,E01022893,B28,2,2,1.0
+2014-11,E01022894,B1,1,1,1.0
+2014-11,E01022894,B19,1,1,1.0
+2014-11,E01022894,B26,1,1,1.0
+2014-11,E01022896,B26,1,1,1.0
+2014-11,E01022897,B26,1,1,1.0
+2014-11,E01022898,B13,1,1,1.0
+2014-11,E01023750,B26,6,3,2.0
+2014-11,E01023750,B6,2,2,1.0
+2014-11,E01023751,B1,2,2,1.0
+2014-11,E01023751,B26,3,1,3.0
+2014-11,E01023752,B26,4,4,1.0
+2014-11,E01023752,B6,1,1,1.0
+2014-11,E01023753,B14,1,1,1.0
+2014-11,E01023753,B16,2,2,1.0
+2014-11,E01023753,B19,2,1,2.0
+2014-11,E01023753,B26,8,3,2.6666666666666665
+2014-11,E01023753,B6,1,1,1.0
+2014-11,E01023754,B16,1,1,1.0
+2014-11,E01023754,B26,6,3,2.0
+2014-11,E01023755,B1,1,1,1.0
+2014-11,E01023755,B14,1,1,1.0
+2014-11,E01023755,B26,3,2,1.5
+2014-11,E01023756,B1,1,1,1.0
+2014-11,E01023756,B14,1,1,1.0
+2014-11,E01023756,B26,7,2,3.5
+2014-11,E01023757,B1,1,1,1.0
+2014-11,E01023757,B26,1,1,1.0
+2014-11,E01023758,B16,1,1,1.0
+2014-11,E01023758,B26,7,4,1.75
+2014-11,E01023759,B26,7,2,3.5
+2014-11,E01023759,B6,1,1,1.0
+2014-11,E01023760,B14,1,1,1.0
+2014-11,E01023760,B26,4,2,2.0
+2014-11,E01023761,B1,2,2,1.0
+2014-11,E01023761,B16,1,1,1.0
+2014-11,E01023761,B26,3,3,1.0
+2014-11,E01023761,B28,1,1,1.0
+2014-11,E01023762,B1,3,2,1.5
+2014-11,E01023762,B13,1,1,1.0
+2014-11,E01023762,B26,9,5,1.8
+2014-11,E01023764,B16,1,1,1.0
+2014-11,E01023764,B26,5,3,1.6666666666666667
+2014-11,E01023765,B26,4,2,2.0
+2014-11,E01023765,B28,1,1,1.0
+2014-11,E01023766,B1,1,1,1.0
+2014-11,E01023766,B26,5,2,2.5
+2014-11,E01023767,B1,1,1,1.0
+2014-11,E01023767,B17,1,1,1.0
+2014-11,E01023767,B26,3,2,1.5
+2014-11,E01023768,B28,1,1,1.0
+2014-11,E01023769,B1,1,1,1.0
+2014-11,E01023769,B14,1,1,1.0
+2014-11,E01023769,B26,4,2,2.0
+2014-11,E01023770,B26,2,2,1.0
+2014-11,E01023771,B1,2,1,2.0
+2014-11,E01023771,B16,1,1,1.0
+2014-11,E01023771,B26,9,3,3.0
+2014-11,E01023772,B1,1,1,1.0
+2014-11,E01023772,B26,5,3,1.6666666666666667
+2014-11,E01023773,B1,1,1,1.0
+2014-11,E01023773,B26,2,2,1.0
+2014-11,E01023774,B1,1,1,1.0
+2014-11,E01023774,B26,7,3,2.3333333333333335
+2014-11,E01023775,B14,1,1,1.0
+2014-11,E01023775,B16,1,1,1.0
+2014-11,E01023775,B26,6,2,3.0
+2014-11,E01023776,B1,1,1,1.0
+2014-11,E01023776,B26,5,3,1.6666666666666667
+2014-11,E01023777,B1,2,2,1.0
+2014-11,E01023777,B16,1,1,1.0
+2014-11,E01023777,B26,5,1,5.0
+2014-11,E01023778,B26,3,2,1.5
+2014-11,E01023778,B6,2,1,2.0
+2014-11,E01023779,B1,1,1,1.0
+2014-11,E01023779,B26,3,2,1.5
+2014-11,E01023780,B26,3,1,3.0
+2014-11,E01023781,B24,1,1,1.0
+2014-11,E01023781,B26,8,2,4.0
+2014-11,E01023782,B1,1,1,1.0
+2014-11,E01023782,B26,3,3,1.0
+2014-11,E01023783,B1,1,1,1.0
+2014-11,E01023783,B26,2,1,2.0
+2014-11,E01023784,B1,1,1,1.0
+2014-11,E01023784,B26,4,3,1.3333333333333333
+2014-11,E01023785,B26,1,1,1.0
+2014-11,E01023786,B16,1,1,1.0
+2014-11,E01023786,B26,4,3,1.3333333333333333
+2014-11,E01023786,B8,1,1,1.0
+2014-11,E01023787,B14,1,1,1.0
+2014-11,E01023787,B26,9,2,4.5
+2014-11,E01023787,B28,1,1,1.0
+2014-11,E01023787,B6,1,1,1.0
+2014-11,E01023788,B1,1,1,1.0
+2014-11,E01023788,B26,8,2,4.0
+2014-11,E01023789,B14,2,2,1.0
+2014-11,E01023789,B26,5,3,1.6666666666666667
+2014-11,E01023789,B6,1,1,1.0
+2014-11,E01023790,B1,1,1,1.0
+2014-11,E01023790,B26,5,2,2.5
+2014-11,E01023790,B6,1,1,1.0
+2014-11,E01023791,B26,3,3,1.0
+2014-11,E01023792,B16,2,1,2.0
+2014-11,E01023792,B26,7,2,3.5
+2014-11,E01023793,B26,2,1,2.0
+2014-11,E01023794,B26,9,3,3.0
+2014-11,E01023795,B26,5,1,5.0
+2014-11,E01023796,B1,1,1,1.0
+2014-11,E01023796,B26,2,1,2.0
+2014-11,E01023797,B1,2,2,1.0
+2014-11,E01023797,B13,1,1,1.0
+2014-11,E01023798,B26,9,5,1.8
+2014-11,E01023799,B26,2,2,1.0
+2014-11,E01023800,B13,1,1,1.0
+2014-11,E01023800,B26,6,3,2.0
+2014-11,E01023801,B14,1,1,1.0
+2014-11,E01023801,B16,1,1,1.0
+2014-11,E01023801,B26,8,2,4.0
+2014-11,E01023801,B6,5,3,1.6666666666666667
+2014-11,E01028423,B24,1,1,1.0
+2014-11,E01028423,B25,1,1,1.0
+2014-11,E01028424,B25,4,3,1.3333333333333333
+2014-11,E01028425,B25,1,1,1.0
+2014-11,E01028425,B7,1,1,1.0
+2014-11,E01028426,B28,1,1,1.0
+2014-11,E01028427,B25,1,1,1.0
+2014-11,E01028429,B19,1,1,1.0
+2014-11,E01028429,B23,1,1,1.0
+2014-11,E01028429,B25,1,1,1.0
+2014-11,E01028429,B28,1,1,1.0
+2014-11,E01028430,B25,1,1,1.0
+2014-11,E01028431,B25,3,2,1.5
+2014-11,E01028433,B28,1,1,1.0
+2014-11,E01028435,B18,1,1,1.0
+2014-11,E01028437,B17,1,1,1.0
+2014-11,E01028439,B24,1,1,1.0
+2014-11,E01028441,B7,1,1,1.0
+2014-11,E01028443,B25,1,1,1.0
+2014-11,E01028445,B7,1,1,1.0
+2014-11,E01028448,B16,1,1,1.0
+2014-11,E01028451,B25,1,1,1.0
+2014-11,E01028462,B25,1,1,1.0
+2014-11,E01028463,B18,1,1,1.0
+2014-11,E01028466,B7,1,1,1.0
+2014-11,E01028469,B24,1,1,1.0
+2014-11,E01028477,B13,1,1,1.0
+2014-11,E01028477,B26,1,1,1.0
+2014-11,E01028478,B27,1,1,1.0
+2014-11,E01028480,B25,1,1,1.0
+2014-11,E01028481,B17,1,1,1.0
+2014-11,E01028481,B19,1,1,1.0
+2014-11,E01028481,B25,4,2,2.0
+2014-11,E01028481,B7,2,1,2.0
+2014-11,E01028484,B25,1,1,1.0
+2014-11,E01028488,B1,3,1,3.0
+2014-11,E01028488,B28,1,1,1.0
+2014-11,E01028488,B7,2,1,2.0
+2014-11,E01028489,B19,1,1,1.0
+2014-11,E01028492,B25,1,1,1.0
+2014-11,E01028497,B25,1,1,1.0
+2014-11,E01028497,B7,1,1,1.0
+2014-11,E01028498,B13,1,1,1.0
+2014-11,E01028498,B15,1,1,1.0
+2014-11,E01028501,B25,1,1,1.0
+2014-11,E01028501,B7,1,1,1.0
+2014-11,E01028502,B25,3,3,1.0
+2014-11,E01028503,B17,1,1,1.0
+2014-11,E01028503,B25,1,1,1.0
+2014-11,E01028504,B17,1,1,1.0
+2014-11,E01028505,B19,2,1,2.0
+2014-11,E01028505,B26,1,1,1.0
+2014-11,E01028505,B7,1,1,1.0
+2014-11,E01028506,B16,1,1,1.0
+2014-11,E01028507,B19,2,1,2.0
+2014-11,E01028507,B7,1,1,1.0
+2014-11,E01028508,B17,1,1,1.0
+2014-11,E01028509,B25,1,1,1.0
+2014-11,E01028510,B25,1,1,1.0
+2014-11,E01028511,B16,1,1,1.0
+2014-11,E01028511,B24,1,1,1.0
+2014-11,E01028513,B13,1,1,1.0
+2014-11,E01028515,B17,1,1,1.0
+2014-11,E01028516,B25,1,1,1.0
+2014-11,E01028521,B13,2,2,1.0
+2014-11,E01028521,B19,3,3,1.0
+2014-11,E01028521,B24,2,2,1.0
+2014-11,E01028521,B25,1,1,1.0
+2014-11,E01028521,B7,2,2,1.0
+2014-11,E01028522,B19,1,1,1.0
+2014-11,E01028522,B25,2,2,1.0
+2014-11,E01028526,B13,4,4,1.0
+2014-11,E01028526,B16,1,1,1.0
+2014-11,E01028526,B7,8,7,1.1428571428571428
+2014-11,E01028527,B19,2,2,1.0
+2014-11,E01028533,B13,1,1,1.0
+2014-11,E01028535,B7,1,1,1.0
+2014-11,E01028537,B7,1,1,1.0
+2014-11,E01028539,B24,1,1,1.0
+2014-11,E01028539,B7,1,1,1.0
+2014-11,E01028540,B19,1,1,1.0
+2014-11,E01028542,B24,1,1,1.0
+2014-11,E01028547,B13,1,1,1.0
+2014-11,E01028548,B13,1,1,1.0
+2014-11,E01028548,B19,1,1,1.0
+2014-11,E01028549,B13,1,1,1.0
+2014-11,E01028551,B13,1,1,1.0
+2014-11,E01028551,B25,1,1,1.0
+2014-11,E01028555,B28,1,1,1.0
+2014-11,E01028555,B7,1,1,1.0
+2014-11,E01028557,B25,1,1,1.0
+2014-11,E01028561,B16,1,1,1.0
+2014-11,E01028563,B18,1,1,1.0
+2014-11,E01028568,B24,1,1,1.0
+2014-11,E01028568,B25,1,1,1.0
+2014-11,E01028568,B7,1,1,1.0
+2014-11,E01028570,B24,1,1,1.0
+2014-11,E01028571,B13,1,1,1.0
+2014-11,E01028571,B18,1,1,1.0
+2014-11,E01028575,B25,1,1,1.0
+2014-11,E01028578,B17,1,1,1.0
+2014-11,E01028581,B13,1,1,1.0
+2014-11,E01028581,B7,18,14,1.2857142857142858
+2014-11,E01028585,B13,1,1,1.0
+2014-11,E01028586,B25,1,1,1.0
+2014-11,E01028587,B18,1,1,1.0
+2014-11,E01028591,B19,2,2,1.0
+2014-11,E01028592,B19,1,1,1.0
+2014-11,E01028592,B25,1,1,1.0
+2014-11,E01028594,B19,1,1,1.0
+2014-11,E01028594,B7,1,1,1.0
+2014-11,E01028596,B18,1,1,1.0
+2014-11,E01028598,B13,1,1,1.0
+2014-11,E01028598,B19,1,1,1.0
+2014-11,E01028598,B7,3,3,1.0
+2014-11,E01028600,B28,2,2,1.0
+2014-11,E01028601,B13,2,1,2.0
+2014-11,E01028601,B17,2,2,1.0
+2014-11,E01028601,B19,1,1,1.0
+2014-11,E01028601,B25,3,3,1.0
+2014-11,E01028601,B7,1,1,1.0
+2014-11,E01028605,B24,1,1,1.0
+2014-11,E01028605,B25,1,1,1.0
+2014-11,E01028605,B28,1,1,1.0
+2014-11,E01028606,B20,1,1,1.0
+2014-11,E01028607,B25,2,2,1.0
+2014-11,E01028608,B25,1,1,1.0
+2014-11,E01028608,B7,1,1,1.0
+2014-11,E01028611,B25,1,1,1.0
+2014-11,E01028611,B7,1,1,1.0
+2014-11,E01028612,B24,1,1,1.0
+2014-11,E01028612,B25,7,4,1.75
+2014-11,E01028612,B26,1,1,1.0
+2014-11,E01028612,B7,2,1,2.0
+2014-11,E01028613,B19,1,1,1.0
+2014-11,E01028615,B25,1,1,1.0
+2014-11,E01028617,B25,2,2,1.0
+2014-11,E01028617,B7,2,2,1.0
+2014-11,E01028618,B13,1,1,1.0
+2014-11,E01028618,B25,3,3,1.0
+2014-11,E01028618,B7,1,1,1.0
+2014-11,E01028619,B13,1,1,1.0
+2014-11,E01028619,B25,1,1,1.0
+2014-11,E01028619,B26,1,1,1.0
+2014-11,E01028620,B25,1,1,1.0
+2014-11,E01028621,B25,1,1,1.0
+2014-11,E01028623,B17,1,1,1.0
 2014-11,E01028625,,1,1,1.0
-2014-11,E01028625,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028625,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028625,Road Safety,1,1,1.0
-2014-11,E01028625,Road Surface Defects,1,1,1.0
-2014-11,E01028625,Rubbish,1,1,1.0
-2014-11,E01028630,Drainage,1,1,1.0
-2014-11,E01028630,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028630,Street Lights,1,1,1.0
-2014-11,E01028632,Road Surface Defects,1,1,1.0
-2014-11,E01028636,Road Surface Defects,1,1,1.0
-2014-11,E01028637,Road Surface Defects,1,1,1.0
-2014-11,E01028638,Road Surface Defects,4,4,1.0
-2014-11,E01028639,Highways Enquiries,2,2,1.0
-2014-11,E01028639,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028639,Road Surface Defects,1,1,1.0
-2014-11,E01028639,Rubbish,1,1,1.0
-2014-11,E01028640,Bridge/Culvert Defects,1,1,1.0
-2014-11,E01028640,Highways Enquiries,1,1,1.0
-2014-11,E01028640,Road Surface Defects,1,1,1.0
-2014-11,E01028641,Drainage,1,1,1.0
-2014-11,E01028641,Road Surface Defects,1,1,1.0
-2014-11,E01028642,Highways Enquiries,1,1,1.0
-2014-11,E01028642,Road Surface Defects,2,2,1.0
-2014-11,E01028643,Drainage,3,1,3.0
-2014-11,E01028643,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01028643,Rubbish,1,1,1.0
-2014-11,E01028644,Drainage,1,1,1.0
-2014-11,E01028644,Highways Enquiries,1,1,1.0
-2014-11,E01028644,Road Safety,1,1,1.0
-2014-11,E01028644,Road Surface Defects,2,2,1.0
-2014-11,E01028645,Road Surface Defects,1,1,1.0
-2014-11,E01028649,Drainage,2,2,1.0
-2014-11,E01028649,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028649,Road Surface Defects,1,1,1.0
-2014-11,E01028650,Drainage,1,1,1.0
-2014-11,E01028650,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028651,Road Surface Defects,2,2,1.0
-2014-11,E01028652,Drainage,3,3,1.0
-2014-11,E01028654,Drainage,1,1,1.0
-2014-11,E01028654,Road Surface Defects,1,1,1.0
-2014-11,E01028655,Road Surface Defects,1,1,1.0
-2014-11,E01028657,Road Safety,1,1,1.0
-2014-11,E01028658,Road Safety,1,1,1.0
-2014-11,E01028659,Drainage,1,1,1.0
-2014-11,E01028659,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028659,Road Surface Defects,3,3,1.0
-2014-11,E01028659,Rubbish,1,1,1.0
-2014-11,E01028660,Road Surface Defects,1,1,1.0
-2014-11,E01028661,Road Surface Defects,1,1,1.0
-2014-11,E01028662,Drainage,1,1,1.0
-2014-11,E01028662,Road Surface Defects,1,1,1.0
-2014-11,E01028663,Drainage,1,1,1.0
-2014-11,E01028664,Drainage,3,1,3.0
-2014-11,E01028668,Highways Enquiries,1,1,1.0
-2014-11,E01028668,Road Surface Defects,1,1,1.0
-2014-11,E01028669,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028670,Rubbish,1,1,1.0
-2014-11,E01028671,Drainage,1,1,1.0
-2014-11,E01028671,Road Surface Defects,1,1,1.0
-2014-11,E01028671,Street Lights,1,1,1.0
-2014-11,E01028675,Pavement /Footway Defects,1,1,1.0
+2014-11,E01028625,B17,1,1,1.0
+2014-11,E01028625,B19,1,1,1.0
+2014-11,E01028625,B24,1,1,1.0
+2014-11,E01028625,B25,1,1,1.0
+2014-11,E01028625,B26,1,1,1.0
+2014-11,E01028630,B17,1,1,1.0
+2014-11,E01028630,B28,1,1,1.0
+2014-11,E01028630,B7,1,1,1.0
+2014-11,E01028632,B25,1,1,1.0
+2014-11,E01028636,B25,1,1,1.0
+2014-11,E01028637,B25,1,1,1.0
+2014-11,E01028638,B25,4,4,1.0
+2014-11,E01028639,B13,2,2,1.0
+2014-11,E01028639,B19,1,1,1.0
+2014-11,E01028639,B25,1,1,1.0
+2014-11,E01028639,B26,1,1,1.0
+2014-11,E01028640,B13,1,1,1.0
+2014-11,E01028640,B25,1,1,1.0
+2014-11,E01028640,B3,1,1,1.0
+2014-11,E01028641,B25,1,1,1.0
+2014-11,E01028641,B7,1,1,1.0
+2014-11,E01028642,B13,1,1,1.0
+2014-11,E01028642,B25,2,2,1.0
+2014-11,E01028643,B25,4,3,1.3333333333333333
+2014-11,E01028643,B26,1,1,1.0
+2014-11,E01028643,B7,3,1,3.0
+2014-11,E01028644,B13,1,1,1.0
+2014-11,E01028644,B24,1,1,1.0
+2014-11,E01028644,B25,2,2,1.0
+2014-11,E01028644,B7,1,1,1.0
+2014-11,E01028645,B25,1,1,1.0
+2014-11,E01028649,B19,1,1,1.0
+2014-11,E01028649,B25,1,1,1.0
+2014-11,E01028649,B7,2,2,1.0
+2014-11,E01028650,B17,1,1,1.0
+2014-11,E01028650,B7,1,1,1.0
+2014-11,E01028651,B25,2,2,1.0
+2014-11,E01028652,B7,3,3,1.0
+2014-11,E01028654,B25,1,1,1.0
+2014-11,E01028654,B7,1,1,1.0
+2014-11,E01028655,B25,1,1,1.0
+2014-11,E01028657,B24,1,1,1.0
+2014-11,E01028658,B24,1,1,1.0
+2014-11,E01028659,B17,1,1,1.0
+2014-11,E01028659,B25,3,3,1.0
+2014-11,E01028659,B26,1,1,1.0
+2014-11,E01028659,B7,1,1,1.0
+2014-11,E01028660,B25,1,1,1.0
+2014-11,E01028661,B25,1,1,1.0
+2014-11,E01028662,B25,1,1,1.0
+2014-11,E01028662,B7,1,1,1.0
+2014-11,E01028663,B7,1,1,1.0
+2014-11,E01028664,B7,3,1,3.0
+2014-11,E01028668,B13,1,1,1.0
+2014-11,E01028668,B25,1,1,1.0
+2014-11,E01028669,B19,1,1,1.0
+2014-11,E01028670,B26,1,1,1.0
+2014-11,E01028671,B25,1,1,1.0
+2014-11,E01028671,B28,1,1,1.0
+2014-11,E01028671,B7,1,1,1.0
+2014-11,E01028675,B19,1,1,1.0
 2014-11,E01028677,,1,1,1.0
-2014-11,E01028677,Bridge/Culvert Defects,1,1,1.0
-2014-11,E01028678,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028678,Road Surface Defects,2,2,1.0
-2014-11,E01028679,Road Surface Defects,3,3,1.0
-2014-11,E01028682,Pavement /Footway Defects,4,1,4.0
-2014-11,E01028683,Road Surface Defects,1,1,1.0
-2014-11,E01028684,Road Surface Defects,1,1,1.0
-2014-11,E01028686,Other,1,1,1.0
-2014-11,E01028693,Road Surface Defects,1,1,1.0
-2014-11,E01028693,Street Lights,1,1,1.0
-2014-11,E01028699,Road Surface Defects,1,1,1.0
-2014-11,E01028700,Highways Enquiries,1,1,1.0
-2014-11,E01028703,Drainage,1,1,1.0
-2014-11,E01028703,Road Surface Defects,1,1,1.0
-2014-11,E01028704,Road Surface Defects,1,1,1.0
-2014-11,E01028704,Utility Works,1,1,1.0
-2014-11,E01028705,Property Damage,1,1,1.0
-2014-11,E01028708,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028708,Road Surface Defects,2,1,2.0
-2014-11,E01028709,Road Surface Defects,1,1,1.0
-2014-11,E01028710,Drainage,2,2,1.0
-2014-11,E01028711,Drainage,1,1,1.0
-2014-11,E01028712,Road Safety,1,1,1.0
-2014-11,E01028713,Drainage,1,1,1.0
-2014-11,E01028713,Road Surface Defects,2,2,1.0
-2014-11,E01028718,Highways Enquiries,1,1,1.0
-2014-11,E01028719,Road Surface Defects,1,1,1.0
-2014-11,E01028720,Drainage,2,2,1.0
-2014-11,E01028720,Road Surface Defects,1,1,1.0
-2014-11,E01028722,Fences,1,1,1.0
-2014-11,E01028722,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028723,Highways Enquiries,1,1,1.0
-2014-11,E01028724,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028726,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028726,Road Surface Defects,2,2,1.0
-2014-11,E01028727,Drainage,2,2,1.0
-2014-11,E01028727,Highways Enquiries,1,1,1.0
-2014-11,E01028727,Road Safety,2,2,1.0
-2014-11,E01028727,Road Surface Defects,1,1,1.0
-2014-11,E01028728,Road Surface Defects,1,1,1.0
-2014-11,E01028729,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028729,Road Safety,1,1,1.0
-2014-11,E01028729,Street Lights,1,1,1.0
-2014-11,E01028731,Road Surface Defects,3,3,1.0
-2014-11,E01028732,Drainage,1,1,1.0
-2014-11,E01028732,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028733,Road Safety,1,1,1.0
-2014-11,E01028733,Road Surface Defects,1,1,1.0
-2014-11,E01028734,Road Surface Defects,1,1,1.0
-2014-11,E01028735,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028736,Road Surface Defects,3,3,1.0
-2014-11,E01028737,Highways Enquiries,1,1,1.0
-2014-11,E01028737,Road Surface Defects,5,4,1.25
-2014-11,E01028738,Road Safety,1,1,1.0
-2014-11,E01028738,Road Surface Defects,1,1,1.0
-2014-11,E01028739,Highways Enquiries,1,1,1.0
-2014-11,E01028739,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028742,Drainage,1,1,1.0
-2014-11,E01028742,Highways Enquiries,1,1,1.0
-2014-11,E01028742,Incivilities,2,1,2.0
-2014-11,E01028742,Road Surface Defects,2,2,1.0
-2014-11,E01028743,Rubbish,1,1,1.0
-2014-11,E01028744,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028744,Road Surface Defects,1,1,1.0
-2014-11,E01028745,Drainage,1,1,1.0
-2014-11,E01028745,Street Lights,1,1,1.0
-2014-11,E01028747,Road Surface Defects,2,2,1.0
-2014-11,E01028750,Drainage,1,1,1.0
-2014-11,E01028750,Rubbish,1,1,1.0
-2014-11,E01028750,Street Furniture,1,1,1.0
-2014-11,E01028751,Gritting,1,1,1.0
-2014-11,E01028751,Road Surface Defects,1,1,1.0
-2014-11,E01028752,Road Safety,1,1,1.0
-2014-11,E01028753,Rubbish,1,1,1.0
-2014-11,E01028754,Drainage,1,1,1.0
-2014-11,E01028754,Highways Enquiries,1,1,1.0
-2014-11,E01028754,Right of Way,1,1,1.0
-2014-11,E01028754,Road Surface Defects,1,1,1.0
+2014-11,E01028677,B3,1,1,1.0
+2014-11,E01028678,B17,1,1,1.0
+2014-11,E01028678,B25,2,2,1.0
+2014-11,E01028679,B25,3,3,1.0
+2014-11,E01028682,B19,4,1,4.0
+2014-11,E01028683,B25,1,1,1.0
+2014-11,E01028684,B25,1,1,1.0
+2014-11,E01028686,B16,1,1,1.0
+2014-11,E01028693,B25,1,1,1.0
+2014-11,E01028693,B28,1,1,1.0
+2014-11,E01028699,B25,1,1,1.0
+2014-11,E01028700,B13,1,1,1.0
+2014-11,E01028703,B25,1,1,1.0
+2014-11,E01028703,B7,1,1,1.0
+2014-11,E01028704,B25,1,1,1.0
+2014-11,E01028704,B29,1,1,1.0
+2014-11,E01028705,B20,1,1,1.0
+2014-11,E01028708,B17,1,1,1.0
+2014-11,E01028708,B25,2,1,2.0
+2014-11,E01028709,B25,1,1,1.0
+2014-11,E01028710,B7,2,2,1.0
+2014-11,E01028711,B7,1,1,1.0
+2014-11,E01028712,B24,1,1,1.0
+2014-11,E01028713,B25,2,2,1.0
+2014-11,E01028713,B7,1,1,1.0
+2014-11,E01028718,B13,1,1,1.0
+2014-11,E01028719,B25,1,1,1.0
+2014-11,E01028720,B25,1,1,1.0
+2014-11,E01028720,B7,2,2,1.0
+2014-11,E01028722,B19,1,1,1.0
+2014-11,E01028722,B9,1,1,1.0
+2014-11,E01028723,B13,1,1,1.0
+2014-11,E01028724,B19,1,1,1.0
+2014-11,E01028726,B19,1,1,1.0
+2014-11,E01028726,B25,2,2,1.0
+2014-11,E01028727,B13,1,1,1.0
+2014-11,E01028727,B24,2,2,1.0
+2014-11,E01028727,B25,1,1,1.0
+2014-11,E01028727,B7,2,2,1.0
+2014-11,E01028728,B25,1,1,1.0
+2014-11,E01028729,B19,1,1,1.0
+2014-11,E01028729,B24,1,1,1.0
+2014-11,E01028729,B28,1,1,1.0
+2014-11,E01028731,B25,3,3,1.0
+2014-11,E01028732,B19,1,1,1.0
+2014-11,E01028732,B7,1,1,1.0
+2014-11,E01028733,B24,1,1,1.0
+2014-11,E01028733,B25,1,1,1.0
+2014-11,E01028734,B25,1,1,1.0
+2014-11,E01028735,B19,1,1,1.0
+2014-11,E01028736,B25,3,3,1.0
+2014-11,E01028737,B13,1,1,1.0
+2014-11,E01028737,B25,5,4,1.25
+2014-11,E01028738,B24,1,1,1.0
+2014-11,E01028738,B25,1,1,1.0
+2014-11,E01028739,B13,1,1,1.0
+2014-11,E01028739,B17,1,1,1.0
+2014-11,E01028742,B13,1,1,1.0
+2014-11,E01028742,B14,2,1,2.0
+2014-11,E01028742,B25,2,2,1.0
+2014-11,E01028742,B7,1,1,1.0
+2014-11,E01028743,B26,1,1,1.0
+2014-11,E01028744,B17,1,1,1.0
+2014-11,E01028744,B25,1,1,1.0
+2014-11,E01028745,B28,1,1,1.0
+2014-11,E01028745,B7,1,1,1.0
+2014-11,E01028747,B25,2,2,1.0
+2014-11,E01028750,B26,1,1,1.0
+2014-11,E01028750,B27,1,1,1.0
+2014-11,E01028750,B7,1,1,1.0
+2014-11,E01028751,B11,1,1,1.0
+2014-11,E01028751,B25,1,1,1.0
+2014-11,E01028752,B24,1,1,1.0
+2014-11,E01028753,B26,1,1,1.0
+2014-11,E01028754,B13,1,1,1.0
+2014-11,E01028754,B23,1,1,1.0
+2014-11,E01028754,B25,1,1,1.0
+2014-11,E01028754,B7,1,1,1.0
 2014-11,E01028756,,1,1,1.0
-2014-11,E01028756,Drainage,1,1,1.0
-2014-11,E01028756,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028756,Parking,1,1,1.0
-2014-11,E01028756,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028759,Abandoned Vehicles,1,1,1.0
-2014-11,E01028760,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028762,Right of Way,1,1,1.0
-2014-11,E01028762,Road Surface Defects,1,1,1.0
-2014-11,E01028765,Drainage,1,1,1.0
-2014-11,E01028766,Road Surface Defects,1,1,1.0
-2014-11,E01028767,Road Safety,1,1,1.0
-2014-11,E01028767,Road Surface Defects,3,3,1.0
-2014-11,E01028771,Rubbish,1,1,1.0
-2014-11,E01028773,Road Surface Defects,1,1,1.0
-2014-11,E01028776,Drainage,2,2,1.0
-2014-11,E01028776,Road Surface Defects,2,2,1.0
-2014-11,E01028781,Road Surface Defects,1,1,1.0
-2014-11,E01028784,Road Safety,2,2,1.0
-2014-11,E01028784,Road Surface Defects,4,3,1.3333333333333333
-2014-11,E01028785,Road Surface Defects,1,1,1.0
-2014-11,E01028786,Other,1,1,1.0
-2014-11,E01028787,Highways Enquiries,1,1,1.0
-2014-11,E01028787,Other,1,1,1.0
-2014-11,E01028787,Road Surface Defects,1,1,1.0
-2014-11,E01028787,Rubbish,1,1,1.0
-2014-11,E01028788,Drainage,2,1,2.0
-2014-11,E01028789,Road Surface Defects,1,1,1.0
-2014-11,E01028791,Road Surface Defects,1,1,1.0
-2014-11,E01028793,Road Surface Defects,2,2,1.0
-2014-11,E01028794,Overgrown/Fallen Veg/Trees,2,1,2.0
-2014-11,E01028794,Road Surface Defects,1,1,1.0
-2014-11,E01028798,Drainage,2,2,1.0
-2014-11,E01028800,Rubbish,1,1,1.0
-2014-11,E01028802,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01028802,Road Surface Defects,1,1,1.0
-2014-11,E01028806,Road Surface Defects,1,1,1.0
-2014-11,E01028806,Street Lights,1,1,1.0
-2014-11,E01028808,Pavement /Footway Defects,1,1,1.0
-2014-11,E01028810,Road Surface Defects,1,1,1.0
-2014-11,E01028811,Parking,1,1,1.0
-2014-11,E01028811,Street Lights,1,1,1.0
-2014-11,E01028814,Drainage,1,1,1.0
-2014-11,E01028818,Road Surface Defects,1,1,1.0
-2014-11,E01028819,Road Safety,1,1,1.0
-2014-11,E01028820,Road Surface Defects,1,1,1.0
-2014-11,E01031007,Road Surface Defects,1,1,1.0
-2014-11,E01031008,Road Surface Defects,1,1,1.0
-2014-11,E01031009,Road Surface Defects,1,1,1.0
-2014-11,E01031010,Road Surface Defects,1,1,1.0
-2014-11,E01031014,Abandoned Vehicles,1,1,1.0
-2014-11,E01031020,Road Surface Defects,1,1,1.0
-2014-11,E01031022,Drainage,1,1,1.0
-2014-11,E01031023,Drainage,1,1,1.0
-2014-11,E01031023,Road Surface Defects,1,1,1.0
-2014-11,E01031024,Right of Way,1,1,1.0
-2014-11,E01031024,Road Surface Defects,1,1,1.0
-2014-11,E01031024,Rubbish,1,1,1.0
-2014-11,E01031028,Road Safety,1,1,1.0
-2014-11,E01031028,Road Surface Defects,1,1,1.0
-2014-11,E01031030,Road Safety,1,1,1.0
-2014-11,E01031031,Drainage,1,1,1.0
-2014-11,E01031031,Right of Way,1,1,1.0
-2014-11,E01031036,Drainage,1,1,1.0
-2014-11,E01031038,Road Surface Defects,1,1,1.0
-2014-11,E01031041,Drainage,1,1,1.0
-2014-11,E01031041,Road Surface Defects,1,1,1.0
-2014-11,E01031042,Drainage,1,1,1.0
-2014-11,E01031042,Road Surface Defects,1,1,1.0
-2014-11,E01031043,Street Lights,2,1,2.0
-2014-11,E01031046,Road Surface Defects,1,1,1.0
-2014-11,E01031049,Street Lights,1,1,1.0
-2014-11,E01031051,Other,1,1,1.0
-2014-11,E01031052,Right of Way,1,1,1.0
-2014-11,E01031056,Road Surface Defects,1,1,1.0
-2014-11,E01031059,Street Lights,2,1,2.0
-2014-11,E01031065,Road Surface Defects,1,1,1.0
-2014-11,E01031067,Other,1,1,1.0
-2014-11,E01031088,Drainage,1,1,1.0
-2014-11,E01031088,Right of Way,1,1,1.0
-2014-11,E01031090,Road Surface Defects,1,1,1.0
-2014-11,E01031090,Street Lights,2,1,2.0
-2014-11,E01031093,Street Lights,1,1,1.0
-2014-11,E01031102,Other,1,1,1.0
-2014-11,E01031102,Parking,1,1,1.0
-2014-11,E01031102,Road Surface Defects,1,1,1.0
-2014-11,E01031103,Right of Way,1,1,1.0
-2014-11,E01031112,Right of Way,1,1,1.0
-2014-11,E01031116,Street Lights,2,1,2.0
-2014-11,E01031125,Road Surface Defects,1,1,1.0
-2014-11,E01031130,Road Surface Defects,1,1,1.0
-2014-11,E01031130,Street Lights,1,1,1.0
-2014-11,E01031136,Drainage,1,1,1.0
-2014-11,E01031136,Road Surface Defects,1,1,1.0
-2014-11,E01031139,Street Furniture,1,1,1.0
-2014-11,E01031141,Drainage,1,1,1.0
-2014-11,E01031141,Right of Way,2,2,1.0
-2014-11,E01031141,Road Safety,1,1,1.0
-2014-11,E01031141,Street Lights,1,1,1.0
-2014-11,E01031142,Road Surface Defects,1,1,1.0
-2014-11,E01031142,Street Lights,1,1,1.0
-2014-11,E01031143,Road Surface Defects,1,1,1.0
-2014-11,E01031144,Right of Way,1,1,1.0
-2014-11,E01031145,Other,1,1,1.0
-2014-11,E01031145,Right of Way,1,1,1.0
-2014-11,E01031147,Street Lights,1,1,1.0
-2014-11,E01031149,Right of Way,1,1,1.0
-2014-11,E01031150,Right of Way,1,1,1.0
-2014-11,E01031150,Road Surface Defects,1,1,1.0
-2014-11,E01031155,Road Safety,1,1,1.0
-2014-11,E01031159,Right of Way,1,1,1.0
-2014-11,E01031159,Street Furniture,1,1,1.0
-2014-11,E01031160,Road Surface Defects,1,1,1.0
-2014-11,E01031161,Drainage,1,1,1.0
-2014-11,E01031162,Other,2,1,2.0
-2014-11,E01031162,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01031163,Right of Way,1,1,1.0
-2014-11,E01031163,Road Surface Defects,1,1,1.0
-2014-11,E01031168,Road Surface Defects,1,1,1.0
-2014-11,E01031172,Other,1,1,1.0
-2014-11,E01031173,Grounds Maintenance,2,2,1.0
-2014-11,E01031174,Road Safety,1,1,1.0
-2014-11,E01031175,Road Surface Defects,1,1,1.0
-2014-11,E01031178,Drainage,1,1,1.0
-2014-11,E01031180,Road Surface Defects,1,1,1.0
-2014-11,E01031184,Other,1,1,1.0
-2014-11,E01031184,Rubbish,1,1,1.0
-2014-11,E01031186,Road Surface Defects,1,1,1.0
-2014-11,E01031187,Road Surface Defects,1,1,1.0
-2014-11,E01031188,Other,1,1,1.0
-2014-11,E01031188,Right of Way,1,1,1.0
-2014-11,E01031188,Road Safety,1,1,1.0
-2014-11,E01031193,Right of Way,1,1,1.0
-2014-11,E01031194,Grounds Maintenance,1,1,1.0
-2014-11,E01031194,Other,1,1,1.0
-2014-11,E01031195,Drainage,1,1,1.0
-2014-11,E01031196,Grounds Maintenance,1,1,1.0
-2014-11,E01031197,Road Surface Defects,1,1,1.0
-2014-11,E01031198,Right of Way,1,1,1.0
-2014-11,E01031199,Road Surface Defects,1,1,1.0
-2014-11,E01031200,Drainage,1,1,1.0
-2014-11,E01031201,Rubbish,1,1,1.0
-2014-11,E01031202,Right of Way,1,1,1.0
-2014-11,E01031203,Drainage,1,1,1.0
-2014-11,E01031204,Road Surface Defects,1,1,1.0
-2014-11,E01031205,Road Safety,2,2,1.0
-2014-11,E01031206,Right of Way,1,1,1.0
-2014-11,E01031207,Drainage,1,1,1.0
-2014-11,E01031207,Right of Way,1,1,1.0
-2014-11,E01031207,Road Safety,1,1,1.0
-2014-11,E01031208,Drainage,1,1,1.0
-2014-11,E01031208,Other,1,1,1.0
-2014-11,E01031209,Drainage,1,1,1.0
-2014-11,E01031211,Drainage,1,1,1.0
-2014-11,E01031212,Drainage,2,1,2.0
-2014-11,E01031215,Other,1,1,1.0
-2014-11,E01031215,Road Safety,1,1,1.0
-2014-11,E01031218,Drainage,2,2,1.0
-2014-11,E01031218,Other,1,1,1.0
-2014-11,E01031218,Right of Way,1,1,1.0
-2014-11,E01031218,Road Surface Defects,2,2,1.0
-2014-11,E01031224,Right of Way,2,2,1.0
-2014-11,E01031225,Street Lights,1,1,1.0
-2014-11,E01031227,Drainage,1,1,1.0
-2014-11,E01031227,Other,1,1,1.0
-2014-11,E01031229,Right of Way,1,1,1.0
-2014-11,E01031229,Road Safety,1,1,1.0
-2014-11,E01031229,Road Surface Defects,1,1,1.0
-2014-11,E01031230,Other,1,1,1.0
-2014-11,E01031230,Road Surface Defects,1,1,1.0
-2014-11,E01031231,Road Surface Defects,1,1,1.0
-2014-11,E01031232,Street Lights,1,1,1.0
-2014-11,E01031233,Road Surface Defects,1,1,1.0
-2014-11,E01031233,Street Lights,1,1,1.0
-2014-11,E01031234,Other,1,1,1.0
-2014-11,E01031234,Road Surface Defects,1,1,1.0
-2014-11,E01031236,Drainage,1,1,1.0
-2014-11,E01031238,Road Surface Defects,1,1,1.0
-2014-11,E01031242,Drainage,1,1,1.0
-2014-11,E01031242,Road Surface Defects,1,1,1.0
-2014-11,E01031243,Drainage,2,2,1.0
-2014-11,E01031244,Right of Way,2,2,1.0
-2014-11,E01031244,Road Surface Defects,1,1,1.0
-2014-11,E01031245,Drainage,1,1,1.0
-2014-11,E01031245,Grounds Maintenance,1,1,1.0
-2014-11,E01031246,Road Surface Defects,1,1,1.0
-2014-11,E01031247,Drainage,1,1,1.0
-2014-11,E01031250,Right of Way,1,1,1.0
-2014-11,E01031254,Road Surface Defects,1,1,1.0
-2014-11,E01031256,Bus Stops Damage,1,1,1.0
-2014-11,E01031256,Other,1,1,1.0
-2014-11,E01031257,Drainage,1,1,1.0
-2014-11,E01031257,Road Surface Defects,1,1,1.0
-2014-11,E01031258,Drainage,1,1,1.0
-2014-11,E01031258,Road Safety,1,1,1.0
-2014-11,E01031258,Road Surface Defects,1,1,1.0
-2014-11,E01031259,Road Safety,1,1,1.0
-2014-11,E01031260,Grounds Maintenance,2,2,1.0
-2014-11,E01031260,Parking,1,1,1.0
-2014-11,E01031266,Road Surface Defects,1,1,1.0
-2014-11,E01031267,Drainage,1,1,1.0
-2014-11,E01031268,Road Safety,2,2,1.0
-2014-11,E01031269,Road Safety,1,1,1.0
-2014-11,E01031269,Road Surface Defects,1,1,1.0
-2014-11,E01031269,Rubbish,1,1,1.0
-2014-11,E01031271,Road Safety,1,1,1.0
-2014-11,E01031277,Drainage,1,1,1.0
-2014-11,E01031277,Road Safety,2,2,1.0
-2014-11,E01031280,Right of Way,1,1,1.0
-2014-11,E01031282,Drainage,1,1,1.0
-2014-11,E01031282,Other,1,1,1.0
-2014-11,E01031282,Right of Way,1,1,1.0
-2014-11,E01031293,Road Surface Defects,1,1,1.0
-2014-11,E01031296,Drainage,1,1,1.0
-2014-11,E01031296,Road Safety,1,1,1.0
-2014-11,E01031296,Road Surface Defects,2,1,2.0
-2014-11,E01031298,Road Surface Defects,1,1,1.0
-2014-11,E01031299,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01031301,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01031301,Right of Way,1,1,1.0
-2014-11,E01031301,Rubbish,1,1,1.0
-2014-11,E01031305,Road Surface Defects,1,1,1.0
-2014-11,E01031307,Open Spaces/Parks,1,1,1.0
-2014-11,E01031307,Other,1,1,1.0
-2014-11,E01031307,Right of Way,1,1,1.0
-2014-11,E01031308,Road Safety,1,1,1.0
-2014-11,E01031308,Road Surface Defects,2,2,1.0
-2014-11,E01031314,Road Surface Defects,1,1,1.0
-2014-11,E01031315,Right of Way,1,1,1.0
-2014-11,E01031315,Road Surface Defects,1,1,1.0
-2014-11,E01031317,Other,1,1,1.0
-2014-11,E01031317,Road Safety,1,1,1.0
-2014-11,E01031317,Rubbish,1,1,1.0
-2014-11,E01031319,Right of Way,1,1,1.0
-2014-11,E01031321,Drainage,1,1,1.0
-2014-11,E01031322,Drainage,2,1,2.0
-2014-11,E01031331,Road Safety,1,1,1.0
-2014-11,E01031336,Other,1,1,1.0
-2014-11,E01032554,Road Surface Defects,1,1,1.0
-2014-11,E01032562,Pavement /Footway Defects,1,1,1.0
-2014-11,E01032562,Rubbish,8,4,2.0
-2014-11,E01032563,Rubbish,2,2,1.0
-2014-11,E01032568,Incivilities,1,1,1.0
-2014-11,E01032568,Right of Way,2,2,1.0
-2014-11,E01032568,Road Surface Defects,1,1,1.0
-2014-11,E01032568,Rubbish,1,1,1.0
-2014-11,E01032568,Street Lights,2,2,1.0
-2014-11,E01032570,Incivilities,1,1,1.0
-2014-11,E01032570,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01032570,Pavement /Footway Defects,1,1,1.0
-2014-11,E01032570,Rubbish,1,1,1.0
-2014-11,E01032570,Street Lights,1,1,1.0
-2014-11,E01032831,Street Lights,1,1,1.0
-2014-11,E01032832,Street Lights,1,1,1.0
-2014-11,E01032852,Highways Enquiries,1,1,1.0
-2014-11,E01032852,Other,1,1,1.0
-2014-11,E01032853,Rubbish,1,1,1.0
-2014-11,E01032853,Street Lights,2,2,1.0
-2014-11,E01032854,Road Surface Defects,2,2,1.0
-2014-11,E01032854,Rubbish,1,1,1.0
-2014-11,E01032854,Street Lights,1,1,1.0
-2014-11,E01032855,Street Furniture,1,1,1.0
-2014-11,E01032856,Highways Enquiries,1,1,1.0
-2014-11,E01032892,Road Surface Defects,1,1,1.0
-2014-11,E01032894,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01032895,Road Surface Defects,1,1,1.0
-2014-11,E01032944,Highways Enquiries,1,1,1.0
-2014-11,E01032944,Overgrown/Fallen Veg/Trees,1,1,1.0
-2014-11,E01032948,Drainage,1,1,1.0
-2014-11,E01032949,Parking,1,1,1.0
-2014-11,E01032950,Rubbish,1,1,1.0
-2014-11,E01032951,Parking,1,1,1.0
-2014-11,E01032952,Other,1,1,1.0
-2014-11,E01032953,Highways Enquiries,1,1,1.0
-2014-11,E01032954,Highways Enquiries,1,1,1.0
-2014-11,E01033252,Right of Way,1,1,1.0
-2014-11,E01033255,Bridge/Culvert Defects,1,1,1.0
-2014-11,E01033255,Parking,1,1,1.0
-2014-11,E01033282,Drainage,2,2,1.0
-2014-11,E01033282,Road Surface Defects,2,2,1.0
-2014-11,E01033282,Street Lights,1,1,1.0
-2014-11,E01033306,Road Surface Defects,2,2,1.0
+2014-11,E01028756,B17,1,1,1.0
+2014-11,E01028756,B18,1,1,1.0
+2014-11,E01028756,B19,1,1,1.0
+2014-11,E01028756,B7,1,1,1.0
+2014-11,E01028759,B1,1,1,1.0
+2014-11,E01028760,B19,1,1,1.0
+2014-11,E01028762,B23,1,1,1.0
+2014-11,E01028762,B25,1,1,1.0
+2014-11,E01028765,B7,1,1,1.0
+2014-11,E01028766,B25,1,1,1.0
+2014-11,E01028767,B24,1,1,1.0
+2014-11,E01028767,B25,3,3,1.0
+2014-11,E01028771,B26,1,1,1.0
+2014-11,E01028773,B25,1,1,1.0
+2014-11,E01028776,B25,2,2,1.0
+2014-11,E01028776,B7,2,2,1.0
+2014-11,E01028781,B25,1,1,1.0
+2014-11,E01028784,B24,2,2,1.0
+2014-11,E01028784,B25,4,3,1.3333333333333333
+2014-11,E01028785,B25,1,1,1.0
+2014-11,E01028786,B16,1,1,1.0
+2014-11,E01028787,B13,1,1,1.0
+2014-11,E01028787,B16,1,1,1.0
+2014-11,E01028787,B25,1,1,1.0
+2014-11,E01028787,B26,1,1,1.0
+2014-11,E01028788,B7,2,1,2.0
+2014-11,E01028789,B25,1,1,1.0
+2014-11,E01028791,B25,1,1,1.0
+2014-11,E01028793,B25,2,2,1.0
+2014-11,E01028794,B17,2,1,2.0
+2014-11,E01028794,B25,1,1,1.0
+2014-11,E01028798,B7,2,2,1.0
+2014-11,E01028800,B26,1,1,1.0
+2014-11,E01028802,B17,1,1,1.0
+2014-11,E01028802,B25,1,1,1.0
+2014-11,E01028806,B25,1,1,1.0
+2014-11,E01028806,B28,1,1,1.0
+2014-11,E01028808,B19,1,1,1.0
+2014-11,E01028810,B25,1,1,1.0
+2014-11,E01028811,B18,1,1,1.0
+2014-11,E01028811,B28,1,1,1.0
+2014-11,E01028814,B7,1,1,1.0
+2014-11,E01028818,B25,1,1,1.0
+2014-11,E01028819,B24,1,1,1.0
+2014-11,E01028820,B25,1,1,1.0
+2014-11,E01031007,B25,1,1,1.0
+2014-11,E01031008,B25,1,1,1.0
+2014-11,E01031009,B25,1,1,1.0
+2014-11,E01031010,B25,1,1,1.0
+2014-11,E01031014,B1,1,1,1.0
+2014-11,E01031020,B25,1,1,1.0
+2014-11,E01031022,B7,1,1,1.0
+2014-11,E01031023,B25,1,1,1.0
+2014-11,E01031023,B7,1,1,1.0
+2014-11,E01031024,B23,1,1,1.0
+2014-11,E01031024,B25,1,1,1.0
+2014-11,E01031024,B26,1,1,1.0
+2014-11,E01031028,B24,1,1,1.0
+2014-11,E01031028,B25,1,1,1.0
+2014-11,E01031030,B24,1,1,1.0
+2014-11,E01031031,B23,1,1,1.0
+2014-11,E01031031,B7,1,1,1.0
+2014-11,E01031036,B7,1,1,1.0
+2014-11,E01031038,B25,1,1,1.0
+2014-11,E01031041,B25,1,1,1.0
+2014-11,E01031041,B7,1,1,1.0
+2014-11,E01031042,B25,1,1,1.0
+2014-11,E01031042,B7,1,1,1.0
+2014-11,E01031043,B28,2,1,2.0
+2014-11,E01031046,B25,1,1,1.0
+2014-11,E01031049,B28,1,1,1.0
+2014-11,E01031051,B16,1,1,1.0
+2014-11,E01031052,B23,1,1,1.0
+2014-11,E01031056,B25,1,1,1.0
+2014-11,E01031059,B28,2,1,2.0
+2014-11,E01031065,B25,1,1,1.0
+2014-11,E01031067,B16,1,1,1.0
+2014-11,E01031088,B23,1,1,1.0
+2014-11,E01031088,B7,1,1,1.0
+2014-11,E01031090,B25,1,1,1.0
+2014-11,E01031090,B28,2,1,2.0
+2014-11,E01031093,B28,1,1,1.0
+2014-11,E01031102,B16,1,1,1.0
+2014-11,E01031102,B18,1,1,1.0
+2014-11,E01031102,B25,1,1,1.0
+2014-11,E01031103,B23,1,1,1.0
+2014-11,E01031112,B23,1,1,1.0
+2014-11,E01031116,B28,2,1,2.0
+2014-11,E01031125,B25,1,1,1.0
+2014-11,E01031130,B25,1,1,1.0
+2014-11,E01031130,B28,1,1,1.0
+2014-11,E01031136,B25,1,1,1.0
+2014-11,E01031136,B7,1,1,1.0
+2014-11,E01031139,B27,1,1,1.0
+2014-11,E01031141,B23,2,2,1.0
+2014-11,E01031141,B24,1,1,1.0
+2014-11,E01031141,B28,1,1,1.0
+2014-11,E01031141,B7,1,1,1.0
+2014-11,E01031142,B25,1,1,1.0
+2014-11,E01031142,B28,1,1,1.0
+2014-11,E01031143,B25,1,1,1.0
+2014-11,E01031144,B23,1,1,1.0
+2014-11,E01031145,B16,1,1,1.0
+2014-11,E01031145,B23,1,1,1.0
+2014-11,E01031147,B28,1,1,1.0
+2014-11,E01031149,B23,1,1,1.0
+2014-11,E01031150,B23,1,1,1.0
+2014-11,E01031150,B25,1,1,1.0
+2014-11,E01031155,B24,1,1,1.0
+2014-11,E01031159,B23,1,1,1.0
+2014-11,E01031159,B27,1,1,1.0
+2014-11,E01031160,B25,1,1,1.0
+2014-11,E01031161,B7,1,1,1.0
+2014-11,E01031162,B16,2,1,2.0
+2014-11,E01031162,B17,1,1,1.0
+2014-11,E01031163,B23,1,1,1.0
+2014-11,E01031163,B25,1,1,1.0
+2014-11,E01031168,B25,1,1,1.0
+2014-11,E01031172,B16,1,1,1.0
+2014-11,E01031173,B12,2,2,1.0
+2014-11,E01031174,B24,1,1,1.0
+2014-11,E01031175,B25,1,1,1.0
+2014-11,E01031178,B7,1,1,1.0
+2014-11,E01031180,B25,1,1,1.0
+2014-11,E01031184,B16,1,1,1.0
+2014-11,E01031184,B26,1,1,1.0
+2014-11,E01031186,B25,1,1,1.0
+2014-11,E01031187,B25,1,1,1.0
+2014-11,E01031188,B16,1,1,1.0
+2014-11,E01031188,B23,1,1,1.0
+2014-11,E01031188,B24,1,1,1.0
+2014-11,E01031193,B23,1,1,1.0
+2014-11,E01031194,B12,1,1,1.0
+2014-11,E01031194,B16,1,1,1.0
+2014-11,E01031195,B7,1,1,1.0
+2014-11,E01031196,B12,1,1,1.0
+2014-11,E01031197,B25,1,1,1.0
+2014-11,E01031198,B23,1,1,1.0
+2014-11,E01031199,B25,1,1,1.0
+2014-11,E01031200,B7,1,1,1.0
+2014-11,E01031201,B26,1,1,1.0
+2014-11,E01031202,B23,1,1,1.0
+2014-11,E01031203,B7,1,1,1.0
+2014-11,E01031204,B25,1,1,1.0
+2014-11,E01031205,B24,2,2,1.0
+2014-11,E01031206,B23,1,1,1.0
+2014-11,E01031207,B23,1,1,1.0
+2014-11,E01031207,B24,1,1,1.0
+2014-11,E01031207,B7,1,1,1.0
+2014-11,E01031208,B16,1,1,1.0
+2014-11,E01031208,B7,1,1,1.0
+2014-11,E01031209,B7,1,1,1.0
+2014-11,E01031211,B7,1,1,1.0
+2014-11,E01031212,B7,2,1,2.0
+2014-11,E01031215,B16,1,1,1.0
+2014-11,E01031215,B24,1,1,1.0
+2014-11,E01031218,B16,1,1,1.0
+2014-11,E01031218,B23,1,1,1.0
+2014-11,E01031218,B25,2,2,1.0
+2014-11,E01031218,B7,2,2,1.0
+2014-11,E01031224,B23,2,2,1.0
+2014-11,E01031225,B28,1,1,1.0
+2014-11,E01031227,B16,1,1,1.0
+2014-11,E01031227,B7,1,1,1.0
+2014-11,E01031229,B23,1,1,1.0
+2014-11,E01031229,B24,1,1,1.0
+2014-11,E01031229,B25,1,1,1.0
+2014-11,E01031230,B16,1,1,1.0
+2014-11,E01031230,B25,1,1,1.0
+2014-11,E01031231,B25,1,1,1.0
+2014-11,E01031232,B28,1,1,1.0
+2014-11,E01031233,B25,1,1,1.0
+2014-11,E01031233,B28,1,1,1.0
+2014-11,E01031234,B16,1,1,1.0
+2014-11,E01031234,B25,1,1,1.0
+2014-11,E01031236,B7,1,1,1.0
+2014-11,E01031238,B25,1,1,1.0
+2014-11,E01031242,B25,1,1,1.0
+2014-11,E01031242,B7,1,1,1.0
+2014-11,E01031243,B7,2,2,1.0
+2014-11,E01031244,B23,2,2,1.0
+2014-11,E01031244,B25,1,1,1.0
+2014-11,E01031245,B12,1,1,1.0
+2014-11,E01031245,B7,1,1,1.0
+2014-11,E01031246,B25,1,1,1.0
+2014-11,E01031247,B7,1,1,1.0
+2014-11,E01031250,B23,1,1,1.0
+2014-11,E01031254,B25,1,1,1.0
+2014-11,E01031256,B16,1,1,1.0
+2014-11,E01031256,B4,1,1,1.0
+2014-11,E01031257,B25,1,1,1.0
+2014-11,E01031257,B7,1,1,1.0
+2014-11,E01031258,B24,1,1,1.0
+2014-11,E01031258,B25,1,1,1.0
+2014-11,E01031258,B7,1,1,1.0
+2014-11,E01031259,B24,1,1,1.0
+2014-11,E01031260,B12,2,2,1.0
+2014-11,E01031260,B18,1,1,1.0
+2014-11,E01031266,B25,1,1,1.0
+2014-11,E01031267,B7,1,1,1.0
+2014-11,E01031268,B24,2,2,1.0
+2014-11,E01031269,B24,1,1,1.0
+2014-11,E01031269,B25,1,1,1.0
+2014-11,E01031269,B26,1,1,1.0
+2014-11,E01031271,B24,1,1,1.0
+2014-11,E01031277,B24,2,2,1.0
+2014-11,E01031277,B7,1,1,1.0
+2014-11,E01031280,B23,1,1,1.0
+2014-11,E01031282,B16,1,1,1.0
+2014-11,E01031282,B23,1,1,1.0
+2014-11,E01031282,B7,1,1,1.0
+2014-11,E01031293,B25,1,1,1.0
+2014-11,E01031296,B24,1,1,1.0
+2014-11,E01031296,B25,2,1,2.0
+2014-11,E01031296,B7,1,1,1.0
+2014-11,E01031298,B25,1,1,1.0
+2014-11,E01031299,B17,1,1,1.0
+2014-11,E01031301,B17,1,1,1.0
+2014-11,E01031301,B23,1,1,1.0
+2014-11,E01031301,B26,1,1,1.0
+2014-11,E01031305,B25,1,1,1.0
+2014-11,E01031307,B15,1,1,1.0
+2014-11,E01031307,B16,1,1,1.0
+2014-11,E01031307,B23,1,1,1.0
+2014-11,E01031308,B24,1,1,1.0
+2014-11,E01031308,B25,2,2,1.0
+2014-11,E01031314,B25,1,1,1.0
+2014-11,E01031315,B23,1,1,1.0
+2014-11,E01031315,B25,1,1,1.0
+2014-11,E01031317,B16,1,1,1.0
+2014-11,E01031317,B24,1,1,1.0
+2014-11,E01031317,B26,1,1,1.0
+2014-11,E01031319,B23,1,1,1.0
+2014-11,E01031321,B7,1,1,1.0
+2014-11,E01031322,B7,2,1,2.0
+2014-11,E01031331,B24,1,1,1.0
+2014-11,E01031336,B16,1,1,1.0
+2014-11,E01032554,B25,1,1,1.0
+2014-11,E01032562,B19,1,1,1.0
+2014-11,E01032562,B26,8,4,2.0
+2014-11,E01032563,B26,2,2,1.0
+2014-11,E01032568,B14,1,1,1.0
+2014-11,E01032568,B23,2,2,1.0
+2014-11,E01032568,B25,1,1,1.0
+2014-11,E01032568,B26,1,1,1.0
+2014-11,E01032568,B28,2,2,1.0
+2014-11,E01032570,B14,1,1,1.0
+2014-11,E01032570,B17,1,1,1.0
+2014-11,E01032570,B19,1,1,1.0
+2014-11,E01032570,B26,1,1,1.0
+2014-11,E01032570,B28,1,1,1.0
+2014-11,E01032831,B28,1,1,1.0
+2014-11,E01032832,B28,1,1,1.0
+2014-11,E01032852,B13,1,1,1.0
+2014-11,E01032852,B16,1,1,1.0
+2014-11,E01032853,B26,1,1,1.0
+2014-11,E01032853,B28,2,2,1.0
+2014-11,E01032854,B25,2,2,1.0
+2014-11,E01032854,B26,1,1,1.0
+2014-11,E01032854,B28,1,1,1.0
+2014-11,E01032855,B27,1,1,1.0
+2014-11,E01032856,B13,1,1,1.0
+2014-11,E01032892,B25,1,1,1.0
+2014-11,E01032894,B17,1,1,1.0
+2014-11,E01032895,B25,1,1,1.0
+2014-11,E01032944,B13,1,1,1.0
+2014-11,E01032944,B17,1,1,1.0
+2014-11,E01032948,B7,1,1,1.0
+2014-11,E01032949,B18,1,1,1.0
+2014-11,E01032950,B26,1,1,1.0
+2014-11,E01032951,B18,1,1,1.0
+2014-11,E01032952,B16,1,1,1.0
+2014-11,E01032953,B13,1,1,1.0
+2014-11,E01032954,B13,1,1,1.0
+2014-11,E01033252,B23,1,1,1.0
+2014-11,E01033255,B18,1,1,1.0
+2014-11,E01033255,B3,1,1,1.0
+2014-11,E01033282,B25,2,2,1.0
+2014-11,E01033282,B28,1,1,1.0
+2014-11,E01033282,B7,2,2,1.0
+2014-11,E01033306,B25,2,2,1.0

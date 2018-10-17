@@ -1,1838 +1,1836 @@
-period,LSOA,SHEF_C,report_count,user_count,average
-2015-11,E01000645,Environmental Disruptions,2,2,1.0
-2015-11,E01000645,Environmental Health,3,3,1.0
-2015-11,E01000645,Road Safety & Defects,1,1,1.0
-2015-11,E01000645,Vehicles,1,1,1.0
-2015-11,E01000646,Environmental Disruptions,1,1,1.0
-2015-11,E01000646,Environmental Health,4,3,1.3333333333333333
-2015-11,E01000646,Road Safety & Defects,1,1,1.0
-2015-11,E01000647,Access,1,1,1.0
-2015-11,E01000647,Environmental Health,2,2,1.0
-2015-11,E01000647,Road Safety & Defects,1,1,1.0
-2015-11,E01000648,Environmental Health,2,2,1.0
-2015-11,E01000649,Environmental Health,2,2,1.0
-2015-11,E01000649,Incivilities,1,1,1.0
-2015-11,E01000649,Road Safety & Defects,1,1,1.0
-2015-11,E01000650,Environmental Health,5,4,1.25
-2015-11,E01000650,Vehicles,1,1,1.0
-2015-11,E01000651,Environmental Disruptions,3,3,1.0
-2015-11,E01000651,Environmental Health,1,1,1.0
-2015-11,E01000651,Road Safety & Defects,3,3,1.0
-2015-11,E01000652,Environmental Health,3,3,1.0
-2015-11,E01000652,Road Safety & Defects,2,2,1.0
-2015-11,E01000653,Environmental Disruptions,1,1,1.0
-2015-11,E01000654,Environmental Disruptions,1,1,1.0
-2015-11,E01000654,Environmental Health,2,2,1.0
-2015-11,E01000654,Road Safety & Defects,3,3,1.0
-2015-11,E01000654,Vehicles,2,2,1.0
-2015-11,E01000655,Environmental Health,1,1,1.0
-2015-11,E01000655,Road Safety & Defects,1,1,1.0
-2015-11,E01000655,Vehicles,1,1,1.0
-2015-11,E01000656,Environmental Disruptions,2,1,2.0
-2015-11,E01000656,Environmental Health,2,2,1.0
-2015-11,E01000656,Road Safety & Defects,6,5,1.2
-2015-11,E01000657,Road Safety & Defects,4,4,1.0
-2015-11,E01000657,Vehicles,1,1,1.0
-2015-11,E01000658,Road Safety & Defects,4,4,1.0
-2015-11,E01000659,Environmental Disruptions,1,1,1.0
-2015-11,E01000659,Road Safety & Defects,5,5,1.0
-2015-11,E01000661,Environmental Disruptions,4,2,2.0
-2015-11,E01000661,Environmental Health,18,5,3.6
-2015-11,E01000661,Road Safety & Defects,3,3,1.0
-2015-11,E01000661,Vehicles,1,1,1.0
-2015-11,E01000662,Environmental Health,2,2,1.0
-2015-11,E01000663,Environmental Disruptions,3,1,3.0
-2015-11,E01000663,Environmental Health,3,3,1.0
-2015-11,E01000663,Road Safety & Defects,4,4,1.0
-2015-11,E01000664,Environmental Disruptions,1,1,1.0
-2015-11,E01000664,Road Safety & Defects,2,2,1.0
-2015-11,E01000665,Environmental Disruptions,1,1,1.0
-2015-11,E01000665,Environmental Health,2,2,1.0
-2015-11,E01000665,Road Safety & Defects,1,1,1.0
-2015-11,E01000666,Access,2,2,1.0
-2015-11,E01000666,Environmental Disruptions,3,1,3.0
-2015-11,E01000666,Environmental Health,7,5,1.4
-2015-11,E01000666,Road Safety & Defects,1,1,1.0
-2015-11,E01000667,Environmental Disruptions,1,1,1.0
-2015-11,E01000667,Environmental Health,2,2,1.0
-2015-11,E01000668,Environmental Disruptions,2,2,1.0
-2015-11,E01000668,Environmental Health,15,3,5.0
-2015-11,E01000668,Road Safety & Defects,3,3,1.0
-2015-11,E01000669,Environmental Health,1,1,1.0
-2015-11,E01000670,Environmental Disruptions,1,1,1.0
-2015-11,E01000670,Environmental Health,4,4,1.0
-2015-11,E01000670,Road Safety & Defects,1,1,1.0
-2015-11,E01000670,Vehicles,1,1,1.0
-2015-11,E01000671,Environmental Disruptions,1,1,1.0
-2015-11,E01000671,Environmental Health,3,2,1.5
-2015-11,E01000671,Road Safety & Defects,3,3,1.0
-2015-11,E01000672,Environmental Disruptions,1,1,1.0
-2015-11,E01000672,Environmental Health,2,2,1.0
-2015-11,E01000672,Road Safety & Defects,1,1,1.0
-2015-11,E01000672,Vehicles,1,1,1.0
-2015-11,E01000673,Environmental Disruptions,3,2,1.5
-2015-11,E01000673,Environmental Health,1,1,1.0
-2015-11,E01000673,Road Safety & Defects,1,1,1.0
-2015-11,E01000673,Vehicles,1,1,1.0
-2015-11,E01000674,Environmental Health,1,1,1.0
-2015-11,E01000674,Road Safety & Defects,1,1,1.0
-2015-11,E01000675,Environmental Health,7,3,2.3333333333333335
-2015-11,E01000675,Road Safety & Defects,12,8,1.5
-2015-11,E01000675,Vehicles,3,3,1.0
-2015-11,E01000676,Environmental Health,4,3,1.3333333333333333
-2015-11,E01000676,Road Safety & Defects,10,8,1.25
-2015-11,E01000676,Vehicles,1,1,1.0
-2015-11,E01000677,Environmental Disruptions,3,3,1.0
-2015-11,E01000677,Environmental Health,4,4,1.0
-2015-11,E01000677,Road Safety & Defects,3,3,1.0
-2015-11,E01000678,Environmental Disruptions,2,2,1.0
-2015-11,E01000678,Environmental Health,3,3,1.0
-2015-11,E01000678,Road Safety & Defects,3,3,1.0
-2015-11,E01000679,Environmental Disruptions,2,2,1.0
-2015-11,E01000679,Environmental Health,1,1,1.0
-2015-11,E01000679,Road Safety & Defects,3,3,1.0
-2015-11,E01000680,Environmental Disruptions,1,1,1.0
-2015-11,E01000680,Environmental Health,2,2,1.0
-2015-11,E01000681,Environmental Disruptions,1,1,1.0
-2015-11,E01000681,Environmental Health,3,3,1.0
-2015-11,E01000681,Incivilities,2,2,1.0
-2015-11,E01000681,Road Safety & Defects,3,3,1.0
-2015-11,E01000683,Environmental Disruptions,1,1,1.0
-2015-11,E01000683,Environmental Health,4,3,1.3333333333333333
-2015-11,E01000684,Environmental Disruptions,1,1,1.0
-2015-11,E01000684,Environmental Health,3,3,1.0
-2015-11,E01000684,Road Safety & Defects,3,3,1.0
-2015-11,E01000684,Vehicles,4,4,1.0
-2015-11,E01000685,Access,1,1,1.0
-2015-11,E01000685,Environmental Health,4,4,1.0
-2015-11,E01000685,Road Safety & Defects,3,3,1.0
-2015-11,E01000686,Access,1,1,1.0
-2015-11,E01000686,Environmental Disruptions,3,2,1.5
-2015-11,E01000686,Environmental Health,2,2,1.0
-2015-11,E01000686,Road Safety & Defects,2,2,1.0
-2015-11,E01000687,Environmental Health,3,3,1.0
-2015-11,E01000688,Road Safety & Defects,1,1,1.0
-2015-11,E01000689,Vehicles,3,3,1.0
-2015-11,E01000690,Access,1,1,1.0
-2015-11,E01000690,Vehicles,1,1,1.0
-2015-11,E01000691,Environmental Health,1,1,1.0
-2015-11,E01000691,Road Safety & Defects,2,2,1.0
-2015-11,E01000691,Vehicles,2,2,1.0
-2015-11,E01000692,Environmental Disruptions,2,2,1.0
-2015-11,E01000692,Environmental Health,2,2,1.0
-2015-11,E01000692,Incivilities,1,1,1.0
-2015-11,E01000692,Road Safety & Defects,2,1,2.0
-2015-11,E01000693,Environmental Health,1,1,1.0
-2015-11,E01000693,Road Safety & Defects,4,4,1.0
-2015-11,E01000693,Vehicles,1,1,1.0
-2015-11,E01000694,Environmental Disruptions,1,1,1.0
-2015-11,E01000694,Environmental Health,3,3,1.0
-2015-11,E01000694,Road Safety & Defects,2,2,1.0
-2015-11,E01000695,Environmental Disruptions,1,1,1.0
-2015-11,E01000695,Environmental Health,1,1,1.0
-2015-11,E01000695,Road Safety & Defects,6,5,1.2
-2015-11,E01000695,Vehicles,2,2,1.0
-2015-11,E01000696,Environmental Disruptions,1,1,1.0
-2015-11,E01000696,Environmental Health,1,1,1.0
-2015-11,E01000696,Incivilities,2,1,2.0
-2015-11,E01000696,Road Safety & Defects,1,1,1.0
-2015-11,E01000696,Vehicles,4,4,1.0
-2015-11,E01000697,Environmental Health,1,1,1.0
-2015-11,E01000697,Road Safety & Defects,4,4,1.0
-2015-11,E01000698,Access,1,1,1.0
-2015-11,E01000698,Environmental Disruptions,1,1,1.0
-2015-11,E01000698,Environmental Health,1,1,1.0
-2015-11,E01000698,Incivilities,1,1,1.0
-2015-11,E01000698,Road Safety & Defects,2,2,1.0
-2015-11,E01000699,Environmental Disruptions,1,1,1.0
-2015-11,E01000699,Environmental Health,3,2,1.5
-2015-11,E01000700,Environmental Health,4,3,1.3333333333333333
-2015-11,E01000700,Incivilities,1,1,1.0
-2015-11,E01000700,Road Safety & Defects,1,1,1.0
-2015-11,E01000701,Environmental Disruptions,2,2,1.0
-2015-11,E01000701,Environmental Health,3,3,1.0
-2015-11,E01000701,Road Safety & Defects,2,2,1.0
-2015-11,E01000701,Vehicles,1,1,1.0
-2015-11,E01000702,Access,1,1,1.0
-2015-11,E01000702,Environmental Disruptions,2,2,1.0
-2015-11,E01000702,Environmental Health,1,1,1.0
-2015-11,E01000702,Road Safety & Defects,1,1,1.0
-2015-11,E01000703,Environmental Health,3,3,1.0
-2015-11,E01000703,Incivilities,1,1,1.0
-2015-11,E01000703,Road Safety & Defects,5,4,1.25
-2015-11,E01000704,Environmental Health,6,6,1.0
-2015-11,E01000704,Road Safety & Defects,1,1,1.0
-2015-11,E01000705,Environmental Health,4,4,1.0
-2015-11,E01000705,Road Safety & Defects,1,1,1.0
-2015-11,E01000706,Environmental Disruptions,5,4,1.25
-2015-11,E01000706,Environmental Health,1,1,1.0
-2015-11,E01000706,Incivilities,1,1,1.0
-2015-11,E01000706,Road Safety & Defects,3,2,1.5
-2015-11,E01000706,Vehicles,2,2,1.0
-2015-11,E01000707,Access,1,1,1.0
-2015-11,E01000707,Environmental Health,1,1,1.0
-2015-11,E01000707,Road Safety & Defects,2,2,1.0
-2015-11,E01000707,Vehicles,1,1,1.0
-2015-11,E01000708,Environmental Disruptions,3,3,1.0
-2015-11,E01000709,Environmental Disruptions,1,1,1.0
-2015-11,E01000709,Environmental Health,3,3,1.0
-2015-11,E01000709,Road Safety & Defects,1,1,1.0
-2015-11,E01000710,Environmental Disruptions,2,2,1.0
-2015-11,E01000710,Environmental Health,11,3,3.6666666666666665
-2015-11,E01000710,Road Safety & Defects,2,2,1.0
-2015-11,E01000711,Environmental Disruptions,1,1,1.0
-2015-11,E01000711,Environmental Health,10,4,2.5
-2015-11,E01000711,Road Safety & Defects,2,2,1.0
-2015-11,E01000712,Environmental Health,1,1,1.0
-2015-11,E01000712,Road Safety & Defects,3,3,1.0
-2015-11,E01000713,Environmental Health,4,3,1.3333333333333333
-2015-11,E01000713,Incivilities,3,2,1.5
-2015-11,E01000713,Road Safety & Defects,2,2,1.0
-2015-11,E01000714,Environmental Health,6,4,1.5
-2015-11,E01000714,Road Safety & Defects,2,2,1.0
-2015-11,E01000714,Vehicles,1,1,1.0
-2015-11,E01000715,Environmental Health,1,1,1.0
-2015-11,E01000715,Vehicles,1,1,1.0
-2015-11,E01000716,Access,1,1,1.0
-2015-11,E01000716,Environmental Disruptions,1,1,1.0
-2015-11,E01000716,Environmental Health,1,1,1.0
-2015-11,E01000716,Road Safety & Defects,1,1,1.0
-2015-11,E01000717,Access,1,1,1.0
-2015-11,E01000717,Environmental Disruptions,2,2,1.0
-2015-11,E01000717,Environmental Health,1,1,1.0
-2015-11,E01000717,Road Safety & Defects,1,1,1.0
-2015-11,E01000717,Vehicles,1,1,1.0
-2015-11,E01000718,Environmental Disruptions,2,2,1.0
-2015-11,E01000718,Environmental Health,1,1,1.0
-2015-11,E01000719,Environmental Disruptions,2,2,1.0
-2015-11,E01000719,Road Safety & Defects,9,5,1.8
-2015-11,E01000720,Access,2,2,1.0
-2015-11,E01000720,Environmental Disruptions,1,1,1.0
-2015-11,E01000720,Environmental Health,15,11,1.3636363636363635
-2015-11,E01000720,Road Safety & Defects,3,2,1.5
-2015-11,E01000720,Vehicles,9,4,2.25
-2015-11,E01000721,Environmental Health,4,3,1.3333333333333333
-2015-11,E01000721,Road Safety & Defects,3,3,1.0
-2015-11,E01000722,Access,1,1,1.0
-2015-11,E01000722,Environmental Disruptions,1,1,1.0
-2015-11,E01000722,Environmental Health,4,2,2.0
-2015-11,E01000722,Road Safety & Defects,7,6,1.1666666666666667
-2015-11,E01000722,Vehicles,2,2,1.0
-2015-11,E01000723,Environmental Health,1,1,1.0
-2015-11,E01000723,Road Safety & Defects,1,1,1.0
-2015-11,E01000724,Environmental Disruptions,1,1,1.0
-2015-11,E01000724,Environmental Health,6,5,1.2
-2015-11,E01000725,Environmental Disruptions,2,2,1.0
-2015-11,E01000725,Environmental Health,12,7,1.7142857142857142
-2015-11,E01000725,Incivilities,1,1,1.0
-2015-11,E01000725,Road Safety & Defects,7,7,1.0
-2015-11,E01000725,Vehicles,1,1,1.0
-2015-11,E01000726,Access,1,1,1.0
-2015-11,E01000726,Environmental Health,3,2,1.5
-2015-11,E01000727,Environmental Disruptions,3,3,1.0
-2015-11,E01000727,Environmental Health,3,3,1.0
-2015-11,E01000727,Incivilities,1,1,1.0
-2015-11,E01000727,Road Safety & Defects,6,4,1.5
-2015-11,E01000728,Environmental Health,6,5,1.2
-2015-11,E01000728,Incivilities,1,1,1.0
-2015-11,E01000728,Road Safety & Defects,2,2,1.0
-2015-11,E01000729,Environmental Health,4,4,1.0
-2015-11,E01000729,Road Safety & Defects,3,1,3.0
-2015-11,E01000729,Vehicles,5,3,1.6666666666666667
-2015-11,E01000730,Environmental Health,3,3,1.0
-2015-11,E01000730,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01000731,Environmental Disruptions,1,1,1.0
-2015-11,E01000732,Environmental Health,1,1,1.0
-2015-11,E01000733,Environmental Disruptions,1,1,1.0
-2015-11,E01000733,Environmental Health,2,2,1.0
-2015-11,E01000734,Environmental Disruptions,1,1,1.0
-2015-11,E01000734,Environmental Health,1,1,1.0
-2015-11,E01000734,Road Safety & Defects,2,2,1.0
-2015-11,E01000735,Environmental Health,1,1,1.0
-2015-11,E01000736,Environmental Health,3,2,1.5
-2015-11,E01000736,Incivilities,1,1,1.0
-2015-11,E01000736,Road Safety & Defects,3,3,1.0
-2015-11,E01000737,Access,1,1,1.0
-2015-11,E01000737,Environmental Health,2,2,1.0
-2015-11,E01000737,Road Safety & Defects,2,2,1.0
-2015-11,E01000738,Environmental Health,3,3,1.0
-2015-11,E01000738,Incivilities,1,1,1.0
-2015-11,E01000738,Road Safety & Defects,2,1,2.0
-2015-11,E01000739,Environmental Health,2,2,1.0
-2015-11,E01000739,Incivilities,2,1,2.0
-2015-11,E01000740,Environmental Disruptions,2,2,1.0
-2015-11,E01000740,Environmental Health,3,3,1.0
-2015-11,E01000740,Incivilities,9,3,3.0
-2015-11,E01000740,Road Safety & Defects,1,1,1.0
-2015-11,E01000740,Vehicles,1,1,1.0
-2015-11,E01000741,Environmental Health,5,4,1.25
-2015-11,E01000741,Incivilities,3,2,1.5
-2015-11,E01000741,Road Safety & Defects,1,1,1.0
-2015-11,E01000741,Vehicles,1,1,1.0
-2015-11,E01000742,Environmental Disruptions,1,1,1.0
-2015-11,E01000742,Environmental Health,3,3,1.0
-2015-11,E01000743,Environmental Disruptions,1,1,1.0
-2015-11,E01000743,Environmental Health,7,7,1.0
-2015-11,E01000743,Incivilities,3,1,3.0
-2015-11,E01000743,Road Safety & Defects,2,2,1.0
-2015-11,E01000744,Environmental Health,4,4,1.0
-2015-11,E01000744,Road Safety & Defects,2,2,1.0
-2015-11,E01000744,Vehicles,1,1,1.0
-2015-11,E01000745,Environmental Disruptions,2,2,1.0
-2015-11,E01000745,Environmental Health,1,1,1.0
-2015-11,E01000745,Road Safety & Defects,1,1,1.0
-2015-11,E01000746,Environmental Disruptions,1,1,1.0
-2015-11,E01000746,Environmental Health,4,4,1.0
-2015-11,E01000746,Incivilities,1,1,1.0
-2015-11,E01000746,Road Safety & Defects,1,1,1.0
-2015-11,E01000747,Access,1,1,1.0
-2015-11,E01000747,Environmental Health,5,5,1.0
-2015-11,E01000747,Road Safety & Defects,6,5,1.2
-2015-11,E01000748,Access,2,2,1.0
-2015-11,E01000748,Environmental Health,2,2,1.0
-2015-11,E01000748,Road Safety & Defects,2,2,1.0
-2015-11,E01000748,Vehicles,3,2,1.5
-2015-11,E01000749,Environmental Health,6,6,1.0
-2015-11,E01000749,Road Safety & Defects,3,3,1.0
-2015-11,E01000749,Vehicles,1,1,1.0
-2015-11,E01000750,Road Safety & Defects,2,2,1.0
-2015-11,E01000751,Access,1,1,1.0
-2015-11,E01000751,Environmental Disruptions,1,1,1.0
-2015-11,E01000751,Environmental Health,2,2,1.0
-2015-11,E01000751,Road Safety & Defects,3,3,1.0
-2015-11,E01000752,Environmental Disruptions,3,2,1.5
-2015-11,E01000752,Environmental Health,3,3,1.0
-2015-11,E01000752,Road Safety & Defects,2,2,1.0
-2015-11,E01000753,Access,1,1,1.0
-2015-11,E01000753,Environmental Disruptions,1,1,1.0
-2015-11,E01000753,Environmental Health,1,1,1.0
-2015-11,E01000753,Incivilities,1,1,1.0
-2015-11,E01000753,Road Safety & Defects,1,1,1.0
-2015-11,E01000754,Environmental Disruptions,1,1,1.0
-2015-11,E01000754,Environmental Health,3,2,1.5
-2015-11,E01000754,Road Safety & Defects,5,4,1.25
-2015-11,E01000755,Access,1,1,1.0
-2015-11,E01000755,Environmental Disruptions,3,3,1.0
-2015-11,E01000755,Environmental Health,1,1,1.0
-2015-11,E01000755,Road Safety & Defects,1,1,1.0
-2015-11,E01000755,Vehicles,1,1,1.0
-2015-11,E01000756,Environmental Disruptions,1,1,1.0
-2015-11,E01000756,Environmental Health,1,1,1.0
-2015-11,E01000757,Environmental Disruptions,3,3,1.0
-2015-11,E01000757,Environmental Health,1,1,1.0
-2015-11,E01000757,Road Safety & Defects,2,2,1.0
-2015-11,E01000758,Environmental Disruptions,1,1,1.0
-2015-11,E01000758,Road Safety & Defects,1,1,1.0
-2015-11,E01000759,Environmental Health,5,5,1.0
-2015-11,E01000759,Road Safety & Defects,2,2,1.0
-2015-11,E01000760,Environmental Disruptions,1,1,1.0
-2015-11,E01000760,Environmental Health,2,2,1.0
-2015-11,E01000761,Environmental Disruptions,1,1,1.0
-2015-11,E01000761,Environmental Health,1,1,1.0
-2015-11,E01000761,Road Safety & Defects,1,1,1.0
-2015-11,E01000762,Environmental Health,2,1,2.0
-2015-11,E01000762,Road Safety & Defects,3,3,1.0
-2015-11,E01000763,Environmental Disruptions,1,1,1.0
-2015-11,E01000763,Environmental Health,1,1,1.0
-2015-11,E01000763,Road Safety & Defects,3,3,1.0
-2015-11,E01000764,Environmental Disruptions,2,1,2.0
-2015-11,E01000764,Environmental Health,3,3,1.0
-2015-11,E01000764,Road Safety & Defects,1,1,1.0
-2015-11,E01000765,Environmental Disruptions,2,2,1.0
-2015-11,E01000765,Environmental Health,3,3,1.0
-2015-11,E01000765,Road Safety & Defects,1,1,1.0
-2015-11,E01000765,Vehicles,2,1,2.0
-2015-11,E01000766,Access,1,1,1.0
-2015-11,E01000766,Environmental Disruptions,1,1,1.0
-2015-11,E01000766,Environmental Health,1,1,1.0
-2015-11,E01000766,Road Safety & Defects,2,2,1.0
-2015-11,E01000767,Environmental Health,1,1,1.0
-2015-11,E01000767,Road Safety & Defects,2,2,1.0
-2015-11,E01000768,Road Safety & Defects,2,2,1.0
-2015-11,E01000769,Environmental Health,1,1,1.0
-2015-11,E01000769,Road Safety & Defects,2,2,1.0
-2015-11,E01000770,Access,1,1,1.0
-2015-11,E01000770,Environmental Disruptions,1,1,1.0
-2015-11,E01000770,Environmental Health,3,3,1.0
-2015-11,E01000770,Road Safety & Defects,3,3,1.0
-2015-11,E01000771,Environmental Disruptions,1,1,1.0
-2015-11,E01000771,Environmental Health,5,5,1.0
-2015-11,E01000771,Road Safety & Defects,2,1,2.0
-2015-11,E01000772,Environmental Disruptions,4,4,1.0
-2015-11,E01000772,Road Safety & Defects,2,2,1.0
-2015-11,E01000772,Vehicles,1,1,1.0
-2015-11,E01000773,Environmental Disruptions,1,1,1.0
-2015-11,E01000773,Environmental Health,2,2,1.0
-2015-11,E01000773,Road Safety & Defects,2,2,1.0
-2015-11,E01000774,Environmental Health,3,3,1.0
-2015-11,E01000774,Vehicles,2,2,1.0
-2015-11,E01000775,Access,1,1,1.0
-2015-11,E01000775,Environmental Disruptions,2,2,1.0
-2015-11,E01000775,Environmental Health,3,3,1.0
-2015-11,E01000775,Incivilities,1,1,1.0
-2015-11,E01000775,Road Safety & Defects,1,1,1.0
-2015-11,E01000777,Road Safety & Defects,1,1,1.0
-2015-11,E01000778,Environmental Disruptions,2,2,1.0
-2015-11,E01000778,Environmental Health,3,2,1.5
-2015-11,E01000778,Incivilities,1,1,1.0
-2015-11,E01000779,Environmental Disruptions,1,1,1.0
-2015-11,E01000779,Environmental Health,4,4,1.0
-2015-11,E01000779,Incivilities,1,1,1.0
-2015-11,E01000779,Road Safety & Defects,2,2,1.0
-2015-11,E01000779,Vehicles,1,1,1.0
-2015-11,E01000780,Environmental Disruptions,1,1,1.0
-2015-11,E01000780,Environmental Health,1,1,1.0
-2015-11,E01000780,Road Safety & Defects,2,2,1.0
-2015-11,E01000781,Environmental Disruptions,1,1,1.0
-2015-11,E01000781,Environmental Health,1,1,1.0
-2015-11,E01000781,Road Safety & Defects,1,1,1.0
-2015-11,E01000782,Environmental Health,3,3,1.0
-2015-11,E01000782,Vehicles,1,1,1.0
-2015-11,E01000783,Environmental Disruptions,2,2,1.0
-2015-11,E01000783,Environmental Health,2,2,1.0
-2015-11,E01000783,Road Safety & Defects,1,1,1.0
-2015-11,E01000784,Environmental Disruptions,1,1,1.0
-2015-11,E01000784,Road Safety & Defects,1,1,1.0
-2015-11,E01000785,Environmental Health,1,1,1.0
-2015-11,E01000786,Environmental Disruptions,1,1,1.0
-2015-11,E01000786,Environmental Health,1,1,1.0
-2015-11,E01000787,Access,1,1,1.0
-2015-11,E01000787,Environmental Health,1,1,1.0
-2015-11,E01000787,Road Safety & Defects,2,2,1.0
-2015-11,E01000788,Environmental Disruptions,1,1,1.0
-2015-11,E01000788,Environmental Health,2,2,1.0
-2015-11,E01000789,Environmental Health,1,1,1.0
-2015-11,E01000789,Road Safety & Defects,1,1,1.0
-2015-11,E01000790,Environmental Disruptions,1,1,1.0
-2015-11,E01000790,Environmental Health,8,6,1.3333333333333333
-2015-11,E01000790,Incivilities,1,1,1.0
-2015-11,E01000790,Road Safety & Defects,7,7,1.0
-2015-11,E01000790,Vehicles,1,1,1.0
-2015-11,E01000791,Access,1,1,1.0
-2015-11,E01000791,Environmental Disruptions,2,2,1.0
-2015-11,E01000791,Environmental Health,8,4,2.0
-2015-11,E01000792,Road Safety & Defects,1,1,1.0
-2015-11,E01000793,Environmental Disruptions,2,2,1.0
-2015-11,E01000793,Road Safety & Defects,2,2,1.0
-2015-11,E01000794,Environmental Disruptions,1,1,1.0
-2015-11,E01000794,Road Safety & Defects,1,1,1.0
-2015-11,E01000794,Vehicles,1,1,1.0
-2015-11,E01000795,Road Safety & Defects,1,1,1.0
-2015-11,E01000796,Environmental Health,1,1,1.0
-2015-11,E01000796,Incivilities,1,1,1.0
-2015-11,E01000796,Vehicles,1,1,1.0
-2015-11,E01000797,Environmental Disruptions,3,3,1.0
-2015-11,E01000797,Environmental Health,2,2,1.0
-2015-11,E01000797,Incivilities,2,2,1.0
-2015-11,E01000797,Road Safety & Defects,7,7,1.0
-2015-11,E01000798,Environmental Disruptions,1,1,1.0
-2015-11,E01000798,Environmental Health,4,4,1.0
-2015-11,E01000798,Vehicles,1,1,1.0
-2015-11,E01000799,Environmental Health,6,6,1.0
-2015-11,E01000799,Vehicles,1,1,1.0
-2015-11,E01000800,Environmental Disruptions,2,2,1.0
-2015-11,E01000800,Environmental Health,3,3,1.0
-2015-11,E01000800,Vehicles,1,1,1.0
-2015-11,E01000801,Environmental Disruptions,1,1,1.0
-2015-11,E01000801,Environmental Health,7,6,1.1666666666666667
-2015-11,E01000802,Environmental Disruptions,2,1,2.0
-2015-11,E01000802,Environmental Health,1,1,1.0
-2015-11,E01000802,Road Safety & Defects,2,2,1.0
-2015-11,E01000802,Vehicles,1,1,1.0
-2015-11,E01000803,Access,2,2,1.0
-2015-11,E01000803,Environmental Health,1,1,1.0
-2015-11,E01000803,Road Safety & Defects,1,1,1.0
-2015-11,E01000804,Environmental Disruptions,1,1,1.0
-2015-11,E01000804,Environmental Health,3,3,1.0
-2015-11,E01000804,Road Safety & Defects,1,1,1.0
-2015-11,E01000805,Environmental Disruptions,5,5,1.0
-2015-11,E01000805,Environmental Health,2,2,1.0
-2015-11,E01000805,Incivilities,1,1,1.0
-2015-11,E01000805,Road Safety & Defects,3,1,3.0
-2015-11,E01000806,Environmental Disruptions,1,1,1.0
-2015-11,E01000806,Environmental Health,10,8,1.25
-2015-11,E01000806,Road Safety & Defects,2,2,1.0
-2015-11,E01000807,Environmental Disruptions,2,2,1.0
-2015-11,E01000807,Environmental Health,3,2,1.5
-2015-11,E01000807,Road Safety & Defects,3,3,1.0
-2015-11,E01000808,Environmental Health,1,1,1.0
-2015-11,E01000808,Road Safety & Defects,2,2,1.0
-2015-11,E01000809,Environmental Disruptions,1,1,1.0
-2015-11,E01000809,Environmental Health,1,1,1.0
-2015-11,E01000809,Road Safety & Defects,2,2,1.0
-2015-11,E01000809,Vehicles,1,1,1.0
-2015-11,E01000810,Road Safety & Defects,1,1,1.0
-2015-11,E01000811,Environmental Health,3,3,1.0
-2015-11,E01000811,Road Safety & Defects,2,2,1.0
-2015-11,E01000812,Access,1,1,1.0
-2015-11,E01000812,Environmental Disruptions,2,2,1.0
-2015-11,E01000812,Environmental Health,6,3,2.0
-2015-11,E01000812,Road Safety & Defects,1,1,1.0
-2015-11,E01000813,Environmental Disruptions,2,2,1.0
-2015-11,E01000813,Environmental Health,1,1,1.0
-2015-11,E01000813,Incivilities,1,1,1.0
-2015-11,E01000813,Road Safety & Defects,1,1,1.0
-2015-11,E01000814,Environmental Disruptions,1,1,1.0
-2015-11,E01000814,Environmental Health,3,2,1.5
-2015-11,E01000814,Road Safety & Defects,5,5,1.0
-2015-11,E01000815,Access,1,1,1.0
-2015-11,E01000815,Environmental Health,3,2,1.5
-2015-11,E01000815,Road Safety & Defects,2,2,1.0
-2015-11,E01000816,Environmental Disruptions,1,1,1.0
-2015-11,E01000816,Environmental Health,1,1,1.0
-2015-11,E01000816,Vehicles,1,1,1.0
-2015-11,E01000818,Environmental Disruptions,9,6,1.5
-2015-11,E01000818,Environmental Health,2,2,1.0
-2015-11,E01000818,Vehicles,1,1,1.0
-2015-11,E01000819,Environmental Disruptions,1,1,1.0
-2015-11,E01000819,Environmental Health,3,3,1.0
-2015-11,E01000819,Road Safety & Defects,1,1,1.0
-2015-11,E01000820,Environmental Disruptions,3,3,1.0
-2015-11,E01000820,Environmental Health,2,2,1.0
-2015-11,E01000820,Vehicles,2,2,1.0
-2015-11,E01000822,Environmental Health,4,4,1.0
-2015-11,E01000822,Road Safety & Defects,3,3,1.0
-2015-11,E01000823,Environmental Disruptions,3,2,1.5
-2015-11,E01000823,Environmental Health,4,4,1.0
-2015-11,E01000823,Incivilities,1,1,1.0
-2015-11,E01000823,Road Safety & Defects,2,2,1.0
-2015-11,E01000824,Environmental Disruptions,1,1,1.0
-2015-11,E01000824,Environmental Health,2,2,1.0
-2015-11,E01000825,Environmental Health,1,1,1.0
-2015-11,E01000825,Road Safety & Defects,1,1,1.0
-2015-11,E01000827,Environmental Disruptions,1,1,1.0
-2015-11,E01000827,Road Safety & Defects,1,1,1.0
-2015-11,E01000828,Environmental Disruptions,4,2,2.0
-2015-11,E01000828,Environmental Health,11,4,2.75
-2015-11,E01000829,Environmental Disruptions,2,2,1.0
-2015-11,E01000829,Environmental Health,4,4,1.0
-2015-11,E01000829,Road Safety & Defects,2,2,1.0
-2015-11,E01000830,Environmental Health,1,1,1.0
-2015-11,E01000830,Road Safety & Defects,3,3,1.0
-2015-11,E01000831,Environmental Health,1,1,1.0
-2015-11,E01000831,Road Safety & Defects,1,1,1.0
-2015-11,E01000832,Access,1,1,1.0
-2015-11,E01000832,Environmental Disruptions,3,3,1.0
-2015-11,E01000832,Environmental Health,3,3,1.0
-2015-11,E01000832,Road Safety & Defects,2,2,1.0
-2015-11,E01000832,Vehicles,1,1,1.0
-2015-11,E01000833,Environmental Health,2,2,1.0
-2015-11,E01000833,Road Safety & Defects,1,1,1.0
-2015-11,E01000834,Environmental Disruptions,1,1,1.0
-2015-11,E01000834,Environmental Health,3,2,1.5
-2015-11,E01000834,Road Safety & Defects,2,1,2.0
-2015-11,E01000834,Vehicles,1,1,1.0
-2015-11,E01000835,Environmental Health,2,2,1.0
-2015-11,E01000835,Road Safety & Defects,1,1,1.0
-2015-11,E01000836,Access,1,1,1.0
-2015-11,E01000836,Environmental Health,3,3,1.0
-2015-11,E01000836,Road Safety & Defects,1,1,1.0
-2015-11,E01000836,Vehicles,1,1,1.0
-2015-11,E01000837,Environmental Disruptions,1,1,1.0
-2015-11,E01000837,Incivilities,1,1,1.0
-2015-11,E01000837,Road Safety & Defects,1,1,1.0
-2015-11,E01000838,Environmental Health,1,1,1.0
-2015-11,E01000838,Road Safety & Defects,2,2,1.0
-2015-11,E01000839,Environmental Disruptions,1,1,1.0
-2015-11,E01000839,Environmental Health,1,1,1.0
-2015-11,E01000839,Road Safety & Defects,1,1,1.0
-2015-11,E01000839,Vehicles,2,1,2.0
-2015-11,E01000840,Incivilities,1,1,1.0
-2015-11,E01000841,Environmental Disruptions,1,1,1.0
-2015-11,E01000841,Road Safety & Defects,2,2,1.0
-2015-11,E01001571,Other,1,1,1.0
-2015-11,E01001572,Environmental Health,1,1,1.0
-2015-11,E01001577,Environmental Health,1,1,1.0
-2015-11,E01001578,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01001582,Environmental Health,1,1,1.0
-2015-11,E01001587,Environmental Health,1,1,1.0
-2015-11,E01001587,Road Safety & Defects,1,1,1.0
-2015-11,E01001589,Environmental Health,1,1,1.0
-2015-11,E01001589,Road Safety & Defects,1,1,1.0
-2015-11,E01001593,Road Safety & Defects,1,1,1.0
-2015-11,E01001594,Environmental Disruptions,1,1,1.0
-2015-11,E01001594,Environmental Health,1,1,1.0
-2015-11,E01001596,Road Safety & Defects,1,1,1.0
-2015-11,E01001599,Vehicles,1,1,1.0
-2015-11,E01001608,Road Safety & Defects,1,1,1.0
-2015-11,E01001611,Road Safety & Defects,1,1,1.0
-2015-11,E01001618,Road Safety & Defects,1,1,1.0
-2015-11,E01001625,Environmental Health,1,1,1.0
-2015-11,E01001625,Incivilities,1,1,1.0
-2015-11,E01001629,Road Safety & Defects,1,1,1.0
-2015-11,E01001634,Road Safety & Defects,1,1,1.0
-2015-11,E01001636,Environmental Health,1,1,1.0
-2015-11,E01001642,Road Safety & Defects,1,1,1.0
-2015-11,E01001644,Road Safety & Defects,1,1,1.0
-2015-11,E01001648,Road Safety & Defects,1,1,1.0
-2015-11,E01001650,Environmental Health,1,1,1.0
-2015-11,E01001652,Environmental Health,1,1,1.0
-2015-11,E01001659,Environmental Health,1,1,1.0
-2015-11,E01001664,Environmental Health,3,1,3.0
-2015-11,E01001664,Incivilities,1,1,1.0
-2015-11,E01001664,Road Safety & Defects,1,1,1.0
-2015-11,E01001665,Environmental Disruptions,1,1,1.0
-2015-11,E01001665,Environmental Health,2,1,2.0
-2015-11,E01001665,Incivilities,2,1,2.0
-2015-11,E01001666,Environmental Health,1,1,1.0
-2015-11,E01001666,Other,1,1,1.0
-2015-11,E01001667,Environmental Health,1,1,1.0
-2015-11,E01001667,Road Safety & Defects,2,2,1.0
-2015-11,E01001668,Environmental Health,4,4,1.0
-2015-11,E01001669,Environmental Health,1,1,1.0
-2015-11,E01001671,Environmental Health,2,1,2.0
-2015-11,E01001672,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01001672,Environmental Health,1,1,1.0
-2015-11,E01001672,Vehicles,1,1,1.0
-2015-11,E01001673,Vehicles,1,1,1.0
-2015-11,E01001678,Environmental Disruptions,1,1,1.0
-2015-11,E01001679,Environmental Health,1,1,1.0
-2015-11,E01001680,Road Safety & Defects,1,1,1.0
-2015-11,E01001681,Environmental Health,1,1,1.0
-2015-11,E01001682,Road Safety & Defects,1,1,1.0
-2015-11,E01001683,Environmental Health,3,2,1.5
-2015-11,E01001686,Environmental Health,1,1,1.0
-2015-11,E01001687,Environmental Health,1,1,1.0
-2015-11,E01001688,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01001688,Access,1,1,1.0
-2015-11,E01001688,Road Safety & Defects,1,1,1.0
-2015-11,E01001692,Road Safety & Defects,1,1,1.0
-2015-11,E01001699,Road Safety & Defects,1,1,1.0
-2015-11,E01001701,Road Safety & Defects,1,1,1.0
-2015-11,E01001702,Environmental Health,1,1,1.0
-2015-11,E01001703,Public Space,1,1,1.0
-2015-11,E01001710,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01003062,Road Safety & Defects,1,1,1.0
-2015-11,E01003330,Environmental Disruptions,1,1,1.0
-2015-11,E01009523,Access,1,1,1.0
-2015-11,E01020910,Road Safety & Defects,1,1,1.0
-2015-11,E01020911,Road Safety & Defects,2,2,1.0
-2015-11,E01020912,Road Safety & Defects,1,1,1.0
-2015-11,E01020913,Environmental Health,1,1,1.0
-2015-11,E01020913,Road Safety & Defects,2,2,1.0
-2015-11,E01020916,Road Safety & Defects,1,1,1.0
-2015-11,E01020917,Environmental Health,1,1,1.0
-2015-11,E01020917,Road Safety & Defects,3,2,1.5
-2015-11,E01020918,Road Safety & Defects,1,1,1.0
-2015-11,E01020919,Road Safety & Defects,1,1,1.0
-2015-11,E01020920,Road Safety & Defects,1,1,1.0
-2015-11,E01020921,Road Safety & Defects,3,2,1.5
-2015-11,E01020922,Road Safety & Defects,1,1,1.0
-2015-11,E01020923,Environmental Health,1,1,1.0
-2015-11,E01020924,Environmental Disruptions,1,1,1.0
-2015-11,E01020927,Other,1,1,1.0
-2015-11,E01020927,Road Safety & Defects,3,3,1.0
-2015-11,E01020929,Road Safety & Defects,1,1,1.0
-2015-11,E01020930,Environmental Disruptions,1,1,1.0
-2015-11,E01020932,Road Safety & Defects,2,2,1.0
-2015-11,E01020934,Road Safety & Defects,1,1,1.0
-2015-11,E01020935,Road Safety & Defects,3,3,1.0
-2015-11,E01020936,Road Safety & Defects,2,2,1.0
-2015-11,E01020937,Road Safety & Defects,3,2,1.5
-2015-11,E01020939,Road Safety & Defects,3,3,1.0
-2015-11,E01020940,Road Safety & Defects,2,2,1.0
-2015-11,E01020943,Road Safety & Defects,1,1,1.0
-2015-11,E01020944,Road Safety & Defects,1,1,1.0
-2015-11,E01020945,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01020945,Road Safety & Defects,1,1,1.0
-2015-11,E01020946,Road Safety & Defects,1,1,1.0
-2015-11,E01020948,Environmental Health,1,1,1.0
-2015-11,E01020948,Road Safety & Defects,4,4,1.0
-2015-11,E01020950,Road Safety & Defects,1,1,1.0
-2015-11,E01020951,Road Safety & Defects,2,2,1.0
-2015-11,E01020952,Road Safety & Defects,6,5,1.2
-2015-11,E01020954,Other,1,1,1.0
-2015-11,E01020954,Road Safety & Defects,3,1,3.0
-2015-11,E01020955,Road Safety & Defects,1,1,1.0
-2015-11,E01020956,Road Safety & Defects,1,1,1.0
-2015-11,E01020959,Road Safety & Defects,1,1,1.0
-2015-11,E01020961,Road Safety & Defects,1,1,1.0
-2015-11,E01020962,Road Safety & Defects,1,1,1.0
-2015-11,E01020966,Road Safety & Defects,2,2,1.0
-2015-11,E01020967,Road Safety & Defects,1,1,1.0
-2015-11,E01020968,Road Safety & Defects,1,1,1.0
-2015-11,E01020969,Other,1,1,1.0
-2015-11,E01020969,Road Safety & Defects,1,1,1.0
-2015-11,E01020970,Road Safety & Defects,1,1,1.0
-2015-11,E01020974,Road Safety & Defects,2,2,1.0
-2015-11,E01020975,Environmental Health,2,2,1.0
-2015-11,E01020976,Road Safety & Defects,2,2,1.0
-2015-11,E01020977,Road Safety & Defects,1,1,1.0
-2015-11,E01020978,Other,1,1,1.0
-2015-11,E01020978,Road Safety & Defects,3,1,3.0
-2015-11,E01020979,Access,1,1,1.0
-2015-11,E01020979,Road Safety & Defects,2,1,2.0
-2015-11,E01020980,Access,1,1,1.0
-2015-11,E01020980,Environmental Health,1,1,1.0
-2015-11,E01020980,Road Safety & Defects,1,1,1.0
-2015-11,E01020981,Road Safety & Defects,1,1,1.0
-2015-11,E01020982,Road Safety & Defects,1,1,1.0
-2015-11,E01020983,Environmental Health,1,1,1.0
-2015-11,E01020983,Road Safety & Defects,1,1,1.0
-2015-11,E01020984,Road Safety & Defects,2,2,1.0
-2015-11,E01020985,Road Safety & Defects,1,1,1.0
-2015-11,E01020986,Road Safety & Defects,1,1,1.0
-2015-11,E01020988,Road Safety & Defects,2,2,1.0
-2015-11,E01020990,Road Safety & Defects,2,2,1.0
-2015-11,E01020991,Road Safety & Defects,2,2,1.0
-2015-11,E01020993,Environmental Health,2,2,1.0
-2015-11,E01020996,Access,1,1,1.0
-2015-11,E01020997,Environmental Health,1,1,1.0
-2015-11,E01020998,Road Safety & Defects,1,1,1.0
-2015-11,E01021000,Road Safety & Defects,1,1,1.0
-2015-11,E01021001,Road Safety & Defects,2,2,1.0
-2015-11,E01021002,Environmental Health,1,1,1.0
-2015-11,E01021002,Road Safety & Defects,2,2,1.0
-2015-11,E01021003,Access,1,1,1.0
-2015-11,E01021003,Environmental Health,1,1,1.0
-2015-11,E01021003,Other,1,1,1.0
-2015-11,E01021003,Road Safety & Defects,1,1,1.0
-2015-11,E01021004,Road Safety & Defects,2,1,2.0
-2015-11,E01021005,Road Safety & Defects,1,1,1.0
-2015-11,E01021006,Road Safety & Defects,3,3,1.0
-2015-11,E01021007,Road Safety & Defects,1,1,1.0
-2015-11,E01021008,Road Safety & Defects,2,2,1.0
-2015-11,E01021009,Road Safety & Defects,1,1,1.0
-2015-11,E01021011,Road Safety & Defects,1,1,1.0
-2015-11,E01021013,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01021016,Access,1,1,1.0
-2015-11,E01021016,Road Safety & Defects,2,2,1.0
-2015-11,E01021017,Environmental Disruptions,1,1,1.0
-2015-11,E01021017,Road Safety & Defects,1,1,1.0
-2015-11,E01021020,Road Safety & Defects,1,1,1.0
-2015-11,E01021021,Road Safety & Defects,2,2,1.0
-2015-11,E01021022,Environmental Health,3,2,1.5
-2015-11,E01021022,Road Safety & Defects,3,2,1.5
-2015-11,E01021023,Environmental Health,1,1,1.0
-2015-11,E01021023,Other,1,1,1.0
-2015-11,E01021023,Road Safety & Defects,2,2,1.0
-2015-11,E01021024,Road Safety & Defects,1,1,1.0
-2015-11,E01021025,Access,1,1,1.0
-2015-11,E01021025,Environmental Health,1,1,1.0
-2015-11,E01021026,Access,1,1,1.0
-2015-11,E01021026,Environmental Disruptions,3,2,1.5
-2015-11,E01021026,Road Safety & Defects,3,3,1.0
-2015-11,E01021028,Environmental Disruptions,1,1,1.0
-2015-11,E01021028,Environmental Health,1,1,1.0
-2015-11,E01021028,Road Safety & Defects,2,2,1.0
-2015-11,E01021029,Road Safety & Defects,2,2,1.0
-2015-11,E01021030,Road Safety & Defects,1,1,1.0
-2015-11,E01021031,Road Safety & Defects,2,2,1.0
-2015-11,E01021032,Environmental Disruptions,1,1,1.0
-2015-11,E01021032,Environmental Health,2,2,1.0
-2015-11,E01021032,Other,1,1,1.0
-2015-11,E01021032,Road Safety & Defects,5,4,1.25
-2015-11,E01021033,Environmental Health,2,2,1.0
-2015-11,E01021033,Road Safety & Defects,3,3,1.0
-2015-11,E01021034,Environmental Disruptions,1,1,1.0
-2015-11,E01021034,Environmental Health,1,1,1.0
-2015-11,E01021034,Road Safety & Defects,2,2,1.0
-2015-11,E01021035,Environmental Health,3,3,1.0
-2015-11,E01021035,Other,1,1,1.0
-2015-11,E01021035,Road Safety & Defects,6,6,1.0
-2015-11,E01021036,Road Safety & Defects,2,2,1.0
-2015-11,E01021037,Access,1,1,1.0
-2015-11,E01021037,Environmental Disruptions,1,1,1.0
-2015-11,E01021038,Environmental Health,2,2,1.0
-2015-11,E01021038,Road Safety & Defects,5,5,1.0
-2015-11,E01021039,Access,1,1,1.0
-2015-11,E01021039,Road Safety & Defects,5,4,1.25
-2015-11,E01021040,Environmental Health,2,2,1.0
-2015-11,E01021040,Road Safety & Defects,1,1,1.0
-2015-11,E01021041,Road Safety & Defects,4,4,1.0
-2015-11,E01021045,Road Safety & Defects,1,1,1.0
-2015-11,E01021046,Road Safety & Defects,1,1,1.0
-2015-11,E01021047,Access,1,1,1.0
-2015-11,E01021047,Road Safety & Defects,1,1,1.0
-2015-11,E01021048,Road Safety & Defects,6,6,1.0
-2015-11,E01021050,Road Safety & Defects,1,1,1.0
-2015-11,E01021051,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01021051,Other,1,1,1.0
-2015-11,E01021051,Road Safety & Defects,1,1,1.0
-2015-11,E01021053,Access,1,1,1.0
-2015-11,E01021054,Environmental Health,1,1,1.0
-2015-11,E01021055,Access,1,1,1.0
-2015-11,E01021057,Other,1,1,1.0
-2015-11,E01021057,Road Safety & Defects,2,1,2.0
-2015-11,E01021058,Road Safety & Defects,2,1,2.0
-2015-11,E01021059,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01021059,Road Safety & Defects,2,2,1.0
-2015-11,E01021060,Road Safety & Defects,3,2,1.5
-2015-11,E01021061,Environmental Disruptions,2,2,1.0
-2015-11,E01021061,Road Safety & Defects,2,2,1.0
-2015-11,E01021064,Environmental Disruptions,1,1,1.0
-2015-11,E01021064,Road Safety & Defects,3,2,1.5
-2015-11,E01021065,Environmental Health,2,1,2.0
-2015-11,E01021065,Road Safety & Defects,4,4,1.0
-2015-11,E01021066,Road Safety & Defects,1,1,1.0
-2015-11,E01021067,Access,1,1,1.0
-2015-11,E01021068,Road Safety & Defects,1,1,1.0
-2015-11,E01021069,Road Safety & Defects,2,2,1.0
-2015-11,E01021070,Road Safety & Defects,1,1,1.0
-2015-11,E01021071,Road Safety & Defects,1,1,1.0
-2015-11,E01021072,Environmental Disruptions,1,1,1.0
-2015-11,E01021072,Road Safety & Defects,4,2,2.0
-2015-11,E01021074,Road Safety & Defects,1,1,1.0
-2015-11,E01021075,Road Safety & Defects,1,1,1.0
-2015-11,E01021076,Environmental Health,1,1,1.0
-2015-11,E01021076,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01021077,Road Safety & Defects,1,1,1.0
-2015-11,E01021078,Environmental Disruptions,1,1,1.0
-2015-11,E01021079,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01021079,Road Safety & Defects,2,2,1.0
-2015-11,E01021080,Road Safety & Defects,4,4,1.0
-2015-11,E01021081,Environmental Disruptions,1,1,1.0
-2015-11,E01021081,Road Safety & Defects,1,1,1.0
-2015-11,E01021082,Access,1,1,1.0
-2015-11,E01021082,Road Safety & Defects,5,5,1.0
-2015-11,E01021083,Environmental Health,1,1,1.0
-2015-11,E01021083,Road Safety & Defects,2,2,1.0
-2015-11,E01021084,Road Safety & Defects,1,1,1.0
-2015-11,E01021085,Access,2,1,2.0
-2015-11,E01021085,Environmental Disruptions,1,1,1.0
-2015-11,E01021085,Other,1,1,1.0
-2015-11,E01021085,Road Safety & Defects,2,2,1.0
-2015-11,E01021086,Access,1,1,1.0
-2015-11,E01021086,Environmental Health,1,1,1.0
-2015-11,E01021087,Access,1,1,1.0
-2015-11,E01021087,Environmental Disruptions,2,2,1.0
-2015-11,E01021087,Environmental Health,3,2,1.5
-2015-11,E01021087,Other,1,1,1.0
-2015-11,E01021087,Road Safety & Defects,3,3,1.0
-2015-11,E01021088,Access,1,1,1.0
-2015-11,E01021088,Environmental Disruptions,1,1,1.0
-2015-11,E01021088,Road Safety & Defects,1,1,1.0
-2015-11,E01021089,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01021090,Environmental Health,1,1,1.0
-2015-11,E01021090,Other,1,1,1.0
-2015-11,E01021090,Road Safety & Defects,1,1,1.0
-2015-11,E01021091,Road Safety & Defects,1,1,1.0
-2015-11,E01021092,Road Safety & Defects,1,1,1.0
-2015-11,E01021093,Access,1,1,1.0
-2015-11,E01021093,Environmental Health,2,1,2.0
-2015-11,E01021093,Road Safety & Defects,2,2,1.0
-2015-11,E01021094,Access,1,1,1.0
-2015-11,E01021094,Road Safety & Defects,2,2,1.0
-2015-11,E01021095,Road Safety & Defects,2,2,1.0
-2015-11,E01021096,Environmental Health,1,1,1.0
-2015-11,E01021096,Road Safety & Defects,1,1,1.0
-2015-11,E01021097,Road Safety & Defects,2,2,1.0
-2015-11,E01021097,Vehicles,1,1,1.0
-2015-11,E01021098,Environmental Health,1,1,1.0
-2015-11,E01021098,Road Safety & Defects,2,2,1.0
-2015-11,E01021099,Environmental Health,4,2,2.0
-2015-11,E01021099,Road Safety & Defects,3,2,1.5
-2015-11,E01021100,Environmental Health,1,1,1.0
-2015-11,E01021100,Road Safety & Defects,4,4,1.0
-2015-11,E01021101,Environmental Health,1,1,1.0
-2015-11,E01021102,Access,1,1,1.0
-2015-11,E01021102,Environmental Health,1,1,1.0
-2015-11,E01021103,Environmental Disruptions,1,1,1.0
-2015-11,E01021103,Road Safety & Defects,1,1,1.0
-2015-11,E01021104,Access,1,1,1.0
-2015-11,E01021104,Environmental Disruptions,1,1,1.0
-2015-11,E01021104,Environmental Health,4,4,1.0
-2015-11,E01021104,Road Safety & Defects,3,3,1.0
-2015-11,E01021105,Environmental Health,1,1,1.0
-2015-11,E01021105,Road Safety & Defects,2,2,1.0
-2015-11,E01021106,Road Safety & Defects,4,4,1.0
-2015-11,E01021107,Road Safety & Defects,2,2,1.0
-2015-11,E01021109,Access,1,1,1.0
-2015-11,E01021109,Environmental Disruptions,1,1,1.0
-2015-11,E01021109,Environmental Health,6,4,1.5
-2015-11,E01021109,Road Safety & Defects,11,5,2.2
-2015-11,E01021110,Environmental Disruptions,1,1,1.0
-2015-11,E01021110,Environmental Health,1,1,1.0
-2015-11,E01021110,Road Safety & Defects,2,2,1.0
-2015-11,E01021111,Environmental Health,1,1,1.0
-2015-11,E01021111,Road Safety & Defects,1,1,1.0
-2015-11,E01021112,Road Safety & Defects,1,1,1.0
-2015-11,E01021114,Environmental Disruptions,1,1,1.0
-2015-11,E01021114,Other,1,1,1.0
-2015-11,E01021114,Road Safety & Defects,3,1,3.0
-2015-11,E01021115,Environmental Disruptions,1,1,1.0
-2015-11,E01021115,Environmental Health,5,4,1.25
-2015-11,E01021116,Access,1,1,1.0
-2015-11,E01021116,Environmental Disruptions,2,2,1.0
-2015-11,E01021116,Environmental Health,1,1,1.0
-2015-11,E01021116,Road Safety & Defects,1,1,1.0
-2015-11,E01021117,Road Safety & Defects,1,1,1.0
-2015-11,E01021118,Road Safety & Defects,2,2,1.0
-2015-11,E01021120,Environmental Disruptions,1,1,1.0
-2015-11,E01021120,Environmental Health,1,1,1.0
-2015-11,E01021122,Environmental Health,1,1,1.0
-2015-11,E01021122,Road Safety & Defects,1,1,1.0
-2015-11,E01021123,Environmental Health,1,1,1.0
-2015-11,E01021123,Road Safety & Defects,1,1,1.0
-2015-11,E01021124,Road Safety & Defects,2,2,1.0
-2015-11,E01021125,Environmental Health,1,1,1.0
-2015-11,E01021125,Road Safety & Defects,1,1,1.0
-2015-11,E01021126,Road Safety & Defects,1,1,1.0
-2015-11,E01021127,Road Safety & Defects,1,1,1.0
-2015-11,E01021128,Road Safety & Defects,3,3,1.0
-2015-11,E01021129,Road Safety & Defects,1,1,1.0
-2015-11,E01021130,Road Safety & Defects,2,2,1.0
-2015-11,E01021131,Road Safety & Defects,1,1,1.0
-2015-11,E01021132,Road Safety & Defects,1,1,1.0
-2015-11,E01021133,Access,1,1,1.0
-2015-11,E01021133,Environmental Health,1,1,1.0
-2015-11,E01021133,Road Safety & Defects,3,3,1.0
-2015-11,E01021134,Environmental Health,1,1,1.0
-2015-11,E01021134,Road Safety & Defects,2,2,1.0
-2015-11,E01021135,Road Safety & Defects,4,4,1.0
-2015-11,E01021136,Road Safety & Defects,1,1,1.0
-2015-11,E01021137,Road Safety & Defects,1,1,1.0
-2015-11,E01021138,Road Safety & Defects,3,3,1.0
-2015-11,E01021140,Road Safety & Defects,3,3,1.0
-2015-11,E01021141,Environmental Health,3,2,1.5
-2015-11,E01021141,Road Safety & Defects,7,6,1.1666666666666667
-2015-11,E01021142,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01021142,Access,23,2,11.5
-2015-11,E01021142,Other,1,1,1.0
-2015-11,E01021142,Road Safety & Defects,3,2,1.5
-2015-11,E01021143,Access,2,1,2.0
-2015-11,E01021143,Environmental Health,1,1,1.0
-2015-11,E01021144,Road Safety & Defects,3,3,1.0
-2015-11,E01021145,Access,1,1,1.0
-2015-11,E01021145,Environmental Health,1,1,1.0
-2015-11,E01021145,Road Safety & Defects,1,1,1.0
-2015-11,E01021146,Environmental Disruptions,1,1,1.0
-2015-11,E01021146,Road Safety & Defects,4,4,1.0
-2015-11,E01021147,Environmental Health,2,2,1.0
-2015-11,E01021147,Road Safety & Defects,6,3,2.0
-2015-11,E01021148,Road Safety & Defects,1,1,1.0
-2015-11,E01021148,Vehicles,1,1,1.0
-2015-11,E01021149,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01021151,Road Safety & Defects,2,2,1.0
-2015-11,E01021153,Road Safety & Defects,2,1,2.0
-2015-11,E01021158,Environmental Health,1,1,1.0
-2015-11,E01021158,Road Safety & Defects,1,1,1.0
-2015-11,E01021160,Access,1,1,1.0
-2015-11,E01021160,Other,1,1,1.0
-2015-11,E01021160,Road Safety & Defects,4,4,1.0
-2015-11,E01021161,Environmental Health,1,1,1.0
-2015-11,E01021162,Environmental Health,1,1,1.0
-2015-11,E01021162,Road Safety & Defects,3,3,1.0
-2015-11,E01021164,Environmental Health,1,1,1.0
-2015-11,E01021164,Road Safety & Defects,2,2,1.0
-2015-11,E01021165,Other,1,1,1.0
-2015-11,E01021165,Road Safety & Defects,3,2,1.5
-2015-11,E01021165,Vehicles,1,1,1.0
-2015-11,E01021166,Environmental Disruptions,1,1,1.0
-2015-11,E01021166,Environmental Health,1,1,1.0
-2015-11,E01021166,Road Safety & Defects,4,4,1.0
-2015-11,E01021167,Access,1,1,1.0
-2015-11,E01021167,Environmental Disruptions,1,1,1.0
-2015-11,E01021167,Environmental Health,1,1,1.0
-2015-11,E01021167,Road Safety & Defects,3,2,1.5
-2015-11,E01021168,Environmental Disruptions,1,1,1.0
-2015-11,E01021168,Environmental Health,1,1,1.0
-2015-11,E01021168,Road Safety & Defects,2,2,1.0
-2015-11,E01021169,Road Safety & Defects,3,3,1.0
-2015-11,E01021170,Access,3,2,1.5
-2015-11,E01021170,Environmental Health,2,2,1.0
-2015-11,E01021170,Road Safety & Defects,10,9,1.1111111111111112
-2015-11,E01021171,Environmental Health,2,2,1.0
-2015-11,E01021171,Road Safety & Defects,3,2,1.5
-2015-11,E01021172,Road Safety & Defects,2,2,1.0
-2015-11,E01021172,Vehicles,1,1,1.0
-2015-11,E01021173,Environmental Disruptions,1,1,1.0
-2015-11,E01021173,Environmental Health,1,1,1.0
-2015-11,E01021173,Other,1,1,1.0
-2015-11,E01021173,Road Safety & Defects,3,3,1.0
-2015-11,E01021174,Environmental Health,1,1,1.0
-2015-11,E01021175,Environmental Health,1,1,1.0
-2015-11,E01021175,Road Safety & Defects,2,2,1.0
-2015-11,E01021176,Environmental Disruptions,1,1,1.0
-2015-11,E01021176,Road Safety & Defects,6,5,1.2
-2015-11,E01021177,Road Safety & Defects,8,6,1.3333333333333333
-2015-11,E01021178,Road Safety & Defects,3,3,1.0
-2015-11,E01021179,Road Safety & Defects,1,1,1.0
-2015-11,E01021180,Access,1,1,1.0
-2015-11,E01021180,Other,1,1,1.0
-2015-11,E01021180,Road Safety & Defects,5,5,1.0
-2015-11,E01021182,Road Safety & Defects,6,5,1.2
-2015-11,E01021184,Environmental Health,1,1,1.0
-2015-11,E01021184,Road Safety & Defects,3,3,1.0
-2015-11,E01021185,Road Safety & Defects,1,1,1.0
-2015-11,E01021186,Road Safety & Defects,1,1,1.0
-2015-11,E01021187,Road Safety & Defects,1,1,1.0
-2015-11,E01021188,Access,2,2,1.0
-2015-11,E01021188,Environmental Disruptions,1,1,1.0
-2015-11,E01021188,Environmental Health,3,2,1.5
-2015-11,E01021188,Road Safety & Defects,1,1,1.0
-2015-11,E01021189,Access,3,1,3.0
-2015-11,E01021189,Environmental Health,1,1,1.0
-2015-11,E01021189,Road Safety & Defects,5,5,1.0
-2015-11,E01021190,Road Safety & Defects,4,4,1.0
-2015-11,E01021191,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01021191,Road Safety & Defects,2,1,2.0
-2015-11,E01021192,Road Safety & Defects,1,1,1.0
-2015-11,E01021195,Access,3,2,1.5
-2015-11,E01021195,Road Safety & Defects,3,3,1.0
-2015-11,E01021196,Environmental Health,1,1,1.0
-2015-11,E01021197,Environmental Health,1,1,1.0
-2015-11,E01021197,Other,1,1,1.0
-2015-11,E01021197,Road Safety & Defects,6,5,1.2
-2015-11,E01021199,Environmental Health,1,1,1.0
-2015-11,E01021200,Other,1,1,1.0
-2015-11,E01021200,Road Safety & Defects,5,5,1.0
-2015-11,E01021201,Access,1,1,1.0
-2015-11,E01021201,Environmental Health,1,1,1.0
-2015-11,E01021201,Road Safety & Defects,8,6,1.3333333333333333
-2015-11,E01021202,Environmental Disruptions,1,1,1.0
-2015-11,E01021202,Road Safety & Defects,2,1,2.0
-2015-11,E01021203,Environmental Health,2,1,2.0
-2015-11,E01021203,Road Safety & Defects,7,4,1.75
-2015-11,E01021204,Road Safety & Defects,1,1,1.0
-2015-11,E01021205,Road Safety & Defects,2,2,1.0
-2015-11,E01021206,Access,1,1,1.0
-2015-11,E01021206,Environmental Health,1,1,1.0
-2015-11,E01021206,Road Safety & Defects,6,3,2.0
-2015-11,E01021207,Environmental Health,1,1,1.0
-2015-11,E01021207,Road Safety & Defects,1,1,1.0
-2015-11,E01021208,Environmental Health,2,2,1.0
-2015-11,E01021208,Road Safety & Defects,1,1,1.0
-2015-11,E01021209,Environmental Health,1,1,1.0
-2015-11,E01021209,Other,2,2,1.0
-2015-11,E01021209,Road Safety & Defects,2,2,1.0
-2015-11,E01021210,Environmental Disruptions,1,1,1.0
-2015-11,E01021211,Access,1,1,1.0
-2015-11,E01021211,Road Safety & Defects,2,1,2.0
-2015-11,E01021211,Vehicles,1,1,1.0
-2015-11,E01021212,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01021213,Road Safety & Defects,3,3,1.0
-2015-11,E01021214,Road Safety & Defects,2,2,1.0
-2015-11,E01021216,Road Safety & Defects,2,1,2.0
-2015-11,E01021217,Road Safety & Defects,5,3,1.6666666666666667
-2015-11,E01021218,Vehicles,1,1,1.0
-2015-11,E01021219,Access,1,1,1.0
-2015-11,E01021219,Road Safety & Defects,1,1,1.0
-2015-11,E01021220,Other,1,1,1.0
-2015-11,E01021221,Road Safety & Defects,1,1,1.0
-2015-11,E01021222,Road Safety & Defects,2,2,1.0
-2015-11,E01021223,Environmental Disruptions,1,1,1.0
-2015-11,E01021223,Road Safety & Defects,1,1,1.0
-2015-11,E01021226,Access,1,1,1.0
-2015-11,E01021226,Road Safety & Defects,2,2,1.0
-2015-11,E01021227,Environmental Disruptions,1,1,1.0
-2015-11,E01021227,Road Safety & Defects,1,1,1.0
-2015-11,E01021228,Road Safety & Defects,1,1,1.0
-2015-11,E01021228,Vehicles,1,1,1.0
-2015-11,E01021229,Environmental Health,2,2,1.0
-2015-11,E01021229,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01021230,Access,1,1,1.0
-2015-11,E01021230,Environmental Disruptions,1,1,1.0
-2015-11,E01021230,Environmental Health,1,1,1.0
-2015-11,E01021230,Road Safety & Defects,6,4,1.5
-2015-11,E01021231,Environmental Health,1,1,1.0
-2015-11,E01021232,Access,1,1,1.0
-2015-11,E01021232,Road Safety & Defects,1,1,1.0
-2015-11,E01021233,Access,1,1,1.0
-2015-11,E01021234,Road Safety & Defects,3,1,3.0
-2015-11,E01021235,Road Safety & Defects,3,3,1.0
-2015-11,E01021236,Road Safety & Defects,2,1,2.0
-2015-11,E01022847,Road Safety & Defects,1,1,1.0
-2015-11,E01022848,Environmental Health,1,1,1.0
-2015-11,E01022849,Vehicles,2,2,1.0
-2015-11,E01022850,Road Safety & Defects,1,1,1.0
-2015-11,E01022851,Environmental Health,3,3,1.0
-2015-11,E01022851,Other,1,1,1.0
-2015-11,E01022851,Vehicles,3,1,3.0
-2015-11,E01022853,Road Safety & Defects,1,1,1.0
-2015-11,E01022854,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01022856,Environmental Health,1,1,1.0
-2015-11,E01022856,Road Safety & Defects,1,1,1.0
-2015-11,E01022857,Access,1,1,1.0
-2015-11,E01022857,Environmental Health,1,1,1.0
-2015-11,E01022858,Environmental Health,1,1,1.0
-2015-11,E01022858,Other,1,1,1.0
-2015-11,E01022859,Environmental Health,2,2,1.0
-2015-11,E01022859,Vehicles,1,1,1.0
-2015-11,E01022860,Vehicles,1,1,1.0
-2015-11,E01022862,Road Safety & Defects,3,3,1.0
-2015-11,E01022863,Environmental Health,1,1,1.0
-2015-11,E01022864,Vehicles,1,1,1.0
-2015-11,E01022867,Environmental Health,1,1,1.0
-2015-11,E01022867,Road Safety & Defects,1,1,1.0
-2015-11,E01022872,Vehicles,2,2,1.0
-2015-11,E01022873,Environmental Health,1,1,1.0
-2015-11,E01022873,Road Safety & Defects,3,1,3.0
-2015-11,E01022874,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01022877,Environmental Health,1,1,1.0
-2015-11,E01022878,Environmental Health,4,4,1.0
-2015-11,E01022878,Road Safety & Defects,1,1,1.0
-2015-11,E01022879,Environmental Health,1,1,1.0
-2015-11,E01022879,Other,1,1,1.0
-2015-11,E01022879,Road Safety & Defects,3,2,1.5
-2015-11,E01022880,Environmental Health,1,1,1.0
-2015-11,E01022880,Road Safety & Defects,1,1,1.0
-2015-11,E01022881,Environmental Health,1,1,1.0
-2015-11,E01022881,Road Safety & Defects,1,1,1.0
-2015-11,E01022884,Road Safety & Defects,2,2,1.0
-2015-11,E01022885,Road Safety & Defects,1,1,1.0
-2015-11,E01022887,Environmental Health,3,2,1.5
-2015-11,E01022888,Environmental Health,1,1,1.0
-2015-11,E01022888,Road Safety & Defects,1,1,1.0
-2015-11,E01022890,Environmental Health,1,1,1.0
-2015-11,E01022890,Other,1,1,1.0
-2015-11,E01022891,Environmental Health,1,1,1.0
-2015-11,E01022893,Other,2,1,2.0
-2015-11,E01022894,Vehicles,1,1,1.0
-2015-11,E01022895,Road Safety & Defects,1,1,1.0
-2015-11,E01022896,Environmental Health,1,1,1.0
-2015-11,E01022897,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01022897,Other,1,1,1.0
-2015-11,E01022898,Environmental Health,1,1,1.0
-2015-11,E01023750,Environmental Health,1,1,1.0
-2015-11,E01023750,Vehicles,2,1,2.0
-2015-11,E01023751,Environmental Health,4,2,2.0
-2015-11,E01023751,Vehicles,2,1,2.0
-2015-11,E01023752,Environmental Health,4,4,1.0
-2015-11,E01023752,Other,1,1,1.0
-2015-11,E01023753,Environmental Health,1,1,1.0
-2015-11,E01023754,Environmental Health,5,2,2.5
-2015-11,E01023755,Environmental Health,8,1,8.0
-2015-11,E01023755,Other,1,1,1.0
-2015-11,E01023755,Vehicles,1,1,1.0
-2015-11,E01023756,Environmental Health,11,2,5.5
-2015-11,E01023756,Vehicles,1,1,1.0
-2015-11,E01023757,Environmental Health,8,5,1.6
-2015-11,E01023757,Vehicles,1,1,1.0
-2015-11,E01023758,Environmental Health,18,4,4.5
-2015-11,E01023758,Other,1,1,1.0
-2015-11,E01023758,Vehicles,2,1,2.0
-2015-11,E01023759,Environmental Health,4,3,1.3333333333333333
-2015-11,E01023759,Other,1,1,1.0
-2015-11,E01023760,Environmental Health,5,4,1.25
-2015-11,E01023760,Incivilities,2,2,1.0
-2015-11,E01023761,Environmental Health,5,3,1.6666666666666667
-2015-11,E01023761,Vehicles,1,1,1.0
-2015-11,E01023762,Environmental Health,7,3,2.3333333333333335
-2015-11,E01023762,Other,1,1,1.0
-2015-11,E01023762,Road Safety & Defects,1,1,1.0
-2015-11,E01023762,Vehicles,2,2,1.0
-2015-11,E01023763,Environmental Health,4,4,1.0
-2015-11,E01023763,Other,1,1,1.0
-2015-11,E01023763,Road Safety & Defects,1,1,1.0
-2015-11,E01023763,Vehicles,2,2,1.0
-2015-11,E01023764,Environmental Health,2,1,2.0
-2015-11,E01023765,Environmental Health,6,2,3.0
-2015-11,E01023765,Other,1,1,1.0
-2015-11,E01023765,Vehicles,1,1,1.0
-2015-11,E01023766,Environmental Health,7,2,3.5
-2015-11,E01023767,Vehicles,2,2,1.0
-2015-11,E01023768,Environmental Health,1,1,1.0
-2015-11,E01023769,Environmental Health,4,3,1.3333333333333333
-2015-11,E01023769,Vehicles,2,2,1.0
-2015-11,E01023770,Other,1,1,1.0
-2015-11,E01023770,Vehicles,1,1,1.0
-2015-11,E01023771,Environmental Health,5,2,2.5
-2015-11,E01023771,Road Safety & Defects,1,1,1.0
-2015-11,E01023772,Environmental Health,10,4,2.5
-2015-11,E01023772,Vehicles,2,1,2.0
-2015-11,E01023773,Environmental Health,2,1,2.0
-2015-11,E01023773,Vehicles,1,1,1.0
-2015-11,E01023774,Environmental Health,13,2,6.5
-2015-11,E01023774,Road Safety & Defects,1,1,1.0
-2015-11,E01023774,Vehicles,1,1,1.0
-2015-11,E01023775,Environmental Health,9,3,3.0
-2015-11,E01023775,Incivilities,1,1,1.0
-2015-11,E01023775,Other,1,1,1.0
-2015-11,E01023776,Environmental Health,3,2,1.5
-2015-11,E01023776,Vehicles,6,3,2.0
-2015-11,E01023777,Environmental Health,2,1,2.0
-2015-11,E01023778,Environmental Health,6,1,6.0
-2015-11,E01023778,Other,1,1,1.0
-2015-11,E01023778,Road Safety & Defects,1,1,1.0
-2015-11,E01023779,Environmental Health,3,2,1.5
-2015-11,E01023779,Road Safety & Defects,1,1,1.0
-2015-11,E01023780,Environmental Health,2,1,2.0
-2015-11,E01023780,Vehicles,1,1,1.0
-2015-11,E01023781,Environmental Health,10,3,3.3333333333333335
-2015-11,E01023781,Road Safety & Defects,1,1,1.0
-2015-11,E01023781,Vehicles,5,2,2.5
-2015-11,E01023782,Environmental Health,6,3,2.0
-2015-11,E01023782,Vehicles,1,1,1.0
-2015-11,E01023783,Environmental Health,7,2,3.5
-2015-11,E01023784,Environmental Health,6,4,1.5
-2015-11,E01023784,Other,1,1,1.0
-2015-11,E01023784,Vehicles,1,1,1.0
-2015-11,E01023785,Environmental Health,5,2,2.5
-2015-11,E01023785,Other,1,1,1.0
-2015-11,E01023786,Environmental Health,11,5,2.2
-2015-11,E01023786,Other,2,2,1.0
-2015-11,E01023786,Vehicles,2,2,1.0
-2015-11,E01023787,Environmental Health,7,3,2.3333333333333335
-2015-11,E01023788,Environmental Health,13,3,4.333333333333333
-2015-11,E01023788,Road Safety & Defects,1,1,1.0
-2015-11,E01023788,Vehicles,5,5,1.0
-2015-11,E01023789,Environmental Disruptions,1,1,1.0
-2015-11,E01023789,Environmental Health,10,4,2.5
-2015-11,E01023790,Environmental Health,6,3,2.0
-2015-11,E01023790,Vehicles,2,1,2.0
-2015-11,E01023791,Environmental Health,7,3,2.3333333333333335
-2015-11,E01023792,Environmental Health,2,1,2.0
-2015-11,E01023793,Environmental Health,6,2,3.0
-2015-11,E01023793,Vehicles,1,1,1.0
-2015-11,E01023794,Environmental Health,8,2,4.0
-2015-11,E01023795,Environmental Health,5,3,1.6666666666666667
-2015-11,E01023795,Vehicles,1,1,1.0
-2015-11,E01023796,Environmental Health,2,2,1.0
-2015-11,E01023796,Other,1,1,1.0
-2015-11,E01023796,Vehicles,1,1,1.0
-2015-11,E01023797,Environmental Health,1,1,1.0
-2015-11,E01023797,Road Safety & Defects,1,1,1.0
-2015-11,E01023797,Vehicles,3,3,1.0
-2015-11,E01023798,Environmental Health,7,3,2.3333333333333335
-2015-11,E01023798,Other,1,1,1.0
-2015-11,E01023798,Vehicles,2,1,2.0
-2015-11,E01023799,Environmental Health,1,1,1.0
-2015-11,E01023799,Road Safety & Defects,2,1,2.0
-2015-11,E01023800,Environmental Health,5,2,2.5
-2015-11,E01023800,Road Safety & Defects,1,1,1.0
-2015-11,E01023800,Vehicles,3,1,3.0
-2015-11,E01023801,Environmental Health,5,3,1.6666666666666667
-2015-11,E01023801,Road Safety & Defects,2,1,2.0
-2015-11,E01023801,Vehicles,2,2,1.0
-2015-11,E01027640,Vehicles,1,1,1.0
-2015-11,E01027643,Environmental Disruptions,1,1,1.0
-2015-11,E01027646,Environmental Health,2,1,2.0
-2015-11,E01027649,Vehicles,1,1,1.0
-2015-11,E01027665,Environmental Disruptions,1,1,1.0
-2015-11,E01027671,Environmental Health,1,1,1.0
-2015-11,E01027688,Other,1,1,1.0
-2015-11,E01027689,Vehicles,1,1,1.0
-2015-11,E01027690,Environmental Health,1,1,1.0
-2015-11,E01027691,Other,2,1,2.0
-2015-11,E01027693,Vehicles,1,1,1.0
-2015-11,E01027704,Vehicles,1,1,1.0
-2015-11,E01027706,Other,1,1,1.0
-2015-11,E01027715,Environmental Disruptions,1,1,1.0
-2015-11,E01027721,Environmental Health,1,1,1.0
-2015-11,E01027736,Environmental Health,1,1,1.0
-2015-11,E01027738,Other,1,1,1.0
-2015-11,E01028423,Road Safety & Defects,2,1,2.0
-2015-11,E01028425,Road Safety & Defects,1,1,1.0
-2015-11,E01028427,Environmental Health,1,1,1.0
-2015-11,E01028428,Road Safety & Defects,1,1,1.0
-2015-11,E01028429,Environmental Health,1,1,1.0
-2015-11,E01028429,Road Safety & Defects,1,1,1.0
-2015-11,E01028430,Road Safety & Defects,3,3,1.0
-2015-11,E01028431,Environmental Disruptions,2,2,1.0
-2015-11,E01028431,Road Safety & Defects,3,3,1.0
-2015-11,E01028432,Environmental Disruptions,1,1,1.0
-2015-11,E01028435,Environmental Health,1,1,1.0
-2015-11,E01028435,Road Safety & Defects,3,3,1.0
-2015-11,E01028437,Environmental Disruptions,1,1,1.0
-2015-11,E01028437,Road Safety & Defects,4,4,1.0
-2015-11,E01028438,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028438,Environmental Disruptions,1,1,1.0
-2015-11,E01028438,Road Safety & Defects,3,3,1.0
-2015-11,E01028439,Road Safety & Defects,1,1,1.0
-2015-11,E01028440,Road Safety & Defects,1,1,1.0
-2015-11,E01028441,Road Safety & Defects,2,2,1.0
-2015-11,E01028444,Road Safety & Defects,1,1,1.0
-2015-11,E01028446,Road Safety & Defects,1,1,1.0
-2015-11,E01028450,Road Safety & Defects,1,1,1.0
-2015-11,E01028456,Environmental Health,1,1,1.0
-2015-11,E01028459,Environmental Disruptions,1,1,1.0
-2015-11,E01028460,Road Safety & Defects,1,1,1.0
-2015-11,E01028463,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028463,Other,1,1,1.0
-2015-11,E01028466,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028468,Environmental Health,1,1,1.0
-2015-11,E01028468,Road Safety & Defects,2,2,1.0
-2015-11,E01028469,Road Safety & Defects,1,1,1.0
-2015-11,E01028470,Road Safety & Defects,1,1,1.0
+period,LSOA,SHEF_C_CODE,report_count,user_count,average
+2015-11,E01000645,C2,2,2,1.0
+2015-11,E01000645,C3,3,3,1.0
+2015-11,E01000645,C7,1,1,1.0
+2015-11,E01000645,C8,1,1,1.0
+2015-11,E01000646,C2,1,1,1.0
+2015-11,E01000646,C3,4,3,1.3333333333333333
+2015-11,E01000646,C7,1,1,1.0
+2015-11,E01000647,C1,1,1,1.0
+2015-11,E01000647,C3,2,2,1.0
+2015-11,E01000647,C7,1,1,1.0
+2015-11,E01000648,C3,2,2,1.0
+2015-11,E01000649,C3,2,2,1.0
+2015-11,E01000649,C4,1,1,1.0
+2015-11,E01000649,C7,1,1,1.0
+2015-11,E01000650,C3,5,4,1.25
+2015-11,E01000650,C8,1,1,1.0
+2015-11,E01000651,C2,3,3,1.0
+2015-11,E01000651,C3,1,1,1.0
+2015-11,E01000651,C7,3,3,1.0
+2015-11,E01000652,C3,3,3,1.0
+2015-11,E01000652,C7,2,2,1.0
+2015-11,E01000653,C2,1,1,1.0
+2015-11,E01000654,C2,1,1,1.0
+2015-11,E01000654,C3,2,2,1.0
+2015-11,E01000654,C7,3,3,1.0
+2015-11,E01000654,C8,2,2,1.0
+2015-11,E01000655,C3,1,1,1.0
+2015-11,E01000655,C7,1,1,1.0
+2015-11,E01000655,C8,1,1,1.0
+2015-11,E01000656,C2,2,1,2.0
+2015-11,E01000656,C3,2,2,1.0
+2015-11,E01000656,C7,6,5,1.2
+2015-11,E01000657,C7,4,4,1.0
+2015-11,E01000657,C8,1,1,1.0
+2015-11,E01000658,C7,4,4,1.0
+2015-11,E01000659,C2,1,1,1.0
+2015-11,E01000659,C7,5,5,1.0
+2015-11,E01000661,C2,4,2,2.0
+2015-11,E01000661,C3,18,5,3.6
+2015-11,E01000661,C7,3,3,1.0
+2015-11,E01000661,C8,1,1,1.0
+2015-11,E01000662,C3,2,2,1.0
+2015-11,E01000663,C2,3,1,3.0
+2015-11,E01000663,C3,3,3,1.0
+2015-11,E01000663,C7,4,4,1.0
+2015-11,E01000664,C2,1,1,1.0
+2015-11,E01000664,C7,2,2,1.0
+2015-11,E01000665,C2,1,1,1.0
+2015-11,E01000665,C3,2,2,1.0
+2015-11,E01000665,C7,1,1,1.0
+2015-11,E01000666,C1,2,2,1.0
+2015-11,E01000666,C2,3,1,3.0
+2015-11,E01000666,C3,7,5,1.4
+2015-11,E01000666,C7,1,1,1.0
+2015-11,E01000667,C2,1,1,1.0
+2015-11,E01000667,C3,2,2,1.0
+2015-11,E01000668,C2,2,2,1.0
+2015-11,E01000668,C3,15,3,5.0
+2015-11,E01000668,C7,3,3,1.0
+2015-11,E01000669,C3,1,1,1.0
+2015-11,E01000670,C2,1,1,1.0
+2015-11,E01000670,C3,4,4,1.0
+2015-11,E01000670,C7,1,1,1.0
+2015-11,E01000670,C8,1,1,1.0
+2015-11,E01000671,C2,1,1,1.0
+2015-11,E01000671,C3,3,2,1.5
+2015-11,E01000671,C7,3,3,1.0
+2015-11,E01000672,C2,1,1,1.0
+2015-11,E01000672,C3,2,2,1.0
+2015-11,E01000672,C7,1,1,1.0
+2015-11,E01000672,C8,1,1,1.0
+2015-11,E01000673,C2,3,2,1.5
+2015-11,E01000673,C3,1,1,1.0
+2015-11,E01000673,C7,1,1,1.0
+2015-11,E01000673,C8,1,1,1.0
+2015-11,E01000674,C3,1,1,1.0
+2015-11,E01000674,C7,1,1,1.0
+2015-11,E01000675,C3,7,3,2.3333333333333335
+2015-11,E01000675,C7,12,8,1.5
+2015-11,E01000675,C8,3,3,1.0
+2015-11,E01000676,C3,4,3,1.3333333333333333
+2015-11,E01000676,C7,10,8,1.25
+2015-11,E01000676,C8,1,1,1.0
+2015-11,E01000677,C2,3,3,1.0
+2015-11,E01000677,C3,4,4,1.0
+2015-11,E01000677,C7,3,3,1.0
+2015-11,E01000678,C2,2,2,1.0
+2015-11,E01000678,C3,3,3,1.0
+2015-11,E01000678,C7,3,3,1.0
+2015-11,E01000679,C2,2,2,1.0
+2015-11,E01000679,C3,1,1,1.0
+2015-11,E01000679,C7,3,3,1.0
+2015-11,E01000680,C2,1,1,1.0
+2015-11,E01000680,C3,2,2,1.0
+2015-11,E01000681,C2,1,1,1.0
+2015-11,E01000681,C3,3,3,1.0
+2015-11,E01000681,C4,2,2,1.0
+2015-11,E01000681,C7,3,3,1.0
+2015-11,E01000683,C2,1,1,1.0
+2015-11,E01000683,C3,4,3,1.3333333333333333
+2015-11,E01000684,C2,1,1,1.0
+2015-11,E01000684,C3,3,3,1.0
+2015-11,E01000684,C7,3,3,1.0
+2015-11,E01000684,C8,4,4,1.0
+2015-11,E01000685,C1,1,1,1.0
+2015-11,E01000685,C3,4,4,1.0
+2015-11,E01000685,C7,3,3,1.0
+2015-11,E01000686,C1,1,1,1.0
+2015-11,E01000686,C2,3,2,1.5
+2015-11,E01000686,C3,2,2,1.0
+2015-11,E01000686,C7,2,2,1.0
+2015-11,E01000687,C3,3,3,1.0
+2015-11,E01000688,C7,1,1,1.0
+2015-11,E01000689,C8,3,3,1.0
+2015-11,E01000690,C1,1,1,1.0
+2015-11,E01000690,C8,1,1,1.0
+2015-11,E01000691,C3,1,1,1.0
+2015-11,E01000691,C7,2,2,1.0
+2015-11,E01000691,C8,2,2,1.0
+2015-11,E01000692,C2,2,2,1.0
+2015-11,E01000692,C3,2,2,1.0
+2015-11,E01000692,C4,1,1,1.0
+2015-11,E01000692,C7,2,1,2.0
+2015-11,E01000693,C3,1,1,1.0
+2015-11,E01000693,C7,4,4,1.0
+2015-11,E01000693,C8,1,1,1.0
+2015-11,E01000694,C2,1,1,1.0
+2015-11,E01000694,C3,3,3,1.0
+2015-11,E01000694,C7,2,2,1.0
+2015-11,E01000695,C2,1,1,1.0
+2015-11,E01000695,C3,1,1,1.0
+2015-11,E01000695,C7,6,5,1.2
+2015-11,E01000695,C8,2,2,1.0
+2015-11,E01000696,C2,1,1,1.0
+2015-11,E01000696,C3,1,1,1.0
+2015-11,E01000696,C4,2,1,2.0
+2015-11,E01000696,C7,1,1,1.0
+2015-11,E01000696,C8,4,4,1.0
+2015-11,E01000697,C3,1,1,1.0
+2015-11,E01000697,C7,4,4,1.0
+2015-11,E01000698,C1,1,1,1.0
+2015-11,E01000698,C2,1,1,1.0
+2015-11,E01000698,C3,1,1,1.0
+2015-11,E01000698,C4,1,1,1.0
+2015-11,E01000698,C7,2,2,1.0
+2015-11,E01000699,C2,1,1,1.0
+2015-11,E01000699,C3,3,2,1.5
+2015-11,E01000700,C3,4,3,1.3333333333333333
+2015-11,E01000700,C4,1,1,1.0
+2015-11,E01000700,C7,1,1,1.0
+2015-11,E01000701,C2,2,2,1.0
+2015-11,E01000701,C3,3,3,1.0
+2015-11,E01000701,C7,2,2,1.0
+2015-11,E01000701,C8,1,1,1.0
+2015-11,E01000702,C1,1,1,1.0
+2015-11,E01000702,C2,2,2,1.0
+2015-11,E01000702,C3,1,1,1.0
+2015-11,E01000702,C7,1,1,1.0
+2015-11,E01000703,C3,3,3,1.0
+2015-11,E01000703,C4,1,1,1.0
+2015-11,E01000703,C7,5,4,1.25
+2015-11,E01000704,C3,6,6,1.0
+2015-11,E01000704,C7,1,1,1.0
+2015-11,E01000705,C3,4,4,1.0
+2015-11,E01000705,C7,1,1,1.0
+2015-11,E01000706,C2,5,4,1.25
+2015-11,E01000706,C3,1,1,1.0
+2015-11,E01000706,C4,1,1,1.0
+2015-11,E01000706,C7,3,2,1.5
+2015-11,E01000706,C8,2,2,1.0
+2015-11,E01000707,C1,1,1,1.0
+2015-11,E01000707,C3,1,1,1.0
+2015-11,E01000707,C7,2,2,1.0
+2015-11,E01000707,C8,1,1,1.0
+2015-11,E01000708,C2,3,3,1.0
+2015-11,E01000709,C2,1,1,1.0
+2015-11,E01000709,C3,3,3,1.0
+2015-11,E01000709,C7,1,1,1.0
+2015-11,E01000710,C2,2,2,1.0
+2015-11,E01000710,C3,11,3,3.6666666666666665
+2015-11,E01000710,C7,2,2,1.0
+2015-11,E01000711,C2,1,1,1.0
+2015-11,E01000711,C3,10,4,2.5
+2015-11,E01000711,C7,2,2,1.0
+2015-11,E01000712,C3,1,1,1.0
+2015-11,E01000712,C7,3,3,1.0
+2015-11,E01000713,C3,4,3,1.3333333333333333
+2015-11,E01000713,C4,3,2,1.5
+2015-11,E01000713,C7,2,2,1.0
+2015-11,E01000714,C3,6,4,1.5
+2015-11,E01000714,C7,2,2,1.0
+2015-11,E01000714,C8,1,1,1.0
+2015-11,E01000715,C3,1,1,1.0
+2015-11,E01000715,C8,1,1,1.0
+2015-11,E01000716,C1,1,1,1.0
+2015-11,E01000716,C2,1,1,1.0
+2015-11,E01000716,C3,1,1,1.0
+2015-11,E01000716,C7,1,1,1.0
+2015-11,E01000717,C1,1,1,1.0
+2015-11,E01000717,C2,2,2,1.0
+2015-11,E01000717,C3,1,1,1.0
+2015-11,E01000717,C7,1,1,1.0
+2015-11,E01000717,C8,1,1,1.0
+2015-11,E01000718,C2,2,2,1.0
+2015-11,E01000718,C3,1,1,1.0
+2015-11,E01000719,C2,2,2,1.0
+2015-11,E01000719,C7,9,5,1.8
+2015-11,E01000720,C1,2,2,1.0
+2015-11,E01000720,C2,1,1,1.0
+2015-11,E01000720,C3,15,11,1.3636363636363635
+2015-11,E01000720,C7,3,2,1.5
+2015-11,E01000720,C8,9,4,2.25
+2015-11,E01000721,C3,4,3,1.3333333333333333
+2015-11,E01000721,C7,3,3,1.0
+2015-11,E01000722,C1,1,1,1.0
+2015-11,E01000722,C2,1,1,1.0
+2015-11,E01000722,C3,4,2,2.0
+2015-11,E01000722,C7,7,6,1.1666666666666667
+2015-11,E01000722,C8,2,2,1.0
+2015-11,E01000723,C3,1,1,1.0
+2015-11,E01000723,C7,1,1,1.0
+2015-11,E01000724,C2,1,1,1.0
+2015-11,E01000724,C3,6,5,1.2
+2015-11,E01000725,C2,2,2,1.0
+2015-11,E01000725,C3,12,7,1.7142857142857142
+2015-11,E01000725,C4,1,1,1.0
+2015-11,E01000725,C7,7,7,1.0
+2015-11,E01000725,C8,1,1,1.0
+2015-11,E01000726,C1,1,1,1.0
+2015-11,E01000726,C3,3,2,1.5
+2015-11,E01000727,C2,3,3,1.0
+2015-11,E01000727,C3,3,3,1.0
+2015-11,E01000727,C4,1,1,1.0
+2015-11,E01000727,C7,6,4,1.5
+2015-11,E01000728,C3,6,5,1.2
+2015-11,E01000728,C4,1,1,1.0
+2015-11,E01000728,C7,2,2,1.0
+2015-11,E01000729,C3,4,4,1.0
+2015-11,E01000729,C7,3,1,3.0
+2015-11,E01000729,C8,5,3,1.6666666666666667
+2015-11,E01000730,C3,3,3,1.0
+2015-11,E01000730,C7,4,3,1.3333333333333333
+2015-11,E01000731,C2,1,1,1.0
+2015-11,E01000732,C3,1,1,1.0
+2015-11,E01000733,C2,1,1,1.0
+2015-11,E01000733,C3,2,2,1.0
+2015-11,E01000734,C2,1,1,1.0
+2015-11,E01000734,C3,1,1,1.0
+2015-11,E01000734,C7,2,2,1.0
+2015-11,E01000735,C3,1,1,1.0
+2015-11,E01000736,C3,3,2,1.5
+2015-11,E01000736,C4,1,1,1.0
+2015-11,E01000736,C7,3,3,1.0
+2015-11,E01000737,C1,1,1,1.0
+2015-11,E01000737,C3,2,2,1.0
+2015-11,E01000737,C7,2,2,1.0
+2015-11,E01000738,C3,3,3,1.0
+2015-11,E01000738,C4,1,1,1.0
+2015-11,E01000738,C7,2,1,2.0
+2015-11,E01000739,C3,2,2,1.0
+2015-11,E01000739,C4,2,1,2.0
+2015-11,E01000740,C2,2,2,1.0
+2015-11,E01000740,C3,3,3,1.0
+2015-11,E01000740,C4,9,3,3.0
+2015-11,E01000740,C7,1,1,1.0
+2015-11,E01000740,C8,1,1,1.0
+2015-11,E01000741,C3,5,4,1.25
+2015-11,E01000741,C4,3,2,1.5
+2015-11,E01000741,C7,1,1,1.0
+2015-11,E01000741,C8,1,1,1.0
+2015-11,E01000742,C2,1,1,1.0
+2015-11,E01000742,C3,3,3,1.0
+2015-11,E01000743,C2,1,1,1.0
+2015-11,E01000743,C3,7,7,1.0
+2015-11,E01000743,C4,3,1,3.0
+2015-11,E01000743,C7,2,2,1.0
+2015-11,E01000744,C3,4,4,1.0
+2015-11,E01000744,C7,2,2,1.0
+2015-11,E01000744,C8,1,1,1.0
+2015-11,E01000745,C2,2,2,1.0
+2015-11,E01000745,C3,1,1,1.0
+2015-11,E01000745,C7,1,1,1.0
+2015-11,E01000746,C2,1,1,1.0
+2015-11,E01000746,C3,4,4,1.0
+2015-11,E01000746,C4,1,1,1.0
+2015-11,E01000746,C7,1,1,1.0
+2015-11,E01000747,C1,1,1,1.0
+2015-11,E01000747,C3,5,5,1.0
+2015-11,E01000747,C7,6,5,1.2
+2015-11,E01000748,C1,2,2,1.0
+2015-11,E01000748,C3,2,2,1.0
+2015-11,E01000748,C7,2,2,1.0
+2015-11,E01000748,C8,3,2,1.5
+2015-11,E01000749,C3,6,6,1.0
+2015-11,E01000749,C7,3,3,1.0
+2015-11,E01000749,C8,1,1,1.0
+2015-11,E01000750,C7,2,2,1.0
+2015-11,E01000751,C1,1,1,1.0
+2015-11,E01000751,C2,1,1,1.0
+2015-11,E01000751,C3,2,2,1.0
+2015-11,E01000751,C7,3,3,1.0
+2015-11,E01000752,C2,3,2,1.5
+2015-11,E01000752,C3,3,3,1.0
+2015-11,E01000752,C7,2,2,1.0
+2015-11,E01000753,C1,1,1,1.0
+2015-11,E01000753,C2,1,1,1.0
+2015-11,E01000753,C3,1,1,1.0
+2015-11,E01000753,C4,1,1,1.0
+2015-11,E01000753,C7,1,1,1.0
+2015-11,E01000754,C2,1,1,1.0
+2015-11,E01000754,C3,3,2,1.5
+2015-11,E01000754,C7,5,4,1.25
+2015-11,E01000755,C1,1,1,1.0
+2015-11,E01000755,C2,3,3,1.0
+2015-11,E01000755,C3,1,1,1.0
+2015-11,E01000755,C7,1,1,1.0
+2015-11,E01000755,C8,1,1,1.0
+2015-11,E01000756,C2,1,1,1.0
+2015-11,E01000756,C3,1,1,1.0
+2015-11,E01000757,C2,3,3,1.0
+2015-11,E01000757,C3,1,1,1.0
+2015-11,E01000757,C7,2,2,1.0
+2015-11,E01000758,C2,1,1,1.0
+2015-11,E01000758,C7,1,1,1.0
+2015-11,E01000759,C3,5,5,1.0
+2015-11,E01000759,C7,2,2,1.0
+2015-11,E01000760,C2,1,1,1.0
+2015-11,E01000760,C3,2,2,1.0
+2015-11,E01000761,C2,1,1,1.0
+2015-11,E01000761,C3,1,1,1.0
+2015-11,E01000761,C7,1,1,1.0
+2015-11,E01000762,C3,2,1,2.0
+2015-11,E01000762,C7,3,3,1.0
+2015-11,E01000763,C2,1,1,1.0
+2015-11,E01000763,C3,1,1,1.0
+2015-11,E01000763,C7,3,3,1.0
+2015-11,E01000764,C2,2,1,2.0
+2015-11,E01000764,C3,3,3,1.0
+2015-11,E01000764,C7,1,1,1.0
+2015-11,E01000765,C2,2,2,1.0
+2015-11,E01000765,C3,3,3,1.0
+2015-11,E01000765,C7,1,1,1.0
+2015-11,E01000765,C8,2,1,2.0
+2015-11,E01000766,C1,1,1,1.0
+2015-11,E01000766,C2,1,1,1.0
+2015-11,E01000766,C3,1,1,1.0
+2015-11,E01000766,C7,2,2,1.0
+2015-11,E01000767,C3,1,1,1.0
+2015-11,E01000767,C7,2,2,1.0
+2015-11,E01000768,C7,2,2,1.0
+2015-11,E01000769,C3,1,1,1.0
+2015-11,E01000769,C7,2,2,1.0
+2015-11,E01000770,C1,1,1,1.0
+2015-11,E01000770,C2,1,1,1.0
+2015-11,E01000770,C3,3,3,1.0
+2015-11,E01000770,C7,3,3,1.0
+2015-11,E01000771,C2,1,1,1.0
+2015-11,E01000771,C3,5,5,1.0
+2015-11,E01000771,C7,2,1,2.0
+2015-11,E01000772,C2,4,4,1.0
+2015-11,E01000772,C7,2,2,1.0
+2015-11,E01000772,C8,1,1,1.0
+2015-11,E01000773,C2,1,1,1.0
+2015-11,E01000773,C3,2,2,1.0
+2015-11,E01000773,C7,2,2,1.0
+2015-11,E01000774,C3,3,3,1.0
+2015-11,E01000774,C8,2,2,1.0
+2015-11,E01000775,C1,1,1,1.0
+2015-11,E01000775,C2,2,2,1.0
+2015-11,E01000775,C3,3,3,1.0
+2015-11,E01000775,C4,1,1,1.0
+2015-11,E01000775,C7,1,1,1.0
+2015-11,E01000777,C7,1,1,1.0
+2015-11,E01000778,C2,2,2,1.0
+2015-11,E01000778,C3,3,2,1.5
+2015-11,E01000778,C4,1,1,1.0
+2015-11,E01000779,C2,1,1,1.0
+2015-11,E01000779,C3,4,4,1.0
+2015-11,E01000779,C4,1,1,1.0
+2015-11,E01000779,C7,2,2,1.0
+2015-11,E01000779,C8,1,1,1.0
+2015-11,E01000780,C2,1,1,1.0
+2015-11,E01000780,C3,1,1,1.0
+2015-11,E01000780,C7,2,2,1.0
+2015-11,E01000781,C2,1,1,1.0
+2015-11,E01000781,C3,1,1,1.0
+2015-11,E01000781,C7,1,1,1.0
+2015-11,E01000782,C3,3,3,1.0
+2015-11,E01000782,C8,1,1,1.0
+2015-11,E01000783,C2,2,2,1.0
+2015-11,E01000783,C3,2,2,1.0
+2015-11,E01000783,C7,1,1,1.0
+2015-11,E01000784,C2,1,1,1.0
+2015-11,E01000784,C7,1,1,1.0
+2015-11,E01000785,C3,1,1,1.0
+2015-11,E01000786,C2,1,1,1.0
+2015-11,E01000786,C3,1,1,1.0
+2015-11,E01000787,C1,1,1,1.0
+2015-11,E01000787,C3,1,1,1.0
+2015-11,E01000787,C7,2,2,1.0
+2015-11,E01000788,C2,1,1,1.0
+2015-11,E01000788,C3,2,2,1.0
+2015-11,E01000789,C3,1,1,1.0
+2015-11,E01000789,C7,1,1,1.0
+2015-11,E01000790,C2,1,1,1.0
+2015-11,E01000790,C3,8,6,1.3333333333333333
+2015-11,E01000790,C4,1,1,1.0
+2015-11,E01000790,C7,7,7,1.0
+2015-11,E01000790,C8,1,1,1.0
+2015-11,E01000791,C1,1,1,1.0
+2015-11,E01000791,C2,2,2,1.0
+2015-11,E01000791,C3,8,4,2.0
+2015-11,E01000792,C7,1,1,1.0
+2015-11,E01000793,C2,2,2,1.0
+2015-11,E01000793,C7,2,2,1.0
+2015-11,E01000794,C2,1,1,1.0
+2015-11,E01000794,C7,1,1,1.0
+2015-11,E01000794,C8,1,1,1.0
+2015-11,E01000795,C7,1,1,1.0
+2015-11,E01000796,C3,1,1,1.0
+2015-11,E01000796,C4,1,1,1.0
+2015-11,E01000796,C8,1,1,1.0
+2015-11,E01000797,C2,3,3,1.0
+2015-11,E01000797,C3,2,2,1.0
+2015-11,E01000797,C4,2,2,1.0
+2015-11,E01000797,C7,7,7,1.0
+2015-11,E01000798,C2,1,1,1.0
+2015-11,E01000798,C3,4,4,1.0
+2015-11,E01000798,C8,1,1,1.0
+2015-11,E01000799,C3,6,6,1.0
+2015-11,E01000799,C8,1,1,1.0
+2015-11,E01000800,C2,2,2,1.0
+2015-11,E01000800,C3,3,3,1.0
+2015-11,E01000800,C8,1,1,1.0
+2015-11,E01000801,C2,1,1,1.0
+2015-11,E01000801,C3,7,6,1.1666666666666667
+2015-11,E01000802,C2,2,1,2.0
+2015-11,E01000802,C3,1,1,1.0
+2015-11,E01000802,C7,2,2,1.0
+2015-11,E01000802,C8,1,1,1.0
+2015-11,E01000803,C1,2,2,1.0
+2015-11,E01000803,C3,1,1,1.0
+2015-11,E01000803,C7,1,1,1.0
+2015-11,E01000804,C2,1,1,1.0
+2015-11,E01000804,C3,3,3,1.0
+2015-11,E01000804,C7,1,1,1.0
+2015-11,E01000805,C2,5,5,1.0
+2015-11,E01000805,C3,2,2,1.0
+2015-11,E01000805,C4,1,1,1.0
+2015-11,E01000805,C7,3,1,3.0
+2015-11,E01000806,C2,1,1,1.0
+2015-11,E01000806,C3,10,8,1.25
+2015-11,E01000806,C7,2,2,1.0
+2015-11,E01000807,C2,2,2,1.0
+2015-11,E01000807,C3,3,2,1.5
+2015-11,E01000807,C7,3,3,1.0
+2015-11,E01000808,C3,1,1,1.0
+2015-11,E01000808,C7,2,2,1.0
+2015-11,E01000809,C2,1,1,1.0
+2015-11,E01000809,C3,1,1,1.0
+2015-11,E01000809,C7,2,2,1.0
+2015-11,E01000809,C8,1,1,1.0
+2015-11,E01000810,C7,1,1,1.0
+2015-11,E01000811,C3,3,3,1.0
+2015-11,E01000811,C7,2,2,1.0
+2015-11,E01000812,C1,1,1,1.0
+2015-11,E01000812,C2,2,2,1.0
+2015-11,E01000812,C3,6,3,2.0
+2015-11,E01000812,C7,1,1,1.0
+2015-11,E01000813,C2,2,2,1.0
+2015-11,E01000813,C3,1,1,1.0
+2015-11,E01000813,C4,1,1,1.0
+2015-11,E01000813,C7,1,1,1.0
+2015-11,E01000814,C2,1,1,1.0
+2015-11,E01000814,C3,3,2,1.5
+2015-11,E01000814,C7,5,5,1.0
+2015-11,E01000815,C1,1,1,1.0
+2015-11,E01000815,C3,3,2,1.5
+2015-11,E01000815,C7,2,2,1.0
+2015-11,E01000816,C2,1,1,1.0
+2015-11,E01000816,C3,1,1,1.0
+2015-11,E01000816,C8,1,1,1.0
+2015-11,E01000818,C2,9,6,1.5
+2015-11,E01000818,C3,2,2,1.0
+2015-11,E01000818,C8,1,1,1.0
+2015-11,E01000819,C2,1,1,1.0
+2015-11,E01000819,C3,3,3,1.0
+2015-11,E01000819,C7,1,1,1.0
+2015-11,E01000820,C2,3,3,1.0
+2015-11,E01000820,C3,2,2,1.0
+2015-11,E01000820,C8,2,2,1.0
+2015-11,E01000822,C3,4,4,1.0
+2015-11,E01000822,C7,3,3,1.0
+2015-11,E01000823,C2,3,2,1.5
+2015-11,E01000823,C3,4,4,1.0
+2015-11,E01000823,C4,1,1,1.0
+2015-11,E01000823,C7,2,2,1.0
+2015-11,E01000824,C2,1,1,1.0
+2015-11,E01000824,C3,2,2,1.0
+2015-11,E01000825,C3,1,1,1.0
+2015-11,E01000825,C7,1,1,1.0
+2015-11,E01000827,C2,1,1,1.0
+2015-11,E01000827,C7,1,1,1.0
+2015-11,E01000828,C2,4,2,2.0
+2015-11,E01000828,C3,11,4,2.75
+2015-11,E01000829,C2,2,2,1.0
+2015-11,E01000829,C3,4,4,1.0
+2015-11,E01000829,C7,2,2,1.0
+2015-11,E01000830,C3,1,1,1.0
+2015-11,E01000830,C7,3,3,1.0
+2015-11,E01000831,C3,1,1,1.0
+2015-11,E01000831,C7,1,1,1.0
+2015-11,E01000832,C1,1,1,1.0
+2015-11,E01000832,C2,3,3,1.0
+2015-11,E01000832,C3,3,3,1.0
+2015-11,E01000832,C7,2,2,1.0
+2015-11,E01000832,C8,1,1,1.0
+2015-11,E01000833,C3,2,2,1.0
+2015-11,E01000833,C7,1,1,1.0
+2015-11,E01000834,C2,1,1,1.0
+2015-11,E01000834,C3,3,2,1.5
+2015-11,E01000834,C7,2,1,2.0
+2015-11,E01000834,C8,1,1,1.0
+2015-11,E01000835,C3,2,2,1.0
+2015-11,E01000835,C7,1,1,1.0
+2015-11,E01000836,C1,1,1,1.0
+2015-11,E01000836,C3,3,3,1.0
+2015-11,E01000836,C7,1,1,1.0
+2015-11,E01000836,C8,1,1,1.0
+2015-11,E01000837,C2,1,1,1.0
+2015-11,E01000837,C4,1,1,1.0
+2015-11,E01000837,C7,1,1,1.0
+2015-11,E01000838,C3,1,1,1.0
+2015-11,E01000838,C7,2,2,1.0
+2015-11,E01000839,C2,1,1,1.0
+2015-11,E01000839,C3,1,1,1.0
+2015-11,E01000839,C7,1,1,1.0
+2015-11,E01000839,C8,2,1,2.0
+2015-11,E01000840,C4,1,1,1.0
+2015-11,E01000841,C2,1,1,1.0
+2015-11,E01000841,C7,2,2,1.0
+2015-11,E01001571,C5,1,1,1.0
+2015-11,E01001572,C3,1,1,1.0
+2015-11,E01001577,C3,1,1,1.0
+2015-11,E01001578,C8,1,1,1.0
+2015-11,E01001582,C3,1,1,1.0
+2015-11,E01001587,C3,1,1,1.0
+2015-11,E01001587,C7,1,1,1.0
+2015-11,E01001589,C3,1,1,1.0
+2015-11,E01001589,C7,1,1,1.0
+2015-11,E01001593,C7,1,1,1.0
+2015-11,E01001594,C2,1,1,1.0
+2015-11,E01001594,C3,1,1,1.0
+2015-11,E01001596,C7,1,1,1.0
+2015-11,E01001599,C8,1,1,1.0
+2015-11,E01001608,C7,1,1,1.0
+2015-11,E01001611,C7,1,1,1.0
+2015-11,E01001618,C7,1,1,1.0
+2015-11,E01001625,C3,1,1,1.0
+2015-11,E01001625,C4,1,1,1.0
+2015-11,E01001629,C7,1,1,1.0
+2015-11,E01001634,C7,1,1,1.0
+2015-11,E01001636,C3,1,1,1.0
+2015-11,E01001642,C7,1,1,1.0
+2015-11,E01001644,C7,1,1,1.0
+2015-11,E01001648,C7,1,1,1.0
+2015-11,E01001650,C3,1,1,1.0
+2015-11,E01001652,C3,1,1,1.0
+2015-11,E01001659,C3,1,1,1.0
+2015-11,E01001664,C3,3,1,3.0
+2015-11,E01001664,C4,1,1,1.0
+2015-11,E01001664,C7,1,1,1.0
+2015-11,E01001665,C2,1,1,1.0
+2015-11,E01001665,C3,2,1,2.0
+2015-11,E01001665,C4,2,1,2.0
+2015-11,E01001666,C3,1,1,1.0
+2015-11,E01001666,C5,1,1,1.0
+2015-11,E01001667,C3,1,1,1.0
+2015-11,E01001667,C7,2,2,1.0
+2015-11,E01001668,C3,4,4,1.0
+2015-11,E01001669,C3,1,1,1.0
+2015-11,E01001671,C3,2,1,2.0
+2015-11,E01001672,C3,1,1,1.0
+2015-11,E01001672,C8,2,1,2.0
+2015-11,E01001673,C8,1,1,1.0
+2015-11,E01001678,C2,1,1,1.0
+2015-11,E01001679,C3,1,1,1.0
+2015-11,E01001680,C7,1,1,1.0
+2015-11,E01001681,C3,1,1,1.0
+2015-11,E01001682,C7,1,1,1.0
+2015-11,E01001683,C3,3,2,1.5
+2015-11,E01001686,C3,1,1,1.0
+2015-11,E01001687,C3,1,1,1.0
+2015-11,E01001688,C1,1,1,1.0
+2015-11,E01001688,C7,1,1,1.0
+2015-11,E01001688,C8,1,1,1.0
+2015-11,E01001692,C7,1,1,1.0
+2015-11,E01001699,C7,1,1,1.0
+2015-11,E01001701,C7,1,1,1.0
+2015-11,E01001702,C3,1,1,1.0
+2015-11,E01001703,C6,1,1,1.0
+2015-11,E01001710,C8,1,1,1.0
+2015-11,E01003062,C7,1,1,1.0
+2015-11,E01003330,C2,1,1,1.0
+2015-11,E01009523,C1,1,1,1.0
+2015-11,E01020910,C7,1,1,1.0
+2015-11,E01020911,C7,2,2,1.0
+2015-11,E01020912,C7,1,1,1.0
+2015-11,E01020913,C3,1,1,1.0
+2015-11,E01020913,C7,2,2,1.0
+2015-11,E01020916,C7,1,1,1.0
+2015-11,E01020917,C3,1,1,1.0
+2015-11,E01020917,C7,3,2,1.5
+2015-11,E01020918,C7,1,1,1.0
+2015-11,E01020919,C7,1,1,1.0
+2015-11,E01020920,C7,1,1,1.0
+2015-11,E01020921,C7,3,2,1.5
+2015-11,E01020922,C7,1,1,1.0
+2015-11,E01020923,C3,1,1,1.0
+2015-11,E01020924,C2,1,1,1.0
+2015-11,E01020927,C5,1,1,1.0
+2015-11,E01020927,C7,3,3,1.0
+2015-11,E01020929,C7,1,1,1.0
+2015-11,E01020930,C2,1,1,1.0
+2015-11,E01020932,C7,2,2,1.0
+2015-11,E01020934,C7,1,1,1.0
+2015-11,E01020935,C7,3,3,1.0
+2015-11,E01020936,C7,2,2,1.0
+2015-11,E01020937,C7,3,2,1.5
+2015-11,E01020939,C7,3,3,1.0
+2015-11,E01020940,C7,2,2,1.0
+2015-11,E01020943,C7,1,1,1.0
+2015-11,E01020944,C7,1,1,1.0
+2015-11,E01020945,C7,1,1,1.0
+2015-11,E01020945,C8,1,1,1.0
+2015-11,E01020946,C7,1,1,1.0
+2015-11,E01020948,C3,1,1,1.0
+2015-11,E01020948,C7,4,4,1.0
+2015-11,E01020950,C7,1,1,1.0
+2015-11,E01020951,C7,2,2,1.0
+2015-11,E01020952,C7,6,5,1.2
+2015-11,E01020954,C5,1,1,1.0
+2015-11,E01020954,C7,3,1,3.0
+2015-11,E01020955,C7,1,1,1.0
+2015-11,E01020956,C7,1,1,1.0
+2015-11,E01020959,C7,1,1,1.0
+2015-11,E01020961,C7,1,1,1.0
+2015-11,E01020962,C7,1,1,1.0
+2015-11,E01020966,C7,2,2,1.0
+2015-11,E01020967,C7,1,1,1.0
+2015-11,E01020968,C7,1,1,1.0
+2015-11,E01020969,C5,1,1,1.0
+2015-11,E01020969,C7,1,1,1.0
+2015-11,E01020970,C7,1,1,1.0
+2015-11,E01020974,C7,2,2,1.0
+2015-11,E01020975,C3,2,2,1.0
+2015-11,E01020976,C7,2,2,1.0
+2015-11,E01020977,C7,1,1,1.0
+2015-11,E01020978,C5,1,1,1.0
+2015-11,E01020978,C7,3,1,3.0
+2015-11,E01020979,C1,1,1,1.0
+2015-11,E01020979,C7,2,1,2.0
+2015-11,E01020980,C1,1,1,1.0
+2015-11,E01020980,C3,1,1,1.0
+2015-11,E01020980,C7,1,1,1.0
+2015-11,E01020981,C7,1,1,1.0
+2015-11,E01020982,C7,1,1,1.0
+2015-11,E01020983,C3,1,1,1.0
+2015-11,E01020983,C7,1,1,1.0
+2015-11,E01020984,C7,2,2,1.0
+2015-11,E01020985,C7,1,1,1.0
+2015-11,E01020986,C7,1,1,1.0
+2015-11,E01020988,C7,2,2,1.0
+2015-11,E01020990,C7,2,2,1.0
+2015-11,E01020991,C7,2,2,1.0
+2015-11,E01020993,C3,2,2,1.0
+2015-11,E01020996,C1,1,1,1.0
+2015-11,E01020997,C3,1,1,1.0
+2015-11,E01020998,C7,1,1,1.0
+2015-11,E01021000,C7,1,1,1.0
+2015-11,E01021001,C7,2,2,1.0
+2015-11,E01021002,C3,1,1,1.0
+2015-11,E01021002,C7,2,2,1.0
+2015-11,E01021003,C1,1,1,1.0
+2015-11,E01021003,C3,1,1,1.0
+2015-11,E01021003,C5,1,1,1.0
+2015-11,E01021003,C7,1,1,1.0
+2015-11,E01021004,C7,2,1,2.0
+2015-11,E01021005,C7,1,1,1.0
+2015-11,E01021006,C7,3,3,1.0
+2015-11,E01021007,C7,1,1,1.0
+2015-11,E01021008,C7,2,2,1.0
+2015-11,E01021009,C7,1,1,1.0
+2015-11,E01021011,C7,1,1,1.0
+2015-11,E01021013,C7,4,3,1.3333333333333333
+2015-11,E01021016,C1,1,1,1.0
+2015-11,E01021016,C7,2,2,1.0
+2015-11,E01021017,C2,1,1,1.0
+2015-11,E01021017,C7,1,1,1.0
+2015-11,E01021020,C7,1,1,1.0
+2015-11,E01021021,C7,2,2,1.0
+2015-11,E01021022,C3,3,2,1.5
+2015-11,E01021022,C7,3,2,1.5
+2015-11,E01021023,C3,1,1,1.0
+2015-11,E01021023,C5,1,1,1.0
+2015-11,E01021023,C7,2,2,1.0
+2015-11,E01021024,C7,1,1,1.0
+2015-11,E01021025,C1,1,1,1.0
+2015-11,E01021025,C3,1,1,1.0
+2015-11,E01021026,C1,1,1,1.0
+2015-11,E01021026,C2,3,2,1.5
+2015-11,E01021026,C7,3,3,1.0
+2015-11,E01021028,C2,1,1,1.0
+2015-11,E01021028,C3,1,1,1.0
+2015-11,E01021028,C7,2,2,1.0
+2015-11,E01021029,C7,2,2,1.0
+2015-11,E01021030,C7,1,1,1.0
+2015-11,E01021031,C7,2,2,1.0
+2015-11,E01021032,C2,1,1,1.0
+2015-11,E01021032,C3,2,2,1.0
+2015-11,E01021032,C5,1,1,1.0
+2015-11,E01021032,C7,5,4,1.25
+2015-11,E01021033,C3,2,2,1.0
+2015-11,E01021033,C7,3,3,1.0
+2015-11,E01021034,C2,1,1,1.0
+2015-11,E01021034,C3,1,1,1.0
+2015-11,E01021034,C7,2,2,1.0
+2015-11,E01021035,C3,3,3,1.0
+2015-11,E01021035,C5,1,1,1.0
+2015-11,E01021035,C7,6,6,1.0
+2015-11,E01021036,C7,2,2,1.0
+2015-11,E01021037,C1,1,1,1.0
+2015-11,E01021037,C2,1,1,1.0
+2015-11,E01021038,C3,2,2,1.0
+2015-11,E01021038,C7,5,5,1.0
+2015-11,E01021039,C1,1,1,1.0
+2015-11,E01021039,C7,5,4,1.25
+2015-11,E01021040,C3,2,2,1.0
+2015-11,E01021040,C7,1,1,1.0
+2015-11,E01021041,C7,4,4,1.0
+2015-11,E01021045,C7,1,1,1.0
+2015-11,E01021046,C7,1,1,1.0
+2015-11,E01021047,C1,1,1,1.0
+2015-11,E01021047,C7,1,1,1.0
+2015-11,E01021048,C7,6,6,1.0
+2015-11,E01021050,C7,1,1,1.0
+2015-11,E01021051,C5,1,1,1.0
+2015-11,E01021051,C7,1,1,1.0
+2015-11,E01021051,C8,1,1,1.0
+2015-11,E01021053,C1,1,1,1.0
+2015-11,E01021054,C3,1,1,1.0
+2015-11,E01021055,C1,1,1,1.0
+2015-11,E01021057,C5,1,1,1.0
+2015-11,E01021057,C7,2,1,2.0
+2015-11,E01021058,C7,2,1,2.0
+2015-11,E01021059,C7,2,2,1.0
+2015-11,E01021059,C8,1,1,1.0
+2015-11,E01021060,C7,3,2,1.5
+2015-11,E01021061,C2,2,2,1.0
+2015-11,E01021061,C7,2,2,1.0
+2015-11,E01021064,C2,1,1,1.0
+2015-11,E01021064,C7,3,2,1.5
+2015-11,E01021065,C3,2,1,2.0
+2015-11,E01021065,C7,4,4,1.0
+2015-11,E01021066,C7,1,1,1.0
+2015-11,E01021067,C1,1,1,1.0
+2015-11,E01021068,C7,1,1,1.0
+2015-11,E01021069,C7,2,2,1.0
+2015-11,E01021070,C7,1,1,1.0
+2015-11,E01021071,C7,1,1,1.0
+2015-11,E01021072,C2,1,1,1.0
+2015-11,E01021072,C7,4,2,2.0
+2015-11,E01021074,C7,1,1,1.0
+2015-11,E01021075,C7,1,1,1.0
+2015-11,E01021076,C3,1,1,1.0
+2015-11,E01021076,C7,4,3,1.3333333333333333
+2015-11,E01021077,C7,1,1,1.0
+2015-11,E01021078,C2,1,1,1.0
+2015-11,E01021079,C7,2,2,1.0
+2015-11,E01021079,C8,1,1,1.0
+2015-11,E01021080,C7,4,4,1.0
+2015-11,E01021081,C2,1,1,1.0
+2015-11,E01021081,C7,1,1,1.0
+2015-11,E01021082,C1,1,1,1.0
+2015-11,E01021082,C7,5,5,1.0
+2015-11,E01021083,C3,1,1,1.0
+2015-11,E01021083,C7,2,2,1.0
+2015-11,E01021084,C7,1,1,1.0
+2015-11,E01021085,C1,2,1,2.0
+2015-11,E01021085,C2,1,1,1.0
+2015-11,E01021085,C5,1,1,1.0
+2015-11,E01021085,C7,2,2,1.0
+2015-11,E01021086,C1,1,1,1.0
+2015-11,E01021086,C3,1,1,1.0
+2015-11,E01021087,C1,1,1,1.0
+2015-11,E01021087,C2,2,2,1.0
+2015-11,E01021087,C3,3,2,1.5
+2015-11,E01021087,C5,1,1,1.0
+2015-11,E01021087,C7,3,3,1.0
+2015-11,E01021088,C1,1,1,1.0
+2015-11,E01021088,C2,1,1,1.0
+2015-11,E01021088,C7,1,1,1.0
+2015-11,E01021089,C8,1,1,1.0
+2015-11,E01021090,C3,1,1,1.0
+2015-11,E01021090,C5,1,1,1.0
+2015-11,E01021090,C7,1,1,1.0
+2015-11,E01021091,C7,1,1,1.0
+2015-11,E01021092,C7,1,1,1.0
+2015-11,E01021093,C1,1,1,1.0
+2015-11,E01021093,C3,2,1,2.0
+2015-11,E01021093,C7,2,2,1.0
+2015-11,E01021094,C1,1,1,1.0
+2015-11,E01021094,C7,2,2,1.0
+2015-11,E01021095,C7,2,2,1.0
+2015-11,E01021096,C3,1,1,1.0
+2015-11,E01021096,C7,1,1,1.0
+2015-11,E01021097,C7,2,2,1.0
+2015-11,E01021097,C8,1,1,1.0
+2015-11,E01021098,C3,1,1,1.0
+2015-11,E01021098,C7,2,2,1.0
+2015-11,E01021099,C3,4,2,2.0
+2015-11,E01021099,C7,3,2,1.5
+2015-11,E01021100,C3,1,1,1.0
+2015-11,E01021100,C7,4,4,1.0
+2015-11,E01021101,C3,1,1,1.0
+2015-11,E01021102,C1,1,1,1.0
+2015-11,E01021102,C3,1,1,1.0
+2015-11,E01021103,C2,1,1,1.0
+2015-11,E01021103,C7,1,1,1.0
+2015-11,E01021104,C1,1,1,1.0
+2015-11,E01021104,C2,1,1,1.0
+2015-11,E01021104,C3,4,4,1.0
+2015-11,E01021104,C7,3,3,1.0
+2015-11,E01021105,C3,1,1,1.0
+2015-11,E01021105,C7,2,2,1.0
+2015-11,E01021106,C7,4,4,1.0
+2015-11,E01021107,C7,2,2,1.0
+2015-11,E01021109,C1,1,1,1.0
+2015-11,E01021109,C2,1,1,1.0
+2015-11,E01021109,C3,6,4,1.5
+2015-11,E01021109,C7,11,5,2.2
+2015-11,E01021110,C2,1,1,1.0
+2015-11,E01021110,C3,1,1,1.0
+2015-11,E01021110,C7,2,2,1.0
+2015-11,E01021111,C3,1,1,1.0
+2015-11,E01021111,C7,1,1,1.0
+2015-11,E01021112,C7,1,1,1.0
+2015-11,E01021114,C2,1,1,1.0
+2015-11,E01021114,C5,1,1,1.0
+2015-11,E01021114,C7,3,1,3.0
+2015-11,E01021115,C2,1,1,1.0
+2015-11,E01021115,C3,5,4,1.25
+2015-11,E01021116,C1,1,1,1.0
+2015-11,E01021116,C2,2,2,1.0
+2015-11,E01021116,C3,1,1,1.0
+2015-11,E01021116,C7,1,1,1.0
+2015-11,E01021117,C7,1,1,1.0
+2015-11,E01021118,C7,2,2,1.0
+2015-11,E01021120,C2,1,1,1.0
+2015-11,E01021120,C3,1,1,1.0
+2015-11,E01021122,C3,1,1,1.0
+2015-11,E01021122,C7,1,1,1.0
+2015-11,E01021123,C3,1,1,1.0
+2015-11,E01021123,C7,1,1,1.0
+2015-11,E01021124,C7,2,2,1.0
+2015-11,E01021125,C3,1,1,1.0
+2015-11,E01021125,C7,1,1,1.0
+2015-11,E01021126,C7,1,1,1.0
+2015-11,E01021127,C7,1,1,1.0
+2015-11,E01021128,C7,3,3,1.0
+2015-11,E01021129,C7,1,1,1.0
+2015-11,E01021130,C7,2,2,1.0
+2015-11,E01021131,C7,1,1,1.0
+2015-11,E01021132,C7,1,1,1.0
+2015-11,E01021133,C1,1,1,1.0
+2015-11,E01021133,C3,1,1,1.0
+2015-11,E01021133,C7,3,3,1.0
+2015-11,E01021134,C3,1,1,1.0
+2015-11,E01021134,C7,2,2,1.0
+2015-11,E01021135,C7,4,4,1.0
+2015-11,E01021136,C7,1,1,1.0
+2015-11,E01021137,C7,1,1,1.0
+2015-11,E01021138,C7,3,3,1.0
+2015-11,E01021140,C7,3,3,1.0
+2015-11,E01021141,C3,3,2,1.5
+2015-11,E01021141,C7,7,6,1.1666666666666667
+2015-11,E01021142,C1,23,2,11.5
+2015-11,E01021142,C5,1,1,1.0
+2015-11,E01021142,C7,3,2,1.5
+2015-11,E01021142,C8,1,1,1.0
+2015-11,E01021143,C1,2,1,2.0
+2015-11,E01021143,C3,1,1,1.0
+2015-11,E01021144,C7,3,3,1.0
+2015-11,E01021145,C1,1,1,1.0
+2015-11,E01021145,C3,1,1,1.0
+2015-11,E01021145,C7,1,1,1.0
+2015-11,E01021146,C2,1,1,1.0
+2015-11,E01021146,C7,4,4,1.0
+2015-11,E01021147,C3,2,2,1.0
+2015-11,E01021147,C7,6,3,2.0
+2015-11,E01021148,C7,1,1,1.0
+2015-11,E01021148,C8,1,1,1.0
+2015-11,E01021149,C7,4,3,1.3333333333333333
+2015-11,E01021151,C7,2,2,1.0
+2015-11,E01021153,C7,2,1,2.0
+2015-11,E01021158,C3,1,1,1.0
+2015-11,E01021158,C7,1,1,1.0
+2015-11,E01021160,C1,1,1,1.0
+2015-11,E01021160,C5,1,1,1.0
+2015-11,E01021160,C7,4,4,1.0
+2015-11,E01021161,C3,1,1,1.0
+2015-11,E01021162,C3,1,1,1.0
+2015-11,E01021162,C7,3,3,1.0
+2015-11,E01021164,C3,1,1,1.0
+2015-11,E01021164,C7,2,2,1.0
+2015-11,E01021165,C5,1,1,1.0
+2015-11,E01021165,C7,3,2,1.5
+2015-11,E01021165,C8,1,1,1.0
+2015-11,E01021166,C2,1,1,1.0
+2015-11,E01021166,C3,1,1,1.0
+2015-11,E01021166,C7,4,4,1.0
+2015-11,E01021167,C1,1,1,1.0
+2015-11,E01021167,C2,1,1,1.0
+2015-11,E01021167,C3,1,1,1.0
+2015-11,E01021167,C7,3,2,1.5
+2015-11,E01021168,C2,1,1,1.0
+2015-11,E01021168,C3,1,1,1.0
+2015-11,E01021168,C7,2,2,1.0
+2015-11,E01021169,C7,3,3,1.0
+2015-11,E01021170,C1,3,2,1.5
+2015-11,E01021170,C3,2,2,1.0
+2015-11,E01021170,C7,10,9,1.1111111111111112
+2015-11,E01021171,C3,2,2,1.0
+2015-11,E01021171,C7,3,2,1.5
+2015-11,E01021172,C7,2,2,1.0
+2015-11,E01021172,C8,1,1,1.0
+2015-11,E01021173,C2,1,1,1.0
+2015-11,E01021173,C3,1,1,1.0
+2015-11,E01021173,C5,1,1,1.0
+2015-11,E01021173,C7,3,3,1.0
+2015-11,E01021174,C3,1,1,1.0
+2015-11,E01021175,C3,1,1,1.0
+2015-11,E01021175,C7,2,2,1.0
+2015-11,E01021176,C2,1,1,1.0
+2015-11,E01021176,C7,6,5,1.2
+2015-11,E01021177,C7,8,6,1.3333333333333333
+2015-11,E01021178,C7,3,3,1.0
+2015-11,E01021179,C7,1,1,1.0
+2015-11,E01021180,C1,1,1,1.0
+2015-11,E01021180,C5,1,1,1.0
+2015-11,E01021180,C7,5,5,1.0
+2015-11,E01021182,C7,6,5,1.2
+2015-11,E01021184,C3,1,1,1.0
+2015-11,E01021184,C7,3,3,1.0
+2015-11,E01021185,C7,1,1,1.0
+2015-11,E01021186,C7,1,1,1.0
+2015-11,E01021187,C7,1,1,1.0
+2015-11,E01021188,C1,2,2,1.0
+2015-11,E01021188,C2,1,1,1.0
+2015-11,E01021188,C3,3,2,1.5
+2015-11,E01021188,C7,1,1,1.0
+2015-11,E01021189,C1,3,1,3.0
+2015-11,E01021189,C3,1,1,1.0
+2015-11,E01021189,C7,5,5,1.0
+2015-11,E01021190,C7,4,4,1.0
+2015-11,E01021191,C7,2,1,2.0
+2015-11,E01021191,C8,1,1,1.0
+2015-11,E01021192,C7,1,1,1.0
+2015-11,E01021195,C1,3,2,1.5
+2015-11,E01021195,C7,3,3,1.0
+2015-11,E01021196,C3,1,1,1.0
+2015-11,E01021197,C3,1,1,1.0
+2015-11,E01021197,C5,1,1,1.0
+2015-11,E01021197,C7,6,5,1.2
+2015-11,E01021199,C3,1,1,1.0
+2015-11,E01021200,C5,1,1,1.0
+2015-11,E01021200,C7,5,5,1.0
+2015-11,E01021201,C1,1,1,1.0
+2015-11,E01021201,C3,1,1,1.0
+2015-11,E01021201,C7,8,6,1.3333333333333333
+2015-11,E01021202,C2,1,1,1.0
+2015-11,E01021202,C7,2,1,2.0
+2015-11,E01021203,C3,2,1,2.0
+2015-11,E01021203,C7,7,4,1.75
+2015-11,E01021204,C7,1,1,1.0
+2015-11,E01021205,C7,2,2,1.0
+2015-11,E01021206,C1,1,1,1.0
+2015-11,E01021206,C3,1,1,1.0
+2015-11,E01021206,C7,6,3,2.0
+2015-11,E01021207,C3,1,1,1.0
+2015-11,E01021207,C7,1,1,1.0
+2015-11,E01021208,C3,2,2,1.0
+2015-11,E01021208,C7,1,1,1.0
+2015-11,E01021209,C3,1,1,1.0
+2015-11,E01021209,C5,2,2,1.0
+2015-11,E01021209,C7,2,2,1.0
+2015-11,E01021210,C2,1,1,1.0
+2015-11,E01021211,C1,1,1,1.0
+2015-11,E01021211,C7,2,1,2.0
+2015-11,E01021211,C8,1,1,1.0
+2015-11,E01021212,C7,4,3,1.3333333333333333
+2015-11,E01021213,C7,3,3,1.0
+2015-11,E01021214,C7,2,2,1.0
+2015-11,E01021216,C7,2,1,2.0
+2015-11,E01021217,C7,5,3,1.6666666666666667
+2015-11,E01021218,C8,1,1,1.0
+2015-11,E01021219,C1,1,1,1.0
+2015-11,E01021219,C7,1,1,1.0
+2015-11,E01021220,C5,1,1,1.0
+2015-11,E01021221,C7,1,1,1.0
+2015-11,E01021222,C7,2,2,1.0
+2015-11,E01021223,C2,1,1,1.0
+2015-11,E01021223,C7,1,1,1.0
+2015-11,E01021226,C1,1,1,1.0
+2015-11,E01021226,C7,2,2,1.0
+2015-11,E01021227,C2,1,1,1.0
+2015-11,E01021227,C7,1,1,1.0
+2015-11,E01021228,C7,1,1,1.0
+2015-11,E01021228,C8,1,1,1.0
+2015-11,E01021229,C3,2,2,1.0
+2015-11,E01021229,C7,4,3,1.3333333333333333
+2015-11,E01021230,C1,1,1,1.0
+2015-11,E01021230,C2,1,1,1.0
+2015-11,E01021230,C3,1,1,1.0
+2015-11,E01021230,C7,6,4,1.5
+2015-11,E01021231,C3,1,1,1.0
+2015-11,E01021232,C1,1,1,1.0
+2015-11,E01021232,C7,1,1,1.0
+2015-11,E01021233,C1,1,1,1.0
+2015-11,E01021234,C7,3,1,3.0
+2015-11,E01021235,C7,3,3,1.0
+2015-11,E01021236,C7,2,1,2.0
+2015-11,E01022847,C7,1,1,1.0
+2015-11,E01022848,C3,1,1,1.0
+2015-11,E01022849,C8,2,2,1.0
+2015-11,E01022850,C7,1,1,1.0
+2015-11,E01022851,C3,3,3,1.0
+2015-11,E01022851,C5,1,1,1.0
+2015-11,E01022851,C8,3,1,3.0
+2015-11,E01022853,C7,1,1,1.0
+2015-11,E01022854,C8,1,1,1.0
+2015-11,E01022856,C3,1,1,1.0
+2015-11,E01022856,C7,1,1,1.0
+2015-11,E01022857,C1,1,1,1.0
+2015-11,E01022857,C3,1,1,1.0
+2015-11,E01022858,C3,1,1,1.0
+2015-11,E01022858,C5,1,1,1.0
+2015-11,E01022859,C3,2,2,1.0
+2015-11,E01022859,C8,1,1,1.0
+2015-11,E01022860,C8,1,1,1.0
+2015-11,E01022862,C7,3,3,1.0
+2015-11,E01022863,C3,1,1,1.0
+2015-11,E01022864,C8,1,1,1.0
+2015-11,E01022867,C3,1,1,1.0
+2015-11,E01022867,C7,1,1,1.0
+2015-11,E01022872,C8,2,2,1.0
+2015-11,E01022873,C3,1,1,1.0
+2015-11,E01022873,C7,3,1,3.0
+2015-11,E01022874,C8,1,1,1.0
+2015-11,E01022877,C3,1,1,1.0
+2015-11,E01022878,C3,4,4,1.0
+2015-11,E01022878,C7,1,1,1.0
+2015-11,E01022879,C3,1,1,1.0
+2015-11,E01022879,C5,1,1,1.0
+2015-11,E01022879,C7,3,2,1.5
+2015-11,E01022880,C3,1,1,1.0
+2015-11,E01022880,C7,1,1,1.0
+2015-11,E01022881,C3,1,1,1.0
+2015-11,E01022881,C7,1,1,1.0
+2015-11,E01022884,C7,2,2,1.0
+2015-11,E01022885,C7,1,1,1.0
+2015-11,E01022887,C3,3,2,1.5
+2015-11,E01022888,C3,1,1,1.0
+2015-11,E01022888,C7,1,1,1.0
+2015-11,E01022890,C3,1,1,1.0
+2015-11,E01022890,C5,1,1,1.0
+2015-11,E01022891,C3,1,1,1.0
+2015-11,E01022893,C5,2,1,2.0
+2015-11,E01022894,C8,1,1,1.0
+2015-11,E01022895,C7,1,1,1.0
+2015-11,E01022896,C3,1,1,1.0
+2015-11,E01022897,C5,1,1,1.0
+2015-11,E01022897,C8,1,1,1.0
+2015-11,E01022898,C3,1,1,1.0
+2015-11,E01023750,C3,1,1,1.0
+2015-11,E01023750,C8,2,1,2.0
+2015-11,E01023751,C3,4,2,2.0
+2015-11,E01023751,C8,2,1,2.0
+2015-11,E01023752,C3,4,4,1.0
+2015-11,E01023752,C5,1,1,1.0
+2015-11,E01023753,C3,1,1,1.0
+2015-11,E01023754,C3,5,2,2.5
+2015-11,E01023755,C3,8,1,8.0
+2015-11,E01023755,C5,1,1,1.0
+2015-11,E01023755,C8,1,1,1.0
+2015-11,E01023756,C3,11,2,5.5
+2015-11,E01023756,C8,1,1,1.0
+2015-11,E01023757,C3,8,5,1.6
+2015-11,E01023757,C8,1,1,1.0
+2015-11,E01023758,C3,18,4,4.5
+2015-11,E01023758,C5,1,1,1.0
+2015-11,E01023758,C8,2,1,2.0
+2015-11,E01023759,C3,4,3,1.3333333333333333
+2015-11,E01023759,C5,1,1,1.0
+2015-11,E01023760,C3,5,4,1.25
+2015-11,E01023760,C4,2,2,1.0
+2015-11,E01023761,C3,5,3,1.6666666666666667
+2015-11,E01023761,C8,1,1,1.0
+2015-11,E01023762,C3,7,3,2.3333333333333335
+2015-11,E01023762,C5,1,1,1.0
+2015-11,E01023762,C7,1,1,1.0
+2015-11,E01023762,C8,2,2,1.0
+2015-11,E01023763,C3,4,4,1.0
+2015-11,E01023763,C5,1,1,1.0
+2015-11,E01023763,C7,1,1,1.0
+2015-11,E01023763,C8,2,2,1.0
+2015-11,E01023764,C3,2,1,2.0
+2015-11,E01023765,C3,6,2,3.0
+2015-11,E01023765,C5,1,1,1.0
+2015-11,E01023765,C8,1,1,1.0
+2015-11,E01023766,C3,7,2,3.5
+2015-11,E01023767,C8,2,2,1.0
+2015-11,E01023768,C3,1,1,1.0
+2015-11,E01023769,C3,4,3,1.3333333333333333
+2015-11,E01023769,C8,2,2,1.0
+2015-11,E01023770,C5,1,1,1.0
+2015-11,E01023770,C8,1,1,1.0
+2015-11,E01023771,C3,5,2,2.5
+2015-11,E01023771,C7,1,1,1.0
+2015-11,E01023772,C3,10,4,2.5
+2015-11,E01023772,C8,2,1,2.0
+2015-11,E01023773,C3,2,1,2.0
+2015-11,E01023773,C8,1,1,1.0
+2015-11,E01023774,C3,13,2,6.5
+2015-11,E01023774,C7,1,1,1.0
+2015-11,E01023774,C8,1,1,1.0
+2015-11,E01023775,C3,9,3,3.0
+2015-11,E01023775,C4,1,1,1.0
+2015-11,E01023775,C5,1,1,1.0
+2015-11,E01023776,C3,3,2,1.5
+2015-11,E01023776,C8,6,3,2.0
+2015-11,E01023777,C3,2,1,2.0
+2015-11,E01023778,C3,6,1,6.0
+2015-11,E01023778,C5,1,1,1.0
+2015-11,E01023778,C7,1,1,1.0
+2015-11,E01023779,C3,3,2,1.5
+2015-11,E01023779,C7,1,1,1.0
+2015-11,E01023780,C3,2,1,2.0
+2015-11,E01023780,C8,1,1,1.0
+2015-11,E01023781,C3,10,3,3.3333333333333335
+2015-11,E01023781,C7,1,1,1.0
+2015-11,E01023781,C8,5,2,2.5
+2015-11,E01023782,C3,6,3,2.0
+2015-11,E01023782,C8,1,1,1.0
+2015-11,E01023783,C3,7,2,3.5
+2015-11,E01023784,C3,6,4,1.5
+2015-11,E01023784,C5,1,1,1.0
+2015-11,E01023784,C8,1,1,1.0
+2015-11,E01023785,C3,5,2,2.5
+2015-11,E01023785,C5,1,1,1.0
+2015-11,E01023786,C3,11,5,2.2
+2015-11,E01023786,C5,2,2,1.0
+2015-11,E01023786,C8,2,2,1.0
+2015-11,E01023787,C3,7,3,2.3333333333333335
+2015-11,E01023788,C3,13,3,4.333333333333333
+2015-11,E01023788,C7,1,1,1.0
+2015-11,E01023788,C8,5,5,1.0
+2015-11,E01023789,C2,1,1,1.0
+2015-11,E01023789,C3,10,4,2.5
+2015-11,E01023790,C3,6,3,2.0
+2015-11,E01023790,C8,2,1,2.0
+2015-11,E01023791,C3,7,3,2.3333333333333335
+2015-11,E01023792,C3,2,1,2.0
+2015-11,E01023793,C3,6,2,3.0
+2015-11,E01023793,C8,1,1,1.0
+2015-11,E01023794,C3,8,2,4.0
+2015-11,E01023795,C3,5,3,1.6666666666666667
+2015-11,E01023795,C8,1,1,1.0
+2015-11,E01023796,C3,2,2,1.0
+2015-11,E01023796,C5,1,1,1.0
+2015-11,E01023796,C8,1,1,1.0
+2015-11,E01023797,C3,1,1,1.0
+2015-11,E01023797,C7,1,1,1.0
+2015-11,E01023797,C8,3,3,1.0
+2015-11,E01023798,C3,7,3,2.3333333333333335
+2015-11,E01023798,C5,1,1,1.0
+2015-11,E01023798,C8,2,1,2.0
+2015-11,E01023799,C3,1,1,1.0
+2015-11,E01023799,C7,2,1,2.0
+2015-11,E01023800,C3,5,2,2.5
+2015-11,E01023800,C7,1,1,1.0
+2015-11,E01023800,C8,3,1,3.0
+2015-11,E01023801,C3,5,3,1.6666666666666667
+2015-11,E01023801,C7,2,1,2.0
+2015-11,E01023801,C8,2,2,1.0
+2015-11,E01027640,C8,1,1,1.0
+2015-11,E01027643,C2,1,1,1.0
+2015-11,E01027646,C3,2,1,2.0
+2015-11,E01027649,C8,1,1,1.0
+2015-11,E01027665,C2,1,1,1.0
+2015-11,E01027671,C3,1,1,1.0
+2015-11,E01027688,C5,1,1,1.0
+2015-11,E01027689,C8,1,1,1.0
+2015-11,E01027690,C3,1,1,1.0
+2015-11,E01027691,C5,2,1,2.0
+2015-11,E01027693,C8,1,1,1.0
+2015-11,E01027704,C8,1,1,1.0
+2015-11,E01027706,C5,1,1,1.0
+2015-11,E01027715,C2,1,1,1.0
+2015-11,E01027721,C3,1,1,1.0
+2015-11,E01027736,C3,1,1,1.0
+2015-11,E01027738,C5,1,1,1.0
+2015-11,E01028423,C7,2,1,2.0
+2015-11,E01028425,C7,1,1,1.0
+2015-11,E01028427,C3,1,1,1.0
+2015-11,E01028428,C7,1,1,1.0
+2015-11,E01028429,C3,1,1,1.0
+2015-11,E01028429,C7,1,1,1.0
+2015-11,E01028430,C7,3,3,1.0
+2015-11,E01028431,C2,2,2,1.0
+2015-11,E01028431,C7,3,3,1.0
+2015-11,E01028432,C2,1,1,1.0
+2015-11,E01028435,C3,1,1,1.0
+2015-11,E01028435,C7,3,3,1.0
+2015-11,E01028437,C2,1,1,1.0
+2015-11,E01028437,C7,4,4,1.0
+2015-11,E01028438,C2,1,1,1.0
+2015-11,E01028438,C7,3,3,1.0
+2015-11,E01028438,C8,1,1,1.0
+2015-11,E01028439,C7,1,1,1.0
+2015-11,E01028440,C7,1,1,1.0
+2015-11,E01028441,C7,2,2,1.0
+2015-11,E01028444,C7,1,1,1.0
+2015-11,E01028446,C7,1,1,1.0
+2015-11,E01028450,C7,1,1,1.0
+2015-11,E01028456,C3,1,1,1.0
+2015-11,E01028459,C2,1,1,1.0
+2015-11,E01028460,C7,1,1,1.0
+2015-11,E01028463,C5,1,1,1.0
+2015-11,E01028463,C8,1,1,1.0
+2015-11,E01028466,C8,1,1,1.0
+2015-11,E01028468,C3,1,1,1.0
+2015-11,E01028468,C7,2,2,1.0
+2015-11,E01028469,C7,1,1,1.0
+2015-11,E01028470,C7,1,1,1.0
 2015-11,E01028471,,2,1,2.0
-2015-11,E01028472,Road Safety & Defects,1,1,1.0
-2015-11,E01028474,Road Safety & Defects,1,1,1.0
-2015-11,E01028476,Environmental Health,1,1,1.0
-2015-11,E01028476,Road Safety & Defects,2,2,1.0
-2015-11,E01028477,Environmental Health,1,1,1.0
-2015-11,E01028477,Road Safety & Defects,1,1,1.0
-2015-11,E01028478,Road Safety & Defects,1,1,1.0
-2015-11,E01028479,Environmental Disruptions,1,1,1.0
-2015-11,E01028479,Road Safety & Defects,2,2,1.0
-2015-11,E01028481,Environmental Health,1,1,1.0
-2015-11,E01028481,Road Safety & Defects,3,2,1.5
-2015-11,E01028482,Road Safety & Defects,2,2,1.0
-2015-11,E01028483,Environmental Health,1,1,1.0
-2015-11,E01028483,Road Safety & Defects,1,1,1.0
-2015-11,E01028484,Road Safety & Defects,3,1,3.0
-2015-11,E01028486,Road Safety & Defects,2,2,1.0
-2015-11,E01028488,Environmental Health,1,1,1.0
-2015-11,E01028489,Road Safety & Defects,1,1,1.0
-2015-11,E01028490,Road Safety & Defects,1,1,1.0
+2015-11,E01028472,C7,1,1,1.0
+2015-11,E01028474,C7,1,1,1.0
+2015-11,E01028476,C3,1,1,1.0
+2015-11,E01028476,C7,2,2,1.0
+2015-11,E01028477,C3,1,1,1.0
+2015-11,E01028477,C7,1,1,1.0
+2015-11,E01028478,C7,1,1,1.0
+2015-11,E01028479,C2,1,1,1.0
+2015-11,E01028479,C7,2,2,1.0
+2015-11,E01028481,C3,1,1,1.0
+2015-11,E01028481,C7,3,2,1.5
+2015-11,E01028482,C7,2,2,1.0
+2015-11,E01028483,C3,1,1,1.0
+2015-11,E01028483,C7,1,1,1.0
+2015-11,E01028484,C7,3,1,3.0
+2015-11,E01028486,C7,2,2,1.0
+2015-11,E01028488,C3,1,1,1.0
+2015-11,E01028489,C7,1,1,1.0
+2015-11,E01028490,C7,1,1,1.0
 2015-11,E01028491,,1,1,1.0
-2015-11,E01028491,Environmental Health,1,1,1.0
-2015-11,E01028492,Road Safety & Defects,1,1,1.0
-2015-11,E01028495,Road Safety & Defects,1,1,1.0
-2015-11,E01028496,Road Safety & Defects,1,1,1.0
-2015-11,E01028497,Road Safety & Defects,2,2,1.0
-2015-11,E01028498,Environmental Health,1,1,1.0
-2015-11,E01028498,Road Safety & Defects,4,4,1.0
-2015-11,E01028499,Environmental Health,1,1,1.0
-2015-11,E01028499,Road Safety & Defects,1,1,1.0
-2015-11,E01028501,Road Safety & Defects,2,2,1.0
-2015-11,E01028502,Environmental Health,1,1,1.0
-2015-11,E01028502,Road Safety & Defects,5,5,1.0
-2015-11,E01028504,Road Safety & Defects,1,1,1.0
-2015-11,E01028505,Environmental Health,1,1,1.0
-2015-11,E01028505,Road Safety & Defects,1,1,1.0
-2015-11,E01028506,Road Safety & Defects,2,2,1.0
-2015-11,E01028507,Road Safety & Defects,2,1,2.0
-2015-11,E01028508,Environmental Disruptions,1,1,1.0
-2015-11,E01028508,Road Safety & Defects,2,2,1.0
-2015-11,E01028509,Road Safety & Defects,2,1,2.0
-2015-11,E01028510,Road Safety & Defects,1,1,1.0
-2015-11,E01028511,Environmental Health,2,2,1.0
-2015-11,E01028511,Road Safety & Defects,11,7,1.5714285714285714
-2015-11,E01028512,Road Safety & Defects,1,1,1.0
-2015-11,E01028515,Road Safety & Defects,1,1,1.0
-2015-11,E01028516,Road Safety & Defects,3,3,1.0
-2015-11,E01028521,Road Safety & Defects,6,6,1.0
-2015-11,E01028522,Environmental Health,2,2,1.0
-2015-11,E01028522,Road Safety & Defects,12,4,3.0
-2015-11,E01028523,Road Safety & Defects,1,1,1.0
-2015-11,E01028525,Road Safety & Defects,1,1,1.0
-2015-11,E01028529,Road Safety & Defects,1,1,1.0
-2015-11,E01028532,Environmental Health,1,1,1.0
-2015-11,E01028532,Road Safety & Defects,1,1,1.0
-2015-11,E01028535,Environmental Health,1,1,1.0
-2015-11,E01028535,Road Safety & Defects,1,1,1.0
+2015-11,E01028491,C3,1,1,1.0
+2015-11,E01028492,C7,1,1,1.0
+2015-11,E01028495,C7,1,1,1.0
+2015-11,E01028496,C7,1,1,1.0
+2015-11,E01028497,C7,2,2,1.0
+2015-11,E01028498,C3,1,1,1.0
+2015-11,E01028498,C7,4,4,1.0
+2015-11,E01028499,C3,1,1,1.0
+2015-11,E01028499,C7,1,1,1.0
+2015-11,E01028501,C7,2,2,1.0
+2015-11,E01028502,C3,1,1,1.0
+2015-11,E01028502,C7,5,5,1.0
+2015-11,E01028504,C7,1,1,1.0
+2015-11,E01028505,C3,1,1,1.0
+2015-11,E01028505,C7,1,1,1.0
+2015-11,E01028506,C7,2,2,1.0
+2015-11,E01028507,C7,2,1,2.0
+2015-11,E01028508,C2,1,1,1.0
+2015-11,E01028508,C7,2,2,1.0
+2015-11,E01028509,C7,2,1,2.0
+2015-11,E01028510,C7,1,1,1.0
+2015-11,E01028511,C3,2,2,1.0
+2015-11,E01028511,C7,11,7,1.5714285714285714
+2015-11,E01028512,C7,1,1,1.0
+2015-11,E01028515,C7,1,1,1.0
+2015-11,E01028516,C7,3,3,1.0
+2015-11,E01028521,C7,6,6,1.0
+2015-11,E01028522,C3,2,2,1.0
+2015-11,E01028522,C7,12,4,3.0
+2015-11,E01028523,C7,1,1,1.0
+2015-11,E01028525,C7,1,1,1.0
+2015-11,E01028529,C7,1,1,1.0
+2015-11,E01028532,C3,1,1,1.0
+2015-11,E01028532,C7,1,1,1.0
+2015-11,E01028535,C3,1,1,1.0
+2015-11,E01028535,C7,1,1,1.0
 2015-11,E01028537,,1,1,1.0
-2015-11,E01028537,Incivilities,1,1,1.0
-2015-11,E01028537,Road Safety & Defects,1,1,1.0
-2015-11,E01028539,Road Safety & Defects,1,1,1.0
-2015-11,E01028542,Road Safety & Defects,1,1,1.0
-2015-11,E01028543,Road Safety & Defects,3,2,1.5
-2015-11,E01028544,Environmental Health,2,2,1.0
-2015-11,E01028547,Road Safety & Defects,1,1,1.0
-2015-11,E01028548,Road Safety & Defects,5,5,1.0
-2015-11,E01028549,Environmental Health,1,1,1.0
-2015-11,E01028549,Road Safety & Defects,1,1,1.0
-2015-11,E01028550,Road Safety & Defects,2,2,1.0
-2015-11,E01028557,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028557,Environmental Disruptions,1,1,1.0
-2015-11,E01028559,Road Safety & Defects,1,1,1.0
-2015-11,E01028560,Environmental Disruptions,1,1,1.0
-2015-11,E01028560,Other,2,2,1.0
-2015-11,E01028561,Access,1,1,1.0
-2015-11,E01028561,Road Safety & Defects,1,1,1.0
-2015-11,E01028562,Road Safety & Defects,2,2,1.0
-2015-11,E01028570,Road Safety & Defects,1,1,1.0
-2015-11,E01028572,Environmental Disruptions,1,1,1.0
-2015-11,E01028574,Road Safety & Defects,1,1,1.0
-2015-11,E01028580,Road Safety & Defects,2,2,1.0
-2015-11,E01028583,Road Safety & Defects,2,2,1.0
-2015-11,E01028585,Road Safety & Defects,2,2,1.0
-2015-11,E01028586,Road Safety & Defects,1,1,1.0
-2015-11,E01028587,Environmental Disruptions,1,1,1.0
-2015-11,E01028587,Environmental Health,1,1,1.0
-2015-11,E01028591,Road Safety & Defects,1,1,1.0
-2015-11,E01028594,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01028597,Road Safety & Defects,1,1,1.0
-2015-11,E01028598,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01028600,Road Safety & Defects,1,1,1.0
-2015-11,E01028601,Environmental Disruptions,2,2,1.0
-2015-11,E01028601,Environmental Health,1,1,1.0
-2015-11,E01028601,Road Safety & Defects,4,1,4.0
-2015-11,E01028603,Environmental Disruptions,1,1,1.0
-2015-11,E01028603,Road Safety & Defects,1,1,1.0
-2015-11,E01028606,Environmental Health,1,1,1.0
-2015-11,E01028607,Road Safety & Defects,1,1,1.0
-2015-11,E01028608,Road Safety & Defects,1,1,1.0
-2015-11,E01028611,Environmental Health,2,2,1.0
-2015-11,E01028611,Road Safety & Defects,8,7,1.1428571428571428
-2015-11,E01028612,Environmental Health,1,1,1.0
-2015-11,E01028612,Road Safety & Defects,5,4,1.25
-2015-11,E01028614,Road Safety & Defects,1,1,1.0
-2015-11,E01028617,Road Safety & Defects,2,2,1.0
-2015-11,E01028618,Road Safety & Defects,1,1,1.0
-2015-11,E01028620,Road Safety & Defects,1,1,1.0
-2015-11,E01028621,Environmental Health,2,2,1.0
-2015-11,E01028622,Environmental Health,2,1,2.0
-2015-11,E01028624,Road Safety & Defects,2,2,1.0
-2015-11,E01028625,Environmental Health,1,1,1.0
-2015-11,E01028625,Road Safety & Defects,5,5,1.0
-2015-11,E01028627,Access,1,1,1.0
-2015-11,E01028627,Environmental Disruptions,2,2,1.0
-2015-11,E01028627,Road Safety & Defects,1,1,1.0
-2015-11,E01028628,Environmental Health,1,1,1.0
-2015-11,E01028628,Road Safety & Defects,1,1,1.0
-2015-11,E01028629,Environmental Health,1,1,1.0
-2015-11,E01028635,Environmental Health,1,1,1.0
-2015-11,E01028638,Environmental Health,1,1,1.0
-2015-11,E01028638,Road Safety & Defects,2,2,1.0
-2015-11,E01028639,Environmental Health,1,1,1.0
-2015-11,E01028639,Road Safety & Defects,4,4,1.0
-2015-11,E01028640,Environmental Health,1,1,1.0
-2015-11,E01028641,Environmental Disruptions,1,1,1.0
-2015-11,E01028643,Road Safety & Defects,8,5,1.6
-2015-11,E01028644,Environmental Health,1,1,1.0
-2015-11,E01028645,Road Safety & Defects,2,2,1.0
-2015-11,E01028646,Environmental Disruptions,1,1,1.0
-2015-11,E01028646,Road Safety & Defects,1,1,1.0
-2015-11,E01028647,Environmental Health,2,2,1.0
-2015-11,E01028647,Road Safety & Defects,5,4,1.25
-2015-11,E01028649,Road Safety & Defects,2,2,1.0
-2015-11,E01028650,Road Safety & Defects,10,1,10.0
-2015-11,E01028651,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028651,Road Safety & Defects,2,1,2.0
-2015-11,E01028653,Road Safety & Defects,3,3,1.0
-2015-11,E01028654,Environmental Health,1,1,1.0
-2015-11,E01028654,Road Safety & Defects,1,1,1.0
-2015-11,E01028655,Road Safety & Defects,2,2,1.0
-2015-11,E01028658,Environmental Health,1,1,1.0
-2015-11,E01028658,Other,1,1,1.0
-2015-11,E01028658,Road Safety & Defects,2,2,1.0
-2015-11,E01028659,Road Safety & Defects,4,2,2.0
-2015-11,E01028660,Environmental Disruptions,1,1,1.0
-2015-11,E01028660,Environmental Health,1,1,1.0
-2015-11,E01028660,Road Safety & Defects,6,5,1.2
-2015-11,E01028662,Road Safety & Defects,1,1,1.0
-2015-11,E01028663,Environmental Health,1,1,1.0
-2015-11,E01028663,Road Safety & Defects,1,1,1.0
-2015-11,E01028664,Road Safety & Defects,1,1,1.0
-2015-11,E01028666,Environmental Health,2,2,1.0
-2015-11,E01028666,Road Safety & Defects,1,1,1.0
-2015-11,E01028667,Environmental Disruptions,1,1,1.0
-2015-11,E01028668,Road Safety & Defects,1,1,1.0
-2015-11,E01028669,Environmental Health,1,1,1.0
-2015-11,E01028669,Road Safety & Defects,2,2,1.0
-2015-11,E01028671,Road Safety & Defects,2,2,1.0
-2015-11,E01028672,Road Safety & Defects,2,2,1.0
-2015-11,E01028673,Environmental Health,1,1,1.0
-2015-11,E01028673,Road Safety & Defects,1,1,1.0
-2015-11,E01028674,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01028675,Environmental Disruptions,1,1,1.0
+2015-11,E01028537,C4,1,1,1.0
+2015-11,E01028537,C7,1,1,1.0
+2015-11,E01028539,C7,1,1,1.0
+2015-11,E01028542,C7,1,1,1.0
+2015-11,E01028543,C7,3,2,1.5
+2015-11,E01028544,C3,2,2,1.0
+2015-11,E01028547,C7,1,1,1.0
+2015-11,E01028548,C7,5,5,1.0
+2015-11,E01028549,C3,1,1,1.0
+2015-11,E01028549,C7,1,1,1.0
+2015-11,E01028550,C7,2,2,1.0
+2015-11,E01028557,C2,1,1,1.0
+2015-11,E01028557,C8,1,1,1.0
+2015-11,E01028559,C7,1,1,1.0
+2015-11,E01028560,C2,1,1,1.0
+2015-11,E01028560,C5,2,2,1.0
+2015-11,E01028561,C1,1,1,1.0
+2015-11,E01028561,C7,1,1,1.0
+2015-11,E01028562,C7,2,2,1.0
+2015-11,E01028570,C7,1,1,1.0
+2015-11,E01028572,C2,1,1,1.0
+2015-11,E01028574,C7,1,1,1.0
+2015-11,E01028580,C7,2,2,1.0
+2015-11,E01028583,C7,2,2,1.0
+2015-11,E01028585,C7,2,2,1.0
+2015-11,E01028586,C7,1,1,1.0
+2015-11,E01028587,C2,1,1,1.0
+2015-11,E01028587,C3,1,1,1.0
+2015-11,E01028591,C7,1,1,1.0
+2015-11,E01028594,C7,4,3,1.3333333333333333
+2015-11,E01028597,C7,1,1,1.0
+2015-11,E01028598,C7,4,3,1.3333333333333333
+2015-11,E01028600,C7,1,1,1.0
+2015-11,E01028601,C2,2,2,1.0
+2015-11,E01028601,C3,1,1,1.0
+2015-11,E01028601,C7,4,1,4.0
+2015-11,E01028603,C2,1,1,1.0
+2015-11,E01028603,C7,1,1,1.0
+2015-11,E01028606,C3,1,1,1.0
+2015-11,E01028607,C7,1,1,1.0
+2015-11,E01028608,C7,1,1,1.0
+2015-11,E01028611,C3,2,2,1.0
+2015-11,E01028611,C7,8,7,1.1428571428571428
+2015-11,E01028612,C3,1,1,1.0
+2015-11,E01028612,C7,5,4,1.25
+2015-11,E01028614,C7,1,1,1.0
+2015-11,E01028617,C7,2,2,1.0
+2015-11,E01028618,C7,1,1,1.0
+2015-11,E01028620,C7,1,1,1.0
+2015-11,E01028621,C3,2,2,1.0
+2015-11,E01028622,C3,2,1,2.0
+2015-11,E01028624,C7,2,2,1.0
+2015-11,E01028625,C3,1,1,1.0
+2015-11,E01028625,C7,5,5,1.0
+2015-11,E01028627,C1,1,1,1.0
+2015-11,E01028627,C2,2,2,1.0
+2015-11,E01028627,C7,1,1,1.0
+2015-11,E01028628,C3,1,1,1.0
+2015-11,E01028628,C7,1,1,1.0
+2015-11,E01028629,C3,1,1,1.0
+2015-11,E01028635,C3,1,1,1.0
+2015-11,E01028638,C3,1,1,1.0
+2015-11,E01028638,C7,2,2,1.0
+2015-11,E01028639,C3,1,1,1.0
+2015-11,E01028639,C7,4,4,1.0
+2015-11,E01028640,C3,1,1,1.0
+2015-11,E01028641,C2,1,1,1.0
+2015-11,E01028643,C7,8,5,1.6
+2015-11,E01028644,C3,1,1,1.0
+2015-11,E01028645,C7,2,2,1.0
+2015-11,E01028646,C2,1,1,1.0
+2015-11,E01028646,C7,1,1,1.0
+2015-11,E01028647,C3,2,2,1.0
+2015-11,E01028647,C7,5,4,1.25
+2015-11,E01028649,C7,2,2,1.0
+2015-11,E01028650,C7,10,1,10.0
+2015-11,E01028651,C7,2,1,2.0
+2015-11,E01028651,C8,1,1,1.0
+2015-11,E01028653,C7,3,3,1.0
+2015-11,E01028654,C3,1,1,1.0
+2015-11,E01028654,C7,1,1,1.0
+2015-11,E01028655,C7,2,2,1.0
+2015-11,E01028658,C3,1,1,1.0
+2015-11,E01028658,C5,1,1,1.0
+2015-11,E01028658,C7,2,2,1.0
+2015-11,E01028659,C7,4,2,2.0
+2015-11,E01028660,C2,1,1,1.0
+2015-11,E01028660,C3,1,1,1.0
+2015-11,E01028660,C7,6,5,1.2
+2015-11,E01028662,C7,1,1,1.0
+2015-11,E01028663,C3,1,1,1.0
+2015-11,E01028663,C7,1,1,1.0
+2015-11,E01028664,C7,1,1,1.0
+2015-11,E01028666,C3,2,2,1.0
+2015-11,E01028666,C7,1,1,1.0
+2015-11,E01028667,C2,1,1,1.0
+2015-11,E01028668,C7,1,1,1.0
+2015-11,E01028669,C3,1,1,1.0
+2015-11,E01028669,C7,2,2,1.0
+2015-11,E01028671,C7,2,2,1.0
+2015-11,E01028672,C7,2,2,1.0
+2015-11,E01028673,C3,1,1,1.0
+2015-11,E01028673,C7,1,1,1.0
+2015-11,E01028674,C7,4,3,1.3333333333333333
+2015-11,E01028675,C2,1,1,1.0
 2015-11,E01028676,,1,1,1.0
-2015-11,E01028676,Road Safety & Defects,3,2,1.5
-2015-11,E01028677,Environmental Health,1,1,1.0
-2015-11,E01028677,Road Safety & Defects,3,3,1.0
-2015-11,E01028678,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028678,Road Safety & Defects,2,2,1.0
-2015-11,E01028678,Vehicles,1,1,1.0
-2015-11,E01028679,Environmental Disruptions,1,1,1.0
-2015-11,E01028679,Road Safety & Defects,1,1,1.0
-2015-11,E01028680,Road Safety & Defects,1,1,1.0
-2015-11,E01028682,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01028684,Road Safety & Defects,4,4,1.0
-2015-11,E01028686,Environmental Disruptions,1,1,1.0
-2015-11,E01028686,Environmental Health,1,1,1.0
-2015-11,E01028688,Road Safety & Defects,1,1,1.0
-2015-11,E01028689,Vehicles,1,1,1.0
-2015-11,E01028691,Road Safety & Defects,3,2,1.5
-2015-11,E01028698,Road Safety & Defects,1,1,1.0
-2015-11,E01028699,Road Safety & Defects,1,1,1.0
-2015-11,E01028701,Road Safety & Defects,2,2,1.0
-2015-11,E01028702,Environmental Disruptions,1,1,1.0
-2015-11,E01028703,Environmental Disruptions,1,1,1.0
-2015-11,E01028703,Environmental Health,1,1,1.0
-2015-11,E01028703,Road Safety & Defects,1,1,1.0
-2015-11,E01028708,Environmental Health,3,1,3.0
-2015-11,E01028708,Road Safety & Defects,3,1,3.0
-2015-11,E01028709,Road Safety & Defects,2,2,1.0
-2015-11,E01028710,Environmental Health,1,1,1.0
-2015-11,E01028710,Road Safety & Defects,1,1,1.0
-2015-11,E01028711,Environmental Health,1,1,1.0
-2015-11,E01028711,Road Safety & Defects,1,1,1.0
-2015-11,E01028712,Environmental Health,1,1,1.0
-2015-11,E01028712,Road Safety & Defects,1,1,1.0
-2015-11,E01028713,Road Safety & Defects,5,5,1.0
-2015-11,E01028714,Road Safety & Defects,1,1,1.0
-2015-11,E01028715,Other,1,1,1.0
-2015-11,E01028716,Road Safety & Defects,1,1,1.0
-2015-11,E01028717,Other,1,1,1.0
-2015-11,E01028718,Environmental Health,1,1,1.0
-2015-11,E01028719,Road Safety & Defects,3,2,1.5
-2015-11,E01028720,Road Safety & Defects,2,2,1.0
-2015-11,E01028722,Environmental Disruptions,1,1,1.0
-2015-11,E01028722,Road Safety & Defects,2,2,1.0
-2015-11,E01028723,Environmental Health,1,1,1.0
-2015-11,E01028724,Road Safety & Defects,1,1,1.0
-2015-11,E01028725,Environmental Disruptions,1,1,1.0
-2015-11,E01028725,Environmental Health,1,1,1.0
-2015-11,E01028726,Environmental Disruptions,2,1,2.0
-2015-11,E01028727,Environmental Health,2,1,2.0
-2015-11,E01028727,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01028729,Environmental Disruptions,1,1,1.0
-2015-11,E01028729,Environmental Health,1,1,1.0
-2015-11,E01028729,Road Safety & Defects,3,3,1.0
-2015-11,E01028730,Environmental Health,3,2,1.5
-2015-11,E01028731,Environmental Health,1,1,1.0
-2015-11,E01028731,Road Safety & Defects,2,2,1.0
-2015-11,E01028732,Environmental Health,1,1,1.0
-2015-11,E01028732,Road Safety & Defects,6,6,1.0
-2015-11,E01028733,Road Safety & Defects,3,3,1.0
-2015-11,E01028734,Road Safety & Defects,3,2,1.5
-2015-11,E01028735,Environmental Disruptions,1,1,1.0
-2015-11,E01028737,Environmental Disruptions,2,1,2.0
-2015-11,E01028737,Road Safety & Defects,2,2,1.0
-2015-11,E01028738,Environmental Health,1,1,1.0
-2015-11,E01028738,Road Safety & Defects,2,1,2.0
-2015-11,E01028741,Road Safety & Defects,3,3,1.0
-2015-11,E01028742,Environmental Disruptions,1,1,1.0
-2015-11,E01028742,Environmental Health,2,2,1.0
-2015-11,E01028743,Road Safety & Defects,1,1,1.0
-2015-11,E01028744,Road Safety & Defects,3,3,1.0
-2015-11,E01028746,Road Safety & Defects,3,3,1.0
-2015-11,E01028747,Environmental Health,1,1,1.0
-2015-11,E01028749,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028751,Road Safety & Defects,5,3,1.6666666666666667
-2015-11,E01028754,Environmental Health,1,1,1.0
-2015-11,E01028755,Environmental Health,1,1,1.0
-2015-11,E01028755,Road Safety & Defects,1,1,1.0
-2015-11,E01028756,Environmental Health,1,1,1.0
-2015-11,E01028756,Road Safety & Defects,4,4,1.0
-2015-11,E01028757,Environmental Health,1,1,1.0
-2015-11,E01028757,Road Safety & Defects,2,2,1.0
-2015-11,E01028758,Environmental Health,5,1,5.0
-2015-11,E01028758,Road Safety & Defects,1,1,1.0
-2015-11,E01028762,Environmental Health,1,1,1.0
-2015-11,E01028762,Road Safety & Defects,3,3,1.0
-2015-11,E01028763,Road Safety & Defects,1,1,1.0
-2015-11,E01028765,Environmental Health,1,1,1.0
-2015-11,E01028765,Road Safety & Defects,2,2,1.0
-2015-11,E01028766,Environmental Health,1,1,1.0
-2015-11,E01028766,Road Safety & Defects,1,1,1.0
-2015-11,E01028767,Road Safety & Defects,5,4,1.25
-2015-11,E01028773,Road Safety & Defects,1,1,1.0
-2015-11,E01028774,Other,1,1,1.0
-2015-11,E01028774,Road Safety & Defects,1,1,1.0
-2015-11,E01028776,Environmental Health,2,2,1.0
-2015-11,E01028776,Road Safety & Defects,3,2,1.5
-2015-11,E01028777,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028779,Road Safety & Defects,8,8,1.0
-2015-11,E01028780,Road Safety & Defects,1,1,1.0
-2015-11,E01028781,Road Safety & Defects,2,2,1.0
-2015-11,E01028782,Environmental Health,1,1,1.0
-2015-11,E01028782,Road Safety & Defects,2,2,1.0
-2015-11,E01028783,Environmental Health,1,1,1.0
-2015-11,E01028783,Road Safety & Defects,2,1,2.0
-2015-11,E01028784,Road Safety & Defects,4,4,1.0
-2015-11,E01028786,Road Safety & Defects,1,1,1.0
-2015-11,E01028787,Environmental Disruptions,1,1,1.0
-2015-11,E01028787,Road Safety & Defects,1,1,1.0
+2015-11,E01028676,C7,3,2,1.5
+2015-11,E01028677,C3,1,1,1.0
+2015-11,E01028677,C7,3,3,1.0
+2015-11,E01028678,C7,2,2,1.0
+2015-11,E01028678,C8,2,1,2.0
+2015-11,E01028679,C2,1,1,1.0
+2015-11,E01028679,C7,1,1,1.0
+2015-11,E01028680,C7,1,1,1.0
+2015-11,E01028682,C7,4,3,1.3333333333333333
+2015-11,E01028684,C7,4,4,1.0
+2015-11,E01028686,C2,1,1,1.0
+2015-11,E01028686,C3,1,1,1.0
+2015-11,E01028688,C7,1,1,1.0
+2015-11,E01028689,C8,1,1,1.0
+2015-11,E01028691,C7,3,2,1.5
+2015-11,E01028698,C7,1,1,1.0
+2015-11,E01028699,C7,1,1,1.0
+2015-11,E01028701,C7,2,2,1.0
+2015-11,E01028702,C2,1,1,1.0
+2015-11,E01028703,C2,1,1,1.0
+2015-11,E01028703,C3,1,1,1.0
+2015-11,E01028703,C7,1,1,1.0
+2015-11,E01028708,C3,3,1,3.0
+2015-11,E01028708,C7,3,1,3.0
+2015-11,E01028709,C7,2,2,1.0
+2015-11,E01028710,C3,1,1,1.0
+2015-11,E01028710,C7,1,1,1.0
+2015-11,E01028711,C3,1,1,1.0
+2015-11,E01028711,C7,1,1,1.0
+2015-11,E01028712,C3,1,1,1.0
+2015-11,E01028712,C7,1,1,1.0
+2015-11,E01028713,C7,5,5,1.0
+2015-11,E01028714,C7,1,1,1.0
+2015-11,E01028715,C5,1,1,1.0
+2015-11,E01028716,C7,1,1,1.0
+2015-11,E01028717,C5,1,1,1.0
+2015-11,E01028718,C3,1,1,1.0
+2015-11,E01028719,C7,3,2,1.5
+2015-11,E01028720,C7,2,2,1.0
+2015-11,E01028722,C2,1,1,1.0
+2015-11,E01028722,C7,2,2,1.0
+2015-11,E01028723,C3,1,1,1.0
+2015-11,E01028724,C7,1,1,1.0
+2015-11,E01028725,C2,1,1,1.0
+2015-11,E01028725,C3,1,1,1.0
+2015-11,E01028726,C2,2,1,2.0
+2015-11,E01028727,C3,2,1,2.0
+2015-11,E01028727,C7,4,3,1.3333333333333333
+2015-11,E01028729,C2,1,1,1.0
+2015-11,E01028729,C3,1,1,1.0
+2015-11,E01028729,C7,3,3,1.0
+2015-11,E01028730,C3,3,2,1.5
+2015-11,E01028731,C3,1,1,1.0
+2015-11,E01028731,C7,2,2,1.0
+2015-11,E01028732,C3,1,1,1.0
+2015-11,E01028732,C7,6,6,1.0
+2015-11,E01028733,C7,3,3,1.0
+2015-11,E01028734,C7,3,2,1.5
+2015-11,E01028735,C2,1,1,1.0
+2015-11,E01028737,C2,2,1,2.0
+2015-11,E01028737,C7,2,2,1.0
+2015-11,E01028738,C3,1,1,1.0
+2015-11,E01028738,C7,2,1,2.0
+2015-11,E01028741,C7,3,3,1.0
+2015-11,E01028742,C2,1,1,1.0
+2015-11,E01028742,C3,2,2,1.0
+2015-11,E01028743,C7,1,1,1.0
+2015-11,E01028744,C7,3,3,1.0
+2015-11,E01028746,C7,3,3,1.0
+2015-11,E01028747,C3,1,1,1.0
+2015-11,E01028749,C8,1,1,1.0
+2015-11,E01028751,C7,5,3,1.6666666666666667
+2015-11,E01028754,C3,1,1,1.0
+2015-11,E01028755,C3,1,1,1.0
+2015-11,E01028755,C7,1,1,1.0
+2015-11,E01028756,C3,1,1,1.0
+2015-11,E01028756,C7,4,4,1.0
+2015-11,E01028757,C3,1,1,1.0
+2015-11,E01028757,C7,2,2,1.0
+2015-11,E01028758,C3,5,1,5.0
+2015-11,E01028758,C7,1,1,1.0
+2015-11,E01028762,C3,1,1,1.0
+2015-11,E01028762,C7,3,3,1.0
+2015-11,E01028763,C7,1,1,1.0
+2015-11,E01028765,C3,1,1,1.0
+2015-11,E01028765,C7,2,2,1.0
+2015-11,E01028766,C3,1,1,1.0
+2015-11,E01028766,C7,1,1,1.0
+2015-11,E01028767,C7,5,4,1.25
+2015-11,E01028773,C7,1,1,1.0
+2015-11,E01028774,C5,1,1,1.0
+2015-11,E01028774,C7,1,1,1.0
+2015-11,E01028776,C3,2,2,1.0
+2015-11,E01028776,C7,3,2,1.5
+2015-11,E01028777,C8,1,1,1.0
+2015-11,E01028779,C7,8,8,1.0
+2015-11,E01028780,C7,1,1,1.0
+2015-11,E01028781,C7,2,2,1.0
+2015-11,E01028782,C3,1,1,1.0
+2015-11,E01028782,C7,2,2,1.0
+2015-11,E01028783,C3,1,1,1.0
+2015-11,E01028783,C7,2,1,2.0
+2015-11,E01028784,C7,4,4,1.0
+2015-11,E01028786,C7,1,1,1.0
+2015-11,E01028787,C2,1,1,1.0
+2015-11,E01028787,C7,1,1,1.0
 2015-11,E01028788,,1,1,1.0
-2015-11,E01028788,Road Safety & Defects,6,6,1.0
-2015-11,E01028792,Road Safety & Defects,1,1,1.0
-2015-11,E01028795,Road Safety & Defects,4,3,1.3333333333333333
-2015-11,E01028796,Environmental Health,3,2,1.5
-2015-11,E01028796,Road Safety & Defects,1,1,1.0
-2015-11,E01028798,Road Safety & Defects,1,1,1.0
-2015-11,E01028800,Environmental Disruptions,1,1,1.0
-2015-11,E01028800,Road Safety & Defects,1,1,1.0
+2015-11,E01028788,C7,6,6,1.0
+2015-11,E01028792,C7,1,1,1.0
+2015-11,E01028795,C7,4,3,1.3333333333333333
+2015-11,E01028796,C3,3,2,1.5
+2015-11,E01028796,C7,1,1,1.0
+2015-11,E01028798,C7,1,1,1.0
+2015-11,E01028800,C2,1,1,1.0
+2015-11,E01028800,C7,1,1,1.0
 2015-11,E01028801,,1,1,1.0
-2015-11,E01028801,Environmental Health,2,2,1.0
-2015-11,E01028801,Road Safety & Defects,3,3,1.0
-2015-11,E01028802,Road Safety & Defects,1,1,1.0
-2015-11,E01028804,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028806,Environmental Health,1,1,1.0
-2015-11,E01028806,Road Safety & Defects,3,3,1.0
-2015-11,E01028807,Road Safety & Defects,1,1,1.0
-2015-11,E01028808,Road Safety & Defects,1,1,1.0
-2015-11,E01028809,Road Safety & Defects,1,1,1.0
-2015-11,E01028811,Road Safety & Defects,1,1,1.0
-2015-11,E01028813,Environmental Disruptions,1,1,1.0
-2015-11,E01028814,Environmental Disruptions,1,1,1.0
-2015-11,E01028814,Road Safety & Defects,1,1,1.0
-2015-11,E01028817,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01028817,Road Safety & Defects,1,1,1.0
-2015-11,E01028818,Environmental Disruptions,1,1,1.0
-2015-11,E01028818,Environmental Health,2,2,1.0
-2015-11,E01028818,Other,1,1,1.0
-2015-11,E01028818,Road Safety & Defects,3,3,1.0
-2015-11,E01028820,Environmental Health,1,1,1.0
-2015-11,E01028820,Road Safety & Defects,1,1,1.0
-2015-11,E01028822,Environmental Disruptions,1,1,1.0
-2015-11,E01028823,Other,1,1,1.0
-2015-11,E01028823,Road Safety & Defects,2,2,1.0
-2015-11,E01028824,Incivilities,2,1,2.0
-2015-11,E01028824,Road Safety & Defects,1,1,1.0
-2015-11,E01028825,Road Safety & Defects,1,1,1.0
-2015-11,E01031005,Access,1,1,1.0
-2015-11,E01031005,Environmental Health,1,1,1.0
-2015-11,E01031007,Access,1,1,1.0
-2015-11,E01031007,Other,1,1,1.0
-2015-11,E01031011,Access,1,1,1.0
-2015-11,E01031012,Road Safety & Defects,1,1,1.0
-2015-11,E01031018,Other,1,1,1.0
-2015-11,E01031018,Road Safety & Defects,1,1,1.0
-2015-11,E01031023,Road Safety & Defects,1,1,1.0
-2015-11,E01031024,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01031024,Access,2,2,1.0
-2015-11,E01031024,Environmental Health,1,1,1.0
-2015-11,E01031024,Other,2,2,1.0
-2015-11,E01031024,Road Safety & Defects,1,1,1.0
-2015-11,E01031027,Access,1,1,1.0
-2015-11,E01031027,Road Safety & Defects,1,1,1.0
-2015-11,E01031028,Access,3,3,1.0
-2015-11,E01031028,Environmental Health,1,1,1.0
-2015-11,E01031028,Road Safety & Defects,1,1,1.0
-2015-11,E01031030,Road Safety & Defects,1,1,1.0
-2015-11,E01031031,Environmental Health,1,1,1.0
-2015-11,E01031033,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01031033,Environmental Disruptions,1,1,1.0
-2015-11,E01031035,Access,2,2,1.0
-2015-11,E01031035,Other,1,1,1.0
-2015-11,E01031036,Access,1,1,1.0
-2015-11,E01031036,Environmental Health,1,1,1.0
-2015-11,E01031037,Road Safety & Defects,1,1,1.0
-2015-11,E01031042,Road Safety & Defects,1,1,1.0
-2015-11,E01031043,Road Safety & Defects,2,2,1.0
-2015-11,E01031045,Access,1,1,1.0
-2015-11,E01031045,Other,1,1,1.0
-2015-11,E01031049,Road Safety & Defects,2,2,1.0
-2015-11,E01031050,Environmental Disruptions,1,1,1.0
-2015-11,E01031050,Environmental Health,1,1,1.0
-2015-11,E01031051,Road Safety & Defects,1,1,1.0
-2015-11,E01031055,Other,1,1,1.0
-2015-11,E01031056,Access,2,2,1.0
-2015-11,E01031059,Access,1,1,1.0
-2015-11,E01031060,Environmental Disruptions,1,1,1.0
-2015-11,E01031063,Environmental Health,1,1,1.0
-2015-11,E01031064,Access,1,1,1.0
-2015-11,E01031064,Road Safety & Defects,1,1,1.0
-2015-11,E01031068,Access,1,1,1.0
-2015-11,E01031073,Access,1,1,1.0
-2015-11,E01031075,Environmental Disruptions,1,1,1.0
-2015-11,E01031083,Road Safety & Defects,1,1,1.0
-2015-11,E01031084,Road Safety & Defects,1,1,1.0
-2015-11,E01031085,Road Safety & Defects,1,1,1.0
-2015-11,E01031086,Other,1,1,1.0
-2015-11,E01031090,Other,1,1,1.0
-2015-11,E01031097,Other,3,2,1.5
-2015-11,E01031098,Road Safety & Defects,1,1,1.0
-2015-11,E01031099,Road Safety & Defects,1,1,1.0
-2015-11,E01031100,Environmental Disruptions,1,1,1.0
-2015-11,E01031109,Access,1,1,1.0
-2015-11,E01031113,Road Safety & Defects,1,1,1.0
-2015-11,E01031117,Road Safety & Defects,1,1,1.0
-2015-11,E01031118,Access,1,1,1.0
-2015-11,E01031118,Other,2,1,2.0
-2015-11,E01031124,Environmental Health,1,1,1.0
-2015-11,E01031125,Environmental Health,1,1,1.0
-2015-11,E01031132,Environmental Health,1,1,1.0
-2015-11,E01031132,Other,1,1,1.0
-2015-11,E01031133,Access,1,1,1.0
-2015-11,E01031134,Environmental Health,1,1,1.0
-2015-11,E01031141,Road Safety & Defects,1,1,1.0
-2015-11,E01031142,Road Safety & Defects,1,1,1.0
-2015-11,E01031143,Road Safety & Defects,1,1,1.0
-2015-11,E01031144,Road Safety & Defects,2,2,1.0
-2015-11,E01031147,Road Safety & Defects,1,1,1.0
-2015-11,E01031149,Road Safety & Defects,2,2,1.0
-2015-11,E01031150,Environmental Health,1,1,1.0
-2015-11,E01031151,Environmental Health,1,1,1.0
-2015-11,E01031153,Road Safety & Defects,1,1,1.0
-2015-11,E01031158,Road Safety & Defects,1,1,1.0
-2015-11,E01031159,Environmental Disruptions,2,2,1.0
-2015-11,E01031159,Other,1,1,1.0
-2015-11,E01031160,Road Safety & Defects,1,1,1.0
-2015-11,E01031163,Other,1,1,1.0
-2015-11,E01031164,Access,1,1,1.0
-2015-11,E01031171,Environmental Health,1,1,1.0
-2015-11,E01031171,Road Safety & Defects,1,1,1.0
-2015-11,E01031173,Environmental Health,1,1,1.0
-2015-11,E01031174,Environmental Health,1,1,1.0
-2015-11,E01031178,Other,1,1,1.0
-2015-11,E01031181,Other,2,2,1.0
-2015-11,E01031181,Road Safety & Defects,1,1,1.0
-2015-11,E01031183,Environmental Disruptions,1,1,1.0
-2015-11,E01031184,Access,1,1,1.0
-2015-11,E01031184,Environmental Health,1,1,1.0
-2015-11,E01031187,Access,1,1,1.0
-2015-11,E01031187,Other,1,1,1.0
-2015-11,E01031187,Road Safety & Defects,1,1,1.0
-2015-11,E01031188,Road Safety & Defects,1,1,1.0
-2015-11,E01031189,Environmental Disruptions,1,1,1.0
-2015-11,E01031189,Environmental Health,1,1,1.0
-2015-11,E01031193,Road Safety & Defects,1,1,1.0
-2015-11,E01031194,Access,1,1,1.0
-2015-11,E01031194,Other,1,1,1.0
-2015-11,E01031194,Road Safety & Defects,1,1,1.0
-2015-11,E01031195,Access,1,1,1.0
-2015-11,E01031195,Other,1,1,1.0
-2015-11,E01031196,Road Safety & Defects,1,1,1.0
-2015-11,E01031197,Access,1,1,1.0
-2015-11,E01031197,Road Safety & Defects,1,1,1.0
-2015-11,E01031198,Road Safety & Defects,1,1,1.0
-2015-11,E01031199,Access,4,3,1.3333333333333333
-2015-11,E01031199,Environmental Health,1,1,1.0
-2015-11,E01031199,Road Safety & Defects,1,1,1.0
-2015-11,E01031200,Environmental Health,1,1,1.0
-2015-11,E01031202,Other,1,1,1.0
-2015-11,E01031202,Road Safety & Defects,1,1,1.0
-2015-11,E01031203,Other,1,1,1.0
-2015-11,E01031204,Access,1,1,1.0
-2015-11,E01031205,Environmental Health,1,1,1.0
-2015-11,E01031205,Other,1,1,1.0
-2015-11,E01031205,Road Safety & Defects,1,1,1.0
-2015-11,E01031206,Environmental Health,1,1,1.0
-2015-11,E01031206,Other,1,1,1.0
-2015-11,E01031207,Access,1,1,1.0
-2015-11,E01031207,Environmental Disruptions,1,1,1.0
-2015-11,E01031208,Access,1,1,1.0
-2015-11,E01031208,Environmental Disruptions,1,1,1.0
-2015-11,E01031208,Other,2,2,1.0
-2015-11,E01031210,Road Safety & Defects,1,1,1.0
-2015-11,E01031211,Environmental Health,1,1,1.0
-2015-11,E01031211,Other,1,1,1.0
-2015-11,E01031212,Other,1,1,1.0
-2015-11,E01031212,Road Safety & Defects,1,1,1.0
-2015-11,E01031213,Access,4,4,1.0
-2015-11,E01031213,Road Safety & Defects,1,1,1.0
-2015-11,E01031215,Road Safety & Defects,1,1,1.0
-2015-11,E01031217,Environmental Health,2,2,1.0
-2015-11,E01031217,Road Safety & Defects,1,1,1.0
-2015-11,E01031218,Access,1,1,1.0
-2015-11,E01031218,Road Safety & Defects,2,2,1.0
-2015-11,E01031222,Other,1,1,1.0
-2015-11,E01031224,Access,1,1,1.0
-2015-11,E01031225,Access,2,2,1.0
-2015-11,E01031225,Environmental Disruptions,1,1,1.0
-2015-11,E01031225,Road Safety & Defects,1,1,1.0
-2015-11,E01031227,Environmental Health,1,1,1.0
-2015-11,E01031232,Access,1,1,1.0
-2015-11,E01031232,Road Safety & Defects,1,1,1.0
-2015-11,E01031234,Road Safety & Defects,1,1,1.0
-2015-11,E01031235,Other,1,1,1.0
-2015-11,E01031236,Access,1,1,1.0
-2015-11,E01031238,Road Safety & Defects,1,1,1.0
-2015-11,E01031239,Access,1,1,1.0
-2015-11,E01031239,Road Safety & Defects,1,1,1.0
-2015-11,E01031243,Access,2,2,1.0
-2015-11,E01031243,Road Safety & Defects,2,2,1.0
-2015-11,E01031244,Environmental Health,1,1,1.0
-2015-11,E01031246,Environmental Health,1,1,1.0
-2015-11,E01031247,Access,1,1,1.0
-2015-11,E01031248,Access,2,2,1.0
-2015-11,E01031248,Environmental Disruptions,1,1,1.0
-2015-11,E01031250,Access,2,2,1.0
-2015-11,E01031254,Access,1,1,1.0
-2015-11,E01031256,Access,1,1,1.0
-2015-11,E01031256,Other,1,1,1.0
-2015-11,E01031259,Access,1,1,1.0
-2015-11,E01031259,Other,2,2,1.0
-2015-11,E01031259,Road Safety & Defects,1,1,1.0
-2015-11,E01031260,Access,1,1,1.0
-2015-11,E01031261,Road Safety & Defects,1,1,1.0
-2015-11,E01031262,Other,1,1,1.0
-2015-11,E01031265,Road Safety & Defects,1,1,1.0
-2015-11,E01031268,Access,1,1,1.0
-2015-11,E01031268,Environmental Disruptions,1,1,1.0
-2015-11,E01031268,Road Safety & Defects,1,1,1.0
-2015-11,E01031269,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01031269,Road Safety & Defects,1,1,1.0
-2015-11,E01031271,Access,1,1,1.0
-2015-11,E01031271,Road Safety & Defects,2,2,1.0
-2015-11,E01031280,Access,2,2,1.0
-2015-11,E01031280,Environmental Health,1,1,1.0
-2015-11,E01031281,Access,1,1,1.0
-2015-11,E01031281,Environmental Health,1,1,1.0
-2015-11,E01031281,Road Safety & Defects,2,2,1.0
-2015-11,E01031283,Other,1,1,1.0
-2015-11,E01031284,Environmental Health,1,1,1.0
-2015-11,E01031284,Road Safety & Defects,1,1,1.0
-2015-11,E01031285,Road Safety & Defects,1,1,1.0
-2015-11,E01031287,Access,1,1,1.0
-2015-11,E01031290,Road Safety & Defects,1,1,1.0
-2015-11,E01031291,Road Safety & Defects,1,1,1.0
-2015-11,E01031294,Environmental Disruptions,1,1,1.0
-2015-11,E01031294,Road Safety & Defects,1,1,1.0
-2015-11,E01031295,Road Safety & Defects,1,1,1.0
-2015-11,E01031297,Access,1,1,1.0
-2015-11,E01031297,Environmental Health,2,2,1.0
-2015-11,E01031297,Road Safety & Defects,1,1,1.0
-2015-11,E01031298,Environmental Health,1,1,1.0
-2015-11,E01031300,Environmental Health,1,1,1.0
-2015-11,E01031300,Other,1,1,1.0
-2015-11,E01031300,Road Safety & Defects,1,1,1.0
-2015-11,E01031301,Road Safety & Defects,1,1,1.0
-2015-11,E01031303,Access,3,3,1.0
-2015-11,E01031304,Access,1,1,1.0
-2015-11,E01031304,Road Safety & Defects,1,1,1.0
-2015-11,E01031305,Other,1,1,1.0
-2015-11,E01031306,Access,1,1,1.0
-2015-11,E01031306,Other,1,1,1.0
-2015-11,E01031306,Road Safety & Defects,2,2,1.0
-2015-11,E01031308,Access,1,1,1.0
-2015-11,E01031311,Road Safety & Defects,1,1,1.0
-2015-11,E01031312,Access,1,1,1.0
-2015-11,E01031313,Access,1,1,1.0
-2015-11,E01031313,Other,2,2,1.0
-2015-11,E01031314,Access,1,1,1.0
-2015-11,E01031315,Road Safety & Defects,1,1,1.0
-2015-11,E01031317,Access,2,2,1.0
-2015-11,E01031318,Road Safety & Defects,1,1,1.0
-2015-11,E01031322,Other,1,1,1.0
-2015-11,E01031323,Road Safety & Defects,2,2,1.0
-2015-11,E01031324,Other,1,1,1.0
-2015-11,E01031324,Road Safety & Defects,1,1,1.0
-2015-11,E01031328,Environmental Disruptions,1,1,1.0
-2015-11,E01031332,Access,1,1,1.0
-2015-11,E01031335,Access,1,1,1.0
-2015-11,E01031336,Environmental Disruptions,1,1,1.0
-2015-11,E01031336,Environmental Health,1,1,1.0
-2015-11,E01032554,Other,1,1,1.0
-2015-11,E01032555,Environmental Health,1,1,1.0
-2015-11,E01032555,Road Safety & Defects,1,1,1.0
-2015-11,E01032562,Environmental Health,1,1,1.0
-2015-11,E01032563,Environmental Disruptions,3,3,1.0
-2015-11,E01032563,Environmental Health,1,1,1.0
-2015-11,E01032563,Road Safety & Defects,4,4,1.0
-2015-11,E01032563,Vehicles,1,1,1.0
-2015-11,E01032567,Environmental Health,1,1,1.0
-2015-11,E01032568,Environmental Disruptions,1,1,1.0
-2015-11,E01032568,Environmental Health,1,1,1.0
-2015-11,E01032568,Incivilities,1,1,1.0
-2015-11,E01032568,Road Safety & Defects,2,2,1.0
-2015-11,E01032568,Vehicles,2,2,1.0
-2015-11,E01032570,Environmental Disruptions,2,1,2.0
-2015-11,E01032570,Environmental Health,2,2,1.0
-2015-11,E01032570,Road Safety & Defects,1,1,1.0
-2015-11,E01032831,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01032832,Road Safety & Defects,1,1,1.0
-2015-11,E01032833,Other,1,1,1.0
-2015-11,E01032853,Road Safety & Defects,2,1,2.0
-2015-11,E01032854,Environmental Health,1,1,1.0
-2015-11,E01032854,Other,1,1,1.0
-2015-11,E01032854,Vehicles,1,1,1.0
-2015-11,E01032855,Environmental Health,1,1,1.0
-2015-11,E01032891,Access,1,1,1.0
-2015-11,E01032891,Environmental Health,1,1,1.0
-2015-11,E01032892,Access,1,1,1.0
-2015-11,E01032892,Environmental Health,1,1,1.0
-2015-11,E01032892,Road Safety & Defects,1,1,1.0
-2015-11,E01032894,Environmental Health,1,1,1.0
-2015-11,E01032941,Road Safety & Defects,2,2,1.0
-2015-11,E01032943,Abandoned Vehicles & Parking,1,1,1.0
-2015-11,E01032943,Environmental Disruptions,1,1,1.0
-2015-11,E01032943,Road Safety & Defects,2,2,1.0
-2015-11,E01032944,Environmental Disruptions,1,1,1.0
-2015-11,E01032947,Environmental Disruptions,1,1,1.0
-2015-11,E01032951,Road Safety & Defects,1,1,1.0
-2015-11,E01032952,Road Safety & Defects,1,1,1.0
-2015-11,E01032953,Road Safety & Defects,1,1,1.0
-2015-11,E01032954,Road Safety & Defects,3,3,1.0
-2015-11,E01033251,Road Safety & Defects,1,1,1.0
-2015-11,E01033253,Access,1,1,1.0
-2015-11,E01033255,Access,1,1,1.0
-2015-11,E01033255,Other,1,1,1.0
-2015-11,E01033255,Road Safety & Defects,2,2,1.0
-2015-11,E01033282,Road Safety & Defects,1,1,1.0
-2015-11,E01033305,Road Safety & Defects,3,3,1.0
-2015-11,E01033306,Road Safety & Defects,1,1,1.0
-2015-11,E01033727,Environmental Disruptions,1,1,1.0
-2015-11,E01033738,Environmental Health,4,2,2.0
-2015-11,E01033739,Environmental Health,3,2,1.5
-2015-11,E01033740,Environmental Health,2,1,2.0
-2015-11,E01033741,Road Safety & Defects,1,1,1.0
-2015-11,E01033743,Road Safety & Defects,1,1,1.0
-2015-11,E01033745,Environmental Disruptions,1,1,1.0
-2015-11,E01033745,Environmental Health,1,1,1.0
-2015-11,E01033746,Environmental Health,1,1,1.0
-2015-11,E01033746,Road Safety & Defects,2,1,2.0
+2015-11,E01028801,C3,2,2,1.0
+2015-11,E01028801,C7,3,3,1.0
+2015-11,E01028802,C7,1,1,1.0
+2015-11,E01028804,C8,1,1,1.0
+2015-11,E01028806,C3,1,1,1.0
+2015-11,E01028806,C7,3,3,1.0
+2015-11,E01028807,C7,1,1,1.0
+2015-11,E01028808,C7,1,1,1.0
+2015-11,E01028809,C7,1,1,1.0
+2015-11,E01028811,C7,1,1,1.0
+2015-11,E01028813,C2,1,1,1.0
+2015-11,E01028814,C2,1,1,1.0
+2015-11,E01028814,C7,1,1,1.0
+2015-11,E01028817,C7,1,1,1.0
+2015-11,E01028817,C8,1,1,1.0
+2015-11,E01028818,C2,1,1,1.0
+2015-11,E01028818,C3,2,2,1.0
+2015-11,E01028818,C5,1,1,1.0
+2015-11,E01028818,C7,3,3,1.0
+2015-11,E01028820,C3,1,1,1.0
+2015-11,E01028820,C7,1,1,1.0
+2015-11,E01028822,C2,1,1,1.0
+2015-11,E01028823,C5,1,1,1.0
+2015-11,E01028823,C7,2,2,1.0
+2015-11,E01028824,C4,2,1,2.0
+2015-11,E01028824,C7,1,1,1.0
+2015-11,E01028825,C7,1,1,1.0
+2015-11,E01031005,C1,1,1,1.0
+2015-11,E01031005,C3,1,1,1.0
+2015-11,E01031007,C1,1,1,1.0
+2015-11,E01031007,C5,1,1,1.0
+2015-11,E01031011,C1,1,1,1.0
+2015-11,E01031012,C7,1,1,1.0
+2015-11,E01031018,C5,1,1,1.0
+2015-11,E01031018,C7,1,1,1.0
+2015-11,E01031023,C7,1,1,1.0
+2015-11,E01031024,C1,2,2,1.0
+2015-11,E01031024,C3,1,1,1.0
+2015-11,E01031024,C5,2,2,1.0
+2015-11,E01031024,C7,1,1,1.0
+2015-11,E01031024,C8,1,1,1.0
+2015-11,E01031027,C1,1,1,1.0
+2015-11,E01031027,C7,1,1,1.0
+2015-11,E01031028,C1,3,3,1.0
+2015-11,E01031028,C3,1,1,1.0
+2015-11,E01031028,C7,1,1,1.0
+2015-11,E01031030,C7,1,1,1.0
+2015-11,E01031031,C3,1,1,1.0
+2015-11,E01031033,C2,1,1,1.0
+2015-11,E01031033,C8,1,1,1.0
+2015-11,E01031035,C1,2,2,1.0
+2015-11,E01031035,C5,1,1,1.0
+2015-11,E01031036,C1,1,1,1.0
+2015-11,E01031036,C3,1,1,1.0
+2015-11,E01031037,C7,1,1,1.0
+2015-11,E01031042,C7,1,1,1.0
+2015-11,E01031043,C7,2,2,1.0
+2015-11,E01031045,C1,1,1,1.0
+2015-11,E01031045,C5,1,1,1.0
+2015-11,E01031049,C7,2,2,1.0
+2015-11,E01031050,C2,1,1,1.0
+2015-11,E01031050,C3,1,1,1.0
+2015-11,E01031051,C7,1,1,1.0
+2015-11,E01031055,C5,1,1,1.0
+2015-11,E01031056,C1,2,2,1.0
+2015-11,E01031059,C1,1,1,1.0
+2015-11,E01031060,C2,1,1,1.0
+2015-11,E01031063,C3,1,1,1.0
+2015-11,E01031064,C1,1,1,1.0
+2015-11,E01031064,C7,1,1,1.0
+2015-11,E01031068,C1,1,1,1.0
+2015-11,E01031073,C1,1,1,1.0
+2015-11,E01031075,C2,1,1,1.0
+2015-11,E01031083,C7,1,1,1.0
+2015-11,E01031084,C7,1,1,1.0
+2015-11,E01031085,C7,1,1,1.0
+2015-11,E01031086,C5,1,1,1.0
+2015-11,E01031090,C5,1,1,1.0
+2015-11,E01031097,C5,3,2,1.5
+2015-11,E01031098,C7,1,1,1.0
+2015-11,E01031099,C7,1,1,1.0
+2015-11,E01031100,C2,1,1,1.0
+2015-11,E01031109,C1,1,1,1.0
+2015-11,E01031113,C7,1,1,1.0
+2015-11,E01031117,C7,1,1,1.0
+2015-11,E01031118,C1,1,1,1.0
+2015-11,E01031118,C5,2,1,2.0
+2015-11,E01031124,C3,1,1,1.0
+2015-11,E01031125,C3,1,1,1.0
+2015-11,E01031132,C3,1,1,1.0
+2015-11,E01031132,C5,1,1,1.0
+2015-11,E01031133,C1,1,1,1.0
+2015-11,E01031134,C3,1,1,1.0
+2015-11,E01031141,C7,1,1,1.0
+2015-11,E01031142,C7,1,1,1.0
+2015-11,E01031143,C7,1,1,1.0
+2015-11,E01031144,C7,2,2,1.0
+2015-11,E01031147,C7,1,1,1.0
+2015-11,E01031149,C7,2,2,1.0
+2015-11,E01031150,C3,1,1,1.0
+2015-11,E01031151,C3,1,1,1.0
+2015-11,E01031153,C7,1,1,1.0
+2015-11,E01031158,C7,1,1,1.0
+2015-11,E01031159,C2,2,2,1.0
+2015-11,E01031159,C5,1,1,1.0
+2015-11,E01031160,C7,1,1,1.0
+2015-11,E01031163,C5,1,1,1.0
+2015-11,E01031164,C1,1,1,1.0
+2015-11,E01031171,C3,1,1,1.0
+2015-11,E01031171,C7,1,1,1.0
+2015-11,E01031173,C3,1,1,1.0
+2015-11,E01031174,C3,1,1,1.0
+2015-11,E01031178,C5,1,1,1.0
+2015-11,E01031181,C5,2,2,1.0
+2015-11,E01031181,C7,1,1,1.0
+2015-11,E01031183,C2,1,1,1.0
+2015-11,E01031184,C1,1,1,1.0
+2015-11,E01031184,C3,1,1,1.0
+2015-11,E01031187,C1,1,1,1.0
+2015-11,E01031187,C5,1,1,1.0
+2015-11,E01031187,C7,1,1,1.0
+2015-11,E01031188,C7,1,1,1.0
+2015-11,E01031189,C2,1,1,1.0
+2015-11,E01031189,C3,1,1,1.0
+2015-11,E01031193,C7,1,1,1.0
+2015-11,E01031194,C1,1,1,1.0
+2015-11,E01031194,C5,1,1,1.0
+2015-11,E01031194,C7,1,1,1.0
+2015-11,E01031195,C1,1,1,1.0
+2015-11,E01031195,C5,1,1,1.0
+2015-11,E01031196,C7,1,1,1.0
+2015-11,E01031197,C1,1,1,1.0
+2015-11,E01031197,C7,1,1,1.0
+2015-11,E01031198,C7,1,1,1.0
+2015-11,E01031199,C1,4,3,1.3333333333333333
+2015-11,E01031199,C3,1,1,1.0
+2015-11,E01031199,C7,1,1,1.0
+2015-11,E01031200,C3,1,1,1.0
+2015-11,E01031202,C5,1,1,1.0
+2015-11,E01031202,C7,1,1,1.0
+2015-11,E01031203,C5,1,1,1.0
+2015-11,E01031204,C1,1,1,1.0
+2015-11,E01031205,C3,1,1,1.0
+2015-11,E01031205,C5,1,1,1.0
+2015-11,E01031205,C7,1,1,1.0
+2015-11,E01031206,C3,1,1,1.0
+2015-11,E01031206,C5,1,1,1.0
+2015-11,E01031207,C1,1,1,1.0
+2015-11,E01031207,C2,1,1,1.0
+2015-11,E01031208,C1,1,1,1.0
+2015-11,E01031208,C2,1,1,1.0
+2015-11,E01031208,C5,2,2,1.0
+2015-11,E01031210,C7,1,1,1.0
+2015-11,E01031211,C3,1,1,1.0
+2015-11,E01031211,C5,1,1,1.0
+2015-11,E01031212,C5,1,1,1.0
+2015-11,E01031212,C7,1,1,1.0
+2015-11,E01031213,C1,4,4,1.0
+2015-11,E01031213,C7,1,1,1.0
+2015-11,E01031215,C7,1,1,1.0
+2015-11,E01031217,C3,2,2,1.0
+2015-11,E01031217,C7,1,1,1.0
+2015-11,E01031218,C1,1,1,1.0
+2015-11,E01031218,C7,2,2,1.0
+2015-11,E01031222,C5,1,1,1.0
+2015-11,E01031224,C1,1,1,1.0
+2015-11,E01031225,C1,2,2,1.0
+2015-11,E01031225,C2,1,1,1.0
+2015-11,E01031225,C7,1,1,1.0
+2015-11,E01031227,C3,1,1,1.0
+2015-11,E01031232,C1,1,1,1.0
+2015-11,E01031232,C7,1,1,1.0
+2015-11,E01031234,C7,1,1,1.0
+2015-11,E01031235,C5,1,1,1.0
+2015-11,E01031236,C1,1,1,1.0
+2015-11,E01031238,C7,1,1,1.0
+2015-11,E01031239,C1,1,1,1.0
+2015-11,E01031239,C7,1,1,1.0
+2015-11,E01031243,C1,2,2,1.0
+2015-11,E01031243,C7,2,2,1.0
+2015-11,E01031244,C3,1,1,1.0
+2015-11,E01031246,C3,1,1,1.0
+2015-11,E01031247,C1,1,1,1.0
+2015-11,E01031248,C1,2,2,1.0
+2015-11,E01031248,C2,1,1,1.0
+2015-11,E01031250,C1,2,2,1.0
+2015-11,E01031254,C1,1,1,1.0
+2015-11,E01031256,C1,1,1,1.0
+2015-11,E01031256,C5,1,1,1.0
+2015-11,E01031259,C1,1,1,1.0
+2015-11,E01031259,C5,2,2,1.0
+2015-11,E01031259,C7,1,1,1.0
+2015-11,E01031260,C1,1,1,1.0
+2015-11,E01031261,C7,1,1,1.0
+2015-11,E01031262,C5,1,1,1.0
+2015-11,E01031265,C7,1,1,1.0
+2015-11,E01031268,C1,1,1,1.0
+2015-11,E01031268,C2,1,1,1.0
+2015-11,E01031268,C7,1,1,1.0
+2015-11,E01031269,C7,1,1,1.0
+2015-11,E01031269,C8,1,1,1.0
+2015-11,E01031271,C1,1,1,1.0
+2015-11,E01031271,C7,2,2,1.0
+2015-11,E01031280,C1,2,2,1.0
+2015-11,E01031280,C3,1,1,1.0
+2015-11,E01031281,C1,1,1,1.0
+2015-11,E01031281,C3,1,1,1.0
+2015-11,E01031281,C7,2,2,1.0
+2015-11,E01031283,C5,1,1,1.0
+2015-11,E01031284,C3,1,1,1.0
+2015-11,E01031284,C7,1,1,1.0
+2015-11,E01031285,C7,1,1,1.0
+2015-11,E01031287,C1,1,1,1.0
+2015-11,E01031290,C7,1,1,1.0
+2015-11,E01031291,C7,1,1,1.0
+2015-11,E01031294,C2,1,1,1.0
+2015-11,E01031294,C7,1,1,1.0
+2015-11,E01031295,C7,1,1,1.0
+2015-11,E01031297,C1,1,1,1.0
+2015-11,E01031297,C3,2,2,1.0
+2015-11,E01031297,C7,1,1,1.0
+2015-11,E01031298,C3,1,1,1.0
+2015-11,E01031300,C3,1,1,1.0
+2015-11,E01031300,C5,1,1,1.0
+2015-11,E01031300,C7,1,1,1.0
+2015-11,E01031301,C7,1,1,1.0
+2015-11,E01031303,C1,3,3,1.0
+2015-11,E01031304,C1,1,1,1.0
+2015-11,E01031304,C7,1,1,1.0
+2015-11,E01031305,C5,1,1,1.0
+2015-11,E01031306,C1,1,1,1.0
+2015-11,E01031306,C5,1,1,1.0
+2015-11,E01031306,C7,2,2,1.0
+2015-11,E01031308,C1,1,1,1.0
+2015-11,E01031311,C7,1,1,1.0
+2015-11,E01031312,C1,1,1,1.0
+2015-11,E01031313,C1,1,1,1.0
+2015-11,E01031313,C5,2,2,1.0
+2015-11,E01031314,C1,1,1,1.0
+2015-11,E01031315,C7,1,1,1.0
+2015-11,E01031317,C1,2,2,1.0
+2015-11,E01031318,C7,1,1,1.0
+2015-11,E01031322,C5,1,1,1.0
+2015-11,E01031323,C7,2,2,1.0
+2015-11,E01031324,C5,1,1,1.0
+2015-11,E01031324,C7,1,1,1.0
+2015-11,E01031328,C2,1,1,1.0
+2015-11,E01031332,C1,1,1,1.0
+2015-11,E01031335,C1,1,1,1.0
+2015-11,E01031336,C2,1,1,1.0
+2015-11,E01031336,C3,1,1,1.0
+2015-11,E01032554,C5,1,1,1.0
+2015-11,E01032555,C3,1,1,1.0
+2015-11,E01032555,C7,1,1,1.0
+2015-11,E01032562,C3,1,1,1.0
+2015-11,E01032563,C2,3,3,1.0
+2015-11,E01032563,C3,1,1,1.0
+2015-11,E01032563,C7,4,4,1.0
+2015-11,E01032563,C8,1,1,1.0
+2015-11,E01032567,C3,1,1,1.0
+2015-11,E01032568,C2,1,1,1.0
+2015-11,E01032568,C3,1,1,1.0
+2015-11,E01032568,C4,1,1,1.0
+2015-11,E01032568,C7,2,2,1.0
+2015-11,E01032568,C8,2,2,1.0
+2015-11,E01032570,C2,2,1,2.0
+2015-11,E01032570,C3,2,2,1.0
+2015-11,E01032570,C7,1,1,1.0
+2015-11,E01032831,C8,1,1,1.0
+2015-11,E01032832,C7,1,1,1.0
+2015-11,E01032833,C5,1,1,1.0
+2015-11,E01032853,C7,2,1,2.0
+2015-11,E01032854,C3,1,1,1.0
+2015-11,E01032854,C5,1,1,1.0
+2015-11,E01032854,C8,1,1,1.0
+2015-11,E01032855,C3,1,1,1.0
+2015-11,E01032891,C1,1,1,1.0
+2015-11,E01032891,C3,1,1,1.0
+2015-11,E01032892,C1,1,1,1.0
+2015-11,E01032892,C3,1,1,1.0
+2015-11,E01032892,C7,1,1,1.0
+2015-11,E01032894,C3,1,1,1.0
+2015-11,E01032941,C7,2,2,1.0
+2015-11,E01032943,C2,1,1,1.0
+2015-11,E01032943,C7,2,2,1.0
+2015-11,E01032943,C8,1,1,1.0
+2015-11,E01032944,C2,1,1,1.0
+2015-11,E01032947,C2,1,1,1.0
+2015-11,E01032951,C7,1,1,1.0
+2015-11,E01032952,C7,1,1,1.0
+2015-11,E01032953,C7,1,1,1.0
+2015-11,E01032954,C7,3,3,1.0
+2015-11,E01033251,C7,1,1,1.0
+2015-11,E01033253,C1,1,1,1.0
+2015-11,E01033255,C1,1,1,1.0
+2015-11,E01033255,C5,1,1,1.0
+2015-11,E01033255,C7,2,2,1.0
+2015-11,E01033282,C7,1,1,1.0
+2015-11,E01033305,C7,3,3,1.0
+2015-11,E01033306,C7,1,1,1.0
+2015-11,E01033727,C2,1,1,1.0
+2015-11,E01033738,C3,4,2,2.0
+2015-11,E01033739,C3,3,2,1.5
+2015-11,E01033740,C3,2,1,2.0
+2015-11,E01033741,C7,1,1,1.0
+2015-11,E01033743,C7,1,1,1.0
+2015-11,E01033745,C2,1,1,1.0
+2015-11,E01033745,C3,1,1,1.0
+2015-11,E01033746,C3,1,1,1.0
+2015-11,E01033746,C7,2,1,2.0

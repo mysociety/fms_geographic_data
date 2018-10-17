@@ -1,6 +1,6 @@
-period,LAD,SHEF_C,report_count,user_count,average
-2011-7,E06000045,Environmental Disruptions,2,2,1.0
-2011-7,E09000003,Environmental Disruptions,9,9,1.0
-2011-7,E09000003,Environmental Health,11,10,1.1
-2011-7,E09000003,Road Safety & Defects,82,70,1.1714285714285715
-2011-7,E09000003,Vehicles,1,1,1.0
+period,LAD,SHEF_C_CODE,report_count,user_count,average
+2011-7,E06000045,C2,2,2,1.0
+2011-7,E09000003,C2,9,9,1.0
+2011-7,E09000003,C3,11,10,1.1
+2011-7,E09000003,C7,82,70,1.1714285714285715
+2011-7,E09000003,C8,1,1,1.0
