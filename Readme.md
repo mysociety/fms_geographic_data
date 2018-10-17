@@ -35,5 +35,5 @@ Counts are split between reports made on fixmystreet.com (inc apps) and those ma
 
 To generate using the fms export tool use 'process.py export geo'.
 
-Read more about the FMS Export process [here](https://docs.google.com/document/d/1caU_2Fh8tkhbw8Lw54ho5iCb248EnRz1v_O6ah_H7KU/edit#heading=h.2qy3r7t6u34b)
+Read more about the FMS Export process [here](https://docs.google.com/document/d/1caU_2Fh8tkhbw8Lw54ho5iCb248EnRz1v_O6ah_H7KU/edit#heading=h.2qy3r7t6u34b).
 
