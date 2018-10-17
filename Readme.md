@@ -1,6 +1,6 @@
 # FixMyStreet Geographic Count Data
 
-This data is updated as: https://github.com/mysociety/fms_geographic_data
+This data is updated at: https://github.com/mysociety/fms_geographic_data
 
 This creates a number of different files at different levels of aggregation. It uses Elvis Nyanzu‘s (University of Sheffield) levels of categorisation to create counts at different levels that can be compared across the country. 
 
