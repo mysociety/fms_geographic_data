@@ -4,6 +4,8 @@ This data is updated at: https://github.com/mysociety/fms_geographic_data
 
 This creates a number of different files at different levels of aggregation. It uses Elvis Nyanzu‘s (University of Sheffield) [levels of categorisation](https://github.com/mysociety/fms_meta_categories) to create counts at different levels that can be compared across the country. 
 
+It was last updated for data up to the end of 2020.
+
 It aggregates counts of reports across several different metrics.
 
 Two kinds of interface aggregation:
