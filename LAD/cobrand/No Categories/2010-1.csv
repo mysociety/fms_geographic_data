@@ -1,3 +1,4 @@
-period,LAD,report_count,user_count,average
-2010-1,E09000003,159,135,1.1777777777777778
-2010-1,E09000005,1,1,1.0
+lad,reports,unique_users,average_per_user
+E09000003,158,135,1.1703703703703703
+E09000005,1,1,1.0
+E09000015,1,1,1.0

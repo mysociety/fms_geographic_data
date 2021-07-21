@@ -1,4 +1,4 @@
-period,LAD,SHEF_A_CODE,report_count,user_count,average
-2009,E09000003,A41,1,1,1.0
-2009,E09000003,A57,1,1,1.0
-2009,E09000003,A60,1,1,1.0
+lad,SHEF_A_CODE,reports,unique_users,average_per_user
+E09000003,A41,1,1,1.0
+E09000003,A57,1,1,1.0
+E09000003,A60,1,1,1.0

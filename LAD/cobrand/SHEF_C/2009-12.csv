@@ -1,2 +1,2 @@
-period,LAD,SHEF_C_CODE,report_count,user_count,average
-2009-12,E09000003,C7,3,3,1.0
+lad,SHEF_C_CODE,reports,unique_users,average_per_user
+E09000003,C7,3,3,1.0
